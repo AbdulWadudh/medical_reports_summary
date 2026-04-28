@@ -1,0 +1,51 @@
+[
+  {
+    "Claim details": {
+      "Claim No.": "C1",
+      "Package code": "SU007A"
+    },
+    "1: Image classification": {
+      "Type of radiological image in pre-auth/ pre-procedure stage (mention absent if no image)": "IVP",
+      "Type of radiological image in claim submission/ post-procedure stage (mention absent if no image)": "X ray KUB"
+    },
+    "2a: Pre- Procedure Image description": {
+      "Pelvicalyceal system": "PCS dilated. R.O. shadow is seen area of PUJ.",
+      "Ureter": "Right ureter is normal in caliber. Left ureter is not opacified.",
+      "Urinary bladder": "UB is dilated with smooth walls. No filling defect seen.",
+      "Stone visualisation": "A.R.O. shadow of size 26X14mm is seen on Left side of abdomen.",
+      "Any radio opaque shadow or calcification in abdomen region": "Yes (left kidney)"
+    },
+    "2b: Post Procedure Image description": {
+      "DJ stent/ PCN tube visualised": "DJ stent visualised on the left side with proximal end in Left renal region and distal end in pelvis."
+    },
+    "3a: Pre-procedure validity of reports": {
+      "Intra: Within report consistency check": "Consistent",
+      "Reasoning": "Report describes dilated PCS, PUJ, and a stone, which aligns with the IVP findings.",
+      "Inter: Image vs Written Report Correlation": "Consistent",
+      "Reasoning (Image vs Report)": "The image shows a stone in the left kidney and dilated PCS, consistent with the report's description."
+    },
+    "3b: Post-procedure validity of reports": {
+      "Intra: Within report consistency check": "Consistent",
+      "Reasoning": "Report mentions DJ stent in situ on the left side, which is visible in the image.",
+      "Inter: Image vs Written Report Correlation": "Consistent",
+      "Reasoning (Image vs Report)": "The image clearly shows a DJ stent in the left renal region and pelvis, aligning with the report's observation."
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment": "Both pre procedure and post procedure investigations align",
+      "Reasoning": "Both pre-procedure (IVP) and post-procedure (X-ray KUB) investigations are present and align with the package requirements.",
+      "Investigation and STG Alignment": "Consistent",
+      "Reason for deviation from STG": "None"
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "Not assessed",
+      "Pre-procedure investigation date (DD/MM/YYYY)": "24/03/2026",
+      "Post Procedure Investigation Date (DD/MM/YYYY)": "02/04/2026",
+      "Discharge Date (DD/MM/YYYY)": "Not assessed",
+      "Flag for one month older documents for pre-procedure investigations": "No",
+      "Flag outside admission/discharge window for post-procedure investigations": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Good enough for human eyes"
+    }
+  }
+]

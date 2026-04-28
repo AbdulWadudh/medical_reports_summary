@@ -1,0 +1,28 @@
+{
+  "package": "SU007A",
+  "model": "gemma3:12b",
+  "claims": [
+    {
+      "claim": "MMJAA_UP_2026_R3_2026033010053802",
+      "claim_folder": "MMJAA_UP_2026_R3_2026033010053802",
+      "documents": [
+        {
+          "doc": "000019__MMJAA_UP_2026_R3_2026033010053802__MALATIKUV.pdf",
+          "pages": 2
+        },
+        {
+          "doc": "000023__MMJAA_UP_2026_R3_2026033010053802__MALTI_USG.pdf",
+          "pages": 3
+        }
+      ],
+      "images_sent": 5,
+      "model": "gemma3:12b",
+      "usage": {
+        "prompt_tokens": 3806,
+        "completion_tokens": 775,
+        "total_tokens": 4581,
+        "total_duration_ms": 9008
+      }
+    }
+  ]
+}

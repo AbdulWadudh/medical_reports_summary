@@ -1,0 +1,14 @@
+[project]
+name = "ps2-image-catalog"
+version = "0.1.0"
+description = "Per-image OCR + summary for AAE Hackathon 2026 PS-02 medical document claims (Jupyter version)."
+requires-python = ">=3.10"
+dependencies = [
+    "requests>=2.31.0",
+    "pymupdf>=1.24.0",
+    "pillow>=10.0.0",
+    "json-repair>=0.30.0",
+    "python-dotenv>=1.0.0",
+    "ipykernel>=6.29.0",
+    "jupyter>=1.0.0",
+]

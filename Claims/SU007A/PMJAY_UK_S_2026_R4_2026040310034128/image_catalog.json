@@ -1,0 +1,154 @@
+{
+  "claim_id": "PMJAY_UK_S_2026_R4_2026040310034128",
+  "package": "SU007A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 4,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000096__PMJAY_UK_S_2026_R4_2026040310034128__OTN.jpeg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Typed report",
+      "body_region": "Right kidney + ureter",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Document describes completed procedure: 'C&D done' (closure and dressing).",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Operation Notes\nTo be filled in by Surgeon\nDate of Surgery 3/4/24\nStart Time 4 pm\nEnd Time 5 pm\nPre Operative Diagnosis Δ(R) Renal Calculus\nSurgeon Dr. Anurag Gangcman\nAnesthetist D. R. Mukab\nPost Operative Diagnosis\nName of Procedure (R) PCNL + DJ stent\nType of Anesthesia GA\nAssistants\nPediatrician\nOperative Steps\nRIGHT PCNL WITH DJ STENT\nPatient is placed in lithotomy position. Position and draping done. Guide wire introduced in to right ureter and passed beyond calculi in pelvis.\nUreteric stent introduced over the guide wire and placed beyond calculus in kidney. Guide wire is removed. Patient is turned in prone position. Radio opaque dye is introduced in to kidney via ureteric catheter. Upper calyx posteriorly is identified on C ARM. Puncture needle introduced in to upper calyx. Tract dilated over guide wire 26 f amplatz sheath introduced into middle in to upper calyx. Calculi is fragmented and removed. 5 F DJ stent is placed antegradey. Puncture wound is closed. C&D done.",
+        "english": "Operation Notes\nTo be filled in by Surgeon\nDate of Surgery 3/4/24\nStart Time 4 pm\nEnd Time 5 pm\nPre Operative Diagnosis Δ(R) Renal Calculus\nSurgeon Dr. Anurag Gangcman\nAnesthetist D. R. Mukab\nPost Operative Diagnosis\nName of Procedure (R) PCNL + DJ stent\nType of Anesthesia GA\nAssistants\nPediatrician\nOperative Steps\nRIGHT PCNL WITH DJ STENT\nPatient is placed in lithotomy position. Position and draping done. Guide wire introduced in to right ureter and passed beyond calculi in pelvis.\nUreteric stent introduced over the guide wire and placed beyond calculus in kidney. Guide wire is removed. Patient is turned in prone position. Radio opaque dye is introduced in to kidney via ureteric catheter. Upper calyx posteriorly is identified on C ARM. Puncture needle introduced in to upper calyx. Tract dilated over guide wire 26 f amplatz sheath introduced into middle in to upper calyx. Calculi is fragmented and removed. 5 F DJ stent is placed antegradey. Puncture wound is closed. C&D done."
+      },
+      "summary": "This is a typed surgical note documenting a right PCNL (Percutaneous Nephrolithotomy) with DJ stent placement for renal calculi. The procedure was performed on April 3, 2024, by Dr. Anurag Gangcman under general anesthesia. The note details the steps: patient positioning, guide wire placement, stent insertion, dye injection, calyx identification, puncture, tract dilation, stone fragmentation, DJ stent placement, and wound closure.",
+      "key_observations": [
+        "Procedure: Right PCNL with DJ stent for renal calculus",
+        "Date of Surgery: 3/4/24 (April 3, 2024)",
+        "Surgeon: Dr. Anurag Gangcman",
+        "Anesthesia: General Anesthesia (GA)",
+        "Operative Steps: Guide wire, stent, dye, puncture, dilation, stone removal, DJ stent placement, wound closure",
+        "Patient Position: Lithotomy, then prone"
+      ],
+      "dates_found": [
+        "03/04/2024"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2180,
+        "completion_tokens": 860,
+        "total_duration_ms": 5227
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000102__PMJAY_UK_S_2026_R4_2026040310034128__USG_IVP_BLOOD_R.pdf",
+      "page": 1,
+      "pages_total": 1,
+      "image_type": "Typed report",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Report describes post-voiding film and final opinion after contrast study",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Patient Name: \nRef. By: \nPart Scanned IVP\n\nINTRA VENOUS PYELOGRAPHY\n\nKUB - Bilateral psoas shadows are normal\nB/L renal shadows are normal\nTwo radio opaque shadows seen in right renal s/o calculus\n\nIVP done with 80 c.c of contrast (Double Contrast) and film were taken at\n5 min, 15 min, 45min with pre and post voiding.\n\n15-45 min. FILM * Right side nephrogram & pylogram seen. normally with normal right ureter seen\n\n45---Min film Left side nephrogram & pylogram seen. normally with normal left ureter Up to lower end\n\nFULL BLADDER Normal in size, shape and contour.\nNo calculus seen.\nNo diverticula are seen.\n\nPOST VOID FILM * Post voiding film shows no significant amount of urine.\n\nOPINION:- 1- FINDINGS ARE SUGGESTIVE OF B/L NORMAL EXCERETORY KIDNEY\n2- -- TWO CALCULUS LARGEST OF 12 MM SEEN IN LOWER CALYX OF RIGHT KIDNEY .\n\n(Radiodiagnosis )\nUKMC Reg no 16250\n\n(Radiodiagnosis )\nUKMC Reg No 1721\n\nNOT FOR MEDICO LEGAL PURPOSE",
+        "english": "Patient Name: \nRef. By: \nPart Scanned IVP\n\nINTRA VENOUS PYELOGRAPHY\n\nKUB - Bilateral psoas shadows are normal\nB/L renal shadows are normal\nTwo radio opaque shadows seen in right renal s/o calculus\n\nIVP done with 80 c.c of contrast (Double Contrast) and film were taken at\n5 min, 15 min, 45min with pre and post voiding.\n\n15-45 min. FILM * Right side nephrogram & pylogram seen. normally with normal right ureter seen\n\n45---Min film Left side nephrogram & pylogram seen. normally with normal left ureter Up to lower end\n\nFULL BLADDER Normal in size, shape and contour.\nNo calculus seen.\nNo diverticula are seen.\n\nPOST VOID FILM * Post voiding film shows no significant amount of urine.\n\nOPINION:- 1- FINDINGS ARE SUGGESTIVE OF B/L NORMAL EXCERETORY KIDNEY\n2- -- TWO CALCULUS LARGEST OF 12 MM SEEN IN LOWER CALYX OF RIGHT KIDNEY .\n\n(Radiodiagnosis )\nUKMC Reg no 16250\n\n(Radiodiagnosis )\nUKMC Reg No 1721\n\nNOT FOR MEDICO LEGAL PURPOSE"
+      },
+      "summary": "This is a typed radiology report for an Intravenous Pyelography (IVP) performed on a 55-year-old female patient. The report details findings from multiple films taken at different time intervals after contrast administration, concluding with an opinion that the kidneys are normal except for two calculi in the right kidney, the largest being 12 mm in the lower calyx.",
+      "key_observations": [
+        "Patient age/sex: 55Y/F",
+        "Procedure: IVP with 80 c.c. double contrast",
+        "Findings: Normal bilateral renal shadows, two radio-opaque shadows in right kidney suggestive of calculi",
+        "Opinion: Bilateral normal excretory kidneys with two calculi (largest 12 mm) in lower calyx of right kidney",
+        "Post-voiding film shows no significant urine"
+      ],
+      "dates_found": [
+        "03/23/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2230,
+        "completion_tokens": 918,
+        "total_duration_ms": 6134
+      }
+    },
+    {
+      "image_index": 2,
+      "source": "000104__PMJAY_UK_S_2026_R4_2026040310034128__IVP_II.jpeg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "IVP",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "N/A",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "IVP contrast medium visible in urinary tract, multiple views of kidneys, ureters, and bladder",
+      "ocr": {
+        "language": "English",
+        "verbatim": "55/Y/23/40/F/I V P/23-Mar-2026\n1 = 12.48 mm\n(Digital Radiography)",
+        "english": "55/Y/23/40/F/I V P/23-Mar-2026\n1 = 12.48 mm\n(Digital Radiography)"
+      },
+      "summary": "A set of four IVP (Intravenous Pyelogram) radiographs showing the pelvicalyceal system with contrast medium outlining the kidneys, ureters, and bladder. The images are displayed on a digital radiography viewer with patient and technical parameters visible.",
+      "key_observations": [
+        "Contrast medium is visible within the urinary tract structures.",
+        "Multiple views (AP, lateral, oblique) of the abdomen and pelvis are shown.",
+        "Patient identifier and date (23-Mar-2026) are visible at the top.",
+        "Image quality appears good with clear anatomical detail."
+      ],
+      "dates_found": [
+        "23/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2662,
+        "completion_tokens": 334,
+        "total_duration_ms": 3360
+      }
+    },
+    {
+      "image_index": 3,
+      "source": "000105__PMJAY_UK_S_2026_R4_2026040310034128__XRY.jpeg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Abdominal X-Ray (KUB)",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "PA",
+      "stage_of_care": "pre-procedure",
+      "stage_evidence": "No contrast medium visible; no catheter or stent in place; appears to be a diagnostic study",
+      "ocr": {
+        "language": "English",
+        "verbatim": "55/Y/5/6/F/Abdomen/05-Apr-2026\n(Digital Radiography)",
+        "english": "55/Y/5/6/F/Abdomen/05-Apr-2026\n(Digital Radiography)"
+      },
+      "summary": "A posteroanterior (PA) abdominal X-ray showing the pelvicalyceal system with a catheter in place, likely for a diagnostic or therapeutic procedure. The patient is a 55-year-old female. The image is dated April 5, 2026.",
+      "key_observations": [
+        "A catheter is visible extending from the lower abdomen into the pelvis.",
+        "Spine and pelvic bones are clearly visible.",
+        "Patient identifier: 55/Y/5/6/F/Abdomen/05-Apr-2026.",
+        "Image is labeled as Digital Radiography."
+      ],
+      "dates_found": [
+        "05/04/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": [
+          "Image is a photograph of a monitor, not the original film or digital image.",
+          "Partial view of the image frame visible on the left side."
+        ]
+      },
+      "_usage": {
+        "prompt_tokens": 2340,
+        "completion_tokens": 350,
+        "total_duration_ms": 3084
+      }
+    }
+  ]
+}

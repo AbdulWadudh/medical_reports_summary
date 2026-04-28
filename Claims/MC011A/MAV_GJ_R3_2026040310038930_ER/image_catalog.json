@@ -1,0 +1,254 @@
+{
+  "claim_id": "MAV_GJ_R3_2026040310038930_ER",
+  "package": "MC011A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 7,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000035__MAV_GJ_R3_2026040310038930__POST_CAG_DAIGARM.jpg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Handwritten recommendation: 'Successful PAMI to LAD with 2 Des'",
+      "ocr": {
+        "language": "English",
+        "verbatim": "CORONARY ARTERIES - DIAGRAM\nPatient Name: TPA\nDr. Name: \nUHID / Visit No: TPA\nAge / Sex: 65 Years / Female\nIPD No: 2026040006\nDOA: 03/04/2026 03:34:32\nDoctor: \nCath No: 784\nDate: 03/04/2026\nFinal Diagnosis: \nRecommendation: Successful PAMI to LAD with 2 Des\n1 of 1\nNH/IPD/36",
+        "english": "CORONARY ARTERIES - DIAGRAM\nPatient Name: TPA\nDr. Name: \nUHID / Visit No: TPA\nAge / Sex: 65 Years / Female\nIPD No: 2026040006\nDOA: 03/04/2026 03:34:32\nDoctor: \nCath No: 784\nDate: 03/04/2026\nFinal Diagnosis: \nRecommendation: Successful PAMI to LAD with 2 Des\n1 of 1\nNH/IPD/36"
+      },
+      "summary": "A post-procedure coronary angiogram diagram showing a successful PAMI (percutaneous coronary intervention) to the left anterior descending artery (LAD) with two stents. The diagram includes patient demographics and procedural details.",
+      "key_observations": [
+        "Hand-drawn schematic of the coronary arteries with a blue shaded stent in the left anterior descending artery (LAD).",
+        "Handwritten recommendation: 'Successful PAMI to LAD with 2 Des'.",
+        "Patient age: 65 years, female. Catheterization date: 03/04/2026.",
+        "Stent measurements labeled: 3.28 and 3.32 (likely mm)."
+      ],
+      "dates_found": [
+        "03/04/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2059,
+        "completion_tokens": 554,
+        "total_duration_ms": 3497
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000036__MAV_GJ_R3_2026040310038930__POST_ANGI_REPORT.jpg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Typed report",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Final diagnosis and stent details listed; 'Successful PAMI to LAD' noted",
+      "ocr": {
+        "language": "English",
+        "verbatim": "DEPARTMRNT OF CARDIOLOGY\nCORONARY ANGIOPLASTY REPORT\n\nPatient Name\nUHID No/IP No.\nProcedure Date\nCardiologist\n\nAge/Sex\nCath No\nAddress\nReferring Doctor\n\nStatus of procedure\nVascular Access\nContrast\n\nTARGET VESSEL & LESION\nGUIDING CATHETER\nGUIDE WIRE\nPRE- DILATION BALLOON\n\nSTENT\n\nPOST-DILATION BALLOON\nFINAL DIAGNOSIS\n\nRECOMMENDATION\n\nSMT Cardiovascular\nPrivate Limited\nSUPRALIMUS GRACE\n3.00 mm x 32 mm\nREF FGTG300032\nSN (21)T25TGACRS300032164\nLOT (10)T25TGACRAA\n(17)2027-06\n\nSMT Cardiovascular\nPrivate Limited\nSUPRALIMUS GRACE\n3.00 mm x 28 mm\nREF FGTG300028\nSN (21)T25TGACPS300028078\nLOT (10)T25TGACPA\n(17)2027-06\n\nMD (Medicine) Dr NB (Cardiology)\nInterventional Cardiologist\n\nFor Appointment :\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+      },
+      "_usage": {
+        "prompt_tokens": 2058,
+        "completion_tokens": 4096,
+        "total_duration_ms": 23786
+      }
+    },
+    {
+      "image_index": 2,
+      "source": "000038__MAV_GJ_R3_2026040310038930__POST_STENT.jpeg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "RAO 2° / Caudal 33°",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Stent visible within coronary vessel lumen",
+      "ocr": {
+        "language": "English",
+        "verbatim": "783CAG/784PTCA\n04/03/2026\nRAO\nCAUD\n2°\n33°\nFrame Rate: 0.0\nInfinix GT20Pro",
+        "english": "783CAG/784PTCA\n04/03/2026\nRAO\nCAUD\n2°\n33°\nFrame Rate: 0.0\nInfinix GT20Pro"
+      },
+      "summary": "A fluoroscopic image from a cath-lab monitor showing a post-stent coronary angiogram. A metallic stent is visible within a coronary artery, with the acquisition parameters (RAO 2° / Caudal 33°) and date (04/03/2026) displayed on screen.",
+      "key_observations": [
+        "A stent is deployed within a coronary vessel.",
+        "Image is acquired in RAO 2° / Caudal 33° projection.",
+        "Date of acquisition: 04/03/2026.",
+        "Image is a photograph of a monitor screen (Infinix GT20Pro)."
+      ],
+      "dates_found": [
+        "04/03/2026"
+      ],
+      "image_quality": {
+        "rating": "fair",
+        "limitations": [
+          "Image is a photograph of a monitor screen, not a direct fluoroscopic capture.",
+          "Screen UI elements partially obscure the anatomical view.",
+          "Low contrast and grainy texture due to screen capture."
+        ]
+      },
+      "_usage": {
+        "prompt_tokens": 1974,
+        "completion_tokens": 420,
+        "total_duration_ms": 2828
+      }
+    },
+    {
+      "image_index": 3,
+      "source": "000046__MAV_GJ_R3_2026040310038930__CAG_DAIGARM.jpg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary arteries",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Handwritten final diagnosis and recommendation for PCI, presence of 'Renal Angio' diagram",
+      "ocr": {
+        "language": "English",
+        "verbatim": "CORONARY ARTERIES - DIAGRAM\nPatient Name: TPA\nDr. Name: \nUHID / Visit No: \nAge / Sex: 65 Years / Female\nIPD No: 2026040006\nDOA: 03/04/2026 03:34:32\nDoctor: \nCath No: 783\nDate: 03/04/2026\nFinal Diagnosis:\n- ACS - TWSI EMI\n- SEV. LV dysfn\n- Cardiogenic shock\nRecommendation: CAD - BVD\nPAMI to LAD\nRenal Angio\nNH/IPD/36",
+        "english": "CORONARY ARTERIES - DIAGRAM\nPatient Name: TPA\nDr. Name: \nUHID / Visit No: \nAge / Sex: 65 Years / Female\nIPD No: 2026040006\nDOA: 03/04/2026 03:34:32\nDoctor: \nCath No: 783\nDate: 03/04/2026\nFinal Diagnosis:\n- ACS - TWSI EMI\n- SEV. LV dysfn\n- Cardiogenic shock\nRecommendation: CAD - BVD\nPAMI to LAD\nRenal Angio\nNH/IPD/36"
+      },
+      "summary": "This is a post-procedure coronary angiogram diagram showing a hand-drawn schematic of the coronary arteries with annotations for final diagnosis and recommendation. The patient is a 65-year-old female with ACS, severe left ventricular dysfunction, and cardiogenic shock, recommended for PCI (PAMI to LAD). A separate 'Renal Angio' diagram is also present.",
+      "key_observations": [
+        "Hand-drawn schematic of coronary arteries with annotations",
+        "Final diagnosis includes ACS, severe LV dysfunction, and cardiogenic shock",
+        "Recommendation is PCI (PAMI to LAD)",
+        "Date of procedure is 03/04/2026",
+        "Renal angiography diagram included"
+      ],
+      "dates_found": [
+        "03/04/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2058,
+        "completion_tokens": 596,
+        "total_duration_ms": 4218
+      }
+    },
+    {
+      "image_index": 4,
+      "source": "000072__MAV_GJ_R3_2026040310038930__CAG_01.jpeg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "LAO 37° / Caudal 6°",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Coronary angiogram frame with catheter and guidewire visible in left coronary artery",
+      "ocr": {
+        "language": "English",
+        "verbatim": "783CAG/784PTCA\n04/03/2026\n(65Y/F)\nAcquisition Reference 1\nLAO 37°\nCAUD 6°\nFrame Rate: 0.0\nInfinix GT20Pro",
+        "english": "783CAG/784PTCA\n04/03/2026\n(65Y/F)\nAcquisition Reference 1\nLAO 37°\nCAUD 6°\nFrame Rate: 0.0\nInfinix GT20Pro"
+      },
+      "summary": "A fluoroscopic image from a coronary angiogram showing the left coronary artery system with a catheter and guidewire in place. The patient is a 65-year-old female, and the image was acquired on March 4, 2026, in a left anterior oblique (LAO) 37° and caudal 6° projection.",
+      "key_observations": [
+        "Left coronary artery system visualized with catheter and guidewire",
+        "Patient age: 65 years, female",
+        "Acquisition date: 04/03/2026",
+        "Projection: LAO 37° / Caudal 6°",
+        "Image captured on a monitor (Infinix GT20Pro)"
+      ],
+      "dates_found": [
+        "04/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": [
+          "Photograph of a monitor screen",
+          "UI overlays present",
+          "Image is a still frame from a dynamic procedure"
+        ]
+      },
+      "_usage": {
+        "prompt_tokens": 1976,
+        "completion_tokens": 456,
+        "total_duration_ms": 4600
+      }
+    },
+    {
+      "image_index": 5,
+      "source": "000074__MAV_GJ_R3_2026040310038930__CAG_02.jpeg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "LAO 3° / Caudal 30°",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Guidewire visible in coronary artery",
+      "ocr": {
+        "language": "English",
+        "verbatim": "783CAG/784PTCA\n04/03/2026\nLAO 3°\nCAUD 30°\n(65V/F)\nAcquisition Reference 1\nFrame Rate: 0.0\nInfinix GT20Pro",
+        "english": "783CAG/784PTCA\n04/03/2026\nLAO 3°\nCAUD 30°\n(65V/F)\nAcquisition Reference 1\nFrame Rate: 0.0\nInfinix GT20Pro"
+      },
+      "summary": "A fluoroscopic image from a coronary angiogram showing the left coronary artery system with a guidewire in place, captured at a 3° LAO and 30° caudal angle.",
+      "key_observations": [
+        "Guidewire visible within the coronary artery lumen",
+        "Image acquired at LAO 3° and Caudal 30°",
+        "Date stamp: 04/03/2026",
+        "Patient identifier: 783CAG/784PTCA",
+        "Frame rate: 0.0 (likely a still frame)"
+      ],
+      "dates_found": [
+        "04/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": [
+          "Image is a photograph of a monitor screen",
+          "Low contrast and grainy image typical of fluoroscopy",
+          "Partial view of the cath-lab interface"
+        ]
+      },
+      "_usage": {
+        "prompt_tokens": 1976,
+        "completion_tokens": 421,
+        "total_duration_ms": 3529
+      }
+    },
+    {
+      "image_index": 6,
+      "source": "000078__MAV_GJ_R3_2026040310038930__CAG_REPORT.jpg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Typed report",
+      "body_region": "Coronary tree",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Final Impression and Recommendation sections present",
+      "ocr": {
+        "language": "English",
+        "verbatim": "DEPARTMENT OF CARDIOLOGY\nCORONARY ANGIOGRAPHY REPORT\nPatient Name\nAge/Sex\n65 YRS/ Female\nUHID No/IP NO\n20168\nCath No\nNHJ-783\nProcedure Date\n03-04-2026\nAddress\nDeesa\nCardiologist\nReferring Doctor\nDr.\nPROCEDURE HARDWARE\nStatus of procedure : Emergency\nVascular Access : Right Radial Artery\nCatheter : 5F Tiger catheter\nContrast : 40ml Nonionic dye\nHAEMODYNAMIC DATA\nAortic pressure :142/85\nHeart rate: 85bpm\nSpo2: 99% on room air\nLMCA : Normal.\nLAD : Mid 100% Occlusion.\nLCX : Non-Dominant, Mid plaque. OMs are Normal.\nRCA : Dominant, Normal, PDA and PLV is Normal.\nFINAL IMPRESION:\nACS-AWSTEMI\nSevere LV dysfunction,\nCardiogenic Shock\nCAD- SVD\nRECOMMENDATION: PAMI to LAD.\nMD(Medicine) Dr. (Cardiology)\ninterventional cardiologist\nFor Appointment :",
+        "english": "DEPARTMENT OF CARDIOLOGY\nCORONARY ANGIOGRAPHY REPORT\nPatient Name\nAge/Sex\n65 YRS/ Female\nUHID No/IP NO\n20168\nCath No\nNHJ-783\nProcedure Date\n03-04-2026\nAddress\nDeesa\nCardiologist\nReferring Doctor\nDr.\nPROCEDURE HARDWARE\nStatus of procedure : Emergency\nVascular Access : Right Radial Artery\nCatheter : 5F Tiger catheter\nContrast : 40ml Nonionic dye\nHAEMODYNAMIC DATA\nAortic pressure :142/85\nHeart rate: 85bpm\nSpo2: 99% on room air\nLMCA : Normal.\nLAD : Mid 100% Occlusion.\nLCX : Non-Dominant, Mid plaque. OMs are Normal.\nRCA : Dominant, Normal, PDA and PLV is Normal.\nFINAL IMPRESSION:\nACS-AWSTEMI\nSevere LV dysfunction,\nCardiogenic Shock\nCAD- SVD\nRECOMMENDATION: PAMI to LAD.\nMD(Medicine) Dr. (Cardiology)\ninterventional cardiologist\nFor Appointment :"
+      },
+      "summary": "This is a typed coronary angiography report for a 65-year-old female patient. The report details the procedure (emergency, via right radial artery), hemodynamic data, and findings including 100% occlusion of the left anterior descending artery (LAD). The final impression is ACS-AWSTEMI with severe LV dysfunction and cardiogenic shock, recommending PAMI to LAD.",
+      "key_observations": [
+        "Patient is 65 years old, female, undergoing emergency coronary angiography.",
+        "LAD has 100% mid-segment occlusion.",
+        "Final diagnosis includes ACS-AWSTEMI, severe LV dysfunction, cardiogenic shock, and CAD-SVD.",
+        "Recommendation is PAMI to LAD.",
+        "Procedure performed via right radial artery using a 5F Tiger catheter."
+      ],
+      "dates_found": [
+        "03/04/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2056,
+        "completion_tokens": 840,
+        "total_duration_ms": 5549
+      }
+    }
+  ]
+}

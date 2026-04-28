@@ -1,0 +1,190 @@
+{
+  "claim_id": "PMJAY_UP_S_G_2026_R3_2026032910017453",
+  "package": "SU007A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 5,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000256__PMJAY_UP_S_G_2026_R3_2026032910017453__RAVINDRA_YADAVKUV.pdf",
+      "page": 1,
+      "pages_total": 2,
+      "image_type": "Typed report",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Clinical history states 'RT DJ STENT' and findings confirm 'Well-positioned Right double-J ureteral stent'.",
+      "ocr": {
+        "language": "English",
+        "verbatim": "PATIENT NAME : \nPROCEDURE DATE : 02/04/2026\nAGE/SEX : 29 YEAR/MALE\nREFERRING DR. :\n\nX-RAY KUBS\n\nCLINICAL HISTORY : RT DJ STENT\n\nFIDINGS:\nVisualized renal outlines are normal in size, shape,position and axis.\nWell-positioned Right double-J ureteral stent in the Right flank.\nNo radio-opaque calcutication is seen in renal areas, hepatobiliary region or pancreatic area.\nBoth psoas shadows are normal and bilaterally symmetrical.\nNo abnormal soft tissue mass seen.\nLumbosacral spine is normal.\n\nIMPRESSION:\nNO RADIO-O PAQUE RENAL STONES OR GALL STONES SEEN.\nWell-positioned Right double-J ureteral stent in the Right flank.\n\nPlease correlate clinically.\n\n• Timing : Monday to Sunday 08:00 AM to 08:00 PM\n• इमरजेंसी सेवा 24 घण्टे उपलब्ध है।\n• Not For Medico Legal Purpose",
+        "english": "PATIENT NAME :\nPROCEDURE DATE : 02/04/2026\nAGE/SEX : 29 YEAR/MALE\nREFERRING DR. :\n\nX-RAY KUBS\n\nCLINICAL HISTORY : RT DJ STENT\n\nFIDINGS:\nVisualized renal outlines are normal in size, shape,position and axis.\nWell-positioned Right double-J ureteral stent in the Right flank.\nNo radio-opaque calcutication is seen in renal areas, hepatobiliary region or pancreatic area.\nBoth psoas shadows are normal and bilaterally symmetrical.\nNo abnormal soft tissue mass seen.\nLumbosacral spine is normal.\n\nIMPRESSION:\nNO RADIO-O PAQUE RENAL STONES OR GALL STONES SEEN.\nWell-positioned Right double-J ureteral stent in the Right flank.\n\nPlease correlate clinically.\n\n• Timing : Monday to Sunday 08:00 AM to 08:00 PM\n• Emergency service available 24 hours.\n• Not For Medico Legal Purpose"
+      },
+      "summary": "This is a typed radiology report for an X-ray KUB (Kidney, Ureter, Bladder) performed on 02/04/2026. It confirms the presence of a well-positioned right double-J ureteral stent and rules out radio-opaque renal or gall stones. The report also notes normal renal outlines, psoas shadows, and lumbosacral spine.",
+      "key_observations": [
+        "Procedure date: 02/04/2026",
+        "Patient age/sex: 29-year-old male",
+        "Findings: Well-positioned right double-J ureteral stent in the right flank",
+        "Imression: No radio-opaque renal stones or gall stones seen",
+        "Note: 'Please correlate clinically' and 'Not For Medico Legal Purpose'"
+      ],
+      "dates_found": [
+        "02/04/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2232,
+        "completion_tokens": 821,
+        "total_duration_ms": 5652
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000256__PMJAY_UP_S_G_2026_R3_2026032910017453__RAVINDRA_YADAVKUV.pdf",
+      "page": 2,
+      "pages_total": 2,
+      "image_type": "Abdominal X-Ray (KUB)",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "PA",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Ureteral catheter visible in pelvis",
+      "ocr": {
+        "language": "English",
+        "verbatim": "29 Y/M KUB 02-04-2026",
+        "english": "29 Y/M KUB 02-04-2026"
+      },
+      "summary": "A post-procedure KUB X-ray showing a ureteral catheter in the pelvis, with the patient's spine and pelvic bones visible. The image is dated April 2, 2026.",
+      "key_observations": [
+        "A ureteral catheter is visible extending from the upper abdomen into the pelvis.",
+        "Spine and pelvic bones are clearly visible.",
+        "Image is labeled with patient age (29 Y/M) and date (02-04-2026)."
+      ],
+      "dates_found": [
+        "02/04/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2232,
+        "completion_tokens": 270,
+        "total_duration_ms": 2033
+      }
+    },
+    {
+      "image_index": 2,
+      "source": "000260__PMJAY_UP_S_G_2026_R3_2026032910017453__RAVINDRA_YADAV_IVP.pdf",
+      "page": 1,
+      "pages_total": 3,
+      "image_type": "Typed report",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "N/A",
+      "stage_of_care": "pre-procedure",
+      "stage_evidence": "Report describes pre-contrast findings (plain KUB) and post-contrast IVP findings",
+      "ocr": {
+        "language": "English",
+        "verbatim": "NAME OF PATIENT :\n\nAGE/ SEX: 29/Year/male\nREFERRED BY: DR.\nDATE: 22-03-2026\nINVESTIGATION: IVP\n\nIVP\n\nPLAIN X-RAY KUB:-\nA.R.O. shadow of size 26X15mm is seen on Right side of abdomen.\nB/L psoas shadows are normal.\n\nIVP:-\nRight kidney &Ureter:-\nThere are good excretory functions, Nephrogram and pyelogram phases are normal,\n\nPCS are dilated. R.O. shadow is seen area of PUJ.\nRight ureter is normal in caliber.\n\nLeft kidney &Ureter:-\nThere are delayed excretory functions. There is increasingly dense nephrogram and\npyelogram phases.\nLeft ureter is not opacified.\n\nUrinary bladder:-\nUB is dilated with smooth walls. No filling defect seen .\nPost void urine volume is insignificant.\n\nIMP:-\nRight side calculus with delayed renal excretory function.\nNormal renal excretory function on right side.\n\nTiming : Monday to Sunday 08:00 AM to 08:00 PM\n• इमर्जेंसी सेवा 24 घण्टे उपलब्ध है।\n• Not For Medico Legal Purpose",
+        "english": "NAME OF PATIENT :\n\nAGE/ SEX: 29/Year/male\nREFERRED BY: DR.\nDATE: 22-03-2026\nINVESTIGATION: IVP\n\nIVP\n\nPLAIN X-RAY KUB:-\nA.R.O. shadow of size 26X15mm is seen on Right side of abdomen.\nB/L psoas shadows are normal.\n\nIVP:-\nRight kidney &Ureter:-\nThere are good excretory functions, Nephrogram and pyelogram phases are normal,\n\nPCS are dilated. R.O. shadow is seen area of PUJ.\nRight ureter is normal in caliber.\n\nLeft kidney &Ureter:-\nThere are delayed excretory functions. There is increasingly dense nephrogram and\npyelogram phases.\nLeft ureter is not opacified.\n\nUrinary bladder:-\nUB is dilated with smooth walls. No filling defect seen .\nPost void urine volume is insignificant.\n\nIMP:-\nRight side calculus with delayed renal excretory function.\nNormal renal excretory function on right side.\n\nTiming : Monday to Sunday 08:00 AM to 08:00 PM\n• इमर्जेंसी सेवा 24 घण्टे उपलब्ध है।\n• Not For Medico Legal Purpose"
+      },
+      "summary": "This is a typed IVP report for a 29-year-old male patient. The report details findings from a plain KUB X-ray and an IVP study, noting a right-sided calculus with delayed renal excretory function, while the right kidney and ureter show normal function.",
+      "key_observations": [
+        "Patient is 29-year-old male",
+        "Plain KUB shows a 26x15mm A.R.O. shadow on the right side of the abdomen",
+        "Right kidney and ureter show normal excretory function and normal nephrogram/pyelogram phases",
+        "Left kidney shows delayed excretory function with increasingly dense nephrogram/pyelogram phases and non-opacified ureter",
+        "Urinary bladder is dilated with smooth walls and no filling defect",
+        "Final impression: Right side calculus with delayed renal excretory function; normal function on the right side",
+        "Report includes a disclaimer: 'Not For Medico Legal Purpose'"
+      ],
+      "dates_found": [
+        "22/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2232,
+        "completion_tokens": 973,
+        "total_duration_ms": 6542
+      }
+    },
+    {
+      "image_index": 3,
+      "source": "000260__PMJAY_UP_S_G_2026_R3_2026032910017453__RAVINDRA_YADAV_IVP.pdf",
+      "page": 2,
+      "pages_total": 3,
+      "image_type": "Typed report",
+      "body_region": "Whole abdomen",
+      "modality_view": "N/A",
+      "stage_of_care": "n/a",
+      "stage_evidence": "Clinical report with anatomical findings",
+      "ocr": {
+        "language": "English",
+        "verbatim": "PATENT NAME:-\nAGE:- 29 SEX:- MALE\nREF. BY DR.:- SELF.\nDATE:- 18-03-2026\nULTRASOUND WHOLE ABDOMEN\nNO EVIDENCE OF ASCITIS,PARAORTIC LYMPHNODES&PLEURAL EFFUSION.\n* LIVER\nLiver is normal in shape, size &echo pattern. No mass lesion is seen.\nIntrahepaticbiliary channels are of normal caliber.\nEcho texture& echo pattern of liver is normal.\n* GB\nGB is normal in shape, size & contour. No mass or calculus is seen.\nCBD is of normal caliber.\n* PANCREAS\nPancreas is normal in shape, size &echopattern. No mass lesion is seen.\nPancreatic duct is normal.\n* SPLEEN\nSpleen is normal in shape, size &echopattern. Splenic vein is normal in size.\n* RIGHT KIDNEY\nRt kidney is normal in shape, size &ech.opattern. No mass lesion is seen. Multiple\nEchogenic foci of largest size measuring about 26X16mm seen in upper and mid Pole of Right\nKidney.Pelvicalyceal system is normal.Cortico-medullary differentiation is intact.\n* LEFT KIDNEY\nLt kidney is normal in shape, size &ech.opattern.No mass lesion or calculus is seen. Pelvicalyceal\nsystem is normal.Cortico-medullary differentiation is intact.\n* UB\nUB is normal in shape, size & wall thickness.\nNo mass or calculus is seen.\n* PROSTATE\nProstate is normal is shape, size &echopattern. No mass lesion is seen.\nCapsule is intact. No evidence of Calcification.\nBoth seminal vesicles are normal in shape, size &echopattern.\nIMPRESSION:-\nRIGHT RENAL CALCULI.\n*This is the provisional Diagnosis please co-relate with your clinical findings & futher investigaions. Not\nfor Medico\nlegal use",
+        "english": "PATIENT NAME:-\nAGE:- 29 SEX:- MALE\nREF. BY DR.:- SELF.\nDATE:- 18-03-2026\nULTRASOUND WHOLE ABDOMEN\nNO EVIDENCE OF ASCITIS,PARAORTIC LYMPHNODES&PLEURAL EFFUSION.\n* LIVER\nLiver is normal in shape, size &echo pattern. No mass lesion is seen.\nIntrahepaticbiliary channels are of normal caliber.\nEcho texture& echo pattern of liver is normal.\n* GB\nGB is normal in shape, size & contour. No mass or calculus is seen.\nCBD is of normal caliber.\n* PANCREAS\nPancreas is normal in shape, size &echopattern. No mass lesion is seen.\nPancreatic duct is normal.\n* SPLEEN\nSpleen is normal in shape, size &echopattern. Splenic vein is normal in size.\n* RIGHT KIDNEY\nRt kidney is normal in shape, size &ech.opattern. No mass lesion is seen. Multiple\nEchogenic foci of largest size measuring about 26X16mm seen in upper and mid Pole of Right\nKidney.Pelvicalyceal system is normal.Cortico-medullary differentiation is intact.\n* LEFT KIDNEY\nLt kidney is normal in shape, size &ech.opattern.No mass lesion or calculus is seen. Pelvicalyceal\nsystem is normal.Cortico-medullary differentiation is intact.\n* UB\nUB is normal in shape, size & wall thickness.\nNo mass or calculus is seen.\n* PROSTATE\nProstate is normal is shape, size &echopattern. No mass lesion is seen.\nCapsule is intact. No evidence of Calcification.\nBoth seminal vesicles are normal in shape, size &echopattern.\nIMPRESSION:-\nRIGHT RENAL CALCULI.\n*This is the provisional Diagnosis please co-relate with your clinical findings & futher investigaions. Not\nfor Medico\nlegal use"
+      },
+      "summary": "This is a typed ultrasound report of the whole abdomen for a 29-year-old male patient, dated 18-03-2026. The report details normal findings for the liver, gallbladder, pancreas, spleen, and both kidneys, except for the right kidney which shows multiple echogenic foci, leading to an impression of right renal calculi.",
+      "key_observations": [
+        "Patient is 29-year-old male.",
+        "Ultrasound of whole abdomen performed on 18-03-2026.",
+        "Normal findings for liver, gallbladder, pancreas, spleen, and left kidney.",
+        "Right kidney shows multiple echogenic foci (largest 26x16mm) in upper and mid pole.",
+        "Final impression: Right renal calculi.",
+        "Report notes provisional diagnosis and advises correlation with clinical findings."
+      ],
+      "dates_found": [
+        "18/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2232,
+        "completion_tokens": 1203,
+        "total_duration_ms": 7317
+      }
+    },
+    {
+      "image_index": 4,
+      "source": "000260__PMJAY_UP_S_G_2026_R3_2026032910017453__RAVINDRA_YADAV_IVP.pdf",
+      "page": 3,
+      "pages_total": 3,
+      "image_type": "IVP",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "Chest PA",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Four sequential images labeled 'PLAIN', '5 MIN', '30 MIN', 'FULL BLADDER' indicating contrast study progression",
+      "ocr": {
+        "language": "English",
+        "verbatim": "R Chest PA\nPLAIN\nR Chest PA\n5 MIN\nR Chest PA\n30 MIN\nR\nFULL BLADDER",
+        "english": "R Chest PA\nPLAIN\nR Chest PA\n5 MIN\nR Chest PA\n30 MIN\nR\nFULL BLADDER"
+      },
+      "summary": "Four sequential IVP images showing the pelvicalyceal system at different time points after contrast injection: plain, 5 minutes, 30 minutes, and full bladder phase.",
+      "key_observations": [
+        "Four images arranged in a 2x2 grid, all labeled 'Chest PA' with 'R' indicating right side.",
+        "Time points labeled: 'PLAIN', '5 MIN', '30 MIN', 'FULL BLADDER'.",
+        "Contrast material is visible in the renal collecting systems and urinary bladder, particularly in the 30-minute and full bladder images.",
+        "Image quality is fair with some graininess and low contrast, but anatomical structures are discernible."
+      ],
+      "dates_found": [],
+      "image_quality": {
+        "rating": "fair",
+        "limitations": [
+          "Low contrast and grainy image quality",
+          "Partial view of the pelvis in some frames",
+          "Images appear to be printed on a lightbox or film viewer"
+        ]
+      },
+      "_usage": {
+        "prompt_tokens": 2232,
+        "completion_tokens": 362,
+        "total_duration_ms": 2732
+      }
+    }
+  ]
+}

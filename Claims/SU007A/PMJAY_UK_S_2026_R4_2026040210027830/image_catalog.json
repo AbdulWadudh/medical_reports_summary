@@ -1,0 +1,222 @@
+{
+  "claim_id": "PMJAY_UK_S_2026_R4_2026040210027830",
+  "package": "SU007A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 6,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000087__PMJAY_UK_S_2026_R4_2026040210027830__IVP_USG.pdf",
+      "page": 1,
+      "pages_total": 1,
+      "image_type": "Typed report",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "N/A",
+      "stage_of_care": "pre-procedure",
+      "stage_evidence": "Report describes findings from a KUB X-ray, not an IVP procedure",
+      "ocr": {
+        "language": "English",
+        "verbatim": "X-RAY -KUB\nBilateral psoas shadows are normal\n• B/L Renal shadows are normal .\nSingle large with multiple small radio opaque shadows seen in right renal region with single radio opacity seen left renal region\nThe bowel show gases and faecal masses and some soft calculus can be missed\nNo other radiological abnormality is seen\nOPINION : - 1-- FINDINGS ARE SUGGESTIVE OF B/L RENAL CALCULUS\nADV- IVP\n(Radiodiagnosis )\nUKMC Reg no 16250\n(Radiodiagnosis )\nUKMC Reg No 1721\nREPORT CHECKED BY ROHIT BMRIT\nNOT FOR MEDICO LEGAL PURPOSE",
+        "english": "X-RAY -KUB\nBilateral psoas shadows are normal\n• B/L Renal shadows are normal .\nSingle large with multiple small radio opaque shadows seen in right renal region with single radio opacity seen left renal region\nThe bowel show gases and faecal masses and some soft calculus can be missed\nNo other radiological abnormality is seen\nOPINION : - 1-- FINDINGS ARE SUGGESTIVE OF B/L RENAL CALCULUS\nADV- IVP\n(Radiodiagnosis )\nUKMC Reg no 16250\n(Radiodiagnosis )\nUKMC Reg No 1721\nREPORT CHECKED BY ROHIT BMRIT\nNOT FOR MEDICO LEGAL PURPOSE"
+      },
+      "summary": "This is a typed radiology report for a KUB X-ray, not an IVP. It describes normal psoas and renal shadows, but notes radio-opaque shadows in both renal regions suggestive of bilateral renal calculi. The report was checked by Rohit BMRIT.",
+      "key_observations": [
+        "Report is for a KUB X-ray, not an IVP",
+        "Findings suggest bilateral renal calculi",
+        "Normal psoas and renal shadows noted",
+        "Report checked by Rohit BMRIT"
+      ],
+      "dates_found": [
+        "23-Feb-26"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2227,
+        "completion_tokens": 547,
+        "total_duration_ms": 3901
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000088__PMJAY_UK_S_2026_R4_2026040210027830__IVP_USG.pdf",
+      "page": 1,
+      "pages_total": 4,
+      "image_type": "IVP",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "PA / Lateral / Oblique",
+      "stage_of_care": "pre-procedure",
+      "stage_evidence": "Diagnostic IVP images showing contrast in renal pelvis and ureters; no catheter or stent visible",
+      "ocr": {
+        "language": "English",
+        "verbatim": "29/Y/27/36/F/I V P,Chest/27-Mar-2026\n1 = 14.94 mm\n2 = 14.6 mm",
+        "english": "29/Y/27/36/F/I V P,Chest/27-Mar-2026\n1 = 14.94 mm\n2 = 14.6 mm"
+      },
+      "summary": "A set of IVP (Intravenous Pyelogram) radiographs showing the pelvicalyceal system with contrast material. Multiple views (PA, lateral, oblique) are displayed, with measurements of 14.94 mm and 14.6 mm noted on two images. The patient is a 29-year-old female.",
+      "key_observations": [
+        "Multiple IVP images (PA, lateral, oblique views) of the abdomen and pelvis",
+        "Contrast material visualized in renal pelvis and ureters",
+        "Measurements of 14.94 mm and 14.6 mm noted on two images",
+        "Patient identifier: 29/Y/27/36/F/I V P,Chest/27-Mar-2026"
+      ],
+      "dates_found": [
+        "27/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2227,
+        "completion_tokens": 395,
+        "total_duration_ms": 3721
+      }
+    },
+    {
+      "image_index": 2,
+      "source": "000088__PMJAY_UK_S_2026_R4_2026040210027830__IVP_USG.pdf",
+      "page": 2,
+      "pages_total": 4,
+      "image_type": "Ultrasound",
+      "body_region": "Abdomen — renal system",
+      "modality_view": "Long-axis",
+      "stage_of_care": "pre-procedure",
+      "stage_evidence": "Diagnostic ultrasound images without contrast or intervention",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Abd Renal\nCS-1\n32Hz\n70\n4%\nDyn R 48\nP Low\n15cm\nDist 7.59 cm\nDist 4.68 cm\nAbd Renal\nCS-1\n32Hz\n70\n4%\nDyn R 48\nP Low\n15cm\nDist 1.36 cm\nAbd Renal\nCS-1\n32Hz\n70\n4%\nDyn R 48\nP Low\n15cm\nDist 1.32 cm\nAbd Renal\nCS-1\n32Hz\n70\n4%\nDyn R 48\nP Low\n15cm\nDist 1.32 cm",
+        "english": "Abd Renal\nCS-1\n32Hz\n70\n4%\nDyn R 48\nP Low\n15cm\nDist 7.59 cm\nDist 4.68 cm\nAbd Renal\nCS-1\n32Hz\n70\n4%\nDyn R 48\nP Low\n15cm\nDist 1.36 cm\nAbd Renal\nCS-1\n32Hz\n70\n4%\nDyn R 48\nP Low\n15cm\nDist 1.32 cm\nAbd Renal\nCS-1\n32Hz\n70\n4%\nDyn R 48\nP Low\n15cm\nDist 1.32 cm"
+      },
+      "summary": "Four ultrasound images of the abdominal renal region, showing cross-sectional views of kidneys with measurements of renal parenchymal thickness and depth.",
+      "key_observations": [
+        "Four separate ultrasound images of the kidneys.",
+        "Measurements of renal parenchymal thickness and depth are annotated on each image.",
+        "Images show varying kidney sizes and parenchymal echogenicity.",
+        "Ultrasound machine settings (CS-1, 32Hz, TISO.3, MI 1.2) are visible on each image."
+      ],
+      "dates_found": [],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2227,
+        "completion_tokens": 545,
+        "total_duration_ms": 4171
+      }
+    },
+    {
+      "image_index": 3,
+      "source": "000088__PMJAY_UK_S_2026_R4_2026040210027830__IVP_USG.pdf",
+      "page": 3,
+      "pages_total": 4,
+      "image_type": "Typed report",
+      "body_region": "Whole abdomen",
+      "modality_view": "N/A",
+      "stage_of_care": "n/a",
+      "stage_evidence": "Clinical report of ultrasound findings",
+      "ocr": {
+        "language": "English",
+        "verbatim": "ULTRASOUND WHOLE ABDOMEN\nNAME \nSEX / F \nR/BY \nDATE- 27 March 2026\nLIVER Size Normal Echotexture homogenous IHBR normal Portal vein normal\nGALL BLADDER Size normal Pericholecystic collection absent Wall thickness 4 mm Lumen echo free\nC B D Caliber Normal Course smooth\nPANCREAS -- Size normal Echotexture normal, homogenous Pancreatic duct normal\nUPPER RETEROPERITONEUM ===\nPara aortic lymphadenopathy absent, Aorta and IVC normal\nRT. KIDNEY-- Size normal, Corticomediullary differentiation is maintained, there is Grade I hydronephrosis with PUJ calculus of size 13.2mm seen. Renal parenchymal thickness is normal. Multiple calculi of various sizes largest measuring approx. 8.5mm seen in right kidney.\nLT KIDNEY -- Size is normal, Corticomediullary differentiation is maintained, there is Grade I hydronephrosis with PUJ calculus of size 14mm seen. Renal parenchymal thickness is normal.\nSPLEEN -- Size normal, Echotexture is normal Splenic vein normal with absent splenic collaterals.\nFREE FLUID - Absent, at time of examination.\nURINARY BLADDER - Wall thickness 3-4 mm, Content - Echo free.\nTAS-\nUTERUS - Size is normal 7.5x4.6cms, retro verted/retro flexed homogenous echotexture. Endometrial thickness normal. no fluid seen in cul-de-sac\nB/L Adnexa are clear.\nOPINION\n1. B/L Grade I hydronephrosis with PUJ calculus. (ADV-XRAY KUB)\n2. Right renal calculi.\nDR. \nRadiologist\nUKMC reg.no 16250\nChecked by-----Muskan-----if any typing error please contact mob -8433003384.\nNOT FOR MEDICO LEGAL PURPOSE",
+        "english": "ULTRASOUND WHOLE ABDOMEN\nNAME \nSEX / F \nR/BY \nDATE- 27 March 2026\nLIVER Size Normal Echotexture homogenous IHBR normal Portal vein normal\nGALL BLADDER Size normal Pericholecystic collection absent Wall thickness 4 mm Lumen echo free\nC B D Caliber Normal Course smooth\nPANCREAS -- Size normal Echotexture normal, homogenous Pancreatic duct normal\nUPPER RETEROPERITONEUM ===\nPara aortic lymphadenopathy absent, Aorta and IVC normal\nRT. KIDNEY-- Size normal, Corticomediullary differentiation is maintained, there is Grade I hydronephrosis with PUJ calculus of size 13.2mm seen. Renal parenchymal thickness is normal. Multiple calculi of various sizes largest measuring approx. 8.5mm seen in right kidney.\nLT KIDNEY -- Size is normal, Corticomediullary differentiation is maintained, there is Grade I hydronephrosis with PUJ calculus of size 14mm seen. Renal parenchymal thickness is normal.\nSPLEEN -- Size normal, Echotexture is normal Splenic vein normal with absent splenic collaterals.\nFREE FLUID - Absent, at time of examination.\nURINARY BLADDER - Wall thickness 3-4 mm, Content - Echo free.\nTAS-\nUTERUS - Size is normal 7.5x4.6cms, retro verted/retro flexed homogenous echotexture. Endometrial thickness normal. no fluid seen in cul-de-sac\nB/L Adnexa are clear.\nOPINION\n1. B/L Grade I hydronephrosis with PUJ calculus. (ADV-XRAY KUB)\n2. Right renal calculi.\nDR. \nRadiologist\nUKMC reg.no 16250\nChecked by-----Muskan-----if any typing error please contact mob -8433003384.\nNOT FOR MEDICO LEGAL PURPOSE"
+      },
+      "summary": "This is a typed ultrasound report of the whole abdomen, dated March 27, 2026. It details findings on the liver, gallbladder, pancreas, kidneys, spleen, bladder, and uterus. Key findings include bilateral Grade I hydronephrosis with PUJ calculi (13.2mm on right, 14mm on left) and multiple calculi in the right kidney. The report also notes no free fluid, normal spleen, and normal uterine and adnexal findings.",
+      "key_observations": [
+        "Findings from a whole abdomen ultrasound performed on March 27, 2026.",
+        "Bilateral Grade I hydronephrosis with PUJ calculi (13.2mm right, 14mm left).",
+        "Multiple calculi in the right kidney, largest measuring 8.5mm.",
+        "Normal liver, gallbladder, pancreas, spleen, and bladder.",
+        "Normal uterus and adnexa with no fluid in cul-de-sac.",
+        "Report signed by a radiologist with UKMC registration number 16250.",
+        "Note: 'NOT FOR MEDICO LEGAL PURPOSE' at bottom."
+      ],
+      "dates_found": [
+        "27/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2227,
+        "completion_tokens": 1283,
+        "total_duration_ms": 8218
+      }
+    },
+    {
+      "image_index": 4,
+      "source": "000088__PMJAY_UK_S_2026_R4_2026040210027830__IVP_USG.pdf",
+      "page": 4,
+      "pages_total": 4,
+      "image_type": "Typed report",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Report describes post-void film and final opinion after contrast study",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Patient Name: \nRef. By: \nPart Scanned IVP\n\nINTRA VENOUS PYELOGRAPHY\n\nKUB \nBilateral psoas shadows are normal\nB/L renal shadows are normal\nMultiple radio opaque shadows seen in right renal with single opacity\nleft renal s/o calculus\n\nIVP done with 80 c.c of contrast (Double Contrast) and film were taken at\n5 min, 15 min, 45min with pre and post voiding.\n\n15 -45 min. FILM * \nRight side nephrogram & pylogram seen. normally with normal right\nureter seen\n\n45---Min film \nLeft side nephrogram & pylogram seen. normally with normal left\nureter Up to lower end\n\nFULL BLADDER\nNormal in size, shape and contour.\nNo calculus seen.\nNo diverticula are seen.\nPost voiding film shows no significant amount of urine.\n\nOPINION:- 1- FINDINGS ARE SUGGESTIVE OF B/L NORMAL EXCERETORY KIDNEY\n2-- MULTIPLE CALCULUS LARGEST OF 14 MM SEENIN RIGHT KIDNEY .\n3-- LEFT PUJ CALCULUS OF 14 MM SEEN\n\nM.D\n(Radiodiagnosis )\nUKMC Reg no 16250\n\nM.D\n(Radiodiagnosis )\nUKMC Reg No 1721\n\nNOT FOR MEDICO LEGAL PURPOSE",
+        "english": "Patient Name: \nRef. By: \nPart Scanned IVP\n\nINTRA VENOUS PYELOGRAPHY\n\nKUB \nBilateral psoas shadows are normal\nB/L renal shadows are normal\nMultiple radio opaque shadows seen in right renal with single opacity\nleft renal s/o calculus\n\nIVP done with 80 c.c of contrast (Double Contrast) and film were taken at\n5 min, 15 min, 45min with pre and post voiding.\n\n15 -45 min. FILM * \nRight side nephrogram & pylogram seen. normally with normal right\nureter seen\n\n45---Min film \nLeft side nephrogram & pylogram seen. normally with normal left\nureter Up to lower end\n\nFULL BLADDER\nNormal in size, shape and contour.\nNo calculus seen.\nNo diverticula are seen.\nPost voiding film shows no significant amount of urine.\n\nOPINION:- 1- FINDINGS ARE SUGGESTIVE OF B/L NORMAL EXCERETORY KIDNEY\n2-- MULTIPLE CALCULUS LARGEST OF 14 MM SEENIN RIGHT KIDNEY .\n3-- LEFT PUJ CALCULUS OF 14 MM SEEN\n\nM.D\n(Radiodiagnosis )\nUKMC Reg no 16250\n\nM.D\n(Radiodiagnosis )\nUKMC Reg No 1721\n\nNOT FOR MEDICO LEGAL PURPOSE"
+      },
+      "summary": "This is a typed radiology report for an Intravenous Pyelography (IVP) performed on a 29-year-old female. The report details findings from multiple films taken at different time intervals after contrast injection, including KUB, 15-45 min, 45-min, and post-void films. The opinion section notes normal excretory kidneys bilaterally, multiple calculi in the right kidney (largest 14 mm), and a calculus in the left PUJ (14 mm).",
+      "key_observations": [
+        "Patient is 29Y/F, IVP performed with 80 c.c. double contrast",
+        "Right kidney shows multiple radio-opaque shadows with a single opacity",
+        "Left kidney shows calculus (s/o calculus)",
+        "Right and left ureters appear normal on respective nephrograms/pyelograms",
+        "Full bladder is normal in size, shape, and contour",
+        "Post-void film shows no significant urine",
+        "Opinion: Bilateral normal excretory kidneys, multiple calculi in right kidney (largest 14 mm), left PUJ calculus (14 mm)",
+        "Report signed by two radiologists with UKMC registration numbers"
+      ],
+      "dates_found": [
+        "03/27/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2227,
+        "completion_tokens": 1042,
+        "total_duration_ms": 6206
+      }
+    },
+    {
+      "image_index": 5,
+      "source": "000089__PMJAY_UK_S_2026_R4_2026040210027830__XRY.jpeg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Abdominal X-Ray (KUB)",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "PA",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Ureteral catheter visible in pelvis",
+      "ocr": {
+        "language": "English",
+        "verbatim": "29/Y/2026Ap0005/F/Abdomen/04-Apr-2026\n(Digital Radiography) ROORKEI",
+        "english": "29/Y/2026Ap0005/F/Abdomen/04-Apr-2026\n(Digital Radiography) ROORKEI"
+      },
+      "summary": "Abdominal X-ray showing a ureteral catheter in the pelvis, likely post-procedure. The image includes the spine, pelvis, and surrounding soft tissues.",
+      "key_observations": [
+        "A ureteral catheter is visible extending from the upper abdomen into the pelvis.",
+        "Spine and pelvic bones are clearly visible.",
+        "Image header indicates patient age 29, female, date 04-Apr-2026, and facility ROORKEI."
+      ],
+      "dates_found": [
+        "04/04/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2380,
+        "completion_tokens": 304,
+        "total_duration_ms": 2429
+      }
+    }
+  ]
+}

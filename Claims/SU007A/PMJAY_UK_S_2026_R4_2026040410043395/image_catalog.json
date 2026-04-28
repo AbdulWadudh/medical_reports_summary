@@ -1,0 +1,155 @@
+{
+  "claim_id": "PMJAY_UK_S_2026_R4_2026040410043395",
+  "package": "SU007A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 4,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000167__PMJAY_UK_S_2026_R4_2026040410043395__PAC_REPORT_OT_NOTES_AND_XRAY_REPORT.pdf",
+      "page": 1,
+      "pages_total": 1,
+      "image_type": "Typed report",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "DJ stent seen in situ",
+      "ocr": {
+        "language": "English",
+        "verbatim": "RADIOLOGY DEPARTMENT\n\nPat Name - \nAge/ Sex - 36Y/Male\nInv- X-RAY KUB\nU.H.I.D- 250294\nDate - 06/04/2026\nRefd By- Dr \n\nX - RAY (KUB)\n• Right Renal region: Previously mentioned calculus in right upper uretric region appears clear. DJ stent seen in situ. Kindly correlate with USG.\n• Left renal region: No obvious radio-opacity seen.\n• Bowel gas shadows are increased.\n• Ileo-psoas shadows are normal.\n• Spine shadow appears normal.\n\nMBBS, MD Radiology\nConsultant Radiologist\n(This is an opinion and not final Diagnosis Clinico- Pathological Co- relation is must Report is not valid for Medico-legal purpose)",
+        "english": "RADIOLOGY DEPARTMENT\n\nPat Name - \nAge/ Sex - 36Y/Male\nInv- X-RAY KUB\nU.H.I.D- 250294\nDate - 06/04/2026\nRefd By- Dr \n\nX - RAY (KUB)\n• Right Renal region: Previously mentioned calculus in right upper uretric region appears clear. DJ stent seen in situ. Kindly correlate with USG.\n• Left renal region: No obvious radio-opacity seen.\n• Bowel gas shadows are increased.\n• Ileo-psoas shadows are normal.\n• Spine shadow appears normal.\n\nMBBS, MD Radiology\nConsultant Radiologist\n(This is an opinion and not final Diagnosis Clinico- Pathological Co- relation is must Report is not valid for Medico-legal purpose)"
+      },
+      "summary": "This is a typed radiology report for an X-ray KUB (Kidney, Ureter, Bladder) performed on a 36-year-old male. The report notes that a previously identified calculus in the right upper ureter is now clear and a DJ stent is visible. The left renal region shows no radio-opacities, bowel gas shadows are increased, and the ileo-psoas and spine shadows are normal. The report is signed by a Consultant Radiologist and includes a disclaimer that it is not a final diagnosis and not valid for medico-legal purposes.",
+      "key_observations": [
+        "Patient is a 36-year-old male.",
+        "DJ stent is seen in situ in the right renal/ureteric region.",
+        "Previously mentioned calculus in the right upper ureter appears clear.",
+        "No obvious radio-opacity seen in the left renal region.",
+        "Bowel gas shadows are increased.",
+        "Ileo-psoas and spine shadows are normal.",
+        "Report is signed by a Consultant Radiologist with a disclaimer.",
+        "Date of report is 06/04/2026."
+      ],
+      "dates_found": [
+        "06/04/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2233,
+        "completion_tokens": 730,
+        "total_duration_ms": 4521
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000169__PMJAY_UK_S_2026_R4_2026040410043395__XRAY_FILM.jpeg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Abdominal X-Ray (KUB)",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "PA",
+      "stage_of_care": "pre-procedure",
+      "stage_evidence": "No contrast media or catheter tip visible in urinary tract; no devices in field",
+      "ocr": {
+        "language": "English",
+        "verbatim": "36Y.M 250294 KUB 06-04-26",
+        "english": "36Y.M 250294 KUB 06-04-26"
+      },
+      "summary": "A posteroanterior (PA) abdominal X-ray (KUB) showing the pelvicalyceal system with a visible urinary catheter in situ. The patient is 36 years old, male. The image was taken on April 6, 2026.",
+      "key_observations": [
+        "A urinary catheter is visible, extending from the bladder to the external urethral meatus.",
+        "Spine and pelvic bones are clearly visualized.",
+        "Patient age and gender: 36Y.M (36-year-old male).",
+        "Date of imaging: 06-04-26 (April 6, 2026)."
+      ],
+      "dates_found": [
+        "06/04/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2463,
+        "completion_tokens": 321,
+        "total_duration_ms": 3624
+      }
+    },
+    {
+      "image_index": 2,
+      "source": "000180__PMJAY_UK_S_2026_R4_2026040410043395__XRAY_CT_REPORT.pdf",
+      "page": 1,
+      "pages_total": 1,
+      "image_type": "Typed report",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "N/A",
+      "stage_of_care": "n/a",
+      "stage_evidence": "Clinical report of CT scan findings",
+      "ocr": {
+        "language": "English",
+        "verbatim": "RADIOLOGY DEPARTMENT\nNAME. \nREF BY \nDATE; 02/04/2026\nAGE./SEX 36Y/M\nPATIENT NO. 8\n\nCT KUB (PLAIN)\nSequential axial CT images of abdomen involving KUB region were obtained.\nRight kidney: 10.6x5.6cm in size. 4mm calculus seen at lower pole.\nThere is 8mm calculus (800HU) in right upper ureter causing mild hydro-uretronephrosis.\nLeft kidney: 9.2x5.2cm in size. It appears normal in size, shape & attenuation. Left ureter appears non dilated.\nUrinary bladder appears normal.\nVisualised small & large bowel loops show normal distention & attenuation.\nPelvic viscera appear normal.\nNo free / loculated fluid collection is seen. No evident abdominal lymphadenopathy is seen.\nBone window images show no gross abnormality.\nIMPRESSION:\nRight upper uretric calculus & Non obstructing renal calculus.\n\nMBBS, MD,\nConsultant Radiologist",
+        "english": "RADIOLOGY DEPARTMENT\nNAME. \nREF BY \nDATE; 02/04/2026\nAGE./SEX 36Y/M\nPATIENT NO. 8\n\nCT KUB (PLAIN)\nSequential axial CT images of abdomen involving KUB region were obtained.\nRight kidney: 10.6x5.6cm in size. 4mm calculus seen at lower pole.\nThere is 8mm calculus (800HU) in right upper ureter causing mild hydro-uretronephrosis.\nLeft kidney: 9.2x5.2cm in size. It appears normal in size, shape & attenuation. Left ureter appears non dilated.\nUrinary bladder appears normal.\nVisualised small & large bowel loops show normal distention & attenuation.\nPelvic viscera appear normal.\nNo free / loculated fluid collection is seen. No evident abdominal lymphadenopathy is seen.\nBone window images show no gross abnormality.\nIMPRESSION:\nRight upper uretric calculus & Non obstructing renal calculus.\n\nMBBS, MD,\nConsultant Radiologist"
+      },
+      "summary": "This is a typed radiology report for a CT KUB (Plain) scan performed on a 36-year-old male patient on April 2, 2026. The report details findings of a 4mm calculus in the right kidney and an 8mm calculus in the right upper ureter causing mild hydronephrosis. The left kidney and other abdominal structures appear normal. The impression is right upper ureteric calculus and a non-obstructing renal calculus.",
+      "key_observations": [
+        "CT KUB (Plain) scan performed on April 2, 2026",
+        "Right kidney: 4mm calculus at lower pole",
+        "Right upper ureter: 8mm calculus (800HU) causing mild hydronephrosis",
+        "Left kidney and ureter appear normal",
+        "Urinary bladder, bowel loops, pelvic viscera, and bones appear normal",
+        "Final impression: Right upper ureteric calculus and non-obstructing renal calculus"
+      ],
+      "dates_found": [
+        "02/04/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2227,
+        "completion_tokens": 809,
+        "total_duration_ms": 5830
+      }
+    },
+    {
+      "image_index": 3,
+      "source": "000182__PMJAY_UK_S_2026_R4_2026040410043395__XRAY_FILM.jpeg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Abdominal X-Ray (KUB)",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "PA",
+      "stage_of_care": "pre-procedure",
+      "stage_evidence": "No contrast media or catheter visible; diagnostic KUB view",
+      "ocr": {
+        "language": "English",
+        "verbatim": "37Y.M F 9301 KUB 30-03-26",
+        "english": "37Y.M F 9301 KUB 30-03-26"
+      },
+      "summary": "A posteroanterior (PA) abdominal X-ray (KUB) showing the lumbar spine, pelvis, and bowel gas patterns. The patient is a 37-year-old female. The image is dated March 30, 2026.",
+      "key_observations": [
+        "PA view of the abdomen and pelvis",
+        "Visible lumbar spine and pelvic bones",
+        "Air-fluid levels and bowel gas patterns present",
+        "Patient identifier: 37Y.M F 9301",
+        "Date: 30-03-26 (March 30, 2026)"
+      ],
+      "dates_found": [
+        "30/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 1763,
+        "completion_tokens": 304,
+        "total_duration_ms": 3065
+      }
+    }
+  ]
+}

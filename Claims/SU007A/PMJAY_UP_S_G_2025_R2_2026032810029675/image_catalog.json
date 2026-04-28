@@ -1,0 +1,148 @@
+{
+  "claim_id": "PMJAY_UP_S_G_2025_R2_2026032810029675",
+  "package": "SU007A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 4,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000236__PMJAY_UP_S_G_2025_R2_2026032810029675__MALA_DEVIKUV.pdf",
+      "page": 1,
+      "pages_total": 2,
+      "image_type": "Typed report",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Clinical history mentions 'RT DJ STENT' and findings describe a 'Well-positioned Right double-J ureteral stent'.",
+      "ocr": {
+        "language": "English",
+        "verbatim": "DIGITAL X-RAY & ULTRASOUND\nPATIENT NAME : \nPROCEDURE DATE : 31/03/2026\nAGE/SEX : 33 YEAR/FEMALE\nREFERRING DR. :\nX-RAY KUBS\nCLINICAL HISTORY : RT DJ STENT\nFIDINGS:\nVisualized renal outlines are normal in size, shape,position and axis.\nWell-positioned Right double-J ureteral stent in the Right flank.\nNo radio-opaque calculaton is seen in renal areas, hepatobiliary region or pancreatic area.\nBoth psoas shadows are normal and bilaterally symmetrical.\nNo abnormal soft tissue mass seen.\nLumbosacral spine is normal.\nIMPRESSION:\nNO RADIO-OPAQUE RENAL STONES OR GALL STONES SEEN.\nWell-positioned Right double-J ureteral stent in the Right flank.\nPlease correlate clinically.\n\nM.D (Radiodiagnosis)\nConsultant Radiologist\nReg No- 2018030488\n\nDisclaimer: The science of radiology is based upon interpretation of shadows of normal and abnormal tissue. This is neither complete nor accurate; hence, findings should always be interpreted in light of clinico-pathological correlation. This is a professional opinion, not a diagnosis. Not meant for medico-legal purposes.\n• This report/film is for pursuit of doctor only, not for medico legal case.\n• Clinical co-relation is essential for final diagnosis, in case of any discrepancy with clinical profile. Please contact the center immediately\n\nNOT FOR MEDICO LEGAL PURPOSE\nMob.",
+        "english": "DIGITAL X-RAY & ULTRASOUND\nPATIENT NAME : \nPROCEDURE DATE : 31/03/2026\nAGE/SEX : 33 YEAR/FEMALE\nREFERRING DR. :\nX-RAY KUBS\nCLINICAL HISTORY : RT DJ STENT\nFIDINGS:\nVisualized renal outlines are normal in size, shape,position and axis.\nWell-positioned Right double-J ureteral stent in the Right flank.\nNo radio-opaque calculaton is seen in renal areas, hepatobiliary region or pancreatic area.\nBoth psoas shadows are normal and bilaterally symmetrical.\nNo abnormal soft tissue mass seen.\nLumbosacral spine is normal.\nIMPRESSION:\nNO RADIO-OPAQUE RENAL STONES OR GALL STONES SEEN.\nWell-positioned Right double-J ureteral stent in the Right flank.\nPlease correlate clinically.\n\nM.D (Radiodiagnosis)\nConsultant Radiologist\nReg No- 2018030488\n\nDisclaimer: The science of radiology is based upon interpretation of shadows of normal and abnormal tissue. This is neither complete nor accurate; hence, findings should always be interpreted in light of clinico-pathological correlation. This is a professional opinion, not a diagnosis. Not meant for medico-legal purposes.\n• This report/film is for pursuit of doctor only, not for medico legal case.\n• Clinical co-relation is essential for final diagnosis, in case of any discrepancy with clinical profile. Please contact the center immediately\n\nNOT FOR MEDICO LEGAL PURPOSE\nMob."
+      },
+      "summary": "This is a typed radiology report for an X-ray KUB (Kidney, Ureter, Bladder) performed on March 31, 2026, on a 33-year-old female patient with a clinical history of a right double-J stent. The report confirms the stent is well-positioned and finds no evidence of renal or gall stones.",
+      "key_observations": [
+        "Patient is 33-year-old female with a right double-J stent (RT DJ STENT) in clinical history.",
+        "Findings confirm a well-positioned right double-J ureteral stent in the right flank.",
+        "No radio-opaque renal or gall stones are seen.",
+        "Lumbosacral spine and psoas shadows are normal.",
+        "Report explicitly states findings are for clinical correlation only and not for medico-legal purposes."
+      ],
+      "dates_found": [
+        "31/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2229,
+        "completion_tokens": 1024,
+        "total_duration_ms": 7056
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000236__PMJAY_UP_S_G_2025_R2_2026032810029675__MALA_DEVIKUV.pdf",
+      "page": 2,
+      "pages_total": 2,
+      "image_type": "Abdominal X-Ray (KUB)",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "PA",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Urinary catheter visible in bladder",
+      "ocr": {
+        "language": "English",
+        "verbatim": "33 Y/F KUB 31-03-2026",
+        "english": "33 Y/F KUB 31-03-2026"
+      },
+      "summary": "A post-procedure KUB X-ray showing a urinary catheter in the bladder, with the patient's spine and pelvis visible. The image is dated March 31, 2026.",
+      "key_observations": [
+        "A urinary catheter is visible extending from the bladder to the urethra.",
+        "The spine and pelvic bones are clearly visible.",
+        "The image is labeled with patient age (33 Y/F) and date (31-03-2026)."
+      ],
+      "dates_found": [
+        "31/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2229,
+        "completion_tokens": 262,
+        "total_duration_ms": 2887
+      }
+    },
+    {
+      "image_index": 2,
+      "source": "000240__PMJAY_UP_S_G_2025_R2_2026032810029675__MALA_DEVIV_IVP.pdf",
+      "page": 1,
+      "pages_total": 2,
+      "image_type": "Typed report",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Report describes post-voiding skiagram and contrast-filled urinary bladder, indicating post-contrast imaging.",
+      "ocr": {
+        "language": "English",
+        "verbatim": "PATENT NAME:- Mrs. AGE: -32 SEX:FEMALE\nREF.BY:- Dr. SELF. DATE:- 21/03/2026\nX-RAY IVP STUDY\nA radiopaque shadow seen in RightRenalmeasuring 27X15mm.\nRenal and psas shadows are partially obscured by bowel gases.\nSKIAGRAM INTRAVENOUS PYELOGRAPHY:-\n5 mts after contrast injection early exposure skiagram shows good nephrographic effect on both side Size shape and location of both kidneys are normal.\nNo e/o right hydronephrosis seen. No c/o left hydronephrosis.\nBilateral ureters appear normal in caliber.\nContrast filled urinary bladder is clearly outlined margins are regular. No filling defect or indentation seen.\nPost voiding skiagram shows no residual contrast .Noother abnormality seen.\nIMPRESSION:-RIGHT RENAL CALCULUS .\nADVICE UROGRAM FOR BETTER EVALUATION.\nPlease correlat clinically.\n(Radiologist)\nMD RADIO DIAGNOSIS\n(Radiologist)\nMD RADIO DIAGNOSIS\n(Radiologist)\nDMRD (EX. SR.) K.G.M.U. LUCKNOW\nNote: If any Discrepancies between radiological finding/ diagnosis & clinical diagnosis is there, then review within 3 day, free of cost\nNot for medical/legal purpose\nReview Immediately for any typing mistake\nThanks for the referral with regards:\nसभी सुविधाएं - एक साथ, एक साथ आपका",
+        "english": "PATIENT NAME:- Mrs. AGE: -32 SEX:FEMALE\nREF.BY:- Dr. SELF. DATE:- 21/03/2026\nX-RAY IVP STUDY\nA radiopaque shadow seen in Right Renal measuring 27X15mm.\nRenal and psas shadows are partially obscured by bowel gases.\nSKIAGRAM INTRAVENOUS PYELOGRAPHY:-\n5 mts after contrast injection early exposure skiagram shows good nephrographic effect on both side Size shape and location of both kidneys are normal.\nNo e/o right hydronephrosis seen. No c/o left hydronephrosis.\nBilateral ureters appear normal in caliber.\nContrast filled urinary bladder is clearly outlined margins are regular. No filling defect or indentation seen.\nPost voiding skiagram shows no residual contrast .No other abnormality seen.\nIMPRESSION:-RIGHT RENAL CALCULUS .\nADVICE UROGRAM FOR BETTER EVALUATION.\nPlease correlate clinically.\n(Radiologist)\nMD RADIO DIAGNOSIS\n(Radiologist)\nMD RADIO DIAGNOSIS\n(Radiologist)\nDMRD (EX. SR.) K.G.M.U. LUCKNOW\nNote: If any Discrepancies between radiological finding/ diagnosis & clinical diagnosis is there, then review within 3 day, free of cost\nNot for medical/legal purpose\nReview Immediately for any typing mistake\nThanks for the referral with regards:\nAll facilities - together, one by one, yours"
+      },
+      "summary": "This is a typed radiology report for an IVP (Intravenous Pyelogram) study performed on a 32-year-old female patient on March 21, 2026. The report notes a radiopaque shadow in the right kidney (27x15mm) and concludes with an impression of 'Right Renal Calculus' (right kidney stone).",
+      "key_observations": [
+        "A radiopaque shadow (27x15mm) is noted in the right kidney.",
+        "No hydronephrosis is seen on either side.",
+        "Bilateral ureters and the contrast-filled urinary bladder appear normal.",
+        "Final impression is 'Right Renal Calculus'.",
+        "Advice to perform a urogram for better evaluation."
+      ],
+      "dates_found": [
+        "21/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2229,
+        "completion_tokens": 968,
+        "total_duration_ms": 6701
+      }
+    },
+    {
+      "image_index": 3,
+      "source": "000240__PMJAY_UP_S_G_2025_R2_2026032810029675__MALA_DEVIV_IVP.pdf",
+      "page": 2,
+      "pages_total": 2,
+      "image_type": "IVP",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "PA",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Sequential images labeled 'PLAIN', '5 MIN', '30 MIN PRONE', 'FULL BLADDER' indicating contrast study progression",
+      "ocr": {
+        "language": "English",
+        "verbatim": "R CONTROL\nPLAIN\nR CONTROL\n5 MIN\nR CONTROL\n30 MIN PRONE\nR FULL BLADDER",
+        "english": "R CONTROL\nPLAIN\nR CONTROL\n5 MIN\nR CONTROL\n30 MIN PRONE\nR FULL BLADDER"
+      },
+      "summary": "Four sequential IVP (Intravenous Pyelogram) radiographs showing the pelvicalyceal system at different time points after contrast injection: plain film, 5 minutes post-injection, 30 minutes prone, and full bladder view.",
+      "key_observations": [
+        "Sequential imaging of the urinary tract",
+        "Contrast material visible in renal pelvis and ureters at 5-minute and 30-minute marks",
+        "Full bladder view shows contrast filling the bladder",
+        "Images are labeled with time points and patient orientation (R = Right)",
+        "Spine and pelvic bones are visible in all views"
+      ],
+      "dates_found": [],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2229,
+        "completion_tokens": 305,
+        "total_duration_ms": 2199
+      }
+    }
+  ]
+}

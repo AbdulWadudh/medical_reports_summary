@@ -1,0 +1,161 @@
+{
+  "claim_id": "GOV_GJ_R2_2025_2026040410000059",
+  "package": "MC011A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 4,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000022__GOV_GJ_R2_2025_2026040410000059__PTCA_IMAGE.jpeg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "RAO 1° / CRAN 45°, RAO 2° / CRAN 45°, RAO 2° / CAUD 45°, LAO 41° / CRAN 1°",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Stent visible in Series 27, stenosis annotation in Series 6",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Series 6\nImage 30 / 61\n04-Apr-2026, 12:01 PM\nStenosis 99%\nRAO 1°\nCRAN 45°\nSeries 27\nImage 28 / 47\n04-Apr-2026, 12:25 PM\nStent\nRAO 2°\nCRAN 45°\nSeries 26\nImage 21 / 37\n04-Apr-2026, 12:25 PM\nRAO 2°\nCAUD 45°\nSeries 1\nImage 22 / 47\n04-Apr-2026, 11:59 AM\nLAO 41°\nCRAN 1°\nStudy Date: 04-Apr-2026",
+        "english": "Series 6\nImage 30 / 61\n04-Apr-2026, 12:01 PM\nStenosis 99%\nRAO 1°\nCRAN 45°\nSeries 27\nImage 28 / 47\n04-Apr-2026, 12:25 PM\nStent\nRAO 2°\nCRAN 45°\nSeries 26\nImage 21 / 37\n04-Apr-2026, 12:25 PM\nRAO 2°\nCAUD 45°\nSeries 1\nImage 22 / 47\n04-Apr-2026, 11:59 AM\nLAO 41°\nCRAN 1°\nStudy Date: 04-Apr-2026"
+      },
+      "summary": "A four-panel coronary angiogram display from a cath-lab monitor showing sequential images of the coronary arteries during a percutaneous coronary intervention (PCI). Annotations indicate 99% stenosis and stent placement. The study date is 04-Apr-2026.",
+      "key_observations": [
+        "Four fluoroscopic images from a coronary angiogram procedure.",
+        "Image 6 shows 99% stenosis in the left coronary system.",
+        "Image 27 shows a stent deployed in the vessel.",
+        "Multiple projections (RAO, LAO, CRAN, CAUD) are used to visualize the coronary tree.",
+        "Study date is 04-Apr-2026."
+      ],
+      "dates_found": [
+        "04/04/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": [
+          "Image is a photograph of a monitor screen, not a direct medical image.",
+          "UI elements from the printing software are visible on the left side."
+        ]
+      },
+      "_usage": {
+        "prompt_tokens": 1859,
+        "completion_tokens": 769,
+        "total_duration_ms": 5526
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000024__GOV_GJ_R2_2025_2026040410000059__PTCA_REPORT_001.jpg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Typed report",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Successful PTCA to LAD done (1-DES), TIMI-III flow achieved",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Patient's Name :\nRegd. No. : H28268\nGender/Age : Male / 43 Yrs\nI.P.D. No. : IP/11599\nProcedure No. :\nPTCA REPORT\nANGIO NO: C/16483\nB.P.: 135/70 MMHG\nSPO2: 98% ON ROOM\nCLINICAL PROFILE: AWM I, CAD-SVD\nROUTE AND VESSEL: TRANSRADIAL / LAD\n- LESION TYPE: PROXIMAL PART SHOWS 99% LESION (LESION LENGTH 18mm)\nGUIDING CATHETER: 6F XB 3.0\nGUIDEWIRE: RUNTHROUGH NS EXTRA FLOPPY\nPREDIALATION : NOT DONE\nSTENT : PREMIER 3.0X36mm @ 14 ATM\nPOST DIALATION : APOLLO 3.0X08mm @ 18 ATM\nREMARKS : TIMI-III FLOW ACHIEVED\nSUCCESSFUL PTCA TO LAD DONE (1-DES)\nDIAGNOSIS: AWM I, CAD-SVD , PRIMARY PCI TO LAD (1-DES)\nRECOMMENDATION: REGULAR MEDICINES & FOLLOW UP\nMD,DNB (CARDIOLOGY)\n(DM CARDIOLOGY)\nPremier+™\nSirolimus Eluting\nCoronary Stent System\nSize: 3.00 x 36mm\nLOT\n2028-01-08\nEN1\nRelisys Medical Devices Ltd",
+        "english": "Patient's Name :\nRegd. No. : H28268\nGender/Age : Male / 43 Yrs\nI.P.D. No. : IP/11599\nProcedure No. :\nPTCA REPORT\nANGIO NO: C/16483\nB.P.: 135/70 MMHG\nSPO2: 98% ON ROOM\nCLINICAL PROFILE: AWM I, CAD-SVD\nROUTE AND VESSEL: TRANSRADIAL / LAD\n- LESION TYPE: PROXIMAL PART SHOWS 99% LESION (LESION LENGTH 18mm)\nGUIDING CATHETER: 6F XB 3.0\nGUIDEWIRE: RUNTHROUGH NS EXTRA FLOPPY\nPREDIALATION : NOT DONE\nSTENT : PREMIER 3.0X36mm @ 14 ATM\nPOST DIALATION : APOLLO 3.0X08mm @ 18 ATM\nREMARKS : TIMI-III FLOW ACHIEVED\nSUCCESSFUL PTCA TO LAD DONE (1-DES)\nDIAGNOSIS: AWM I, CAD-SVD , PRIMARY PCI TO LAD (1-DES)\nRECOMMENDATION: REGULAR MEDICINES & FOLLOW UP\nMD,DNB (CARDIOLOGY)\n(DM CARDIOLOGY)\nPremier+™\nSirolimus Eluting\nCoronary Stent System\nSize: 3.00 x 36mm\nLOT\n2028-01-08\nEN1\nRelisys Medical Devices Ltd"
+      },
+      "summary": "This is a typed PTCA (Percutaneous Transluminal Coronary Angioplasty) report for a 43-year-old male patient. The procedure was performed via transradial access on the left anterior descending (LAD) artery to treat a 99% stenosis. A Premier 3.0x36mm stent was deployed successfully, achieving TIMI-III flow. The report includes patient demographics, procedure details, and a recommendation for regular medicines and follow-up.",
+      "key_observations": [
+        "Patient is a 43-year-old male.",
+        "Procedure: PTCA to LAD artery via transradial route.",
+        "Lesion: 99% stenosis in proximal part, 18mm length.",
+        "Stent deployed: Premier 3.0x36mm @ 14 ATM.",
+        "Post-dilation: Apollo 3.0x08mm @ 18 ATM.",
+        "Outcome: Successful PTCA, TIMI-III flow achieved.",
+        "Diagnosis: AWM I, CAD-SVD, Primary PCI to LAD (1-DES).",
+        "Recommendation: Regular medicines and follow-up."
+      ],
+      "dates_found": [
+        "04/04/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2263,
+        "completion_tokens": 1095,
+        "total_duration_ms": 6529
+      }
+    },
+    {
+      "image_index": 2,
+      "source": "000032__GOV_GJ_R2_2025_2026040410000059__CAG_REPORT_001.jpg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Typed report",
+      "body_region": "Coronary tree",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Report includes diagnosis and recommendation for PCI",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Patient's Name : \nRegd. No. : H28268\nProcedure No. : \nGender/Age : Male / 43 Yrs\nI.P.D. No. : IP/11599\nDate : 04/04/2026\nDEPARTMENT OF CARDIOLOGY - CORONARY ANGIOGRAPHY REPORT\nANGIO NO: C/16482\nCLINICAL PROFILE: AWM I\nCATHETER USED: 5F TIGER APPROACH: TRANSRADIAL CONTRAST: IOHEXOL\nCORONARY ANATOMY:\nLMCA: NORMAL\nLAD: PROXIMAL PART SHOWS 99% LESION (LESION LENGTH 18mm), MID & DISTAL PART IS NORMAL\nDIAGONAL: NORMAL\nLCX : NORMAL\nOM: NORMAL\nRCA: DISTAL PART SHOWS PLAQUE. PROXIMAL & MID PART IS NORMAL\nPDA & PLV : NORMAL\nDIAGNOSIS: AWM I, CAD-SVP\nRECOMMENDATION:\nPRIMARY PCI TO LAD (1-DES)\nMD, DNB, (CARDIOLOGY)\nMD, D.M. (CARDIOLOGY)",
+        "english": "Patient's Name :\nRegd. No. : H28268\nProcedure No. :\nGender/Age : Male / 43 Yrs\nI.P.D. No. : IP/11599\nDate : 04/04/2026\nDEPARTMENT OF CARDIOLOGY - CORONARY ANGIOGRAPHY REPORT\nANGIO NO: C/16482\nCLINICAL PROFILE: AWM I\nCATHETER USED: 5F TIGER APPROACH: TRANSRADIAL CONTRAST: IOHEXOL\nCORONARY ANATOMY:\nLMCA: NORMAL\nLAD: PROXIMAL PART SHOWS 99% LESION (LESION LENGTH 18mm), MID & DISTAL PART IS NORMAL\nDIAGONAL: NORMAL\nLCX : NORMAL\nOM: NORMAL\nRCA: DISTAL PART SHOWS PLAQUE. PROXIMAL & MID PART IS NORMAL\nPDA & PLV : NORMAL\nDIAGNOSIS: AWM I, CAD-SVP\nRECOMMENDATION:\nPRIMARY PCI TO LAD (1-DES)\nMD, DNB, (CARDIOLOGY)\nMD, D.M. (CARDIOLOGY)"
+      },
+      "summary": "This is a typed coronary angiography report for a 43-year-old male patient. The report details findings of a 99% lesion in the proximal left anterior descending artery (LAD) and plaque in the distal right coronary artery (RCA). The diagnosis is Acute Wall Motion Abnormality (AWMI) and Coronary Artery Disease - Single Vessel Predominant (CAD-SVP). The recommendation is Primary Percutaneous Coronary Intervention (PCI) to the LAD using a 1-DES stent.",
+      "key_observations": [
+        "Patient is a 43-year-old male with clinical profile AWM I",
+        "99% lesion in proximal LAD (18mm length) with normal mid and distal parts",
+        "Plaque noted in distal RCA, proximal and mid parts are normal",
+        "Diagnosis: AWM I, CAD-SVP",
+        "Recommendation: Primary PCI to LAD with 1-DES stent"
+      ],
+      "dates_found": [
+        "04/04/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2263,
+        "completion_tokens": 854,
+        "total_duration_ms": 5619
+      }
+    },
+    {
+      "image_index": 3,
+      "source": "000034__GOV_GJ_R2_2025_2026040410000059__CAG_IMAGE.jpeg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "RAO 1° / CRAN 45°, RAO 2° / CRAN 45°, RAO 2° / CAUD 45°, LAO 41° / CRAN 1°",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Stent visible in one frame, 'Stenosis 99%' annotation, guidewires and catheter visible",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Series 6\nImage 30 / 61\n04-Apr-2026, 12:01 PM\nStenosis 99%\nRAO 1°\nCRAN 45°\nSeries 27\nImage 28 / 47\n04-Apr-2026, 12:25 PM\nStent\nRAO 2°\nCRAN 45°\nSeries 26\nImage 21 / 37\n04-Apr-2026, 12:25 PM\nRAO 2°\nCAUD 45°\nSeries 1\nImage 22 / 47\n04-Apr-2026, 11:59 AM\nLAO 41°\nCRAN 1°\nStudy Date: 04-Apr-2026",
+        "english": "Series 6\nImage 30 / 61\n04-Apr-2026, 12:01 PM\nStenosis 99%\nRAO 1°\nCRAN 45°\nSeries 27\nImage 28 / 47\n04-Apr-2026, 12:25 PM\nStent\nRAO 2°\nCRAN 45°\nSeries 26\nImage 21 / 37\n04-Apr-2026, 12:25 PM\nRAO 2°\nCAUD 45°\nSeries 1\nImage 22 / 47\n04-Apr-2026, 11:59 AM\nLAO 41°\nCRAN 1°\nStudy Date: 04-Apr-2026"
+      },
+      "summary": "A four-frame coronary angiogram from a cath-lab monitor showing the left coronary system with annotations indicating 99% stenosis and a stent placement. The images are acquired at different oblique and cranial/caudal angles.",
+      "key_observations": [
+        "Four fluoroscopic frames from a coronary angiogram procedure",
+        "Annotations: 'Stenosis 99%' and 'Stent' visible",
+        "Multiple projection angles: RAO 1°/CRAN 45°, RAO 2°/CRAN 45°, RAO 2°/CAUD 45°, LAO 41°/CRAN 1°",
+        "Study date: 04-Apr-2026",
+        "Guidewires and catheter visible in vessel lumen"
+      ],
+      "dates_found": [
+        "04/04/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": [
+          "Photograph of a computer monitor displaying angiogram images",
+          "UI elements from print preview software visible on left side"
+        ]
+      },
+      "_usage": {
+        "prompt_tokens": 1819,
+        "completion_tokens": 793,
+        "total_duration_ms": 5026
+      }
+    }
+  ]
+}

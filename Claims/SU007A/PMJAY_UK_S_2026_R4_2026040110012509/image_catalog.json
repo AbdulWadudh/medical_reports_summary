@@ -1,0 +1,154 @@
+{
+  "claim_id": "PMJAY_UK_S_2026_R4_2026040110012509",
+  "package": "SU007A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 4,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000150__PMJAY_UK_S_2026_R4_2026040110012509__POST_XRAY_FILM_WITH_REPORT.pdf",
+      "page": 1,
+      "pages_total": 2,
+      "image_type": "Abdominal X-Ray (KUB)",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "AP",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Radiopaque catheter visible in pelvicalyceal system",
+      "ocr": {
+        "language": "English",
+        "verbatim": "ABDOMEN AP[KUB]\n25Y/M ABDOMEN, SUPINE 4/3/2026",
+        "english": "ABDOMEN AP[KUB]\n25Y/M ABDOMEN, SUPINE 4/3/2026"
+      },
+      "summary": "An abdominal AP (KUB) X-ray showing a radiopaque catheter in the pelvicalyceal system, consistent with post-procedural imaging. The patient is a 25-year-old male, imaged supine on 4/3/2026.",
+      "key_observations": [
+        "A radiopaque catheter is visible extending from the upper abdomen into the pelvis.",
+        "Spine and pelvic bones are clearly visualized.",
+        "Image is labeled 'ABDOMEN AP[KUB]' and patient details '25Y/M ABDOMEN, SUPINE 4/3/2026'."
+      ],
+      "dates_found": [
+        "04/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2231,
+        "completion_tokens": 320,
+        "total_duration_ms": 2899
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000150__PMJAY_UK_S_2026_R4_2026040110012509__POST_XRAY_FILM_WITH_REPORT.pdf",
+      "page": 2,
+      "pages_total": 2,
+      "image_type": "Typed report",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "DJ stent seen on left side",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Patient ID 1026374\nName \nRef. By \nReg. Date 03/04/2026\nSex/Age 25 Yrs Male\nPrint Date 04/04/2026 16:50:57\n\nX RAY KUB\n\nCompromised scan due to poor bowel preparation.\n\nDJ stent seen on left side.\n\nNo definite radio opaque shadow is seen in the KUB region\n\nVertebrae under view appear unremarkable.\n\nSuggested clinical correlation\n\n*** End of Report ***\n\nChecked By: \n\nM.B.B.S M.D. Radio-diagnosis (Gold Medalist)\nConsultant Radiologist\nFMF (United Kingdom) Certified - ID 326165\n\n3 TESLA Plateform (M.R.I.), Spiral C.T. Scan 32 Slice , Mammography, Digital X-ray, Ultrasound, Colour Doppler, OPG, ECG\n& Pathology :- FNAC, TB Gold, Biopsy, Pap Smear, All Tumor Markers and All Hormone Assays.\n\nNote : Impression is a professional opinion & not a diagnosis. All modern machines/Procedures have their limitations. If there is varience clinically this examination my be repeated or re-evaluated by other investigations. Not valid for medico-legal purposes",
+        "english": "Patient ID 1026374\nName \nRef. By \nReg. Date 03/04/2026\nSex/Age 25 Yrs Male\nPrint Date 04/04/2026 16:50:57\n\nX RAY KUB\n\nCompromised scan due to poor bowel preparation.\n\nDJ stent seen on left side.\n\nNo definite radio opaque shadow is seen in the KUB region\n\nVertebrae under view appear unremarkable.\n\nSuggested clinical correlation\n\n*** End of Report ***\n\nChecked By: \n\nM.B.B.S M.D. Radio-diagnosis (Gold Medalist)\nConsultant Radiologist\nFMF (United Kingdom) Certified - ID 326165\n\n3 TESLA Plateform (M.R.I.), Spiral C.T. Scan 32 Slice , Mammography, Digital X-ray, Ultrasound, Colour Doppler, OPG, ECG\n& Pathology :- FNAC, TB Gold, Biopsy, Pap Smear, All Tumor Markers and All Hormone Assays.\n\nNote : Impression is a professional opinion & not a diagnosis. All modern machines/Procedures have their limitations. If there is varience clinically this examination my be repeated or re-evaluated by other investigations. Not valid for medico-legal purposes"
+      },
+      "summary": "This is a typed radiology report for an X-ray KUB (Kidney, Ureter, Bladder) examination. The scan was compromised due to poor bowel preparation. A DJ stent is visible on the left side, but no definite radio-opaque shadow is seen in the KUB region. The vertebrae appear unremarkable. The report is signed by a Consultant Radiologist.",
+      "key_observations": [
+        "Scan compromised due to poor bowel preparation",
+        "DJ stent seen on left side",
+        "No definite radio-opaque shadow in KUB region",
+        "Vertebrae appear unremarkable",
+        "Report signed by Consultant Radiologist"
+      ],
+      "dates_found": [
+        "03/04/2026",
+        "04/04/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2231,
+        "completion_tokens": 879,
+        "total_duration_ms": 5922
+      }
+    },
+    {
+      "image_index": 2,
+      "source": "000159__PMJAY_UK_S_2026_R4_2026040110012509__IVP_REPORT_.pdf",
+      "page": 1,
+      "pages_total": 2,
+      "image_type": "Typed report",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "N/A",
+      "stage_of_care": "n/a",
+      "stage_evidence": "Report of a completed IVP study",
+      "ocr": {
+        "language": "English",
+        "verbatim": "PLAIN X-RAY : Shows normal psoas and kidney shadows.\nA radio-opaque calculus is seen in right renal area at the level of L2 vertebral body measuring 3.1mm\nFew faint radio-opaque calculi are seen in left renal area at the level of L1 and L2 vertebral bodies with largest measuring 3.4mm.\nA radio-opaque calculi are seen in left paravertebral area at the level of L2-L3 vertebral bodies measuring 6.7mm with DJ stent is seen in situ on left side.\nVisualized spine appears normal.\n\nINTRA-VEINOUS UROGRAPHY :\nIVU done with inj. Omnipaque 300mg/ml x50ml IV.\nBoth kidneys are normally sited and are of normal size and shape. Kidneys measure 102x50mm and 100x50mm or right and left sides respectively.\nThere is normal excretion of contrast on both sides.\n\nRight kidney:\nPelviccalyceal system is normal on right side. A radio-opaque calculus in right renal area is seen to lie inferior calyx s/o right renal calculus. Right ureter is normal in course and calibre. There is no hold up of contrast on right side.\n\nLeft kidney:\nFew faint radio-opaque calculi seen in left renal area are seen to lie in left middle and inferior calyces. A radio-opaque calculus noted in left paravertebral location are seen to lie in left upper ureter with DJ stent is seen in situ on left side.\n\nUrinary bladder shows smooth outline. No filling defect or calculus is identified in bladder. No significant residual urine is seen after micturition.\n\nIMPRESSION : IVU study reveals:\n* Right renal calculus\n* Left renal calculi and left upper ureteric calculus with Dj stent seen in situ on left side.\n* Normal excretion of contrast in bilateral kidney.\n\nADV: Clinical correlation and further evaluation with nuclear medicine scan.",
+        "english": "PLAIN X-RAY : Shows normal psoas and kidney shadows.\nA radio-opaque calculus is seen in right renal area at the level of L2 vertebral body measuring 3.1mm\nFew faint radio-opaque calculi are seen in left renal area at the level of L1 and L2 vertebral bodies with largest measuring 3.4mm.\nA radio-opaque calculi are seen in left paravertebral area at the level of L2-L3 vertebral bodies measuring 6.7mm with DJ stent is seen in situ on left side.\nVisualized spine appears normal.\n\nINTRA-VEINOUS UROGRAPHY :\nIVU done with inj. Omnipaque 300mg/ml x50ml IV.\nBoth kidneys are normally sited and are of normal size and shape. Kidneys measure 102x50mm and 100x50mm or right and left sides respectively.\nThere is normal excretion of contrast on both sides.\n\nRight kidney:\nPelviccalyceal system is normal on right side. A radio-opaque calculus in right renal area is seen to lie inferior calyx s/o right renal calculus. Right ureter is normal in course and calibre. There is no hold up of contrast on right side.\n\nLeft kidney:\nFew faint radio-opaque calculi seen in left renal area are seen to lie in left middle and inferior calyces. A radio-opaque calculus noted in left paravertebral location are seen to lie in left upper ureter with DJ stent is seen in situ on left side.\n\nUrinary bladder shows smooth outline. No filling defect or calculus is identified in bladder. No significant residual urine is seen after micturition.\n\nIMPRESSION : IVU study reveals:\n* Right renal calculus\n* Left renal calculi and left upper ureteric calculus with Dj stent seen in situ on left side.\n* Normal excretion of contrast in bilateral kidney.\n\nADV: Clinical correlation and further evaluation with nuclear medicine scan."
+      },
+      "summary": "This is a typed radiology report for an Intravenous Urography (IVP) study. It details findings of renal calculi (kidney stones) in both kidneys, a DJ stent in the left ureter, and normal kidney function and anatomy. The report is dated March 31, 2026.",
+      "key_observations": [
+        "Right renal calculus measuring 3.1mm",
+        "Left renal calculi and left upper ureteric calculus with DJ stent in situ on left side",
+        "Normal excretion of contrast in both kidneys",
+        "Kidney sizes: 102x50mm (right) and 100x50mm (left)"
+      ],
+      "dates_found": [
+        "31/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2227,
+        "completion_tokens": 1145,
+        "total_duration_ms": 6693
+      }
+    },
+    {
+      "image_index": 3,
+      "source": "000159__PMJAY_UK_S_2026_R4_2026040110012509__IVP_REPORT_.pdf",
+      "page": 2,
+      "pages_total": 2,
+      "image_type": "IVP",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "N/A",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Sequential IVP images showing contrast progression through urinary tract",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Plan\n5 Min\n10 Min\n15 Min\nFull Bladder\nPost Void\nL.V.P.\n31/03/2028",
+        "english": "Plan\n5 Min\n10 Min\n15 Min\nFull Bladder\nPost Void\nL.V.P.\n31/03/2028"
+      },
+      "summary": "A photograph of a medical monitor displaying six sequential IVP (Intravenous Pyelogram) radiographs of the abdomen, showing the progression of contrast through the urinary tract over time, from 'Plan' to 'Post Void'.",
+      "key_observations": [
+        "Six IVP images arranged in a 2x3 grid on a monitor",
+        "Images labeled: 'Plan', '5 Min', '10 Min', '15 Min', 'Full Bladder', 'Post Void'",
+        "Patient identifier 'L.V.P.' and date '31/03/2028' visible at bottom",
+        "Contrast medium visible in renal pelvis and ureters in all frames",
+        "Images show the urinary tract from the lumbar spine to the pelvis"
+      ],
+      "dates_found": [
+        "31/03/2028"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": [
+          "Photograph of a monitor, not the original radiograph",
+          "Light reflection from monitor backlighting",
+          "Image resolution limited by photograph quality"
+        ]
+      },
+      "_usage": {
+        "prompt_tokens": 2227,
+        "completion_tokens": 384,
+        "total_duration_ms": 2620
+      }
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "claim_id": "PMJAY_UP_S_G_2025_R2_1022259191",
+  "package": "SU007A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 3,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000198__PMJAY_UP_S_G_2025_R2_1022259191__POSTKUB.jpeg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Abdominal X-Ray (KUB)",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "PA",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Urinary catheter visible in bladder",
+      "ocr": {
+        "language": "English",
+        "verbatim": "KUB\n06.04.2026\nM, 46 years",
+        "english": "KUB\n06.04.2026\nM, 46 years"
+      },
+      "summary": "A post-procedure KUB X-ray of a 46-year-old male showing the pelvicalyceal system with a urinary catheter in the bladder.",
+      "key_observations": [
+        "A urinary catheter is visible, extending from the bladder to the perineum.",
+        "Spine and pelvic bones are clearly visualized.",
+        "Date of imaging is 06.04.2026.",
+        "Patient is male, 46 years old."
+      ],
+      "dates_found": [
+        "06/04/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2295,
+        "completion_tokens": 263,
+        "total_duration_ms": 3500
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000206__PMJAY_UP_S_G_2025_R2_1022259191__IVP.jpeg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Typed report",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "N/A",
+      "stage_of_care": "n/a",
+      "stage_evidence": "This is a radiology report summarizing findings from an IVP procedure.",
+      "ocr": {
+        "language": "English",
+        "verbatim": "NAME : MR. 46 YRS/M\nREF. BY:\n\nReport\nDATE: FEB, 23, 2026\n\nEXAMINATION PERFORMED: IVP (Intravenous Pyelogram)\n\n*Study performed with non-ionic contrast media.\n\nPlain X-Ray KUB:-\nLarge radio-opacity of size approx. 30 x 17.5 mm noted in the left paraspinal region at the level of L3/L4 intervertebral disc space.\nThe soft tissue outline are normal, both psoas shadows are well visualized.\nNo obvious mass lesion is seen.\n\nIVP\n50 cc of non-ionic contrast medium (Omnipaque) was injected without any untoward reaction and subsequently films were taken.\n\nLeft kidney not showing uptake and excretion of contrast even on delayed images.\n\nThe radio-opacity is noted in the plane film likely lies in the proximal ureter.\nRight pelvicalyseal system appear normal.\nRight ureter normal in course, caliber and pacification.\nUrinary bladder is smooth in outline.\nNo evidence of filling defect or external pressure impression or diverticulum seen.\n\nIMPRESSION:-\n• Possibility of left proximal ureteric calculus.\n• Left kidney not showing uptake and excretion of contrast even on delayed images.\n\nAdv: NCCT KUB /USG correlation.\n\nMD, DNB, MNAMS (RADIO DIAGNOSIS)\nEx-\n24 Consultant Radiologist)\n\n3 TESLA MRI\nCT Scan\n4D/3D Ultrasound\nColour Doppler\nDigital X-ray\n\nThe report and films are not valid for medicolegal purposes.\nThis is only a professional opinion and not a diagnosis. It should be clinically correlated.\nIn case of any discrepancy due to machine or typing error please get it rectified immediately.\nMeasurements can vary from machine to machine.\n\nयहाँ भूत लिंग का प्राक्षण नहीं होता है, यह दृष्टिनीय अपार्थ है",
+        "english": "NAME : MR. 46 YRS/M\nREF. BY:\n\nReport\nDATE: FEB, 23, 2026\n\nEXAMINATION PERFORMED: IVP (Intravenous Pyelogram)\n\n*Study performed with non-ionic contrast media.\n\nPlain X-Ray KUB:-\nLarge radio-opacity of size approx. 30 x 17.5 mm noted in the left paraspinal region at the level of L3/L4 intervertebral disc space.\nThe soft tissue outline are normal, both psoas shadows are well visualized.\nNo obvious mass lesion is seen.\n\nIVP\n50 cc of non-ionic contrast medium (Omnipaque) was injected without any untoward reaction and subsequently films were taken.\n\nLeft kidney not showing uptake and excretion of contrast even on delayed images.\n\nThe radio-opacity is noted in the plane film likely lies in the proximal ureter.\nRight pelvicalyseal system appear normal.\nRight ureter normal in course, caliber and pacification.\nUrinary bladder is smooth in outline.\nNo evidence of filling defect or external pressure impression or diverticulum seen.\n\nIMPRESSION:-\n• Possibility of left proximal ureteric calculus.\n• Left kidney not showing uptake and excretion of contrast even on delayed images.\n\nAdv: NCCT KUB /USG correlation.\n\nMD, DNB, MNAMS (RADIO DIAGNOSIS)\nEx-\n24 Consultant Radiologist)\n\n3 TESLA MRI\nCT Scan\n4D/3D Ultrasound\nColour Doppler\nDigital X-ray\n\nThe report and films are not valid for medicolegal purposes.\nThis is only a professional opinion and not a diagnosis. It should be clinically correlated.\nIn case of any discrepancy due to machine or typing error please get it rectified immediately.\nMeasurements can vary from machine to machine.\n\nयहाँ भूत लिंग का प्राक्षण नहीं होता है, यह दृष्टिनीय अपार्थ है"
+      },
+      "summary": "This is a typed radiology report for an IVP (Intravenous Pyelogram) performed on a 46-year-old male on February 23, 2026. The report details findings from both plain X-ray KUB and IVP studies, noting a large radio-opacity in the left paraspinal region and a lack of contrast uptake in the left kidney, suggesting a possible left proximal ureteric calculus.",
+      "key_observations": [
+        "Patient is a 46-year-old male.",
+        "Plain X-ray KUB shows a large radio-opaque lesion (30 x 17.5 mm) in the left paraspinal region at L3/L4.",
+        "IVP findings indicate the left kidney is not showing contrast uptake or excretion, and a radio-opacity is likely in the proximal ureter.",
+        "Final impression suggests a possibility of left proximal ureteric calculus.",
+        "Recommendation for NCCT KUB or USG correlation."
+      ],
+      "dates_found": [
+        "23/02/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2214,
+        "completion_tokens": 1298,
+        "total_duration_ms": 8305
+      }
+    },
+    {
+      "image_index": 2,
+      "source": "000208__PMJAY_UP_S_G_2025_R2_1022259191__IVPFILM.png",
+      "page": null,
+      "pages_total": null,
+      "image_type": "IVP",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "PA",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Sequential frames showing contrast progression through kidneys, ureters, and bladder",
+      "ocr": {
+        "language": "English",
+        "verbatim": "KUB\nNEPH\n5MIN\n15MIN\n2.30H\n16H\n46Y/M IVP 23-02-2026 Dr...\nMATERNITY\n:30.15.000000",
+        "english": "KUB\nNEPH\n5MIN\n15MIN\n2.30H\n16H\n46Y/M IVP 23-02-2026 Dr...\nMATERNITY\n:30.15.000000"
+      },
+      "summary": "A six-panel IVP (Intravenous Pyelogram) film showing the progression of contrast medium through the urinary tract over time, from a pre-contrast KUB to delayed views at 5 minutes, 15 minutes, 2.30 hours, and 16 hours post-injection.",
+      "key_observations": [
+        "Six sequential radiographic views of the abdomen and pelvis",
+        "Labels indicate time points: KUB (pre-contrast), NEPH (nephrogram), 5MIN, 15MIN, 2.30H, 16H",
+        "Contrast medium is visible in the kidneys, ureters, and bladder at later time points",
+        "Patient is 46 years old, male, IVP performed on 23-02-2026",
+        "Maternity status indicated on the image"
+      ],
+      "dates_found": [
+        "23/02/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2296,
+        "completion_tokens": 427,
+        "total_duration_ms": 4016
+      }
+    }
+  ]
+}

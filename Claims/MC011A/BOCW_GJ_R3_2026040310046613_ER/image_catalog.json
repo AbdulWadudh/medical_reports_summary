@@ -1,0 +1,868 @@
+{
+  "claim_id": "BOCW_GJ_R3_2026040310046613_ER",
+  "package": "MC011A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 24,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000009__BOCW_GJ_R3_2026040310046613__7a877f13-90de-4c5d-b2c8-c47d9bb0e2dd_compressed.pdf",
+      "page": 1,
+      "pages_total": 16,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "N/A",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "CINE frame (20/32) with visible catheter and contrast opacification of coronary arteries",
+      "ocr": {
+        "language": "English",
+        "verbatim": "UC003043\nM\n063Y\nVI3CATH\n20/32\nCINE",
+        "english": "UC003043\nM\n063Y\nVI3CATH\n20/32\nCINE"
+      },
+      "summary": "A fluoroscopic image from a cath-lab monitor showing a CINE frame (20/32) of a coronary angiogram. The image displays the left coronary artery system with contrast opacification, and patient information (M, 063Y) is visible in the top-left corner.",
+      "key_observations": [
+        "Coronary angiogram image captured on a Samsung monitor",
+        "Patient is male, 63 years old (M 063Y)",
+        "CINE frame 20 of 32, indicating a dynamic sequence",
+        "Contrast-filled coronary arteries visible",
+        "UI elements include 'VI3CATH' and case ID 'UC003043'"
+      ],
+      "dates_found": [],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2250,
+        "completion_tokens": 326,
+        "total_duration_ms": 2503
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000009__BOCW_GJ_R3_2026040310046613__7a877f13-90de-4c5d-b2c8-c47d9bb0e2dd_compressed.pdf",
+      "page": 2,
+      "pages_total": 16,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "N/A",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "CINE mode active (24/34), cath-lab UI overlays present",
+      "ocr": {
+        "language": "English",
+        "verbatim": "UC003043\nM\n063Y\nVI3CATH\n24/34\nCINE",
+        "english": "UC003043\nM\n063Y\nVI3CATH\n24/34\nCINE"
+      },
+      "summary": "A fluoroscopic image from a cath-lab monitor showing a left coronary angiogram in CINE mode. The coronary arteries are visualized as grey vessel structures against a dark background, with UI overlays indicating patient ID, gender, age, and frame number.",
+      "key_observations": [
+        "Left coronary artery system visualized",
+        "CINE mode active (frame 24 of 34)",
+        "Patient identifier: UC003043, Male, 63 years",
+        "Image captured on a Samsung monitor",
+        "UI overlay 'VI3CATH' visible"
+      ],
+      "dates_found": [],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2250,
+        "completion_tokens": 293,
+        "total_duration_ms": 2167
+      }
+    },
+    {
+      "image_index": 2,
+      "source": "000009__BOCW_GJ_R3_2026040310046613__7a877f13-90de-4c5d-b2c8-c47d9bb0e2dd_compressed.pdf",
+      "page": 3,
+      "pages_total": 16,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "N/A",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Dark background with grey vessel structures and on-screen UI overlays including 'DESKTOP-V40B1E7' and '4/3/2026 11:04:58'",
+      "ocr": {
+        "language": "English",
+        "verbatim": "UG003043.\nM\n063Y\n4/3/2026 11:04:58\nDESKTOP-V40B1E7",
+        "english": "UG003043.\nM\n063Y\n4/3/2026 11:04:58\nDESKTOP-V40B1E7"
+      },
+      "summary": "A fluoroscopic image from a cath-lab monitor showing a dark background with a grey vessel structure, likely a coronary artery, with two dark circular markers along its path. UI overlays indicate the image is from an intra-procedure angiogram session.",
+      "key_observations": [
+        "A cath-lab monitor screenshot with a dark background and grey vessel structures.",
+        "Two dark circular markers are visible along the vessel path.",
+        "UI overlays show patient identifier 'UG003043', gender 'M', age '063Y', timestamp '4/3/2026 11:04:58', and workstation name 'DESKTOP-V40B1E7'.",
+        "Image quality is poor with significant noise and graininess."
+      ],
+      "dates_found": [
+        "03/04/2026"
+      ],
+      "image_quality": {
+        "rating": "poor",
+        "limitations": [
+          "Significant noise and graininess",
+          "Photograph of a monitor",
+          "Low contrast",
+          "Blur"
+        ]
+      },
+      "_usage": {
+        "prompt_tokens": 2250,
+        "completion_tokens": 423,
+        "total_duration_ms": 3017
+      }
+    },
+    {
+      "image_index": 3,
+      "source": "000009__BOCW_GJ_R3_2026040310046613__7a877f13-90de-4c5d-b2c8-c47d9bb0e2dd_compressed.pdf",
+      "page": 4,
+      "pages_total": 16,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "N/A",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Cath-lab monitor UI present, patient identifier 'M 063Y', frame number '8/29' visible",
+      "ocr": {
+        "language": "English",
+        "verbatim": "UC003043\nM\n063Y\nV13CATH\n8/29\nCINE",
+        "english": "UC003043\nM\n063Y\nV13CATH\n8/29\nCINE"
+      },
+      "summary": "A fluoroscopic image from a cath-lab monitor showing a coronary angiogram of the left coronary system. The image displays vessel structures with a guidewire visible. UI elements indicate patient ID, frame number, and cine mode.",
+      "key_observations": [
+        "Image is a screenshot of a cath-lab monitor (Samsung brand visible)",
+        "Patient identifier: 'M 063Y' (Male, 63 years)",
+        "Frame number: 8/29 (8th frame of a 29-frame cine sequence)",
+        "Modality: 'V13CATH' (indicative of catheter-based procedure)",
+        "Guidewire visible within the vessel lumen",
+        "Dark background with grey vessel structures typical of fluoroscopy"
+      ],
+      "dates_found": [],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2250,
+        "completion_tokens": 338,
+        "total_duration_ms": 2360
+      }
+    },
+    {
+      "image_index": 4,
+      "source": "000009__BOCW_GJ_R3_2026040310046613__7a877f13-90de-4c5d-b2c8-c47d9bb0e2dd_compressed.pdf",
+      "page": 5,
+      "pages_total": 16,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "N/A",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Guidewire visible within vessel lumen",
+      "ocr": {
+        "language": "English",
+        "verbatim": "UC003043\nM\n063Y\nV13CATH\n153/188\nFLUORO",
+        "english": "UC003043\nM\n063Y\nV13CATH\n153/188\nFLUORO"
+      },
+      "summary": "A fluoroscopic image from a coronary angiogram showing a guidewire within the coronary vasculature. Patient is male, 63 years old. Image is frame 153 of 188 in the series.",
+      "key_observations": [
+        "A guidewire is visible within a coronary vessel.",
+        "Patient identifier: UC003043, Male, 63 years old.",
+        "Image is from a fluoroscopy monitor (FLUORO).",
+        "Frame number 153 of 188 in the sequence."
+      ],
+      "dates_found": [],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2250,
+        "completion_tokens": 290,
+        "total_duration_ms": 2318
+      }
+    },
+    {
+      "image_index": 5,
+      "source": "000009__BOCW_GJ_R3_2026040310046613__7a877f13-90de-4c5d-b2c8-c47d9bb0e2dd_compressed.pdf",
+      "page": 6,
+      "pages_total": 16,
+      "image_type": "Typed report",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Handwritten annotations indicate 'PCI (2 DES) to LAD done' and '2.5 x 28mm (DES) Xience Prime' stent placement",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Report of Coronary Angiography\nM.D. (Medicine)\nDNB (Cardiology)\nEx. Cardiologist: Sai Hospital, Ahmedabad\nEx. Physician: Lions Hospital, Palanpur\nName: \nAge: 63\nSex: Male\nDone by Dr.\nI.P. No. U.I.-2234\nMRD No.\nCATH No. VC-3043\nDate: 03/104/2026\n\nDIAG\nDIAG\nDM\nCx\nLAD\nAM\nPD\n2.5 X 28mm\n(DES)\nXience Prime\n\nRAO\n\nD-Acs: NMT EMZ\nCAT: SVP\nComments:\nPCI (2 DES) to LAD done\n\nCardiologist",
+        "english": "Report of Coronary Angiography\nM.D. (Medicine)\nDNB (Cardiology)\nEx. Cardiologist: Sai Hospital, Ahmedabad\nEx. Physician: Lions Hospital, Palanpur\nName: \nAge: 63\nSex: Male\nDone by Dr.\nI.P. No. U.I.-2234\nMRD No.\nCATH No. VC-3043\nDate: 03/104/2026\n\nDIAG\nDIAG\nDM\nCx\nLAD\nAM\nPD\n2.5 X 28mm\n(DES)\nXience Prime\n\nRAO\n\nD-Acs: NMT EMZ\nCAT: SVP\nComments:\nPCI (2 DES) to LAD done\n\nCardiologist"
+      },
+      "summary": "This is a handwritten coronary angiography report showing a schematic of the coronary arteries with annotations indicating a stent placement in the left anterior descending artery (LAD). The report includes patient demographics, catheterization details, and comments confirming a percutaneous coronary intervention (PCI) with two drug-eluting stents (DES) was performed.",
+      "key_observations": [
+        "Hand-drawn schematic of coronary arteries with labeled vessels (Cx, LAD, AM, PD, DM)",
+        "Annotations indicate '2.5 x 28mm (DES) Xience Prime' stent deployed in the LAD",
+        "Comments section states 'PCI (2 DES) to LAD done'",
+        "Patient age is 63, sex is male",
+        "Date is written as 03/104/2026 (likely a typographical error for 03/10/2026)",
+        "Report header indicates 'Report of Coronary Angiography'"
+      ],
+      "dates_found": [
+        "03/104/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2250,
+        "completion_tokens": 707,
+        "total_duration_ms": 4383
+      }
+    },
+    {
+      "image_index": 6,
+      "source": "000009__BOCW_GJ_R3_2026040310046613__7a877f13-90de-4c5d-b2c8-c47d9bb0e2dd_compressed.pdf",
+      "page": 7,
+      "pages_total": 16,
+      "image_type": "Stamp/Signature",
+      "body_region": "N/A",
+      "modality_view": "N/A",
+      "stage_of_care": "n/a",
+      "stage_evidence": "N/A",
+      "ocr": {
+        "language": "English",
+        "verbatim": "XIENCE PRIME™\nEverolimus Eluting Coronary Stent System\n\nATM kPa\n9 9.9 0.13 mm\n10 1410 0.20 mm\n11 1117 0.25 mm\n12 1215 0.27 mm\n13 1317 0.30 mm\n14 1419 0.33 mm\n15 1521 0.36 mm\n16 1623 0.39 mm\n17 1725 0.42 mm\n18 1827 0.45 mm\n19 1929 0.48 mm\n20 2031 0.51 mm\n21 2133 0.54 mm\n22 2235 0.57 mm\n\nPOST DILATATION LIMIT 0.36 mm\n\n2.5 mm\n28 mm\n143 mm\n\nUDI\n0510877948735481 177281205110 212141\n\n3038-12-04\nLOT 0121-441\n\n2.6 mm\n2.8 / 1.88 mm\n5 3/16\" / 0.38 mm\n1.4P / 0.75 mm\n140 cm\n\nFLUSHING TOOL\n\n120 mg Everolimus\n100 µg/cm³\n\nEU / MRT\n\n2023-13-06\n\nWPL2130660-12 (2023-19-17)",
+        "english": "XIENCE PRIME™\nEverolimus Eluting Coronary Stent System\n\nATM kPa\n9 9.9 0.13 mm\n10 1410 0.20 mm\n11 1117 0.25 mm\n12 1215 0.27 mm\n13 1317 0.30 mm\n14 1419 0.33 mm\n15 1521 0.36 mm\n16 1623 0.39 mm\n17 1725 0.42 mm\n18 1827 0.45 mm\n19 1929 0.48 mm\n20 2031 0.51 mm\n21 2133 0.54 mm\n22 2235 0.57 mm\n\nPOST DILATATION LIMIT 0.36 mm\n\n2.5 mm\n28 mm\n143 mm\n\nUDI\n0510877948735481 177281205110 212141\n\n3038-12-04\nLOT 0121-441\n\n2.6 mm\n2.8 / 1.88 mm\n5 3/16\" / 0.38 mm\n1.4P / 0.75 mm\n140 cm\n\nFLUSHING TOOL\n\n120 mg Everolimus\n100 µg/cm³\n\nEU / MRT\n\n2023-13-06\n\nWPL2130660-12 (2023-19-17)"
+      },
+      "summary": "The image shows the packaging of an Abbott XIENCE PRIME™ Everolimus Eluting Coronary Stent System, including specifications, dimensions, lot number, and expiration date.",
+      "key_observations": [
+        "Product is a coronary stent system for use in percutaneous coronary intervention.",
+        "Stent specifications include size (2.5 mm x 28 mm x 143 mm) and post-dilatation limit (0.36 mm).",
+        "Expiration date is 2023-13-06 (likely a typo, should be 2023-06-13).",
+        "Lot number is 0121-441.",
+        "Contains a flushing tool and 120 mg Everolimus coating at 100 µg/cm³."
+      ],
+      "dates_found": [
+        "2023-13-06",
+        "2023-19-17"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2250,
+        "completion_tokens": 1141,
+        "total_duration_ms": 6766
+      }
+    },
+    {
+      "image_index": 7,
+      "source": "000009__BOCW_GJ_R3_2026040310046613__7a877f13-90de-4c5d-b2c8-c47d9bb0e2dd_compressed.pdf",
+      "page": 8,
+      "pages_total": 16,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "N/A",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Fluoroscopic image with catheter tip visible",
+      "ocr": {
+        "language": "English",
+        "verbatim": "UC003043\nM\n063Y\nV13CATH\n20/48\nFLUORO",
+        "english": "UC003043\nM\n063Y\nV13CATH\n20/48\nFLUORO"
+      },
+      "summary": "A fluoroscopic image from a cath-lab monitor showing a coronary angiogram. A catheter tip is visible within the coronary vasculature. Patient identifier 'M 063Y' and acquisition details 'V13CATH', '20/48', 'FLUORO' are displayed on screen.",
+      "key_observations": [
+        "A fluoroscopic image of the coronary vasculature",
+        "A catheter tip is visible within the vessel",
+        "Patient identifier 'M 063Y' and acquisition details are displayed on screen",
+        "Image is a screenshot of a monitor (Samsung) with UI overlays"
+      ],
+      "dates_found": [],
+      "image_quality": {
+        "rating": "fair",
+        "limitations": [
+          "Image is a photograph of a monitor screen",
+          "Low resolution and grainy appearance",
+          "Partial view of the anatomy",
+          "UI overlays obscure parts of the image"
+        ]
+      },
+      "_usage": {
+        "prompt_tokens": 2250,
+        "completion_tokens": 338,
+        "total_duration_ms": 2378
+      }
+    },
+    {
+      "image_index": 8,
+      "source": "000009__BOCW_GJ_R3_2026040310046613__7a877f13-90de-4c5d-b2c8-c47d9bb0e2dd_compressed.pdf",
+      "page": 9,
+      "pages_total": 16,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "N/A",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Guidewire visible in vessel lumen",
+      "ocr": {
+        "language": "English",
+        "verbatim": "UC003043\nM\n063Y\nV13CATH\n60/00\nFLUORO",
+        "english": "UC003043\nM\n063Y\nV13CATH\n60/00\nFLUORO"
+      },
+      "summary": "Fluoroscopic image from a cath-lab monitor showing a guidewire within a coronary vessel during an angiographic procedure. Patient is male, 63 years old. The image is a single frame from a fluoroscopy sequence.",
+      "key_observations": [
+        "A guidewire is visible within a coronary vessel lumen.",
+        "Patient identifier: M 063Y (male, 63 years old).",
+        "Image is a fluoroscopic frame from a cath-lab monitor (label: FLUORO).",
+        "Image header includes case ID UC003043 and catheter type V13CATH."
+      ],
+      "dates_found": [],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2250,
+        "completion_tokens": 303,
+        "total_duration_ms": 2395
+      }
+    },
+    {
+      "image_index": 9,
+      "source": "000009__BOCW_GJ_R3_2026040310046613__7a877f13-90de-4c5d-b2c8-c47d9bb0e2dd_compressed.pdf",
+      "page": 10,
+      "pages_total": 16,
+      "image_type": "Stamp/Signature",
+      "body_region": "N/A",
+      "modality_view": "N/A",
+      "stage_of_care": "n/a",
+      "stage_evidence": "N/A",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Abbott\nAbbott\nXIENCE PRIME™\nEverolimus Eluting Coronary Stent System\nATM kPa\n8 971 2.45 mm\n9 1013 2.50 mm\n10 1013 2.55 mm\n11 1211 2.70 mm\n12 1211 2.75 mm\n13 1419 2.80 mm\n14 1419 2.85 mm\n15 1619 2.90 mm\n16 1619 2.95 mm\n17 1822 3.00 mm\n18 1822 3.05 mm\n19 1822 3.10 mm\n20 2027 3.20 mm\n21 2128 3.30 mm\n22 2228 3.40 mm\n23 2328 3.50 mm\nPOST DILATATION LIMIT 1.55 mm\n2.5 mm\n23 mm\n143 mm\nUDI\n3027-03-12\nLOT 4032141\n2.5 mm\n2.5 F / 0.98 mm\n0.38 mm\n2.4 F / 0.75 mm\n142 mm\nFLUSHING TOOL\nvascular stent abbot\n1440-46-4\n100 µg Everolimus\n100 µg/ml\nSTERILE\nMD 2797\n2024-05-13\nWPL213086G-11 (2023-10-17)\nAbbott Medical\n5500 Lantec Drive\nSanta Clara, CA 95054 USA\nTEL: (408) 227-0802\nFAX: (408) 227-0804\nOutside USA: TEL: +1 861-676-4600\nOutside USA FAX: +1 861-676-2021\nProduct of India\nAbbott Vascular International BVBA\nParis-LUX, Cuijkseweg 10\n1831 Diepen, BELGIUM\nTEL: +32 2 744 14 11\nFAX: +32 2 714 14 12\nAbbott Vascular Netherlands BV\nArgonaut 1, 8421 PH\nHeerlen\nThe Netherlands\nTEL: +31-(0)46-9403700\n* indicates a trademark of the Abbott group of companies",
+        "english": "Abbott\nAbbott\nXIENCE PRIME™\nEverolimus Eluting Coronary Stent System\nATM kPa\n8 971 2.45 mm\n9 1013 2.50 mm\n10 1013 2.55 mm\n11 1211 2.70 mm\n12 1211 2.75 mm\n13 1419 2.80 mm\n14 1419 2.85 mm\n15 1619 2.90 mm\n16 1619 2.95 mm\n17 1822 3.00 mm\n18 1822 3.05 mm\n19 1822 3.10 mm\n20 2027 3.20 mm\n21 2128 3.30 mm\n22 2228 3.40 mm\n23 2328 3.50 mm\nPOST DILATATION LIMIT 1.55 mm\n2.5 mm\n23 mm\n143 mm\nUDI\n3027-03-12\nLOT 4032141\n2.5 mm\n2.5 F / 0.98 mm\n0.38 mm\n2.4 F / 0.75 mm\n142 mm\nFLUSHING TOOL\nvascular stent abbot\n1440-46-4\n100 µg Everolimus\n100 µg/ml\nSTERILE\nMD 2797\n2024-05-13\nWPL213086G-11 (2023-10-17)\nAbbott Medical\n5500 Lantec Drive\nSanta Clara, CA 95054 USA\nTEL: (408) 227-0802\nFAX: (408) 227-0804\nOutside USA: TEL: +1 861-676-4600\nOutside USA FAX: +1 861-676-2021\nProduct of India\nAbbott Vascular International BVBA\nParis-LUX, Cuijkseweg 10\n1831 Diepen, BELGIUM\nTEL: +32 2 744 14 11\nFAX: +32 2 714 14 12\nAbbott Vascular Netherlands BV\nArgonaut 1, 8421 PH\nHeerlen\nThe Netherlands\nTEL: +31-(0)46-9403700\n* indicates a trademark of the Abbott group of companies"
+      },
+      "summary": "A product box for the Abbott XIENCE PRIME™ Everolimus Eluting Coronary Stent System, showing specifications, lot number, expiration date, and manufacturer details.",
+      "key_observations": [
+        "Product is a coronary stent system for medical use.",
+        "Stent size options listed from 8 to 23 mm.",
+        "Expiration date: 2024-05-13.",
+        "Lot number: 4032141.",
+        "Manufactured in India.",
+        "Contains 100 µg of Everolimus.",
+        "Packaging includes a diagram of the stent and flushing tool.",
+        "Date code: 3027-03-12 (likely manufacturing date)."
+      ],
+      "dates_found": [
+        "2024-05-13",
+        "2023-10-17"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2251,
+        "completion_tokens": 1581,
+        "total_duration_ms": 9177
+      }
+    },
+    {
+      "image_index": 10,
+      "source": "000009__BOCW_GJ_R3_2026040310046613__7a877f13-90de-4c5d-b2c8-c47d9bb0e2dd_compressed.pdf",
+      "page": 11,
+      "pages_total": 16,
+      "image_type": "Typed report",
+      "body_region": "Coronary arteries",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "PTCA report with stent deployment details and TIMI flow assessment",
+      "ocr": {
+        "language": "English",
+        "verbatim": "PTCA REPORT\nNAME : \nAGE / SEX : 63 Y / M\nIPD NO : 2234\nPROCEDURE PTCA : PCI (2 DES) TO OM 1\nROUTE - RIGHT RADIAL ROUTE\nPTCA : PCI (2 DES) TO OM 1\nGUIDE CATHETER : 6F 3.5 EBU\nGUIDE WIRE : RUNTHROUGH\nPRE - DILATATION : 2.5 *15 MM AT 15 ATM FOR 20 SEC\nSTENT : : 2.5 *23 MM XIENCE PRIME AT 12 ATM FOR 20 SEC (OVER LAPED)\n : 2.5 *28 MM XIENCE PRIME AT 12 ATM FOR 20 SEC\nPOST DILATATION : 3.0 * 15 MM PIPIT NC AT 15 ATM FOR 20 SEC .\nGOOD END RESULT TIMI - 3 FLOW\nThere is 5%-6% chances of stent thrombosis / re-stenosis in first year and 1%-2% thereafter.\n\nXIENCE PRIME™\n2.5 mm x 23 mm\n(01) 0 8717548 12347 4\n(17) 270312 (10) 4032141 (01) 5060\nEXP 2027-03-12\nREF 1011707-23\nLOT 4032141\n\nXIENCE PRIME™\n2.5 mm x 28 mm\n(01) 0 8717548 12348 1\n(17) 261205 (10) 3121441 (01) 5481\nEXP 2026-12-05\nREF 1011707-28\nLOT 3121441\n\nMonday to Saturday : 10-00 am to 6-00 pm\nFor Emergency Mo.",
+        "english": "PTCA REPORT\nNAME : \nAGE / SEX : 63 Y / M\nIPD NO : 2234\nPROCEDURE PTCA : PCI (2 DES) TO OM 1\nROUTE - RIGHT RADIAL ROUTE\nPTCA : PCI (2 DES) TO OM 1\nGUIDE CATHETER : 6F 3.5 EBU\nGUIDE WIRE : RUNTHROUGH\nPRE - DILATATION : 2.5 *15 MM AT 15 ATM FOR 20 SEC\nSTENT : : 2.5 *23 MM XIENCE PRIME AT 12 ATM FOR 20 SEC (OVER LAPED)\n : 2.5 *28 MM XIENCE PRIME AT 12 ATM FOR 20 SEC\nPOST DILATATION : 3.0 * 15 MM PIPIT NC AT 15 ATM FOR 20 SEC .\nGOOD END RESULT TIMI - 3 FLOW\nThere is 5%-6% chances of stent thrombosis / re-stenosis in first year and 1%-2% thereafter.\n\nXIENCE PRIME™\n2.5 mm x 23 mm\n(01) 0 8717548 12347 4\n(17) 270312 (10) 4032141 (01) 5060\nEXP 2027-03-12\nREF 1011707-23\nLOT 4032141\n\nXIENCE PRIME™\n2.5 mm x 28 mm\n(01) 0 8717548 12348 1\n(17) 261205 (10) 3121441 (01) 5481\nEXP 2026-12-05\nREF 1011707-28\nLOT 3121441\n\nMonday to Saturday : 10-00 am to 6-00 pm\nFor Emergency Mo."
+      },
+      "summary": "This is a typed PTCA (Percutaneous Transluminal Coronary Angioplasty) report detailing a PCI procedure with two drug-eluting stents deployed in the OM1 artery. The report includes catheter and guide wire details, pre- and post-dilatation parameters, stent specifications, and a TIMI flow grade of 3. It also notes the risk of stent thrombosis and re-stenosis.",
+      "key_observations": [
+        "Procedure: PCI with two XIENCE PRIME stents deployed in OM1",
+        "Stent sizes: 2.5*23 mm and 2.5*28 mm",
+        "TIMI flow grade: 3 (good end result)",
+        "Procedure date: 03/04/2026",
+        "Stent expiration dates: 2027-03-12 and 2026-12-05",
+        "Patient age/sex: 63 Y / M"
+      ],
+      "dates_found": [
+        "03/04/2026",
+        "2027-03-12",
+        "2026-12-05"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2251,
+        "completion_tokens": 1333,
+        "total_duration_ms": 7795
+      }
+    },
+    {
+      "image_index": 11,
+      "source": "000009__BOCW_GJ_R3_2026040310046613__7a877f13-90de-4c5d-b2c8-c47d9bb0e2dd_compressed.pdf",
+      "page": 12,
+      "pages_total": 16,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "N/A",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Fluoroscopic image with cath-lab UI overlays and vessel structures",
+      "ocr": {
+        "language": "English",
+        "verbatim": "UC003043\nM\n063Y\nVI3CATH\n24/26\nFLUORO",
+        "english": "UC003043\nM\n063Y\nVI3CATH\n24/26\nFLUORO"
+      },
+      "summary": "A fluoroscopic image from a cath-lab monitor showing the left coronary artery tree with a guidewire or catheter in place. Patient is male, 63 years old. Image is frame 24 of 26 in a sequence.",
+      "key_observations": [
+        "Fluoroscopic image of the coronary arteries",
+        "Guidewire or catheter visible within the vessel",
+        "Patient age: 63 years (M)",
+        "Image number: 24/26",
+        "Cath-lab UI elements visible (VI3CATH, FLUORO)"
+      ],
+      "dates_found": [],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2251,
+        "completion_tokens": 295,
+        "total_duration_ms": 2741
+      }
+    },
+    {
+      "image_index": 12,
+      "source": "000009__BOCW_GJ_R3_2026040310046613__7a877f13-90de-4c5d-b2c8-c47d9bb0e2dd_compressed.pdf",
+      "page": 13,
+      "pages_total": 16,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "RAO / Caudal",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Guidewire visible in vessel lumen",
+      "ocr": {
+        "language": "English",
+        "verbatim": "UC003043\nM\n063Y\nVI3CATH\n42/300\nFLUORO",
+        "english": "UC003043\nM\n063Y\nVI3CATH\n42/300\nFLUORO"
+      },
+      "summary": "Fluoroscopic image from a cath-lab monitor showing a guidewire within the coronary vasculature, likely during an interventional procedure. Patient is male, 63 years old. Image is a RAO/Caudal view from a Siemens Axiom Artis system.",
+      "key_observations": [
+        "A guidewire is visible within a coronary vessel.",
+        "Patient identifier: UC003043, Male, 63 years old.",
+        "Image is a fluoroscopic frame from a cath-lab monitor.",
+        "View is RAO/Caudal (42/300 frame number).",
+        "System: VI3CATH, FLUORO (Siemens Axiom Artis)"
+      ],
+      "dates_found": [],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2251,
+        "completion_tokens": 324,
+        "total_duration_ms": 2479
+      }
+    },
+    {
+      "image_index": 13,
+      "source": "000009__BOCW_GJ_R3_2026040310046613__7a877f13-90de-4c5d-b2c8-c47d9bb0e2dd_compressed.pdf",
+      "page": 14,
+      "pages_total": 16,
+      "image_type": "Chest X-Ray",
+      "body_region": "Chest (PA)",
+      "modality_view": "PA",
+      "stage_of_care": "n/a",
+      "stage_evidence": "No procedural devices or contrast media visible; diagnostic image",
+      "ocr": {
+        "language": "English",
+        "verbatim": "63Y/M 04-04-2026-11 000Y 4/4/2026",
+        "english": "63Y/M 04-04-2026-11 000Y 4/4/2026"
+      },
+      "summary": "A frontal chest X-ray showing the thoracic cage, lungs, and heart silhouette. The image is held by a hand and displays patient demographic and date information at the bottom.",
+      "key_observations": [
+        "Patient age and gender: 63 years, male (63Y/M)",
+        "Date of image acquisition: 04-04-2026",
+        "Image orientation marker 'R' visible in top left corner",
+        "Image appears to be a standard posteroanterior (PA) view",
+        "Partial view of background environment including a fire extinguisher"
+      ],
+      "dates_found": [
+        "04/04/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": [
+          "Image is a photograph of a physical X-ray film, not a direct digital scan",
+          "Partial view of background environment",
+          "Text at bottom is partially obscured by red pixelation"
+        ]
+      },
+      "_usage": {
+        "prompt_tokens": 2251,
+        "completion_tokens": 338,
+        "total_duration_ms": 2342
+      }
+    },
+    {
+      "image_index": 14,
+      "source": "000009__BOCW_GJ_R3_2026040310046613__7a877f13-90de-4c5d-b2c8-c47d9bb0e2dd_compressed.pdf",
+      "page": 15,
+      "pages_total": 16,
+      "image_type": "Stamp/Signature",
+      "body_region": "N/A",
+      "modality_view": "N/A",
+      "stage_of_care": "n/a",
+      "stage_evidence": "N/A",
+      "ocr": {
+        "language": "English",
+        "verbatim": "XIENCE PRIME™\n2.5 mm x 23 mm\n(01) 0 8717648 12347 4\n(17) 270312 (10) 4032141 (91) 5060\n2027-03-12\nREF 1011707-23\nLOT 4032141\nRX\nXIENCE PRIME™\n2.5 mm x 28 mm\n(01) 0 8717648 12348 1\n(17) 261205 (10) 3121441 (91) 5481\n2026-12-05\nREF 1011707-28\nLOT 3121441\nRX",
+        "english": "XIENCE PRIME™\n2.5 mm x 23 mm\n(01) 0 8717648 12347 4\n(17) 270312 (10) 4032141 (91) 5060\n2027-03-12\nREF 1011707-23\nLOT 4032141\nRX\nXIENCE PRIME™\n2.5 mm x 28 mm\n(01) 0 8717648 12348 1\n(17) 261205 (10) 3121441 (91) 5481\n2026-12-05\nREF 1011707-28\nLOT 3121441\nRX"
+      },
+      "summary": "Two product labels for XIENCE PRIME™ coronary stents, showing specifications, barcodes, reference numbers, lot numbers, and expiration dates.",
+      "key_observations": [
+        "Two identical stent labels for XIENCE PRIME™, one 2.5 mm x 23 mm and the other 2.5 mm x 28 mm.",
+        "Expiration dates: 2027-03-12 and 2026-12-05.",
+        "Lot numbers: 4032141 and 3121441.",
+        "Reference numbers: 1011707-23 and 1011707-28.",
+        "Both labels have an 'RX' symbol indicating prescription drug status."
+      ],
+      "dates_found": [
+        "2027-03-12",
+        "2026-12-05",
+        "2024-03-13",
+        "2023-12-06"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2251,
+        "completion_tokens": 743,
+        "total_duration_ms": 5688
+      }
+    },
+    {
+      "image_index": 15,
+      "source": "000009__BOCW_GJ_R3_2026040310046613__7a877f13-90de-4c5d-b2c8-c47d9bb0e2dd_compressed.pdf",
+      "page": 16,
+      "pages_total": 16,
+      "image_type": "Typed report",
+      "body_region": "Chest",
+      "modality_view": "A/P",
+      "stage_of_care": "n/a",
+      "stage_evidence": "Clinical report describing findings from a chest X-ray",
+      "ocr": {
+        "language": "English",
+        "verbatim": "PATIENT NAME: REF BY: MD DNB CARDIO DATE: 04/04/2026 X-RAY CHEST A/P VIEW • No pneumothorax. • Both lung fields show prominent bronchovascular markings. • No collapse, consolidation cavity or mass lesion seen. • No active Koch's lesion seen. • Cardiac shadow normal. • Both hila appear normal. • Both domes normal. • Both costophrenic angles clear. • Bony ribs under vision no displaced fracture SUGGEST: clinical correlation. Thanks for reference. M.D. RE -17187 M.D. Consultant Radiologist & Sonologist Ex. Asst. Professor, Civil Hosp. A'bad Subject to Polanpur Jurisdiction Only | Not Valid for any Medico Legal Purpose",
+        "english": "PATIENT NAME: REF BY: MD DNB CARDIO DATE: 04/04/2026 X-RAY CHEST A/P VIEW • No pneumothorax. • Both lung fields show prominent bronchovascular markings. • No collapse, consolidation cavity or mass lesion seen. • No active Koch's lesion seen. • Cardiac shadow normal. • Both hila appear normal. • Both domes normal. • Both costophrenic angles clear. • Bony ribs under vision no displaced fracture SUGGEST: clinical correlation. Thanks for reference. M.D. RE -17187 M.D. Consultant Radiologist & Sonologist Ex. Asst. Professor, Civil Hosp. A'bad Subject to Polanpur Jurisdiction Only | Not Valid for any Medico Legal Purpose"
+      },
+      "summary": "This is a typed radiology report for an X-ray chest A/P view dated 04/04/2026. The report lists findings including no pneumothorax, prominent bronchovascular markings, no collapse or mass lesions, normal cardiac shadow, and no displaced fractures. It suggests clinical correlation and includes the radiologist's signature and credentials.",
+      "key_observations": [
+        "Report is for an X-ray chest A/P view dated 04/04/2026.",
+        "Findings include no pneumothorax, prominent bronchovascular markings, and no active Koch's lesion.",
+        "Normal cardiac shadow, hila, domes, and costophrenic angles reported.",
+        "Report suggests clinical correlation and includes radiologist's signature and credentials.",
+        "Document contains redaction and disclaimer text."
+      ],
+      "dates_found": [
+        "04/04/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2251,
+        "completion_tokens": 621,
+        "total_duration_ms": 4108
+      }
+    },
+    {
+      "image_index": 16,
+      "source": "000012__BOCW_GJ_R3_2026040310046613__4d079c0c-a8a0-417e-87aa-6f277f84fa5a.jpg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Typed report",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Handwritten annotations on angiography diagram, including 'PCI (2DER) Lead > 0.04mm' and '95% lesion' annotations",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Report of Coronary Angiography\nM.D. (Medicine)\nDNB (Cardiology)\nEx. Cardiologist : Sal Hospital, Ahmedabad\nEx. Physician : Lions Hospital, Palanpur\nName\nAge: 63\nSex: Male\nDone by Dr.\nI.P. No. UT-2234\nMRD No.\nCATH No. UC-3042\nDate: 03/04/2026\nNon dominant\n99% lesion\nplaque\nplaque\nOM\n95% lesion\nLAD\nCath No. UC-3042\nRAO\nComments:\nD= Acs: NSTEMI\nCAG: SVD (lesion length 5.5mm)\nPCI: PCT (2DER) Lead > 0.04mm\nCardiologist",
+        "english": "Report of Coronary Angiography\nM.D. (Medicine)\nDNB (Cardiology)\nEx. Cardiologist : Sal Hospital, Ahmedabad\nEx. Physician : Lions Hospital, Palanpur\nName\nAge: 63\nSex: Male\nDone by Dr.\nI.P. No. UT-2234\nMRD No.\nCATH No. UC-3042\nDate: 03/04/2026\nNon dominant\n99% lesion\nplaque\nplaque\nOM\n95% lesion\nLAD\nCath No. UC-3042\nRAO\nComments:\nD= Acs: NSTEMI\nCAG: SVD (lesion length 5.5mm)\nPCI: PCT (2DER) Lead > 0.04mm\nCardiologist"
+      },
+      "summary": "A hand-drawn schematic of a coronary angiography report showing annotations of coronary artery lesions and a PCI procedure. The patient is a 63-year-old male. The report indicates a 99% lesion in the non-dominant artery, a 95% lesion in the OM branch, and a 95% lesion in the LAD. The PCI procedure was performed with a 2DER lead > 0.04mm.",
+      "key_observations": [
+        "Hand-drawn schematic of coronary arteries with annotations of lesions (99% and 95%)",
+        "Annotations indicate PCI procedure with '2DER' lead > 0.04mm",
+        "Patient age: 63, male",
+        "Date of procedure: 03/04/2026",
+        "Report includes 'NSTEMI' and 'SVD (lesion length 5.5mm)' findings"
+      ],
+      "dates_found": [
+        "03/04/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2324,
+        "completion_tokens": 715,
+        "total_duration_ms": 4618
+      }
+    },
+    {
+      "image_index": 17,
+      "source": "000032__BOCW_GJ_R3_2026040310046613__1b2c9239-9dfc-4dd3-9d47-7e4ba5e6e498.jpg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Typed report",
+      "body_region": "Coronary tree",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "ADV: PCI (2 DES) LCX to OM 1",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Dr. Niles H. Patel (Gami)\nM.D. (Medicine)\nDNB (Cardiology)\nEx. Cardiologist : Sal Hospital, Ahmedabad\nEx. Physician : Lions Hospital, Palanour\nNAME:\nIP NO: UI-2234\nOPERATOR: DR.\nDIAGNOSIS : ACS: NSTEMI\nPROCEDURE : CAG\nROUTE : RIGHT FEMORAL ROUTE\nHAEMODYNAMIC DATA : AO PRESSURE 120 / 80 MMHG\nLMCA : NORMAL\nLAD : PROXIMAL 50 % PLAQUE, MID NORMAL , DISTAL NORMAL\nDIAG.1: NORMAL\nDIAG 2: NORMAL\nLCX: PROXIMAL PLAQUE , DISTAL NORMAL\nOM 1: 95 % LESION (> 50 MM LESION LENGTH) L-PDA NORMAL\nRCA : NON DOMINANT, PROXIMAL 99 % LESION , MID NORMAL ,\nDISTAL NORMAL ,\nCAG : SVD\nADV: PCI (2 DES ) LCX TO OM 1\nMonday to Saturday : 10-00 am to 6-00 pm\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+      },
+      "_usage": {
+        "prompt_tokens": 2284,
+        "completion_tokens": 4096,
+        "total_duration_ms": 23781
+      }
+    },
+    {
+      "image_index": 18,
+      "source": "000034__BOCW_GJ_R3_2026040310046613__6a9b3b4f-b9f3-4acc-a421-2ca8e45b37c6_compressed.pdf",
+      "page": 1,
+      "pages_total": 6,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "N/A",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Cath-lab monitor UI with 'VI3CATH' and 'CINE' overlay; guidewire visible in vessel",
+      "ocr": {
+        "language": "English",
+        "verbatim": "UC003042\nM\n063Y\nVI3CATH\n31/65\nCINE",
+        "english": "UC003042\nM\n063Y\nVI3CATH\n31/65\nCINE"
+      },
+      "summary": "A fluoroscopic image from a cath-lab monitor showing a coronary angiogram of the left coronary system with a guidewire in place. The patient is a 63-year-old male. This is frame 31 of 65 in a cine sequence.",
+      "key_observations": [
+        "Coronary angiogram image displayed on a Samsung monitor",
+        "Guidewire visible within the coronary vessel",
+        "Patient identifier: Male, 63 years old",
+        "Frame number: 31/65 (Cine sequence)",
+        "Cath-lab UI elements visible (VI3CATH, CINE)"
+      ],
+      "dates_found": [],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2249,
+        "completion_tokens": 308,
+        "total_duration_ms": 2897
+      }
+    },
+    {
+      "image_index": 19,
+      "source": "000034__BOCW_GJ_R3_2026040310046613__6a9b3b4f-b9f3-4acc-a421-2ca8e45b37c6_compressed.pdf",
+      "page": 2,
+      "pages_total": 6,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "N/A",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Catheter and guidewire visible within coronary arteries",
+      "ocr": {
+        "language": "English",
+        "verbatim": "UC003042\nM\n063Y\nVI3CATH\n29/43\nCINE",
+        "english": "UC003042\nM\n063Y\nVI3CATH\n29/43\nCINE"
+      },
+      "summary": "A fluoroscopic image from a cath-lab monitor showing a coronary angiogram of the left coronary system with a catheter and guidewire in place.",
+      "key_observations": [
+        "Coronary arteries visualized with contrast",
+        "Catheter and guidewire present within the vessel lumen",
+        "Monitor UI elements visible: case ID, patient age (063Y), catheter type (VI3CATH), frame number (29/43), and cine mode",
+        "Image is a photograph of a monitor screen"
+      ],
+      "dates_found": [],
+      "image_quality": {
+        "rating": "fair",
+        "limitations": [
+          "Image is a photograph of a monitor screen, not a direct radiograph",
+          "Partial view of the heart and vessels",
+          "Low contrast and grainy appearance"
+        ]
+      },
+      "_usage": {
+        "prompt_tokens": 2249,
+        "completion_tokens": 311,
+        "total_duration_ms": 2638
+      }
+    },
+    {
+      "image_index": 20,
+      "source": "000034__BOCW_GJ_R3_2026040310046613__6a9b3b4f-b9f3-4acc-a421-2ca8e45b37c6_compressed.pdf",
+      "page": 3,
+      "pages_total": 6,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "N/A",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Cine frame (33/65) with catheter overlay (VI3CATH) and angiographic UI",
+      "ocr": {
+        "language": "English",
+        "verbatim": "UC003042\nM\n063Y\nVI3CATH\n33/65\nCINE",
+        "english": "UC003042\nM\n063Y\nVI3CATH\n33/65\nCINE"
+      },
+      "summary": "A fluoroscopic image from a cath-lab monitor showing a left coronary angiogram in cine mode (frame 33 of 65). A catheter (VI3CATH) is visible within the coronary vasculature. Patient identifier is partially redacted.",
+      "key_observations": [
+        "Coronary angiogram image displayed on a monitor",
+        "Cine sequence frame 33/65",
+        "Catheter labeled VI3CATH visible in vessel",
+        "Patient identifier UC003042 with age 63Y",
+        "UI panel with standard angiography controls visible"
+      ],
+      "dates_found": [],
+      "image_quality": {
+        "rating": "good",
+        "limitations": [
+          "Image is a photograph of a monitor screen",
+          "Partial redaction of patient identifier",
+          "Standard cath-lab UI overlays present"
+        ]
+      },
+      "_usage": {
+        "prompt_tokens": 2249,
+        "completion_tokens": 333,
+        "total_duration_ms": 2735
+      }
+    },
+    {
+      "image_index": 21,
+      "source": "000034__BOCW_GJ_R3_2026040310046613__6a9b3b4f-b9f3-4acc-a421-2ca8e45b37c6_compressed.pdf",
+      "page": 4,
+      "pages_total": 6,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "N/A",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Cine sequence indicator '33/65 CINE' visible",
+      "ocr": {
+        "language": "English",
+        "verbatim": "UC003042\nM\n063Y\nVI3CATH\n33/65\nCINE",
+        "english": "UC003042\nM\n063Y\nVI3CATH\n33/65\nCINE"
+      },
+      "summary": "A fluoroscopic image from a cath-lab monitor showing a coronary angiogram of the left coronary system. The image is part of a cine sequence (frame 33 of 65). Patient identifier and catheter type are visible on screen.",
+      "key_observations": [
+        "Coronary artery tree visualized with contrast medium",
+        "Left coronary system anatomy shown",
+        "Cine sequence indicator '33/65 CINE' confirms intra-procedure capture",
+        "Patient identifier 'M 063Y' and catheter type 'VI3CATH' displayed on screen"
+      ],
+      "dates_found": [],
+      "image_quality": {
+        "rating": "good",
+        "limitations": [
+          "Image is a photograph of a monitor screen",
+          "Redaction bars obscure patient identifier and other data",
+          "Low resolution due to screen capture"
+        ]
+      },
+      "_usage": {
+        "prompt_tokens": 2249,
+        "completion_tokens": 322,
+        "total_duration_ms": 2478
+      }
+    },
+    {
+      "image_index": 22,
+      "source": "000034__BOCW_GJ_R3_2026040310046613__6a9b3b4f-b9f3-4acc-a421-2ca8e45b37c6_compressed.pdf",
+      "page": 5,
+      "pages_total": 6,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "N/A",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Fluoroscopic image with cath-lab UI overlays and vessel opacification",
+      "ocr": {
+        "language": "English",
+        "verbatim": "UC003042\nM\n063Y\nV13CATH\n24/40\nCINE\nSAMSUNG",
+        "english": "UC003042\nM\n063Y\nV13CATH\n24/40\nCINE\nSAMSUNG"
+      },
+      "summary": "A fluoroscopic image from a cath-lab monitor showing a left coronary angiogram with vessel opacification. UI overlays indicate patient ID, age, catheter type, and cine frame number.",
+      "key_observations": [
+        "Coronary artery tree visible with contrast opacification",
+        "Patient age: 63 years (063Y)",
+        "Catheter type: V13CATH",
+        "Frame 24 of 40 in a cine sequence",
+        "Monitor brand: SAMSUNG"
+      ],
+      "dates_found": [],
+      "image_quality": {
+        "rating": "good",
+        "limitations": [
+          "Photograph of a monitor screen",
+          "Partial redaction of patient identifiers",
+          "Low resolution due to photographing a screen"
+        ]
+      },
+      "_usage": {
+        "prompt_tokens": 2249,
+        "completion_tokens": 317,
+        "total_duration_ms": 2200
+      }
+    },
+    {
+      "image_index": 23,
+      "source": "000034__BOCW_GJ_R3_2026040310046613__6a9b3b4f-b9f3-4acc-a421-2ca8e45b37c6_compressed.pdf",
+      "page": 6,
+      "pages_total": 6,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "N/A",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Cath-lab monitor UI with 'VI3CATH' and 'CINE' overlay; vessel structures with contrast opacification",
+      "ocr": {
+        "language": "English",
+        "verbatim": "UC003042\nM\n063Y\nVI3CATH\n26/41\nCINE",
+        "english": "UC003042\nM\n063Y\nVI3CATH\n26/41\nCINE"
+      },
+      "summary": "A fluoroscopic image from a cath-lab monitor showing a coronary angiogram of the left coronary system with contrast opacification. The UI overlay indicates patient gender (M), age (063Y), and frame number (26/41) in a cine sequence.",
+      "key_observations": [
+        "Coronary angiogram showing left coronary artery tree with contrast-filled vessels",
+        "Monitor UI overlay with patient identifier 'M 063Y' and sequence info '26/41 CINE'",
+        "Image captured during an interventional procedure (intra-procedure stage)",
+        "Device or guidewire not clearly visible within the vessel lumen"
+      ],
+      "dates_found": [],
+      "image_quality": {
+        "rating": "good",
+        "limitations": [
+          "Image is a photograph of a monitor screen, not a direct radiograph",
+          "Partial view of the screen with red bars obscuring some UI elements",
+          "Low contrast in vessel structures due to grayscale display"
+        ]
+      },
+      "_usage": {
+        "prompt_tokens": 2249,
+        "completion_tokens": 364,
+        "total_duration_ms": 3596
+      }
+    }
+  ]
+}

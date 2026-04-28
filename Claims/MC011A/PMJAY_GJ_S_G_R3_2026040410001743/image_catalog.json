@@ -1,0 +1,158 @@
+{
+  "claim_id": "PMJAY_GJ_S_G_R3_2026040410001743",
+  "package": "MC011A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 4,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000160__PMJAY_GJ_S_G_R3_2026040410001743__PTCA_IMAGE.jpeg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "RAO 40° / CAUD 35°, LAO 40° / CRAN 2°, LAO 41° / CRAN 1°, RAO 2° / CRAN 45°",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Stent visible in one frame, 'Stenosis 99%' annotation, multiple angiographic views",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Series 3\nImage 30 / 59\n04-Apr-2026, 11:07 AM\nStenosis 99%\nLAO 40°\nCRAN 2°\nSeries 26\nImage 22 / 40\n04-Apr-2026, 11:33 AM\nStent\nLAO 41°\nCRAN 1°\nSeries 1\nImage 30 / 58\n04-Apr-2026, 11:06 AM\nRAO 40°\nCAUD 35°\nSeries 2\nImage 27 / 53\n04-Apr-2026, 11:06 AM\nRAO 2°\nCRAN 45°\nStudy Date: 04-Apr-2026",
+        "english": "Series 3\nImage 30 / 59\n04-Apr-2026, 11:07 AM\nStenosis 99%\nLAO 40°\nCRAN 2°\nSeries 26\nImage 22 / 40\n04-Apr-2026, 11:33 AM\nStent\nLAO 41°\nCRAN 1°\nSeries 1\nImage 30 / 58\n04-Apr-2026, 11:06 AM\nRAO 40°\nCAUD 35°\nSeries 2\nImage 27 / 53\n04-Apr-2026, 11:06 AM\nRAO 2°\nCRAN 45°\nStudy Date: 04-Apr-2026"
+      },
+      "summary": "A cath-lab monitor displays four fluoroscopic frames from a coronary angiogram procedure performed on April 4, 2026. The images show the coronary arteries from multiple oblique views, including one frame highlighting a 99% stenosis and another showing a stent deployed.",
+      "key_observations": [
+        "Four angiographic frames from a coronary procedure, dated April 4, 2026.",
+        "Annotations indicate 'Stenosis 99%' and 'Stent' in separate frames.",
+        "Multiple projection angles are shown: LAO 40°/CRAN 2°, LAO 41°/CRAN 1°, RAO 40°/CAUD 35°, and RAO 2°/CRAN 45°.",
+        "Image metadata includes series numbers, image numbers, and timestamps."
+      ],
+      "dates_found": [
+        "04/04/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": [
+          "Photograph of a monitor screen, not a direct medical image",
+          "UI elements from print preview software visible on left side"
+        ]
+      },
+      "_usage": {
+        "prompt_tokens": 1857,
+        "completion_tokens": 805,
+        "total_duration_ms": 5569
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000162__PMJAY_GJ_S_G_R3_2026040410001743__PTCA_REPORT_001.jpg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Typed report",
+      "body_region": "Coronary tree — right coronary artery (RCA)",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Report details 'SUCCESSFUL PTCA TO RCA DONE (1-DES)' and 'TIMI-III FLOW ACHIEVED'",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Patient's Name : \nRegd. No. : H28271\nProcedure No. : \n\nPTCA REPORT\n\nANGIO NO: C/16481\nB.P.: 135/70 MMHG\nSPO2: 98% ON ROOM\n\nCLINICAL PROFILE : IWM I, CAD-SVD\nROUTE AND VESSEL: TRANSRADIAL / RCA\n\nLESION TYPE: DISTAL PART SHOWS 99% LESION (LESION LENGTH 18mm)\nGUIDING CATHETER: 6F JR 3.0\nGUIDEWIRE: RUNTHROUGH NS EXTRA FLOPPY\nPREDIALATION : NOT DONE\nSTENT : INSIGNIA NEO 3.50X20mm @ 12 ATM\nPOST DIALATION : APOLLO 3.50X12mm @ 18 ATM\nREMARKS : TIMI-III FLOW ACHIEVED\n\nSUCCESSFUL PTCA TO RCA DONE (1-DES)\n\nDIAGNOSIS: IWM I, CAD-SVD , PRIMARY PCI TO RCA (1-DES)\n\nRECOMMENDATION: REGULAR MEDICINES & FOLLOW UP\n\nMD,DNB (CARDIOLOGY)\n\nINSIGNIA NEO\nSIZE 3.50 x 20\nEXPIRY 2028-08-26\nSN N35020IS2804004\nLOT IS2804\n\n(DM CARDIOLOGY)",
+        "english": "Patient's Name : \nRegd. No. : H28271\nProcedure No. : \n\nPTCA REPORT\n\nANGIO NO: C/16481\nB.P.: 135/70 MMHG\nSPO2: 98% ON ROOM\n\nCLINICAL PROFILE : IWM I, CAD-SVD\nROUTE AND VESSEL: TRANSRADIAL / RCA\n\nLESION TYPE: DISTAL PART SHOWS 99% LESION (LESION LENGTH 18mm)\nGUIDING CATHETER: 6F JR 3.0\nGUIDEWIRE: RUNTHROUGH NS EXTRA FLOPPY\nPREDIALATION : NOT DONE\nSTENT : INSIGNIA NEO 3.50X20mm @ 12 ATM\nPOST DIALATION : APOLLO 3.50X12mm @ 18 ATM\nREMARKS : TIMI-III FLOW ACHIEVED\n\nSUCCESSFUL PTCA TO RCA DONE (1-DES)\n\nDIAGNOSIS: IWM I, CAD-SVD , PRIMARY PCI TO RCA (1-DES)\n\nRECOMMENDATION: REGULAR MEDICINES & FOLLOW UP\n\nMD,DNB (CARDIOLOGY)\n\nINSIGNIA NEO\nSIZE 3.50 x 20\nEXPIRY 2028-08-26\nSN N35020IS2804004\nLOT IS2804\n\n(DM CARDIOLOGY)"
+      },
+      "summary": "This is a typed PTCA (Percutaneous Transluminal Coronary Angioplasty) report for a 56-year-old female patient. The procedure was successfully performed via transradial access on the right coronary artery (RCA) to treat a 99% stenosis. A stent and balloon were deployed, achieving TIMI-III flow. The report includes patient details, procedure specifics, and a recommendation for follow-up.",
+      "key_observations": [
+        "Patient is a 56-year-old female.",
+        "Procedure: Successful PTCA on the RCA using a 1-DES stent.",
+        "Lesion: 99% stenosis in the distal RCA, 18mm in length.",
+        "Stent deployed: Insignia Neo 3.50x20mm at 12 ATM.",
+        "Balloon used: Apollo 3.50x12mm at 18 ATM.",
+        "Flow achieved: TIMI-III.",
+        "Diagnosis: IWM I, CAD-SVD, Primary PCI to RCA (1-DES).",
+        "Recommendation: Regular medicines and follow-up."
+      ],
+      "dates_found": [
+        "04/04/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2261,
+        "completion_tokens": 1063,
+        "total_duration_ms": 6822
+      }
+    },
+    {
+      "image_index": 2,
+      "source": "000171__PMJAY_GJ_S_G_R3_2026040410001743__CAG_REPORT_001.jpg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Typed report",
+      "body_region": "Coronary tree",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Report includes diagnosis and recommendation for PCI, indicating procedure completion.",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Patient's Name : \nRegd. No. : H28271\nProcedure No. : \nGender/Age : Female / 56 Yrs\nI.P.D. No. *: IP/11601\nDate : 04/04/2026\nDEPARTMENT OF CARDIOLOGY - CORONARY ANGIOGRAPHY REPORT\nANGIO NO: C/16480\nCLINICAL PROFILE: IWMI\nCATHETER USED: 5F TIGER\nAPPROACH: TRANSRADIAL\nCONTRAST: IOHEXOL\nCORONARY ANATOMY:\nLMCA: NORMAL\nLAD: DISTAL PART SHOWS MYOCARDIAL BRIDGE, PROXIMAL & MID PART IS NORMAL\nDIAGONAL: NORMAL\nLCX : NORMAL\nOM: NORMAL\nRCA: DOMINANT & DISTAL PART SHOWS 99% LESION (LESION LENGTH 18mm), PROXIMAL & MID PART IS NORMAL\nPDA & PLV : NORMAL\nDIAGNOSIS: IWMI, CAD-SVD\nRECOMMENDATION:\nPRIMARY PCI TO RCA (1-DES)\nMD, DNB , (CARDIOLOGY)\nMD, D.M. (CARDIOLOGY)",
+        "english": "Patient's Name :\nRegd. No. : H28271\nProcedure No. :\nGender/Age : Female / 56 Yrs\nI.P.D. No. *: IP/11601\nDate : 04/04/2026\nDEPARTMENT OF CARDIOLOGY - CORONARY ANGIOGRAPHY REPORT\nANGIO NO: C/16480\nCLINICAL PROFILE: IWMI\nCATHETER USED: 5F TIGER\nAPPROACH: TRANSRADIAL\nCONTRAST: IOHEXOL\nCORONARY ANATOMY:\nLMCA: NORMAL\nLAD: DISTAL PART SHOWS MYOCARDIAL BRIDGE, PROXIMAL & MID PART IS NORMAL\nDIAGONAL: NORMAL\nLCX : NORMAL\nOM: NORMAL\nRCA: DOMINANT & DISTAL PART SHOWS 99% LESION (LESION LENGTH 18mm), PROXIMAL & MID PART IS NORMAL\nPDA & PLV : NORMAL\nDIAGNOSIS: IWMI, CAD-SVD\nRECOMMENDATION:\nPRIMARY PCI TO RCA (1-DES)\nMD, DNB , (CARDIOLOGY)\nMD, D.M. (CARDIOLOGY)"
+      },
+      "summary": "This is a typed coronary angiography report for a 56-year-old female patient. The report details the clinical profile, catheter used, and findings of the coronary anatomy, including a 99% lesion in the distal RCA. The diagnosis is IWMI and CAD-SVD, with a recommendation for primary PCI to the RCA.",
+      "key_observations": [
+        "Patient is a 56-year-old female.",
+        "Coronary anatomy findings: LMCA, LAD, LCX, OM, PDA & PLV are normal except for a 99% lesion in the distal RCA (18mm length).",
+        "Diagnosis: IWMI (Inferior Wall Myocardial Infarction) and CAD-SVD (Coronary Artery Disease - Single Vessel Disease).",
+        "Recommendation: Primary PCI to RCA (1-DES)."
+      ],
+      "dates_found": [
+        "04/04/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2261,
+        "completion_tokens": 854,
+        "total_duration_ms": 5886
+      }
+    },
+    {
+      "image_index": 3,
+      "source": "000173__PMJAY_GJ_S_G_R3_2026040410001743__CAG_IMAGE.jpeg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "RAO 40° / CAUD 35°, LAO 40° / CRAN 2°, LAO 41° / CRAN 1°, RAO 2° / CRAN 45°",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Stent visible in Series 26, Stenosis 99% annotation in Series 3",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Series 3\nImage 30 / 59\n04-Apr-2026, 11:07 AM\nStenosis 99%\nLAO 40°\nCRAN 2°\nSeries 26\nImage 22 / 40\n04-Apr-2026, 11:33 AM\nStent\nLAO 41°\nCRAN 1°\nSeries 1\nImage 30 / 58\n04-Apr-2026, 11:06 AM\nRAO 40°\nCAUD 35°\nSeries 2\nImage 27 / 53\n04-Apr-2026, 11:06 AM\nRAO 2°\nCRAN 45°\nStudy Date: 04-Apr-2026",
+        "english": "Series 3\nImage 30 / 59\n04-Apr-2026, 11:07 AM\nStenosis 99%\nLAO 40°\nCRAN 2°\nSeries 26\nImage 22 / 40\n04-Apr-2026, 11:33 AM\nStent\nLAO 41°\nCRAN 1°\nSeries 1\nImage 30 / 58\n04-Apr-2026, 11:06 AM\nRAO 40°\nCAUD 35°\nSeries 2\nImage 27 / 53\n04-Apr-2026, 11:06 AM\nRAO 2°\nCRAN 45°\nStudy Date: 04-Apr-2026"
+      },
+      "summary": "A four-panel coronary angiogram display from a cath-lab monitor showing sequential images of the coronary arteries during a procedure. Images show a 99% stenosis and a deployed stent in different projections.",
+      "key_observations": [
+        "Four fluoroscopic images from a coronary angiogram procedure.",
+        "Image 30/59 (Series 3) shows a 99% stenosis in the left coronary system.",
+        "Image 22/40 (Series 26) shows a stent deployed in the same vessel.",
+        "Multiple projections: LAO 40°/CRAN 2°, LAO 41°/CRAN 1°, RAO 40°/CAUD 35°, RAO 2°/CRAN 45°.",
+        "Study date: 04-Apr-2026."
+      ],
+      "dates_found": [
+        "04/04/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": [
+          "Image is a photograph of a monitor screen, not a direct medical image."
+        ]
+      },
+      "_usage": {
+        "prompt_tokens": 1857,
+        "completion_tokens": 798,
+        "total_duration_ms": 5508
+      }
+    }
+  ]
+}

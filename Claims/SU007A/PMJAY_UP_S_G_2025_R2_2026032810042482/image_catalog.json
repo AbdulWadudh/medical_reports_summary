@@ -1,0 +1,150 @@
+{
+  "claim_id": "PMJAY_UP_S_G_2025_R2_2026032810042482",
+  "package": "SU007A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 4,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000245__PMJAY_UP_S_G_2025_R2_2026032810042482__GOVINDKUV.pdf",
+      "page": 1,
+      "pages_total": 2,
+      "image_type": "Typed report",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Clinical history mentions 'LT DJ STENT' and findings describe a 'well-positioned left double-J ureteral stent'.",
+      "ocr": {
+        "language": "English",
+        "verbatim": "PATIENT NAME : \nPROCEDURE DATE : 31/03/2026\nAGE/SEX : 33 YEAR/MALE\nREFERRING DR. :\n\nX-RAY KUBS\n\nCLINICAL HISTORY : LT DJ STENT\n\nFIDINGS:\nVisualized renal outlines are normal in size, shape,position and axis.\nWell-positioned left double-J ureteral stent in the Left flank.\n\nNo radio-opaque calcitacaton is seen in renal areas, hepatobiliary region or pancreatic area.\nBoth psoas shadows are normal and bilaterally symmetrical.\nNo abnormal soft tissue mass seen.\nLumbosacral spine is normal.\n\nIMPRESSION:\nNO RADIO-OPAQUE RENAL STONES OR GALL STONES SEEN.\nWell-positioned left double-J ureteral stent in the Left flank.\n\nPlease correlate clinically.\n\nEVERY TEST HAS ITS OWN INHERENT LIMITATIONS, THEREFORE IN CASE OF ANY DISCREPANCE WITH CLINICAL PROFILE, PLEASE INFORM TO CENTRE IMMEDIATELY.\nTiming : Monday to Saturday 08:00 AM to 08:00 PM, Sunday 8:00 AM to 04:00 PM\nइमर्जेंसी सेवा 24 घंटे उपलब्ध है !\nNot For Medico Legal Purpose",
+        "english": "PATIENT NAME :\nPROCEDURE DATE : 31/03/2026\nAGE/SEX : 33 YEAR/MALE\nREFERRING DR. :\n\nX-RAY KUBS\n\nCLINICAL HISTORY : LT DJ STENT\n\nFIDINGS:\nVisualized renal outlines are normal in size, shape,position and axis.\nWell-positioned left double-J ureteral stent in the Left flank.\n\nNo radio-opaque calcitacaton is seen in renal areas, hepatobiliary region or pancreatic area.\nBoth psoas shadows are normal and bilaterally symmetrical.\nNo abnormal soft tissue mass seen.\nLumbosacral spine is normal.\n\nIMPRESSION:\nNO RADIO-OPAQUE RENAL STONES OR GALL STONES SEEN.\nWell-positioned left double-J ureteral stent in the Left flank.\n\nPlease correlate clinically.\n\nEVERY TEST HAS ITS OWN INHERENT LIMITATIONS, THEREFORE IN CASE OF ANY DISCREPANCE WITH CLINICAL PROFILE, PLEASE INFORM TO CENTRE IMMEDIATELY.\nTiming : Monday to Saturday 08:00 AM to 08:00 PM, Sunday 8:00 AM to 04:00 PM\nइमर्जेंसी सेवा 24 घंटे उपलब्ध है !\nNot For Medico Legal Purpose"
+      },
+      "summary": "This is a typed radiology report for an X-ray KUB (Kidney, Ureter, Bladder) performed on a 33-year-old male on March 31, 2026. The report confirms the presence of a well-positioned left double-J ureteral stent and notes the absence of radio-opaque renal or gall stones. The renal outlines, psoas shadows, and lumbosacral spine are described as normal.",
+      "key_observations": [
+        "Patient is 33-year-old male, procedure date is 31/03/2026.",
+        "Left double-J ureteral stent is well-positioned in the left flank.",
+        "No radio-opaque renal or gall stones detected.",
+        "Renal outlines, psoas shadows, and lumbosacral spine are normal.",
+        "Report advises clinical correlation.",
+        "Contains disclaimer: 'Not For Medico Legal Purpose'."
+      ],
+      "dates_found": [
+        "31/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2228,
+        "completion_tokens": 977,
+        "total_duration_ms": 6543
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000245__PMJAY_UP_S_G_2025_R2_2026032810042482__GOVINDKUV.pdf",
+      "page": 2,
+      "pages_total": 2,
+      "image_type": "Abdominal X-Ray (KUB)",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "PA",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Urinary catheter visible in bladder",
+      "ocr": {
+        "language": "English",
+        "verbatim": "33 Y/M KUB 31-03-2026",
+        "english": "33 Y/M KUB 31-03-2026"
+      },
+      "summary": "Post-procedure KUB X-ray showing a urinary catheter in the bladder of a 33-year-old male, dated March 31, 2026.",
+      "key_observations": [
+        "A urinary catheter is visible, extending from the bladder to the perineum.",
+        "Spine and pelvic bones are clearly visualized.",
+        "Bladder appears distended with catheter tip within.",
+        "Image is labeled with patient age, gender, study type (KUB), and date."
+      ],
+      "dates_found": [
+        "31/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2228,
+        "completion_tokens": 262,
+        "total_duration_ms": 3291
+      }
+    },
+    {
+      "image_index": 2,
+      "source": "000249__PMJAY_UP_S_G_2025_R2_2026032810042482__GOVIND_IVP.pdf",
+      "page": 1,
+      "pages_total": 2,
+      "image_type": "Typed report",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Report describes post-contrast findings (e.g., '5 mts after contrast injection') and includes impression and advice.",
+      "ocr": {
+        "language": "English",
+        "verbatim": "NAME OF PATIENT :\nAGE SEX: 34Year/Male\nREF BY DR: SELF\nDATE: 21-03-2026\nPART OF INVESTIGATION X-RAY IVP\n\nX-RAY IVP STUDY\n\nA radiopaque shadow seen in Left Renal measuring 27X13 mm.\nRenal and psas shadows are partially obscured by bowel gases.\n\nSKIAGRAM INTRAVENOUS PYELOGRAPHY:-\n5 mts after contrast injection early exposure skiagram shows good nephrographic effect on both side Size shape and location of both kidneys are normal.\nNo e/o right hydronephrosis seen. No c/o left hydronephrosis.\n\nBilateral ureters appear normal in caliber.\nContrast filled urinary bladder is clearly outlined margins are regular. No filling defect or indentation seen.\n\nPost voiding skiagram shows no residual contrast .Noother abnormality seen.\n\nIMPRESSION:-LEFT RENAL CALCULUS .\n\nADVICE UROGRAM FOR BETTER EVALUATION.\n\nPlease correlatc clinically.\n\nEVERY TEST HAS ITS OWN INHERENT LIMITATIONS, THEREFORE IN CASE OF ANY DISCREPANCE WITH CLINICAL PROFILE, PLEASE INFORM TO CENTRE IMMEDIATELY.\nTiming : Monday to Saturday 08:00 AM to 08:00 PM, Sunday 8:00 AM to 04:00 PM\nइमर्जेंसी सेवा 24 घंटे उपलब्ध है !\nNot For Medico Legal Purpose",
+        "english": "NAME OF PATIENT :\nAGE SEX: 34Year/Male\nREF BY DR: SELF\nDATE: 21-03-2026\nPART OF INVESTIGATION X-RAY IVP\n\nX-RAY IVP STUDY\n\nA radiopaque shadow seen in Left Renal measuring 27X13 mm.\nRenal and psas shadows are partially obscured by bowel gases.\n\nSKIAGRAM INTRAVENOUS PYELOGRAPHY:-\n5 mts after contrast injection early exposure skiagram shows good nephrographic effect on both side Size shape and location of both kidneys are normal.\nNo e/o right hydronephrosis seen. No c/o left hydronephrosis.\n\nBilateral ureters appear normal in caliber.\nContrast filled urinary bladder is clearly outlined margins are regular. No filling defect or indentation seen.\n\nPost voiding skiagram shows no residual contrast .Noother abnormality seen.\n\nIMPRESSION:-LEFT RENAL CALCULUS .\n\nADVICE UROGRAM FOR BETTER EVALUATION.\n\nPlease correlatc clinically.\n\nEVERY TEST HAS ITS OWN INHERENT LIMITATIONS, THEREFORE IN CASE OF ANY DISCREPANCE WITH CLINICAL PROFILE, PLEASE INFORM TO CENTRE IMMEDIATELY.\nTiming : Monday to Saturday 08:00 AM to 08:00 PM, Sunday 8:00 AM to 04:00 PM\nइमर्जेंसी सेवा 24 घंटे उपलब्ध है !\nNot For Medico Legal Purpose"
+      },
+      "summary": "This is a typed radiology report for an X-ray IVP study performed on a 34-year-old male on March 21, 2026. The report notes a radiopaque shadow in the left kidney (27x13 mm) and concludes with an impression of left renal calculus, advising a urogram for better evaluation.",
+      "key_observations": [
+        "Patient is a 34-year-old male.",
+        "Report describes a radiopaque shadow in the left kidney measuring 27x13 mm.",
+        "Findings include normal kidney size, shape, and location; normal bilateral ureters; and a normal contrast-filled bladder.",
+        "Final impression: Left renal calculus.",
+        "Advice: Urogram for better evaluation."
+      ],
+      "dates_found": [
+        "21/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2228,
+        "completion_tokens": 1009,
+        "total_duration_ms": 6948
+      }
+    },
+    {
+      "image_index": 3,
+      "source": "000249__PMJAY_UP_S_G_2025_R2_2026032810042482__GOVIND_IVP.pdf",
+      "page": 2,
+      "pages_total": 2,
+      "image_type": "IVP",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "PA",
+      "stage_of_care": "pre-procedure",
+      "stage_evidence": "No contrast agent visible in renal collecting systems in 'PLAIN' view; contrast appears in kidneys, ureters, and bladder in subsequent views",
+      "ocr": {
+        "language": "English",
+        "verbatim": "R\nCONTROL\nPLAIN\nR\nCONTROL\n5 MIN\nR\nCONTROL\n30 MIN\nR\nCONTROL\nFULL BLADDER",
+        "english": "R\nCONTROL\nPLAIN\nR\nCONTROL\n5 MIN\nR\nCONTROL\n30 MIN\nR\nCONTROL\nFULL BLADDER"
+      },
+      "summary": "Four-panel IVP (Intravenous Pyelogram) series showing the urinary tract at different time intervals after contrast injection: plain film, 5 minutes, 30 minutes, and full bladder view.",
+      "key_observations": [
+        "Four sequential radiographs of the abdomen in PA view",
+        "Contrast medium is not visible in the kidneys or ureters in the 'PLAIN' image",
+        "Contrast medium is visible in the renal collecting systems in the '5 MIN' image",
+        "Contrast medium is visible in the bladder in the 'FULL BLADDER' image",
+        "Images are labeled with time intervals and 'CONTROL' markers"
+      ],
+      "dates_found": [],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2228,
+        "completion_tokens": 317,
+        "total_duration_ms": 3541
+      }
+    }
+  ]
+}

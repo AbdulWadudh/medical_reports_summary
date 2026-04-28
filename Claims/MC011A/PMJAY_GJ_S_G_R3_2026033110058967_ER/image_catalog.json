@@ -1,0 +1,295 @@
+{
+  "claim_id": "PMJAY_GJ_S_G_R3_2026033110058967_ER",
+  "package": "MC011A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 8,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000133__PMJAY_GJ_S_G_R3_2026033110058967__POST_PTCA_STILL_IMAGE.jpeg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "CAUD 38°",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Annotation text: 'LCX POST STENT FLOW WITH 1DES'",
+      "ocr": {
+        "language": "English",
+        "verbatim": "CAG+PTCA/1915+1916\n03/31/2026\nCAUD 38°\nLCX POST STENT FLOW WITH 1DES",
+        "english": "CAG+PTCA/1915+1916\n03/31/2026\nCAUD 38°\nLCX POST STENT FLOW WITH 1DES"
+      },
+      "summary": "A post-procedure coronary angiogram still image showing the left circumflex artery (LCX) with stent placement, annotated as 'LCX POST STENT FLOW WITH 1DES'. The view is from a caudal 38° angle, acquired on 03/31/2026.",
+      "key_observations": [
+        "Image is a fluoroscopy frame from a cath-lab monitor.",
+        "Annotation confirms post-stent flow in the LCX artery.",
+        "Patient identifier: CAG+PTCA/1915+1916.",
+        "View angle: CAUD 38°.",
+        "Date: 03/31/2026."
+      ],
+      "dates_found": [
+        "03/31/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2540,
+        "completion_tokens": 373,
+        "total_duration_ms": 4159
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000134__PMJAY_GJ_S_G_R3_2026033110058967__PTCA.pdf",
+      "page": 1,
+      "pages_total": 3,
+      "image_type": "Typed report",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Report describes 'Successful Adhoc PTCA to LCX done with 1DES' and details stent deployment with TIMI III flow achieved.",
+      "ocr": {
+        "language": "English",
+        "verbatim": "DEPARTMENT OF CARDIOLOGY\nIPD. No. : 07362\nPatient Name : \nProcedure Date : 31/03/2026\nConsultant/Operator : \nCORONARY ANGIOPLASTY REPORT\nHemodynamic Status :\nPressure : 140/70mm of Hg\nHR : 64 bpm\nSPo2 : 99%\nApproach : Right Radial Approach\nDiagnosis : CAD-ACS-IWMI, MODERATE LV DYSFUNCTION\nCAG-SVD\nLesion : LCX mid 90% stenosis.\nHardware Used:\nGuiding Catheter: 6F EBU 3.5\nPTCA wire: Fielder FC\nBalloon : Zee Pro SC 2.50x10mm & Zee Pro NC 3.0x10mm\nstent: Racer CC Plus 3.0x21mm\nProcedure: Adhoc PTCA to LCX\nLeft main Coronary artery engaged with 6F- EBU 3.5 guiding catheter. Lesion crossed with Fielder FC\nWire. Lesion was pre dilated with Zee Pro SC 2.50x10mm balloon at 12atms pressure. Lesion was stented\nwith Racer CC Plus 3.0x21mm stent at 10atms pressure. Stent was Post dilated with Zee Pro NC\n3.0x10mm Balloons at 14 atms pressure. Good end result with TIMI III flow achieved.\nCONCLUSION : Successful Adhoc PTCA to LCX done with 1DES.\nImportant note::\n1. Never stop medicines without written advice of doctor,\n2. Consult doctor if chest pain/ Breathing difficulty/any other symptoms,\n3. Do regular follow up.\n4. Stents carry an inherent 5 % risk of restenosis.\nMD(PUL.MED). DrNB(Cardiology)\nConsultant Interventional Cardiologist",
+        "english": "DEPARTMENT OF CARDIOLOGY\nIPD. No. : 07362\nPatient Name : \nProcedure Date : 31/03/2026\nConsultant/Operator : \nCORONARY ANGIOPLASTY REPORT\nHemodynamic Status :\nPressure : 140/70mm of Hg\nHR : 64 bpm\nSPo2 : 99%\nApproach : Right Radial Approach\nDiagnosis : CAD-ACS-IWMI, MODERATE LV DYSFUNCTION\nCAG-SVD\nLesion : LCX mid 90% stenosis.\nHardware Used:\nGuiding Catheter: 6F EBU 3.5\nPTCA wire: Fielder FC\nBalloon : Zee Pro SC 2.50x10mm & Zee Pro NC 3.0x10mm\nstent: Racer CC Plus 3.0x21mm\nProcedure: Adhoc PTCA to LCX\nLeft main Coronary artery engaged with 6F- EBU 3.5 guiding catheter. Lesion crossed with Fielder FC\nWire. Lesion was pre dilated with Zee Pro SC 2.50x10mm balloon at 12atms pressure. Lesion was stented\nwith Racer CC Plus 3.0x21mm stent at 10atms pressure. Stent was Post dilated with Zee Pro NC\n3.0x10mm Balloons at 14 atms pressure. Good end result with TIMI III flow achieved.\nCONCLUSION : Successful Adhoc PTCA to LCX done with 1DES.\nImportant note::\n1. Never stop medicines without written advice of doctor,\n2. Consult doctor if chest pain/ Breathing difficulty/any other symptoms,\n3. Do regular follow up.\n4. Stents carry an inherent 5 % risk of restenosis.\nMD(PUL.MED). DrNB(Cardiology)\nConsultant Interventional Cardiologist"
+      },
+      "summary": "This is a typed Coronary Angioplasty Report detailing a successful percutaneous coronary intervention (PTCA) on the left circumflex artery (LCX) using a drug-eluting stent (DES). The procedure was performed via a right radial approach on March 31, 2026. The report includes hemodynamic status, lesion details, hardware used, procedural steps, and post-procedure outcome (TIMI III flow).",
+      "key_observations": [
+        "Procedure: Adhoc PTCA to LCX with stent placement (Racer CC Plus 3.0x21mm)",
+        "Lesion: LCX mid 90% stenosis",
+        "Diagnosis: CAD-ACS-IWMI, MODERATE LV DYSFUNCTION",
+        "Procedure date: 31/03/2026",
+        "Successful outcome: TIMI III flow achieved",
+        "Stent risk: 5% inherent risk of restenosis"
+      ],
+      "dates_found": [
+        "31/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2221,
+        "completion_tokens": 1236,
+        "total_duration_ms": 8203
+      }
+    },
+    {
+      "image_index": 2,
+      "source": "000134__PMJAY_GJ_S_G_R3_2026033110058967__PTCA.pdf",
+      "page": 2,
+      "pages_total": 3,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Conclusion states 'Successful Adhoc PTCA to LCX done with 1DES' and shows a stent deployed in LCX",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Patient is our Priority\nIPD. No.\nPatient Name : \nProcedure Date : 31/03/2026\nConsultant/Operator : DR.\nCORONARY ANGIOGRAM\nRater Ce\nPlus 3-0x21\nLCX\nOM1\nD1\nD2\nOM2\nLAD\nPLV\nPDA\nRCA\nCONCLUSION : Successful Adhoc PTCA to LCX done with 1DES.\nMD(PUL.MED), DrNB(Cardiology)\nConsultant Interventional Cardiologist",
+        "english": "Patient is our Priority\nIPD. No.\nPatient Name : \nProcedure Date : 31/03/2026\nConsultant/Operator : DR.\nCORONARY ANGIOGRAM\nRater Ce\nPlus 3-0x21\nLCX\nOM1\nD1\nD2\nOM2\nLAD\nPLV\nPDA\nRCA\nCONCLUSION : Successful Adhoc PTCA to LCX done with 1DES.\nMD(PUL.MED), DrNB(Cardiology)\nConsultant Interventional Cardiologist"
+      },
+      "summary": "A hand-drawn coronary angiogram showing the coronary tree with a stent deployed in the LCX (left circumflex) artery. The conclusion states a successful adhoc PTCA (percutaneous transluminal coronary angioplasty) was performed with a 1DES (drug-eluting stent).",
+      "key_observations": [
+        "Stent deployed in LCX artery",
+        "Conclusion confirms successful PTCA with 1DES",
+        "Patient age/sex: 47Y/M, procedure date: 31/03/2026",
+        "Anatomical labels include RCA, LAD, OM1, OM2, D1, D2, PLV, PDA, LM"
+      ],
+      "dates_found": [
+        "31/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2221,
+        "completion_tokens": 536,
+        "total_duration_ms": 4153
+      }
+    },
+    {
+      "image_index": 3,
+      "source": "000134__PMJAY_GJ_S_G_R3_2026033110058967__PTCA.pdf",
+      "page": 3,
+      "pages_total": 3,
+      "image_type": "Typed report",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "N/A",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "PTCA wire, pre-dilation, stent, post-dilation listed; conclusion states 'Successful Adhoc PTCA To LCX'",
+      "ocr": {
+        "language": "English",
+        "verbatim": "OPERATION NOTE\nIPD. No. : 07362\nPatient Name : \nProcedure Date : 31/03/2026\nConsultant/Operator : DR.\nUHID NO: 35549\nAge/Sex: 47Y/M\nCATH ID: 1916\nAortic Pressure : 140/70 mmHg.\nRoute/Access: R-P\nOT Time : 7:30 PM to 9:05 PM\n\nLESION: LCX-Mid 90%. Stenosis.\nHardware Used: EBU 3-5-6F\n\nPTCA WIRE: Fielder FC\nPRE DILATION: Zee ProSC2.50 X 10 mm\nSTENT: Racer CC Plus 3.0 X 21mm\nPOST DILATION: Zee Pro NC - 3.0 X 10 mm\n\nCONCLUSION: Successful Adhoc PTCA To LCX Done ELDERS.\nTIMI III flow achieved\nADVICE: Medical Management.\n\nMD(PUL MED), DrNB(Cardiology)\nConsultant Interventional Cardiologist",
+        "english": "OPERATION NOTE\nIPD. No. : 07362\nPatient Name : \nProcedure Date : 31/03/2026\nConsultant/Operator : DR.\nUHID NO: 35549\nAge/Sex: 47Y/M\nCATH ID: 1916\nAortic Pressure : 140/70 mmHg.\nRoute/Access: R-P\nOT Time : 7:30 PM to 9:05 PM\n\nLESION: LCX-Mid 90%. Stenosis.\nHardware Used: EBU 3-5-6F\n\nPTCA WIRE: Fielder FC\nPRE DILATION: Zee ProSC2.50 X 10 mm\nSTENT: Racer CC Plus 3.0 X 21mm\nPOST DILATION: Zee Pro NC - 3.0 X 10 mm\n\nCONCLUSION: Successful Adhoc PTCA To LCX Done ELDERS.\nTIMI III flow achieved\nADVICE: Medical Management.\n\nMD(PUL MED), DrNB(Cardiology)\nConsultant Interventional Cardiologist"
+      },
+      "summary": "This is an operation note for a percutaneous transluminal coronary angioplasty (PTCA) procedure performed on a 47-year-old male patient. The procedure targeted a 90% stenosis in the mid-left circumflex (LCX) coronary artery. A Fielder FC wire, Zee ProSC balloon for pre-dilation, a Racer CC Plus stent, and a Zee Pro NC balloon for post-dilation were used. The procedure was successful, achieving TIMI III flow, and the patient is advised medical management.",
+      "key_observations": [
+        "Procedure: PTCA on LCX artery",
+        "Lesion: 90% stenosis at mid-LCX",
+        "Hardware used: Fielder FC wire, Zee ProSC 2.50x10mm balloon, Racer CC Plus 3.0x21mm stent, Zee Pro NC 3.0x10mm balloon",
+        "Outcome: Successful PTCA with TIMI III flow achieved",
+        "Advice: Medical Management"
+      ],
+      "dates_found": [
+        "31/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2221,
+        "completion_tokens": 883,
+        "total_duration_ms": 5842
+      }
+    },
+    {
+      "image_index": 4,
+      "source": "000141__PMJAY_GJ_S_G_R3_2026033110058967__CAG_STILL_IMAGE_.jpeg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "RAO 31° / Caudal 35°",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Annotation overlay 'LCX MID 90% STENOSIS' and procedure code 'CAG+PTCA/1915+1916' indicate active intervention",
+      "ocr": {
+        "language": "English",
+        "verbatim": "CAG+PTCA/1915+1916\n03/31/2026\nRAO 31°\nCAUD 35°\nLCX MID 90% STENOSIS",
+        "english": "CAG+PTCA/1915+1916\n03/31/2026\nRAO 31°\nCAUD 35°\nLCX MID 90% STENOSIS"
+      },
+      "summary": "A fluoroscopic still image from a coronary angiogram showing the left circumflex artery (LCX) with a 90% mid-segment stenosis, acquired during a CAG+PTCA procedure on March 31, 2026, in a RAO 31° / Caudal 35° projection.",
+      "key_observations": [
+        "Left circumflex artery (LCX) mid-segment stenosis annotated as 90%",
+        "Procedure code CAG+PTCA/1915+1916 indicates percutaneous coronary intervention",
+        "Projection angles: RAO 31°, Caudal 35°",
+        "Date: 03/31/2026",
+        "Image is a screenshot of a cath-lab monitor with UI controls visible"
+      ],
+      "dates_found": [
+        "03/31/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2460,
+        "completion_tokens": 448,
+        "total_duration_ms": 3058
+      }
+    },
+    {
+      "image_index": 5,
+      "source": "000143__PMJAY_GJ_S_G_R3_2026033110058967__CAG.pdf",
+      "page": 1,
+      "pages_total": 3,
+      "image_type": "Typed report",
+      "body_region": "Coronary tree",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Report includes 'CONCLUSION' and 'ADVISE' sections with intervention recommendation",
+      "ocr": {
+        "language": "English",
+        "verbatim": "DEPARTMENT OF CARDIOLOGY\nIPD. No. : 07362\nPatient Name : \nProcedure Date : 31/03/2026\nConsultant/Operator : \nUHID NO: 35549\nAge/Sex: 47Y/M\nCATH ID: 1915\nCORONARY ANGIOGRAPHY REPORT\nHemodynamic Status:\nPressure : 140/70mm of Hg\nApproach : Right Radial Approach\nHR : 64 bpm\nSPo2 : 99%\nLMCA : Normal.\nLAD : Type III vessel, mid myocardial bridge +.\nDiagonal are normal.\nLCX : Dominant, mid 90% stenosis (lesion length= 3.0x21mm).\nOms are normal.\nLPDA & LPLV are normal.\nRCA : Non-Dominant, normal.\nCONCLUSION : CAD-ACS-IWMI, MODERATE LV DYSFUNCTION\nCAG-SVD\nADVISE : ADHOC PTCA TO LCX WITH 1DES.\nMD(PUNJAB): Dr. Var Cardiology\nConsultant Interventional Cardiologist",
+        "english": "DEPARTMENT OF CARDIOLOGY\nIPD. No. : 07362\nPatient Name : \nProcedure Date : 31/03/2026\nConsultant/Operator : \nUHID NO: 35549\nAge/Sex: 47Y/M\nCATH ID: 1915\nCORONARY ANGIOGRAPHY REPORT\nHemodynamic Status:\nPressure : 140/70mm of Hg\nApproach : Right Radial Approach\nHR : 64 bpm\nSPo2 : 99%\nLMCA : Normal.\nLAD : Type III vessel, mid myocardial bridge +.\nDiagonal are normal.\nLCX : Dominant, mid 90% stenosis (lesion length= 3.0x21mm).\nOms are normal.\nLPDA & LPLV are normal.\nRCA : Non-Dominant, normal.\nCONCLUSION : CAD-ACS-IWMI, MODERATE LV DYSFUNCTION\nCAG-SVD\nADVISE : ADHOC PTCA TO LCX WITH 1DES.\nMD(PUNJAB): Dr. Var Cardiology\nConsultant Interventional Cardiologist"
+      },
+      "summary": "This is a typed coronary angiography report from the Department of Cardiology. It details hemodynamic status, vessel findings (LMCA, LAD, LCX, RCA), and concludes with a diagnosis of CAD-ACS-IWMI and moderate LV dysfunction, advising an ad hoc PTCA to the LCX with 1DES.",
+      "key_observations": [
+        "Procedure performed on 31/03/2026",
+        "90% stenosis in the dominant LCX artery (lesion length 3.0x21mm)",
+        "Diagnosis: CAD-ACS-IWMI, moderate LV dysfunction",
+        "Recommendation: Ad hoc PTCA to LCX with 1DES"
+      ],
+      "dates_found": [
+        "31/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2221,
+        "completion_tokens": 817,
+        "total_duration_ms": 5005
+      }
+    },
+    {
+      "image_index": 6,
+      "source": "000143__PMJAY_GJ_S_G_R3_2026033110058967__CAG.pdf",
+      "page": 2,
+      "pages_total": 3,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Handwritten annotation 'stent' near LCX, 'SVD' in conclusion, 'P.TCA to LCx' in advice",
+      "ocr": {
+        "language": "English",
+        "verbatim": "IPD. No. : 07362\nPatient Name : \nProcedure Date : 31/03/2026\nConsultant/Operator : \nCORONARY ANGIOGRAM\nLM\nD\nLCX\nOM1\nOM2\nPLV\nPDA\nRCA\nLAD\nD1\nD2\nmyocardial Bridge.\nCONCLUSION: SVD\nADVICE: P.TCA TO LCx.\nMD(PL)\nConsultant",
+        "english": "IPD. No. : 07362\nPatient Name : \nProcedure Date : 31/03/2026\nConsultant/Operator : \nCORONARY ANGIOGRAM\nLM\nD\nLCX\nOM1\nOM2\nPLV\nPDA\nRCA\nLAD\nD1\nD2\nmyocardial Bridge.\nCONCLUSION: SVD\nADVICE: P.TCA TO LCx.\nMD(PL)\nConsultant"
+      },
+      "summary": "A post-procedure coronary angiogram schematic showing the coronary artery tree with labeled vessels (LM, LCX, LAD, RCA, etc.) and handwritten annotations indicating a stent in the LCX and a myocardial bridge. The conclusion is 'SVD' and advice is 'P.TCA to LCx'.",
+      "key_observations": [
+        "Handwritten annotation 'stent' near LCX branch",
+        "Handwritten annotation 'myocardial Bridge' near LAD branch",
+        "Conclusion: SVD",
+        "Advice: P.TCA to LCx",
+        "Procedure date: 31/03/2026"
+      ],
+      "dates_found": [
+        "31/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2221,
+        "completion_tokens": 492,
+        "total_duration_ms": 4344
+      }
+    },
+    {
+      "image_index": 7,
+      "source": "000143__PMJAY_GJ_S_G_R3_2026033110058967__CAG.pdf",
+      "page": 3,
+      "pages_total": 3,
+      "image_type": "Typed report",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Conclusion and advice sections indicate procedural outcome and planned intervention",
+      "ocr": {
+        "language": "English",
+        "verbatim": "OPERATION NOTE\nIPD. No. : 07362\nPatient Name : \nProcedure Date : 31/03/2026\nConsultant/Operator : \nAortic Pressure : 140/70 mmHg\nCatheter Used: Tig - SF\nRoute/Access: R-R\nCINE CORONARY STATUS\nDominance:- Left\nLMCA: Normal\nLAD: Type III Vessel, Normal\nD1: (N) D2: (N)\nLCX: Dominant, Mid 90% Stenosis.\nOM1: (N) OM2: (N)\nRCA: Non-Dominant, Normal\nLeft PDA: (N) Left PLV: (N)\nCONCLUSION: CAD-ACS-IUMI, Moderate LV Dysfunction.\nCAU- SVD\nADVICE: Athoc PTCA to LCX with 1 DES.\nMD(PUL. MED), DNB(Cardiology)\nConsultant Interventional Cardiologist",
+        "english": "OPERATION NOTE\nIPD. No. : 07362\nPatient Name : \nProcedure Date : 31/03/2026\nConsultant/Operator : \nAortic Pressure : 140/70 mmHg\nCatheter Used: Tig - SF\nRoute/Access: R-R\nCINE CORONARY STATUS\nDominance:- Left\nLMCA: Normal\nLAD: Type III Vessel, Normal\nD1: (N) D2: (N)\nLCX: Dominant, Mid 90% Stenosis.\nOM1: (N) OM2: (N)\nRCA: Non-Dominant, Normal\nLeft PDA: (N) Left PLV: (N)\nCONCLUSION: CAD-ACS-IUMI, Moderate LV Dysfunction.\nCAU- SVD\nADVICE: Athoc PTCA to LCX with 1 DES.\nMD(PUL. MED), DNB(Cardiology)\nConsultant Interventional Cardiologist"
+      },
+      "summary": "This is an operation note from a coronary angiography procedure performed on March 31, 2026. It documents the coronary anatomy, findings of significant stenosis in the left circumflex artery (LCX), and concludes with a diagnosis of CAD-ACS-IUMI with moderate left ventricular dysfunction. The advice is to perform PTCA to the LCX with a 1 DES.",
+      "key_observations": [
+        "Procedure date: 31/03/2026",
+        "Coronary dominance: Left",
+        "LCX stenosis: Dominant, Mid 90% stenosis",
+        "Conclusion: CAD-ACS-IUMI, Moderate LV Dysfunction",
+        "Advice: Athoc PTCA to LCX with 1 DES"
+      ],
+      "dates_found": [
+        "31/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2221,
+        "completion_tokens": 731,
+        "total_duration_ms": 4570
+      }
+    }
+  ]
+}

@@ -1,0 +1,778 @@
+{
+  "claim_id": "PMJAY_MH_S_G_R1_2026032910015645",
+  "package": "MC011A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 21,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000255__PMJAY_MH_S_G_R1_2026032910015645__PTCA_IMAGES.pdf",
+      "page": 1,
+      "pages_total": 13,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "RAO 1° / CRAN 3°",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Guidewire visible in coronary artery",
+      "ocr": {
+        "language": "English",
+        "verbatim": "2414/03/2026\n73/F\n* 3/31/1953\n3/31/2028\n1:18:09 PM\n1 - 33/194\nFL Angio\nom 20\nA\nD 40\nRAO 1° / CRAN 3°\nAXIOM-Artis\nVD 12A 241911\nHFS\n/com////\nEE 11%\nDDO 45%\nWC 1905\nWW 2600",
+        "english": "2414/03/2026\n73/F\n* 3/31/1953\n3/31/2028\n1:18:09 PM\n1 - 33/194\nFL Angio\nom 20\nA\nD 40\nRAO 1° / CRAN 3°\nAXIOM-Artis\nVD 12A 241911\nHFS\n/com////\nEE 11%\nDDO 45%\nWC 1905\nWW 2600"
+      },
+      "summary": "A fluoroscopic image from a coronary angiogram showing a guidewire within the coronary artery. The view is RAO 1° / CRAN 3°, and the patient is a 73-year-old female. Image acquisition details and system parameters are visible on the screen.",
+      "key_observations": [
+        "Guidewire is visible within the coronary artery",
+        "Patient identifier: 73/F",
+        "Acquisition date: 3/31/2028",
+        "View angle: RAO 1° / CRAN 3°",
+        "System: AXIOM-Artis",
+        "Image parameters: EE 11%, DDO 45%, WC 1905, WW 2600"
+      ],
+      "dates_found": [
+        "31/03/2028"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2223,
+        "completion_tokens": 564,
+        "total_duration_ms": 4643
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000255__PMJAY_MH_S_G_R1_2026032910015645__PTCA_IMAGES.pdf",
+      "page": 2,
+      "pages_total": 13,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "RAO 1° / CRAN 3°",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Guidewire visible within coronary vessel",
+      "ocr": {
+        "language": "English",
+        "verbatim": "2414/03/2026\n* 3/31/1953\n3/31/2026\n1:18:49 PM\n2-13/63\n73/F\nAXIOM-Artis\nV0172 24 (011)\nHFS\n/scan///\nFL Angio\ncm 20\nA\nD 40\nRAO 1° / CRAN 3°\nEE 11%\nDDO 45%\nWC 1905\nWW 2000",
+        "english": "2414/03/2026\n* 3/31/1953\n3/31/2026\n1:18:49 PM\n2-13/63\n73/F\nAXIOM-Artis\nV0172 24 (011)\nHFS\n/scan///\nFL Angio\ncm 20\nA\nD 40\nRAO 1° / CRAN 3°\nEE 11%\nDDO 45%\nWC 1905\nWW 2000"
+      },
+      "summary": "A fluoroscopic image from a coronary angiogram showing a guidewire within the coronary vasculature, captured during an interventional procedure. The view is a left anterior oblique (LAO) projection with cranial tilt.",
+      "key_observations": [
+        "Guidewire is visible within a coronary artery",
+        "Patient age: 73 years",
+        "Projection: RAO 1° / CRAN 3°",
+        "Image acquisition date: 3/31/2026",
+        "Image acquisition time: 1:18:49 PM",
+        "Image type: FL Angio (fluoroscopic angiogram)"
+      ],
+      "dates_found": [
+        "31/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2223,
+        "completion_tokens": 543,
+        "total_duration_ms": 3399
+      }
+    },
+    {
+      "image_index": 2,
+      "source": "000255__PMJAY_MH_S_G_R1_2026032910015645__PTCA_IMAGES.pdf",
+      "page": 3,
+      "pages_total": 13,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "RAO 1° / CRAN 3°",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Guidewire and catheter visible within coronary artery",
+      "ocr": {
+        "language": "English",
+        "verbatim": "2414/03/2026\n* 3/31/1953\n3/31/2026\n1:19:46 PM\n4 - 16/30\n0.97 sec\nCoro 2020\ncm 20\nA\nD 168\nRAO 1° / CRAN 3°\nAXIOM-Artis\nV012A 241011\nHFS\n/oom/III\nCARD 15 65\nEE 28%\nDDG 59%\nWC 2050\nWW 2300",
+        "english": "2414/03/2026\n* 3/31/1953\n3/31/2026\n1:19:46 PM\n4 - 16/30\n0.97 sec\nCoro 2020\ncm 20\nA\nD 168\nRAO 1° / CRAN 3°\nAXIOM-Artis\nV012A 241011\nHFS\n/oom/III\nCARD 15 65\nEE 28%\nDDG 59%\nWC 2050\nWW 2300"
+      },
+      "summary": "A fluoroscopic image from a cath-lab monitor showing a coronary angiogram of the left coronary system. A guidewire and catheter are visible within the vessel lumen. The image is acquired in a RAO 1° / CRAN 3° projection.",
+      "key_observations": [
+        "Coronary angiogram of the left system",
+        "Guidewire and catheter present within vessel",
+        "Projection: RAO 1° / CRAN 3°",
+        "Image acquired on 3/31/2026 at 1:19:46 PM",
+        "Patient age: 73/F (redacted)",
+        "Image parameters: EE 28%, DDO 59%, WC 2050, WW 2300"
+      ],
+      "dates_found": [
+        "31/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2223,
+        "completion_tokens": 608,
+        "total_duration_ms": 3972
+      }
+    },
+    {
+      "image_index": 3,
+      "source": "000255__PMJAY_MH_S_G_R1_2026032910015645__PTCA_IMAGES.pdf",
+      "page": 4,
+      "pages_total": 13,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "LAO 2° / CRAN 3°",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Guidewire and catheter visible within coronary artery",
+      "ocr": {
+        "language": "English",
+        "verbatim": "2414/US/2026\n* 3/31/1953\n3/31/2026\n1:28:45 PM\n10 - 17731\n1.04 sec\n73F\nAXIOM-Artis\nVP12A 241011\nHES\n/csm/III\nCoro 2020\ncm 20\nA\nD 169\nLAO 2° / CRAN 3°\nEE 26%\nDDO 59%\nWC 2050\nWW 2300",
+        "english": "2414/US/2026\n* 3/31/1953\n3/31/2026\n1:28:45 PM\n10 - 17731\n1.04 sec\n73F\nAXIOM-Artis\nVP12A 241011\nHES\n/csm/III\nCoro 2020\ncm 20\nA\nD 169\nLAO 2° / CRAN 3°\nEE 26%\nDDO 59%\nWC 2050\nWW 2300"
+      },
+      "summary": "A fluoroscopic image from a coronary angiogram showing the left coronary artery system with a guidewire and catheter in place. The image is captured from a LAO 2° / CRAN 3° projection during a procedure on a 73-year-old female patient.",
+      "key_observations": [
+        "Guidewire and catheter are visible within the coronary artery",
+        "Patient is 73 years old (73F)",
+        "Projection is LAO 2° / CRAN 3°",
+        "Image acquired on 3/31/2026 at 1:28:45 PM",
+        "Image is from the AXIOM-Artis system"
+      ],
+      "dates_found": [
+        "31/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2223,
+        "completion_tokens": 577,
+        "total_duration_ms": 3650
+      }
+    },
+    {
+      "image_index": 4,
+      "source": "000255__PMJAY_MH_S_G_R1_2026032910015645__PTCA_IMAGES.pdf",
+      "page": 5,
+      "pages_total": 13,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "LAO 2° / CRAN 3°",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Guidewire visible within coronary vessel",
+      "ocr": {
+        "language": "English",
+        "verbatim": "24/14/03/2028\n73/F\n* 3/31/1953\n3/31/2028\n1:27:10 PM\n11 - 10/29\n0.58 sec\nCoro 2020\ncm 20\nA\nD 169\nLAO 2° / CRAN 3°\nAXIOM-Aris\nVD12A 241011\nFES\n/son////\nCARD 15%\nEE 27%\nDDO 50%\nWC 2050\nWW 2390",
+        "english": "24/14/03/2028\n73/F\n* 3/31/1953\n3/31/2028\n1:27:10 PM\n11 - 10/29\n0.58 sec\nCoro 2020\ncm 20\nA\nD 169\nLAO 2° / CRAN 3°\nAXIOM-Aris\nVD12A 241011\nFES\n/son////\nCARD 15%\nEE 27%\nDDO 50%\nWC 2050\nWW 2390"
+      },
+      "summary": "A fluoroscopic image from a coronary angiogram showing a guidewire within the coronary artery, captured during an interventional procedure. The image displays cath-lab monitor UI elements including patient demographics, acquisition parameters, and view angles.",
+      "key_observations": [
+        "Guidewire is visible within a coronary vessel",
+        "Image acquired in LAO 2° / CRAN 3° projection",
+        "Patient age: 73 years, female",
+        "Procedure time: 3/31/2028, 1:27:10 PM",
+        "Image acquisition parameters: CARD 15%, EE 27%, DDO 50%, WC 2050, WW 2390"
+      ],
+      "dates_found": [
+        "31/03/2028"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2223,
+        "completion_tokens": 594,
+        "total_duration_ms": 4123
+      }
+    },
+    {
+      "image_index": 5,
+      "source": "000255__PMJAY_MH_S_G_R1_2026032910015645__PTCA_IMAGES.pdf",
+      "page": 6,
+      "pages_total": 13,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "LAO 2° / CRAN 3°",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Guidewire and stent visible in left coronary artery",
+      "ocr": {
+        "language": "English",
+        "verbatim": "2414/03/2026\n73/F\n3/31/2026\n1:30 14 PM\n17 - 31/63\n1.04 sec\nCoro 2020\ncm 18\nA\nD 167\nLAO 2° / CRAN 3°\nEE 28%\nDOO 50%\nWC 2050\nWW 2300",
+        "english": "2414/03/2026\n73/F\n3/31/2026\n1:30 14 PM\n17 - 31/63\n1.04 sec\nCoro 2020\ncm 18\nA\nD 167\nLAO 2° / CRAN 3°\nEE 28%\nDOO 50%\nWC 2050\nWW 2300"
+      },
+      "summary": "A fluoroscopic image from a coronary angiogram showing the left coronary artery with a guidewire and stent deployed. The view is LAO 2° / CRAN 3°, and patient data indicates a 73-year-old female. Image acquisition parameters and post-processing settings are visible on the monitor interface.",
+      "key_observations": [
+        "Left coronary artery with guidewire and stent visible",
+        "View angle: LAO 2° / CRAN 3°",
+        "Patient age: 73 years, female",
+        "Image acquisition time: 1:30 PM on 3/31/2026",
+        "Post-processing settings: EE 28%, DOO 50%, WC 2050, WW 2300"
+      ],
+      "dates_found": [
+        "31/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2223,
+        "completion_tokens": 523,
+        "total_duration_ms": 4501
+      }
+    },
+    {
+      "image_index": 6,
+      "source": "000255__PMJAY_MH_S_G_R1_2026032910015645__PTCA_IMAGES.pdf",
+      "page": 7,
+      "pages_total": 13,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "LAO 41° / CRAN 3°",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Fluoroscopic image with angiographic overlay, patient identifier '73/F', and cath-lab UI elements",
+      "ocr": {
+        "language": "English",
+        "verbatim": "241#103#2026\n*3/3/172026\n1:35:49 PM\n20 - 53/123\n73/F\nAXIOM-Artis\nVD12A 241011\nHFS\n/com/\\\\\\\\\nStore Fluoro\nView\nImage\nPostProc\nAdjust\nFL Angio\ncm 20\nA\nD 40\nLAO 41° / CRAN 3°\nEE 12%\nDDO 45%\nWC 1905\nWW 2800",
+        "english": "241#103#2026\n*3/3/172026\n1:35:49 PM\n20 - 53/123\n73/F\nAXIOM-Artis\nVD12A 241011\nHFS\n/com/\\\\\\\\\nStore Fluoro\nView\nImage\nPostProc\nAdjust\nFL Angio\ncm 20\nA\nD 40\nLAO 41° / CRAN 3°\nEE 12%\nDDO 45%\nWC 1905\nWW 2800"
+      },
+      "summary": "A fluoroscopic image from a cath-lab monitor showing a left coronary angiogram in LAO 41° / CRAN 3° view. The image displays vessel structures with UI overlays indicating patient ID '73/F', acquisition time, and image processing parameters.",
+      "key_observations": [
+        "Fluoroscopic image of the coronary vasculature",
+        "View angle: LAO 41° / CRAN 3°",
+        "Patient identifier: 73/F",
+        "Image acquisition time: 3/3/172026 1:35:49 PM",
+        "Image processing parameters: EE 12%, DDO 45%, WC 1905, WW 2800",
+        "Equipment: AXIOM-Artis VD12A 241011"
+      ],
+      "dates_found": [
+        "03/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2223,
+        "completion_tokens": 621,
+        "total_duration_ms": 4116
+      }
+    },
+    {
+      "image_index": 7,
+      "source": "000255__PMJAY_MH_S_G_R1_2026032910015645__PTCA_IMAGES.pdf",
+      "page": 8,
+      "pages_total": 13,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "LAO 41° / CRAN 3°",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Guidewire visible within coronary artery",
+      "ocr": {
+        "language": "English",
+        "verbatim": "3/31/2020\n1:36:46 PM\n22-38/57\n1.21 sec\nAXIOM-Artis\nVD12A 241011\nHFS\n/com////\nEE 29%\nDDO 50%\nWC 2050\nWW 2300\nCoro 2020\ncm 20\nA\nD 172\nLAO 41° / CRAN 3°",
+        "english": "3/31/2020\n1:36:46 PM\n22-38/57\n1.21 sec\nAXIOM-Artis\nVD12A 241011\nHFS\n/com////\nEE 29%\nDDO 50%\nWC 2050\nWW 2300\nCoro 2020\ncm 20\nA\nD 172\nLAO 41° / CRAN 3°"
+      },
+      "summary": "A fluoroscopic image from a coronary angiogram showing the left coronary artery system with a guidewire in place. The image is captured on a Siemens AXIOM-Artis system with specific acquisition parameters and projection angles.",
+      "key_observations": [
+        "Guidewire is visible within the coronary artery lumen",
+        "Projection angle is LAO 41° / CRAN 3°",
+        "Image acquisition date is 3/31/2020",
+        "System is AXIOM-Artis, model VD12A 241011",
+        "Image parameters: EE 29%, DDO 50%, WC 2050, WW 2300"
+      ],
+      "dates_found": [
+        "31/03/2020"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2223,
+        "completion_tokens": 522,
+        "total_duration_ms": 3364
+      }
+    },
+    {
+      "image_index": 8,
+      "source": "000255__PMJAY_MH_S_G_R1_2026032910015645__PTCA_IMAGES.pdf",
+      "page": 9,
+      "pages_total": 13,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "LAO 41° / CRAN 3°",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Guidewire visible within coronary vessel",
+      "ocr": {
+        "language": "English",
+        "verbatim": "73/F\n* 3/31/2026\n1:36:48 PM\n24-29/50\n0.67 sec\nAXIOM-Artis\nVD12A 241011\nHFS\n/com////\nCARD 30 fps\nView Image DSA\nEE 28%\nDDO 50%\nWC 2050\nWW 2300\nCoro 2020\ncm 20\nA\nD 170\nLAO 41° / CRAN 3°",
+        "english": "73/F\n* 3/31/2026\n1:36:48 PM\n24-29/50\n0.67 sec\nAXIOM-Artis\nVD12A 241011\nHFS\n/com////\nCARD 30 fps\nView Image DSA\nEE 28%\nDDO 50%\nWC 2050\nWW 2300\nCoro 2020\ncm 20\nA\nD 170\nLAO 41° / CRAN 3°"
+      },
+      "summary": "A fluoroscopic image from a coronary angiogram showing a guidewire within the coronary vasculature. The image is captured from a left anterior oblique (LAO) and cranial (CRAN) projection, with overlayed system parameters indicating the patient's age, time, and imaging settings.",
+      "key_observations": [
+        "Guidewire is visible within the coronary artery",
+        "Image acquired in LAO 41° / CRAN 3° projection",
+        "System parameters show EE 28%, DDO 50%, WC 2050, WW 2300",
+        "Patient identifier: 73/F"
+      ],
+      "dates_found": [
+        "31/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2223,
+        "completion_tokens": 540,
+        "total_duration_ms": 3669
+      }
+    },
+    {
+      "image_index": 9,
+      "source": "000255__PMJAY_MH_S_G_R1_2026032910015645__PTCA_IMAGES.pdf",
+      "page": 10,
+      "pages_total": 13,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "LAO 41° / CRAN 3°",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Guidewire visible within coronary vessel",
+      "ocr": {
+        "language": "English",
+        "verbatim": "24/11/03/2025\n* 3/31/1983\n3/31/2025\n1:30:08 PM\n25 - 42/184\n1.38 sec\nCoro 2020\ncm 20\nA 187\nLAO 41° / CRAN 3°\nAXIOM-Artis\nVD12A 241011\nHFS\n/comill/\nCARD 30 ms\nEE 26%\nDDO 50%\nWC 2050\nWW 2300",
+        "english": "24/11/03/2025\n* 3/31/1983\n3/31/2025\n1:30:08 PM\n25 - 42/184\n1.38 sec\nCoro 2020\ncm 20\nA 187\nLAO 41° / CRAN 3°\nAXIOM-Artis\nVD12A 241011\nHFS\n/comill/\nCARD 30 ms\nEE 26%\nDDO 50%\nWC 2050\nWW 2300"
+      },
+      "summary": "A fluoroscopic image from a coronary angiogram showing a guidewire within the left coronary artery system, captured during a procedure. The image displays cath-lab UI overlays including acquisition parameters and patient positioning.",
+      "key_observations": [
+        "A guidewire is visible traversing the left coronary artery system.",
+        "Image acquired at LAO 41° / CRAN 3° projection.",
+        "Procedure timestamp: 3/31/2025, 1:30:08 PM.",
+        "Image parameters: CARD 30 ms, EE 26%, DDO 50%, WC 2050, WW 2300."
+      ],
+      "dates_found": [
+        "31/03/2025"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": [
+          "Partial view of the coronary tree",
+          "Digital overlay obscures some anatomical detail",
+          "Patient identifiers redacted"
+        ]
+      },
+      "_usage": {
+        "prompt_tokens": 2224,
+        "completion_tokens": 600,
+        "total_duration_ms": 3788
+      }
+    },
+    {
+      "image_index": 10,
+      "source": "000255__PMJAY_MH_S_G_R1_2026032910015645__PTCA_IMAGES.pdf",
+      "page": 11,
+      "pages_total": 13,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "LAO 41° / CRAN 3°",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Guidewire visible in coronary artery",
+      "ocr": {
+        "language": "English",
+        "verbatim": "3/31/2026 1:42:08 PM 20 - 23/45 1.12 sec AXIOM-Artis VD12A 2H1011 HF3 /corvill/ CARD 30 s EE 27% DDO 50% WC 1925 WW 2300 Cord 2020 cm 20 A D 189 LAO 41° / CRAN 3°",
+        "english": "3/31/2026 1:42:08 PM 20 - 23/45 1.12 sec AXIOM-Artis VD12A 2H1011 HF3 /corvill/ CARD 30 s EE 27% DDO 50% WC 1925 WW 2300 Cord 2020 cm 20 A D 189 LAO 41° / CRAN 3°"
+      },
+      "summary": "A fluoroscopic image from a coronary angiogram showing a guidewire in the left coronary artery system, captured during a procedure on March 31, 2026. The image displays cath-lab UI overlays including patient orientation (LAO 41° / CRAN 3°) and image acquisition parameters.",
+      "key_observations": [
+        "Guidewire visible within the coronary artery",
+        "Image captured during an interventional procedure",
+        "Patient orientation: LAO 41° / CRAN 3°",
+        "Date and time stamp: 3/31/2026 1:42:08 PM",
+        "Image acquisition parameters visible (EE 27%, DDO 50%, WC 1925, WW 2300)"
+      ],
+      "dates_found": [
+        "31/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2224,
+        "completion_tokens": 526,
+        "total_duration_ms": 3363
+      }
+    },
+    {
+      "image_index": 11,
+      "source": "000255__PMJAY_MH_S_G_R1_2026032910015645__PTCA_IMAGES.pdf",
+      "page": 12,
+      "pages_total": 13,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "LAO 41° / CRAN 3°",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Guidewire visible in vessel lumen",
+      "ocr": {
+        "language": "English",
+        "verbatim": "24/14/03/2026\n73/F\nH\n3/31/2026\n1:43:37 PM\n32 - 4/58\nAXIOM-Artis\nVD12A 241011\nHFS\n/com////\nFL Angio\ncm 20\nA\nD 40\nLAO 41° / CRAN 3°\nEE 11%\nDDO 45%\nWC 1905\nWW 2600",
+        "english": "24/14/03/2026\n73/F\nH\n3/31/2026\n1:43:37 PM\n32 - 4/58\nAXIOM-Artis\nVD12A 241011\nHFS\n/com////\nFL Angio\ncm 20\nA\nD 40\nLAO 41° / CRAN 3°\nEE 11%\nDDO 45%\nWC 1905\nWW 2600"
+      },
+      "summary": "A fluoroscopic image from a coronary angiogram showing a guidewire within a coronary vessel, captured during an interventional procedure. The image is displayed on a cath-lab monitor with acquisition parameters and patient details visible.",
+      "key_observations": [
+        "Guidewire is visible within the vessel lumen",
+        "Image acquired in LAO 41° / CRAN 3° projection",
+        "Patient age: 73 years, female",
+        "Procedure type: FL Angio (fluoroscopic angiography)",
+        "Image parameters: EE 11%, DDO 45%, WC 1905, WW 2600"
+      ],
+      "dates_found": [
+        "03/31/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2224,
+        "completion_tokens": 527,
+        "total_duration_ms": 3378
+      }
+    },
+    {
+      "image_index": 12,
+      "source": "000255__PMJAY_MH_S_G_R1_2026032910015645__PTCA_IMAGES.pdf",
+      "page": 13,
+      "pages_total": 13,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "LAO 40° / CAUD 21°",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Angiographic view of coronary artery with contrast opacification and visible guidewire",
+      "ocr": {
+        "language": "English",
+        "verbatim": "241Mudaraj26\n73/F\n3/5/12025\n11:44:05PM\n35 - 156.2\n1:17 sec\nCoro 2020\ncm 16\nA\nD 171\nLAO 40° / CAUD 21°\nVD12A241011\nHFS\n/com////\nCARD 30 Hz\nEE 28%\nDDO 50%\nWC 1877\nWW 2300",
+        "english": "241Mudaraj26\n73/F\n3/5/12025\n11:44:05PM\n35 - 156.2\n1:17 sec\nCoro 2020\ncm 16\nA\nD 171\nLAO 40° / CAUD 21°\nVD12A241011\nHFS\n/com////\nCARD 30 Hz\nEE 28%\nDDO 50%\nWC 1877\nWW 2300"
+      },
+      "summary": "A fluoroscopic image from a coronary angiogram showing the left coronary artery system with contrast opacification. The view is acquired in LAO 40° / CAUD 21° projection. A guidewire is visible within the vessel lumen. The image is from a cath-lab monitor with overlayed acquisition parameters.",
+      "key_observations": [
+        "Coronary artery tree visualized with contrast medium",
+        "Guidewire present within vessel lumen",
+        "Projection: LAO 40° / CAUD 21°",
+        "Patient age: 73 years",
+        "Acquisition time: 11:44:05 PM on 3/5/2025",
+        "Image parameters: CARD 30 Hz, EE 28%, DDO 50%, WC 1877, WW 2300"
+      ],
+      "dates_found": [
+        "05/03/2025"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2224,
+        "completion_tokens": 596,
+        "total_duration_ms": 3774
+      }
+    },
+    {
+      "image_index": 13,
+      "source": "000256__PMJAY_MH_S_G_R1_2026032910015645__PTCA_REPORT.pdf",
+      "page": 1,
+      "pages_total": 3,
+      "image_type": "Typed report",
+      "body_region": "Coronary arteries",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Final result section with TIMI III Flow and Residual stenosis 0%",
+      "ocr": {
+        "language": "English",
+        "verbatim": "NAME : DATE : 31/03/2026\nAGE : 73 YRS. SEX : FEMALE\nCATH ID : 2414/03/2026 IP NO : AHH-1798/03/26\nCORONARY ANGIOPLASTY REPORT ( PTCA )\nRoute : LEFT FEMORAL ARTERY\nProcedure : PTCA TO LCX\nAccess : 7F SHEATH\nRFA : 130/80 mmhg\nHeparin : 10,000 IU.\nGuiding Catheter : 7F EBU 3.0\nCoronary wire : Fielder FC Wire\nPre-dilatation : Sapphire 2.0 X 10 mm balloon at 16 atm.\nStent : LAD- GRACE 3.0 X 16 mm at 12 atm.[DES]\nPost- dilatation : Sapphire nc 3.25 x 12 mm balloon at 19 atm.\nProcedure : PTCA TO RCA\nAccess : 7F SHEATH\nRFA/RRA : 130/80 mmhg\nGuiding Catheter : 6F JR 3.0\nInj Heparin : 10000 IU\nCoronary wire : Sion Blue\nPre-dilatation : Sapphire 2.0 X 10 mm balloon at 16 atm.\nStent : RCA- GRACE 2.75 X 32 mm at 11 atm.[DES]\nPost- dilatation : Sapphire nc 3.0 x 10 mm balloon at 19 atm.\nPOST PTCA ACT : 290\nFinal result : Excellent final result , no haze / dissection / thrombus\nTIMI III Flow\nResidual stenosis 0%\n\nसुचना * पुडील केलेस येताना हा कामद सोबत आणावा. * औषधी अंतर्ज्ञान असल्यास प्रथम सांगणे. * औषधे डॉक्टरांना दाखवूच घ्या.",
+        "english": "NAME : DATE : 31/03/2026\nAGE : 73 YRS. SEX : FEMALE\nCATH ID : 2414/03/2026 IP NO : AHH-1798/03/26\nCORONARY ANGIOPLASTY REPORT ( PTCA )\nRoute : LEFT FEMORAL ARTERY\nProcedure : PTCA TO LCX\nAccess : 7F SHEATH\nRFA : 130/80 mmhg\nHeparin : 10,000 IU.\nGuiding Catheter : 7F EBU 3.0\nCoronary wire : Fielder FC Wire\nPre-dilatation : Sapphire 2.0 X 10 mm balloon at 16 atm.\nStent : LAD- GRACE 3.0 X 16 mm at 12 atm.[DES]\nPost- dilatation : Sapphire nc 3.25 x 12 mm balloon at 19 atm.\nProcedure : PTCA TO RCA\nAccess : 7F SHEATH\nRFA/RRA : 130/80 mmhg\nGuiding Catheter : 6F JR 3.0\nInj Heparin : 10000 IU\nCoronary wire : Sion Blue\nPre-dilatation : Sapphire 2.0 X 10 mm balloon at 16 atm.\nStent : RCA- GRACE 2.75 X 32 mm at 11 atm.[DES]\nPost- dilatation : Sapphire nc 3.0 x 10 mm balloon at 19 atm.\nPOST PTCA ACT : 290\nFinal result : Excellent final result , no haze / dissection / thrombus\nTIMI III Flow\nResidual stenosis 0%\n\nNote: * Please bring the patient's medical records with you. * Inform the doctor if you have any allergies. * Show all medicines to the doctor."
+      },
+      "summary": "This is a typed PTCA (Percutaneous Transluminal Coronary Angioplasty) report detailing the procedure performed on a 73-year-old female patient on March 31, 2026. The report describes interventions on both the left circumflex (LCX) and right coronary artery (RCA) using stents and balloons, concluding with an excellent result, TIMI III flow, and 0% residual stenosis.",
+      "key_observations": [
+        "Procedure performed on March 31, 2026, on a 73-year-old female.",
+        "PTCA performed on LCX and RCA arteries.",
+        "Stents deployed: LAD-GRACE 3.0 X 16 mm and RCA-GRACE 2.75 X 32 mm.",
+        "Final result: Excellent, with TIMI III flow and 0% residual stenosis.",
+        "Patient was given 10,000 IU of heparin during the procedure."
+      ],
+      "dates_found": [
+        "31/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2222,
+        "completion_tokens": 1306,
+        "total_duration_ms": 7638
+      }
+    },
+    {
+      "image_index": 14,
+      "source": "000256__PMJAY_MH_S_G_R1_2026032910015645__PTCA_REPORT.pdf",
+      "page": 2,
+      "pages_total": 3,
+      "image_type": "Typed report",
+      "body_region": "Coronary tree — left system, Right coronary artery",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "PTCA TO LCX & RCA WITH 2 STENT DONE",
+      "ocr": {
+        "language": "English",
+        "verbatim": "LCX : Using 7F EBU 3.0 catheter,Left coronary ostium was engaged and 0.014 Fielder FC Wire was advanced in the distal LAD.The lesion was dilated with Sapphire 2.0 X 10 mm balloon at 16 atm,and stented with LAD- GRACE 3.0 X 16 mm at 12 atm,Post-dilatation done with Sapphire nc 3.25 x 12 mm balloon at 19atm.with an excellent final result. .\n\nRCA : Using 6F JR 3.0 catheter ,Right coronary ostium was engaged and 0.014 Sion Blue wire was advanced in the distal RCA.The lesion was dilated with Sapphire 2.0 X 10 mm balloon at 16 atm, and stented with GRACE 2.75 X 32 mm at 11 atm. Post-dilatation done with Sapphire nc 3.0 x 10 mm balloon at 19 atm. with an excellent final result.\n\nPTCA TO LCX & RCA WITH 2 STENT DONE.\nLONG TERM DUAL ANTIPLATELETS.\nNote: All stents having inherent risk of restenosis and thrombosis.Please continue antiplatelet drugs regularly. Do not stop medicines without consulting Physician or Cardiologist\n\nसुचना * पुड़ील वेक्स येतांना हा कमाद सोबत आपणावा. * औषधाची अंतर्ल्यास प्रथम सांगणे. * औषधे डॉक्टरांना वाखूरूच घ्या.\nPhone :",
+        "english": "LCX : Using 7F EBU 3.0 catheter,Left coronary ostium was engaged and 0.014 Fielder FC Wire was advanced in the distal LAD.The lesion was dilated with Sapphire 2.0 X 10 mm balloon at 16 atm,and stented with LAD- GRACE 3.0 X 16 mm at 12 atm,Post-dilatation done with Sapphire nc 3.25 x 12 mm balloon at 19atm.with an excellent final result. .\n\nRCA : Using 6F JR 3.0 catheter ,Right coronary ostium was engaged and 0.014 Sion Blue wire was advanced in the distal RCA.The lesion was dilated with Sapphire 2.0 X 10 mm balloon at 16 atm, and stented with GRACE 2.75 X 32 mm at 11 atm. Post-dilatation done with Sapphire nc 3.0 x 10 mm balloon at 19 atm. with an excellent final result.\n\nPTCA TO LCX & RCA WITH 2 STENT DONE.\nLONG TERM DUAL ANTIPLATELETS.\nNote: All stents having inherent risk of restenosis and thrombosis.Please continue antiplatelet drugs regularly. Do not stop medicines without consulting Physician or Cardiologist\n\nNote: All stents have inherent risk of restenosis and thrombosis. Please continue antiplatelet drugs regularly. Do not stop medicines without consulting Physician or Cardiologist\n\nInformation: * Please take this medicine with food. * Inform the doctor before taking any medicine. * Take medicines as advised by the doctor.\nPhone :"
+      },
+      "summary": "This is a typed procedural report detailing a percutaneous coronary intervention (PTCA) performed on the left circumflex artery (LCX) and right coronary artery (RCA), including balloon angioplasty and stent placement. The procedure was completed successfully with an excellent final result. The report also includes a note advising long-term dual antiplatelet therapy and warning about the inherent risks of stents.",
+      "key_observations": [
+        "PTCA performed on LCX and RCA with 2 stents deployed",
+        "LCX: Stented with LAD-GRACE 3.0 X 16 mm at 12 atm; post-dilatation with Sapphire nc 3.25 x 12 mm balloon at 19 atm",
+        "RCA: Stented with GRACE 2.75 X 32 mm at 11 atm; post-dilatation with Sapphire nc 3.0 x 10 mm balloon at 19 atm",
+        "Patient advised to continue long-term dual antiplatelet therapy",
+        "Note on inherent risks of stents: restenosis and thrombosis"
+      ],
+      "dates_found": [],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2222,
+        "completion_tokens": 1138,
+        "total_duration_ms": 7336
+      }
+    },
+    {
+      "image_index": 15,
+      "source": "000256__PMJAY_MH_S_G_R1_2026032910015645__PTCA_REPORT.pdf",
+      "page": 3,
+      "pages_total": 3,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Stents visible in RCA and LCX branches",
+      "ocr": {
+        "language": "English",
+        "verbatim": "CORONARY ANGIOGRAPHY DIAGRAM\nPatient Name: \nDate: 31/03/2026\nDoctor Name: \nAge: 73 □M □F\nCath No: 2414/03/2026\nIndoor No: AHM-\n\nLM\nCX\nOM\nDIAG\nRCA\nLAD\nPD\n\nSMT Cardiovascular\nPrivate Limited\nSUPRALIMUS GRACE\n3.00 mm x 16 mm\nREF: FGTG300016\nSN: (21)T25TGAES300016001\nLOT: (10)T25TGAEEAAA\nE: (17)2027-09\n\nSMT Cardiovascular\nPrivate Limited\nSUPRALIMUS GRACE\n2.75 mm x 32 mm\nREF: FGTG275032\nSN: (21)T26TGAAS275032117\nLOT: (10)T26TGAIAA\nE: (17)2028-01\n\nIMP: PTC A TO LCX & RCA WITH 2 STENT DONE\nADV: Long Term Dual Antiplatelet",
+        "english": "CORONARY ANGIOGRAPHY DIAGRAM\nPatient Name: \nDate: 31/03/2026\nDoctor Name: \nAge: 73 □M □F\nCath No: 2414/03/2026\nIndoor No: AHM-\n\nLM\nCX\nOM\nDIAG\nRCA\nLAD\nPD\n\nSMT Cardiovascular\nPrivate Limited\nSUPRALIMUS GRACE\n3.00 mm x 16 mm\nREF: FGTG300016\nSN: (21)T25TGAES300016001\nLOT: (10)T25TGAEEAAA\nE: (17)2027-09\n\nSMT Cardiovascular\nPrivate Limited\nSUPRALIMUS GRACE\n2.75 mm x 32 mm\nREF: FGTG275032\nSN: (21)T26TGAAS275032117\nLOT: (10)T26TGAIAA\nE: (17)2028-01\n\nIMP: PTC A TO LCX & RCA WITH 2 STENT DONE\nADV: Long Term Dual Antiplatelet"
+      },
+      "summary": "A coronary angiography diagram showing stents deployed in the left circumflex (LCX) and right coronary artery (RCA) branches. Two stents are visible, with labels indicating their manufacturer (SMT Cardiovascular), model (Supralimus Grace), and specifications. Handwritten notes indicate 'PTCA to LCX & RCA with 2 stent done' and 'Long Term Dual Antiplatelet' as advice.",
+      "key_observations": [
+        "Stents are visible in the RCA and LCX coronary arteries.",
+        "Two stents are present: one 3.00 mm x 16 mm and one 2.75 mm x 32 mm.",
+        "Handwritten impression states 'PTCA to LCX & RCA with 2 stent done'.",
+        "Handwritten advice states 'Long Term Dual Antiplatelet'."
+      ],
+      "dates_found": [
+        "31/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2222,
+        "completion_tokens": 888,
+        "total_duration_ms": 6557
+      }
+    },
+    {
+      "image_index": 16,
+      "source": "000264__PMJAY_MH_S_G_R1_2026032910015645__CAG_REPORT.pdf",
+      "page": 1,
+      "pages_total": 2,
+      "image_type": "Typed report",
+      "body_region": "Coronary tree",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Report includes impression and recommendation for intervention (PTCA)",
+      "ocr": {
+        "language": "English",
+        "verbatim": "NAME : \nAGE : 73YRS\nCATH ID : 2404/03/2026\nDATE : 28/03/2026\nSEX : FEMALE\nIP NO : AHH-1798/03/26\n\nCORONARY ANGIOGRAPHY REPORT\n\nROUTE : RT-Radial\nLEFT MAIN : Normal\nLEFT ANTERIOR DESCENDING : LAD Type, II Shows, Normal\nDiagonal Branch Shows, Normal\nLEFT CIRCUMFLEX : LCX Non- Dominant shows Mliid Plaque Ostial & 95% Stenosis\nIn Proximal LCX.\nQM Branch shows Normal.\nRIGHT CORONARY ARTERY : RCA Dominant shows 80% Stenosis In Ostial RCA.\nPDA Branches shows Normal. PLV Branch shows Normal.\n\nIMPRESSION : DVD.\nRECOMMENDATION : PTCA TO LCX & RCA .\n\nसुचना * पुडील वेक्स येताना हा कागद सोबत आणावा. * ओळखाची अॅलर्जी असल्यास प्रथम सांगणे. * ओळखे अॅक्टरांना दाखवून घ्या.\nPhone : (",
+        "english": "NAME :\nAGE : 73YRS\nCATH ID : 2404/03/2026\nDATE : 28/03/2026\nSEX : FEMALE\nIP NO : AHH-1798/03/26\n\nCORONARY ANGIOGRAPHY REPORT\n\nROUTE : RT-Radial\nLEFT MAIN : Normal\nLEFT ANTERIOR DESCENDING : LAD Type, II Shows, Normal\nDiagonal Branch Shows, Normal\nLEFT CIRCUMFLEX : LCX Non- Dominant shows Mliid Plaque Ostial & 95% Stenosis\nIn Proximal LCX.\nQM Branch shows Normal.\nRIGHT CORONARY ARTERY : RCA Dominant shows 80% Stenosis In Ostial RCA.\nPDA Branches shows Normal. PLV Branch shows Normal.\n\nIMPRESSION : DVD.\nRECOMMENDATION : PTCA TO LCX & RCA .\n\nNotice * Please bring this document with you. * If you have an allergy, inform first. * Show identification to the staff.\nPhone : ("
+      },
+      "summary": "This is a typed Coronary Angiography Report for a 73-year-old female patient. The report details findings of stenosis in the left circumflex and right coronary arteries, with an impression of 'DVD' (Disease of the Vessels) and a recommendation for PTCA (Percutaneous Transluminal Coronary Angioplasty) on the LCX and RCA.",
+      "key_observations": [
+        "Patient is 73 years old, female.",
+        "Left Main and LAD arteries are described as normal.",
+        "Left Circumflex artery shows 95% stenosis at the ostium with a mid-plaque.",
+        "Right Coronary Artery shows 80% stenosis at the ostium.",
+        "Recommendation is PTCA for LCX and RCA.",
+        "Report includes a notice in Hindi regarding document and allergy information."
+      ],
+      "dates_found": [
+        "28/03/2026",
+        "2404/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2222,
+        "completion_tokens": 892,
+        "total_duration_ms": 6012
+      }
+    },
+    {
+      "image_index": 17,
+      "source": "000264__PMJAY_MH_S_G_R1_2026032910015645__CAG_REPORT.pdf",
+      "page": 2,
+      "pages_total": 2,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Handwritten intervention plan (PTCA) visible",
+      "ocr": {
+        "language": "English",
+        "verbatim": "CORONARY ANGIOGRAPHY DIAGRAM\nPatient Name\nDoctor Name\nCath No. : 2404/3/2026\nDate: 28/3/2026\nAge: 73 □M □F\nIndoor No. : AHM-1798/3/2026\nLM\nDIAG\nCX\nOM\nLAD\nPD\nRCA\n80%.\n95%.\nNOD\nIMP: DVO\nADV: PTCA TO LCX 4 RCA",
+        "english": "CORONARY ANGIOGRAPHY DIAGRAM\nPatient Name\nDoctor Name\nCath No. : 2404/3/2026\nDate: 28/3/2026\nAge: 73 □M □F\nIndoor No. : AHM-1798/3/2026\nLM\nDIAG\nCX\nOM\nLAD\nPD\nRCA\n80%.\n95%.\nNOD\nIMP: DVO\nADV: PTCA TO LCX 4 RCA"
+      },
+      "summary": "A hand-drawn coronary angiography diagram showing the coronary tree with annotations indicating stenosis in the RCA (80%) and CX (95%), a nodular lesion (NOD), and a planned intervention (PTCA) to the LCX and RCA.",
+      "key_observations": [
+        "Coronary tree diagram with labeled vessels: LM, DIAG, CX, OM, LAD, PD, RCA",
+        "Annotations indicate 80% stenosis in RCA and 95% stenosis in CX",
+        "Handwritten note: 'NOD' (likely nodular lesion) near CX",
+        "Intervention plan: 'PTCA TO LCX 4 RCA' (Percutaneous Transluminal Coronary Angioplasty to Left Circumflex and Right Coronary Artery)",
+        "Patient age: 73, female (□M □F)",
+        "Date: 28/3/2026"
+      ],
+      "dates_found": [
+        "28/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2222,
+        "completion_tokens": 572,
+        "total_duration_ms": 3589
+      }
+    },
+    {
+      "image_index": 18,
+      "source": "000274__PMJAY_MH_S_G_R1_2026032910015645__CAG_IMAGES.pdf",
+      "page": 1,
+      "pages_total": 3,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "RAO 7° / CRAN 36°",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Cath-lab monitor UI visible with 'AXIOM-Artis' and 'RAO/LAO/CRAN/CAUD N°' overlays; coronary artery tree visualized with contrast opacification",
+      "ocr": {
+        "language": "English",
+        "verbatim": "24/04/03/2026\n* 3/28/2026\n6:29:46 PM\n8 - 30/61\n1.90 sec\n73/F\nAXIOM-Artis\nVD12A 24-1011\nHFS\n/com//E//\nCARD 15 f/s\nSTO\nView Image DSA\nAdjust Calib. Tools\n2050\n2300\nEE 26%\nDDO 50%\nWC 2050\nWW 2300\nCoro 2020\ncm 20\nA\nD 168\nRAO 7° / CRAN 36°",
+        "english": "24/04/03/2026\n* 3/28/2026\n6:29:46 PM\n8 - 30/61\n1.90 sec\n73/F\nAXIOM-Artis\nVD12A 24-1011\nHFS\n/com//E//\nCARD 15 f/s\nSTO\nView Image DSA\nAdjust Calib. Tools\n2050\n2300\nEE 26%\nDDO 50%\nWC 2050\nWW 2300\nCoro 2020\ncm 20\nA\nD 168\nRAO 7° / CRAN 36°"
+      },
+      "summary": "A fluoroscopic image from a cath-lab monitor showing a coronary angiogram of the left coronary system in a 73-year-old female patient. The image is acquired in a RAO 7° / CRAN 36° projection, with overlay UI elements indicating the equipment (AXIOM-Artis), acquisition parameters, and image processing settings.",
+      "key_observations": [
+        "Coronary artery tree visualized with contrast opacification",
+        "Patient identifier: 73/F",
+        "Acquisition date: 3/28/2026",
+        "Projection: RAO 7° / CRAN 36°",
+        "Image processing settings: EE 26%, DDO 50%, WC 2050, WW 2300",
+        "Equipment: AXIOM-Artis VD12A 24-1011"
+      ],
+      "dates_found": [
+        "03/28/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": [
+          "Image is a photograph of a monitor screen, not a direct radiographic capture",
+          "Partial redaction of patient identifiers and other fields",
+          "UI overlays may obscure anatomical details"
+        ]
+      },
+      "_usage": {
+        "prompt_tokens": 2222,
+        "completion_tokens": 744,
+        "total_duration_ms": 5231
+      }
+    },
+    {
+      "image_index": 19,
+      "source": "000274__PMJAY_MH_S_G_R1_2026032910015645__CAG_IMAGES.pdf",
+      "page": 2,
+      "pages_total": 3,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "LAO 37° / CAUD 29°",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Catheter and contrast medium visualized in coronary arteries",
+      "ocr": {
+        "language": "English",
+        "verbatim": "24/04/03/2026 73/F * 3/28/1953 3/28/2026 6:30:05 PM 9 - 32/58 2.03 sec AXIOM-Artis VD12A 24:10:11 HFS /com//El/ Coro 2020 cm 20 A D 167 LAO 37° / CAUD 29° EE 27% DDO 50% WC 2050 WW 2300",
+        "english": "24/04/03/2026 73/F * 3/28/1953 3/28/2026 6:30:05 PM 9 - 32/58 2.03 sec AXIOM-Artis VD12A 24:10:11 HFS /com//El/ Coro 2020 cm 20 A D 167 LAO 37° / CAUD 29° EE 27% DDO 50% WC 2050 WW 2300"
+      },
+      "summary": "A fluoroscopic image from a coronary angiogram showing the left coronary artery system with catheter and contrast medium. The view is LAO 37° / CAUD 29°, acquired on 3/28/2026 at 6:30:05 PM. Patient is 73-year-old female. Image parameters include EE 27%, DDO 50%, WC 2050, WW 2300.",
+      "key_observations": [
+        "Coronary artery tree visualized with contrast medium",
+        "Left anterior oblique (LAO) 37° and caudal 29° projection",
+        "Patient age 73, female",
+        "Acquisition date: 3/28/2026, time: 6:30:05 PM",
+        "Image parameters: EE 27%, DDO 50%, WC 2050, WW 2300",
+        "Equipment: AXIOM-Artis VD12A"
+      ],
+      "dates_found": [
+        "03/28/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2222,
+        "completion_tokens": 643,
+        "total_duration_ms": 4520
+      }
+    },
+    {
+      "image_index": 20,
+      "source": "000274__PMJAY_MH_S_G_R1_2026032910015645__CAG_IMAGES.pdf",
+      "page": 3,
+      "pages_total": 3,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "LAO 35° / CAUD 1°",
+      "stage_of_care": "intra-procedure",
+      "stage_evidence": "Coronary angiogram image with catheter tip visible in left coronary artery",
+      "ocr": {
+        "language": "English",
+        "verbatim": "2404/03/2026\n73/F\n* 3/28/2026\n6:20:00 PM\n1 - 17740\n1.04 sec\nAXIOM-Artis\nVD12A 241011\nHFS\n/com///E//\nCARD 15 f/s\nSTOP\nView Image DSA\nAdjust Tools\nEE 28%\nDDO 50%\nWC 2050\nWW 2300\nCoro 2020\ncm 20\nA\nD 168\nLAO 35° / CAUD 1°",
+        "english": "2404/03/2026\n73/F\n* 3/28/2026\n6:20:00 PM\n1 - 17740\n1.04 sec\nAXIOM-Artis\nVD12A 241011\nHFS\n/com///E//\nCARD 15 f/s\nSTOP\nView Image DSA\nAdjust Tools\nEE 28%\nDDO 50%\nWC 2050\nWW 2300\nCoro 2020\ncm 20\nA\nD 168\nLAO 35° / CAUD 1°"
+      },
+      "summary": "A fluoroscopic image from a coronary angiogram showing the left coronary artery system with a catheter tip visible. The image is displayed on a Siemens Artis workstation with acquisition parameters and patient details overlaid.",
+      "key_observations": [
+        "Left coronary artery system visualized",
+        "Catheter tip visible within the vessel",
+        "Image acquired at 6:20 PM on 3/28/2026",
+        "View angle: LAO 35° / CAUD 1°",
+        "Patient age: 73 years, female",
+        "Image parameters: EE 28%, DDO 50%, WC 2050, WW 2300"
+      ],
+      "dates_found": [
+        "03/28/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2222,
+        "completion_tokens": 602,
+        "total_duration_ms": 3802
+      }
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "claim_id": "PMJAY_DL_S_G_R2_2026040210052168",
+  "package": "MC011A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 4,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000083__PMJAY_DL_S_G_R2_2026040210052168__POST_ANGIOGRAM.jpg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Label 'post' on image",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Age/Sex : 51 years / M\nCAG\npost\nWW: 255\nWC: 122\n11:56:58\nDr. [blurred]",
+        "english": "Age/Sex : 51 years / M\nCAG\npost\nWW: 255\nWC: 122\n11:56:58\nDr. [blurred]"
+      },
+      "summary": "A post-procedure coronary angiogram image showing the left coronary artery system with a 'post' label indicating a post-intervention state. Patient is 51-year-old male. Image metadata includes window width (WW: 255) and window center (WC: 122).",
+      "key_observations": [
+        "Image is a post-procedure coronary angiogram (CAG) of a 51-year-old male.",
+        "An annotation 'post' is present, indicating the procedure is post-intervention.",
+        "Image displays the left coronary artery system with vessel structures.",
+        "Image metadata includes time (11:56:58), window width (WW: 255), and window center (WC: 122)."
+      ],
+      "dates_found": [],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2658,
+        "completion_tokens": 352,
+        "total_duration_ms": 3503
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000088__PMJAY_DL_S_G_R2_2026040210052168__DISCHARGE_CARD.pdf",
+      "page": 1,
+      "pages_total": 1,
+      "image_type": "Typed report",
+      "body_region": "N/A",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Discharge Summary with dates of admission, procedure, and discharge; advice at discharge includes medications and follow-up",
+      "ocr": {
+        "language": "English",
+        "verbatim": "HEART CARE CENTRE\nDischarge Summary\nName of patient:\nAddress:\nConsultant:\nAge/sex: 51Y/M\nUHID 109983\nWARD HDU\nDATE OF ADMISSION: 02/04/2026\nDATE OF PROCEDURE: 03/04/2026\nDATE OF DISCHARGE: 04/04/2026\nDiagnosis:\n1- CAD, Acute AWM I\n2- CAG-SVD\n3- PTCA/s to LAD ( 2 Stent)\n4- LVEF-40%\nInvestigations: All report attached.\nProcedure done : Coronary angiogram with PTCA/s to LAD\nStent Name : DES-2.5 X 12mm.\nDES-3.0 X 20mm.\nResult: Improvement.\nBrief summary: Patient was admitted with chest pain & AWM I. He underwent coronary angiogram which revealed single vessel disease. He was advised for PTCA/s to LAD. PTCA/s to LAD was done & flow was established. He was discharge in stable condition.\nAdvice at discharge:\n1. T- Brilinta 90mg 1tab BD (9:00am- 9:00pm)\n2. T- Ecosprin 75 mg 1tab OD ( 9:00pm)\n3. T-Rozat 20mg 1tab OD\n4. C-Pantocid-DSR 1cap BBF\n5. T- Levoflox 250 mg 1tab OD 3 days then stop\n6. T- Calpol 650 mg 1 tab SOS\n*Brilinta & Ecosprin should not be stopped without advice.\nNext Review : To see Dr. Deep Pant after 7 days in OPD Room No-1\nEmergency contact no -",
+        "english": "HEART CARE CENTRE\nDischarge Summary\nName of patient:\nAddress:\nConsultant:\nAge/sex: 51Y/M\nUHID 109983\nWARD HDU\nDATE OF ADMISSION: 02/04/2026\nDATE OF PROCEDURE: 03/04/2026\nDATE OF DISCHARGE: 04/04/2026\nDiagnosis:\n1- CAD, Acute AWM I\n2- CAG-SVD\n3- PTCA/s to LAD ( 2 Stent)\n4- LVEF-40%\nInvestigations: All report attached.\nProcedure done : Coronary angiogram with PTCA/s to LAD\nStent Name : DES-2.5 X 12mm.\nDES-3.0 X 20mm.\nResult: Improvement.\nBrief summary: Patient was admitted with chest pain & AWM I. He underwent coronary angiogram which revealed single vessel disease. He was advised for PTCA/s to LAD. PTCA/s to LAD was done & flow was established. He was discharge in stable condition.\nAdvice at discharge:\n1. T- Brilinta 90mg 1tab BD (9:00am- 9:00pm)\n2. T- Ecosprin 75 mg 1tab OD ( 9:00pm)\n3. T-Rozat 20mg 1tab OD\n4. C-Pantocid-DSR 1cap BBF\n5. T- Levoflox 250 mg 1tab OD 3 days then stop\n6. T- Calpol 650 mg 1 tab SOS\n*Brilinta & Ecosprin should not be stopped without advice.\nNext Review : To see Dr. Deep Pant after 7 days in OPD Room No-1\nEmergency contact no -"
+      },
+      "summary": "This is a discharge summary from a Heart Care Centre for a 51-year-old male patient who underwent a coronary angiogram and PTCA/s to the left anterior descending artery (LAD) with two stents. The patient was admitted for acute coronary syndrome (AWMI) and discharged in stable condition on 04/04/2026. Medications and follow-up instructions are provided.",
+      "key_observations": [
+        "Patient age/sex: 51Y/M",
+        "Diagnosis: CAD, Acute AWM I, CAG-SVD, LVEF-40%",
+        "Procedure: Coronary angiogram with PTCA/s to LAD (2 stents)",
+        "Discharge date: 04/04/2026",
+        "Medications prescribed at discharge including Brilinta, Ecosprin, Rozat, Pantocid-DSR, Levoflox, and Calpol",
+        "Follow-up: See Dr. Deep Pant after 7 days in OPD Room No-1"
+      ],
+      "dates_found": [
+        "02/04/2026",
+        "03/04/2026",
+        "04/04/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2222,
+        "completion_tokens": 1230,
+        "total_duration_ms": 7482
+      }
+    },
+    {
+      "image_index": 2,
+      "source": "000091__PMJAY_DL_S_G_R2_2026040210052168__PRE_ANGIOGRAM_2.jpeg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Coronary Angiogram",
+      "body_region": "Coronary tree — left system",
+      "modality_view": "N/A",
+      "stage_of_care": "pre-procedure",
+      "stage_evidence": "Label 'pre' on image",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Age/Sex : 51 years / M\nCAG\n16:21:26\nDr.\nBack P\nIP Tools\nIP Tools\nQCA\nSharpness\nApply\nLow\nWindow\nApply\nLayout\nSeries\nAnnot\nText S\nViews\nMedia\nE\nservice",
+        "english": "Age/Sex : 51 years / M\nCAG\n16:21:26\nDr.\nBack P\nIP Tools\nIP Tools\nQCA\nSharpness\nApply\nLow\nWindow\nApply\nLayout\nSeries\nAnnot\nText S\nViews\nMedia\nE\nservice"
+      },
+      "summary": "A pre-procedure coronary angiogram image showing the left coronary artery system with a 'pre' annotation. Patient is 51-year-old male. Image is displayed on a cath-lab monitor with UI overlays.",
+      "key_observations": [
+        "Image is a pre-procedure coronary angiogram (CAG)",
+        "Patient age and sex: 51 years / Male",
+        "Annotated with 'pre' indicating pre-intervention state",
+        "Displayed on a cath-lab monitor with IP Tools and QCA interface"
+      ],
+      "dates_found": [],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2700,
+        "completion_tokens": 345,
+        "total_duration_ms": 2813
+      }
+    },
+    {
+      "image_index": 3,
+      "source": "000109__PMJAY_DL_S_G_R2_2026040210052168__PRE_ANGIOGRAPHY_2.jpeg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Typed report",
+      "body_region": "Coronary tree",
+      "modality_view": "N/A",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Report contains 'IMPRESSION' and 'RECOMMENDATIONS' sections",
+      "ocr": {
+        "language": "English",
+        "verbatim": "CORONARY ANGIOGRAPHY REPORT\nPt. Name : MR.\nAGE/SEX : 51Y/M\nDOS : 02/04/2026\nUHID NO : 109983\nPhysician Incharge: DM, Cardiologist\nProcedure done : Coronary Angiography\nAssisted by :\nApproach by : Rt. Femoral\nCatheters used : JL/IR-3.5-6F\nDye used : Visipaque\nLMCA : Small and normal.\nLAD : Average size vessel mid 90 % stenosis with thrombus.\nDistal LAD discrete 90% stenosis.\nMinor vessel and normal.\nLCX : Average size vessel and normal.\nOM1 : Minor vessel and normal.\nRCA : Average size vessel and mid 50 % stenosis.\nIMPRESSION : Double Vessel Disease\nRECOMMENDATIONS: PTCA/s to LAD (2 Stent)\nMD, DM, (Cardiology)",
+        "english": "CORONARY ANGIOGRAPHY REPORT\nPt. Name : MR.\nAGE/SEX : 51Y/M\nDOS : 02/04/2026\nUHID NO : 109983\nPhysician Incharge: DM, Cardiologist\nProcedure done : Coronary Angiography\nAssisted by :\nApproach by : Rt. Femoral\nCatheters used : JL/IR-3.5-6F\nDye used : Visipaque\nLMCA : Small and normal.\nLAD : Average size vessel mid 90 % stenosis with thrombus.\nDistal LAD discrete 90% stenosis.\nMinor vessel and normal.\nLCX : Average size vessel and normal.\nOM1 : Minor vessel and normal.\nRCA : Average size vessel and mid 50 % stenosis.\nIMPRESSION : Double Vessel Disease\nRECOMMENDATIONS: PTCA/s to LAD (2 Stent)\nMD, DM, (Cardiology)"
+      },
+      "summary": "This is a typed coronary angiography report detailing findings from a procedure performed on a 51-year-old male patient. The report notes significant stenosis in the left anterior descending (LAD) artery and moderate stenosis in the right coronary artery (RCA), leading to an impression of double vessel disease. Recommendations include percutaneous transluminal coronary angioplasty (PTCA) with stenting in the LAD artery.",
+      "key_observations": [
+        "Patient is a 51-year-old male (51Y/M).",
+        "Procedure: Coronary Angiography via right femoral approach.",
+        "Findings: 90% stenosis in mid LAD with thrombus, 90% stenosis in distal LAD, 50% stenosis in RCA.",
+        "Diagnosis: Double Vessel Disease.",
+        "Recommendation: PTCA with 2 stents in the LAD artery."
+      ],
+      "dates_found": [
+        "02/04/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 1981,
+        "completion_tokens": 772,
+        "total_duration_ms": 5203
+      }
+    }
+  ]
+}
