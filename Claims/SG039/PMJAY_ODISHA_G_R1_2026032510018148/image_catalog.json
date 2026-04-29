@@ -1,0 +1,66 @@
+{
+  "claim_id": "PMJAY_ODISHA_G_R1_2026032510018148",
+  "package": "SG039",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 2,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000094__PMJAY_ODISHA_G_R1_2026032510018148__USG.pdf",
+      "page": 1,
+      "pages_total": 2,
+      "image_type": "Typed report",
+      "body_region": "Abdomen and Pelvis",
+      "modality_view": "N/A",
+      "stage_of_care": "n/a",
+      "stage_evidence": "Clinical report of ultrasound findings",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Patient Name : Patient ID : APF2526/03/09-4\nAge / Gender : 35 Yrs. / Female\nReported on : 09/03/2026\n\nUSG OF ABDOMEN AND PELVIS\n\nLIVER : Normal in size Parenchymal echotexture homogenous and normal. No Intra Hepatic Biliary Radicles (IHBR) dilatation seen. No focal mass lesions seen. Portal Vein normal in course and calibre. Common Bile Duct normal in course and calibre.\n\nGALL BLADDER : Well distended .with an echogenic calculus 22mm dia seen in GB neck with acousticity & sludge present . mild wall thickening seen\n\nPANCREAS : Normal in size with homogenous echotexture. No focal mass lesions or calcification noted.\n\nSPLEEN : Normal in size with homogenous echotexture. No focal mass lesions noted. Splenic Vein normal in course and calibre.\n\nRIGHT KIDNEY : Normal in shape, position and size - 7.7 cm. Cortical echo appears normal. Cortico-medullary differentiation is maintained. Pelvicalyceal system appears normal. No calculus seen. No evidence of hydronephrosis.\n\nLEFT KIDNEY : Normal in shape, position and size - 8.6 cm. Cortical echo appears normal. Cortico-medullary differentiation is maintained. Pelvicalyceal system appears normal. No calculus seen. No evidence of hydronephrosis.\n\nURINARY BLADDER : Well distended with normal wall thickness. Lumen clear with no evidence of calculus / growth / diverticula.\n\nUTERUS : Normal in size - 94x46.8x38 mm and shows normal myometrial echogenicity. Endometrium is smooth and regular. Endometrial thickness (ET) measures 8 mm. No focal lesions noted. Cervix appears normal. No POD collection seen.\n\nRIGHT OVARY : Normal in size and echotexture. No SOL / Cystic lesion noted.\n\nLEFT OVARY : Normal in size and echotexture. No SOL / Cystic lesion noted. Bilateral Adnexae appears clear.\n\nOTHERS : No evidence of any free fluid in the peritoneal cavity. No Retroperitoneal lymphadenopathy noted. Visualized bowel loops seen distended with gases showing normal peristalsis.\n\nIMPRESSION :\n\nAcute on Chronic cholecystitis cholelithiasis.\n\n**********************End of Report**********************\n\n( Sonologist )\nRegd. No. -5944/Odisha\n\nIT IS A TECHNICAL REPORT NOT A FINAL DIAGNOSIS. NEEDS CLINICAL CORELATION. NOT VALID FOR MEDICO LEGAL PURPOSE.",
+        "english": "Patient Name : Patient ID : APF2526/03/09-4\nAge / Gender : 35 Yrs. / Female\nReported on : 09/03/2026\n\nUSG OF ABDOMEN AND PELVIS\n\nLIVER : Normal in size Parenchymal echotexture homogenous and normal. No Intra Hepatic Biliary Radicles (IHBR) dilatation seen. No focal mass lesions seen. Portal Vein normal in course and calibre. Common Bile Duct normal in course and calibre.\n\nGALL BLADDER : Well distended .with an echogenic calculus 22mm dia seen in GB neck with acousticity & sludge present . mild wall thickening seen\n\nPANCREAS : Normal in size with homogenous echotexture. No focal mass lesions or calcification noted.\n\nSPLEEN : Normal in size with homogenous echotexture. No focal mass lesions noted. Splenic Vein normal in course and calibre.\n\nRIGHT KIDNEY : Normal in shape, position and size - 7.7 cm. Cortical echo appears normal. Cortico-medullary differentiation is maintained. Pelvicalyceal system appears normal. No calculus seen. No evidence of hydronephrosis.\n\nLEFT KIDNEY : Normal in shape, position and size - 8.6 cm. Cortical echo appears normal. Cortico-medullary differentiation is maintained. Pelvicalyceal system appears normal. No calculus seen. No evidence of hydronephrosis.\n\nURINARY BLADDER : Well distended with normal wall thickness. Lumen clear with no evidence of calculus / growth / diverticula.\n\nUTERUS : Normal in size - 94x46.8x38 mm and shows normal myometrial echogenicity. Endometrium is smooth and regular. Endometrial thickness (ET) measures 8 mm. No focal lesions noted. Cervix appears normal. No POD collection seen.\n\nRIGHT OVARY : Normal in size and echotexture. No SOL / Cystic lesion noted.\n\nLEFT OVARY : Normal in size and echotexture. No SOL / Cystic lesion noted. Bilateral Adnexae appears clear.\n\nOTHERS : No evidence of any free fluid in the peritoneal cavity. No Retroperitoneal lymphadenopathy noted. Visualized bowel loops seen distended with gases showing normal peristalsis.\n\nIMPRESSION :\n\nAcute on Chronic cholecystitis cholelithiasis.\n\n**********************End of Report**********************\n\n( Sonologist )\nRegd. No. -5944/Odisha\n\nIT IS A TECHNICAL REPORT NOT A FINAL DIAGNOSIS. NEEDS CLINICAL CORELATION. NOT VALID FOR MEDICO LEGAL PURPOSE."
+      },
+      "summary": "This is a typed ultrasound report of the abdomen and pelvis for a 35-year-old female patient. The report details findings from various organs including liver, gallbladder, pancreas, spleen, kidneys, urinary bladder, uterus, and ovaries. The key finding is acute on chronic cholecystitis with cholelithiasis (gallstones).",
+      "key_observations": [
+        "Patient is a 35-year-old female.",
+        "Reported on 09/03/2026.",
+        "Findings include a 22mm echogenic calculus in the gallbladder neck with sludge and mild wall thickening.",
+        "Normal size and echotexture of liver, pancreas, spleen, kidneys, and uterus.",
+        "Normal urinary bladder and ovaries.",
+        "Diagnosis: Acute on Chronic cholecystitis cholelithiasis.",
+        "Report disclaimer: 'IT IS A TECHNICAL REPORT NOT A FINAL DIAGNOSIS. NEEDS CLINICAL CORELATION. NOT VALID FOR MEDICO LEGAL PURPOSE.'"
+      ],
+      "dates_found": [
+        "09/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2221,
+        "completion_tokens": 1603,
+        "total_duration_ms": 10062
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000094__PMJAY_ODISHA_G_R1_2026032510018148__USG.pdf",
+      "page": 2,
+      "pages_total": 2,
+      "image_type": "Ultrasound",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "Long-axis",
+      "stage_of_care": "pre-procedure",
+      "stage_evidence": "Diagnostic ultrasound image without contrast or intervention",
+      "ocr": {
+        "language": "English",
+        "verbatim": "G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4 G4"
+      },
+      "_usage": {
+        "prompt_tokens": 2221,
+        "completion_tokens": 4096,
+        "total_duration_ms": 23860
+      }
+    }
+  ]
+}
