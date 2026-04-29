@@ -1,0 +1,231 @@
+{
+  "claim_id": "PMJAY_MH_S_G_R1_2026032610038286_P",
+  "package": "MC011A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 16,
+  "generated_ms": 5165,
+  "header": {
+    "claim_id": "PMJAY_MH_S_G_R1_2026032610038286_P",
+    "patient_name": null,
+    "modality": "Coronary Angiogram",
+    "body_part": "Coronary tree — left system",
+    "study_date": "21/03/2026",
+    "reviewer": null
+  },
+  "status": {
+    "consistency": "consistent",
+    "confidence_pct": 95,
+    "clinical_risk_score": "High",
+    "key_findings": [
+      {
+        "finding": "Stent deployment in LCX",
+        "ai_detected": true,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "80% stenosis in LCX",
+        "ai_detected": false,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "PTCA procedure performed",
+        "ai_detected": true,
+        "report_mentioned": true,
+        "note": null
+      }
+    ]
+  },
+  "scan_viewer": {
+    "primary_image_source": "000286__PMJAY_MH_S_G_R1_2026032610038286__PTCA_IMAGES.pdf",
+    "detected_regions": [],
+    "ai_overlays_available": false
+  },
+  "ai_clinical_findings": {
+    "fracture": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "fluid_accumulation": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "tumor_mass": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "infiltration": {
+      "severity": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "image_quality": null
+  },
+  "multi_image_analysis": {
+    "entries": [
+      {
+        "modality": "Coronary Angiogram",
+        "day": 360,
+        "date": "21/03/2025",
+        "finding": "Coronary tree — left system",
+        "confirmed": true
+      },
+      {
+        "modality": "Typed report",
+        "day": 1,
+        "date": "27/03/2024",
+        "finding": "Coronary tree — left system",
+        "confirmed": true
+      }
+    ],
+    "consistency_score_pct": null
+  },
+  "report_nlp_extraction": {
+    "reported_diagnosis": null,
+    "reported_severity": null,
+    "reported_findings": [],
+    "extraction_confidence": null
+  },
+  "finding_correlation": {
+    "rows": [
+      {
+        "finding": "Stent deployment in LCX",
+        "image_ai": true,
+        "report": true,
+        "match": true
+      },
+      {
+        "finding": "80% stenosis in LCX",
+        "image_ai": false,
+        "report": true,
+        "match": false
+      },
+      {
+        "finding": "PTCA procedure performed",
+        "image_ai": true,
+        "report": true,
+        "match": true
+      }
+    ],
+    "consistency_score_pct": 67
+  },
+  "inconsistency_detection": {
+    "possible_exaggerations": [],
+    "underreported_findings": [],
+    "hidden_findings": []
+  },
+  "stg_alignment": {
+    "claimed_package": "MC011A",
+    "evidence_required": [],
+    "stg_compliance_score_pct": null
+  },
+  "radiology_timeline": {
+    "events": [
+      {
+        "day": 1,
+        "date": "27/03/2024",
+        "event": "Typed report"
+      },
+      {
+        "day": 360,
+        "date": "21/03/2025",
+        "event": "Coronary Angiogram"
+      },
+      {
+        "day": 705,
+        "date": "24/01/03/2026",
+        "event": "Coronary Angiogram"
+      },
+      {
+        "day": 721,
+        "date": "17/03/2026",
+        "event": "Coronary Angiogram"
+      },
+      {
+        "day": 725,
+        "date": "21/03/2026",
+        "event": "Typed report"
+      },
+      {
+        "day": 725,
+        "date": "21/03/2026",
+        "event": "Coronary Angiogram"
+      },
+      {
+        "day": 731,
+        "date": "27/03/2026",
+        "event": "Coronary Angiogram"
+      },
+      {
+        "day": 1438,
+        "date": "3/27/2026",
+        "event": "Coronary Angiogram"
+      },
+      {
+        "day": 1438,
+        "date": "03/27/2026",
+        "event": "Coronary Angiogram"
+      }
+    ],
+    "logical": true
+  },
+  "patient": {
+    "name": null,
+    "age": "81 years",
+    "sex": "Female",
+    "id_numbers": [
+      "2401/03/2026",
+      "AHH-1792/03/26",
+      "AHH-1781/03/26"
+    ]
+  },
+  "hospital": {
+    "name": null,
+    "location": null,
+    "doctors": [
+      "Dr. Tushar A. Patil"
+    ]
+  },
+  "encounter": {
+    "date_range": "21/03/2026 to 27/03/2026",
+    "all_dates": [
+      "21/03/2026",
+      "27/03/2026"
+    ],
+    "primary_procedure": "PTCA to LCX with stent deployment",
+    "package_code": "MC011A"
+  },
+  "image_inventory": {
+    "total_images": 16,
+    "by_type": {
+      "Coronary Angiogram": 14,
+      "Typed report": 2
+    },
+    "stages_present": [
+      "intra-procedure",
+      "post-procedure"
+    ],
+    "languages_seen": [
+      "English"
+    ]
+  },
+  "clinical_narrative": "An 81-year-old female underwent pre-procedure coronary angiography revealing 80% stenosis in the left circumflex artery, leading to a planned PTCA. The procedure was performed via right radial artery, involving pre-dilatation, stenting with a single drug-eluting stent (LCX-GRACE 2.75 X 36 mm), and post-dilatation. Final result was excellent with TIMI-III flow and 0% residual stenosis. Post-procedure instructions included long-term dual antiplatelets.",
+  "completeness": {
+    "has_pre_procedure_imaging": true,
+    "has_intra_procedure_imaging": true,
+    "has_post_procedure_imaging": true,
+    "has_typed_report": true,
+    "has_handwritten_notes": true,
+    "has_signed_stamp": true,
+    "notes": null
+  },
+  "concerns_or_gaps": [
+    "Inconsistent date formats in image metadata (e.g., '3/27/1945', '09/2026').",
+    "Incomplete patient name in some reports.",
+    "No hospital name or location identified."
+  ]
+}

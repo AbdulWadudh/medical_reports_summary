@@ -1,0 +1,277 @@
+{
+  "claim_id": "PMJAY_MH_S_G_R1_2026032310059049",
+  "package": "MC011A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 18,
+  "generated_ms": 5229,
+  "header": {
+    "claim_id": "PMJAY_MH_S_G_R1_2026032310059049",
+    "patient_name": null,
+    "modality": "Coronary Angiogram",
+    "body_part": "Coronary tree",
+    "study_date": "23/03/2026",
+    "reviewer": null
+  },
+  "status": {
+    "consistency": "partial",
+    "confidence_pct": 85,
+    "clinical_risk_score": "Medium",
+    "key_findings": [
+      {
+        "finding": "Stent deployment in RCA and LAD",
+        "ai_detected": true,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "70% stenosis in LAD and RCA ostium",
+        "ai_detected": false,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "Post-procedure TIMI III flow with 0% residual stenosis",
+        "ai_detected": false,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "Multiple conflicting dates in images (e.g., 2026, 2025, 2023)",
+        "ai_detected": false,
+        "report_mentioned": false,
+        "note": null
+      }
+    ]
+  },
+  "scan_viewer": {
+    "primary_image_source": "000232__PMJAY_MH_S_G_R1_2026032310059049__PTCA_IMAGES.pdf",
+    "detected_regions": [],
+    "ai_overlays_available": false
+  },
+  "ai_clinical_findings": {
+    "fracture": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "fluid_accumulation": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "tumor_mass": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "infiltration": {
+      "severity": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "image_quality": null
+  },
+  "multi_image_analysis": {
+    "entries": [
+      {
+        "modality": "Coronary Angiogram",
+        "day": 1,
+        "date": "03/02/2023",
+        "finding": "Coronary tree — left system",
+        "confirmed": true
+      },
+      {
+        "modality": "Typed report",
+        "day": 1145,
+        "date": "23/03/2026",
+        "finding": "Coronary tree — right system",
+        "confirmed": true
+      }
+    ],
+    "consistency_score_pct": null
+  },
+  "report_nlp_extraction": {
+    "reported_diagnosis": null,
+    "reported_severity": null,
+    "reported_findings": [],
+    "extraction_confidence": null
+  },
+  "finding_correlation": {
+    "rows": [
+      {
+        "finding": "Stent deployment in RCA and LAD",
+        "image_ai": true,
+        "report": true,
+        "match": true
+      },
+      {
+        "finding": "70% stenosis in LAD and RCA ostium",
+        "image_ai": false,
+        "report": true,
+        "match": false
+      },
+      {
+        "finding": "Post-procedure TIMI III flow with 0% residual stenosis",
+        "image_ai": false,
+        "report": true,
+        "match": false
+      },
+      {
+        "finding": "Multiple conflicting dates in images (e.g., 2026, 2025, 2023)",
+        "image_ai": false,
+        "report": false,
+        "match": true
+      }
+    ],
+    "consistency_score_pct": 50
+  },
+  "inconsistency_detection": {
+    "possible_exaggerations": [],
+    "underreported_findings": [],
+    "hidden_findings": []
+  },
+  "stg_alignment": {
+    "claimed_package": "MC011A",
+    "evidence_required": [],
+    "stg_compliance_score_pct": null
+  },
+  "radiology_timeline": {
+    "events": [
+      {
+        "day": 1,
+        "date": "03/02/2023",
+        "event": "Coronary Angiogram"
+      },
+      {
+        "day": 884,
+        "date": "05/07/2025",
+        "event": "Coronary Angiogram"
+      },
+      {
+        "day": 1097,
+        "date": "03/02/2026",
+        "event": "Coronary Angiogram"
+      },
+      {
+        "day": 1118,
+        "date": "24/02/2026",
+        "event": "Coronary Angiogram"
+      },
+      {
+        "day": 1145,
+        "date": "23/03/2026",
+        "event": "Typed report"
+      },
+      {
+        "day": 1145,
+        "date": "23/03/2026",
+        "event": "Coronary Angiogram"
+      },
+      {
+        "day": 1146,
+        "date": "24/03/2026",
+        "event": "Coronary Angiogram"
+      },
+      {
+        "day": 1146,
+        "date": "24/03/2026",
+        "event": "Typed report"
+      },
+      {
+        "day": 1147,
+        "date": "25/03/2026",
+        "event": "Coronary Angiogram"
+      },
+      {
+        "day": 1219,
+        "date": "2397/03/2026",
+        "event": "Coronary Angiogram"
+      },
+      {
+        "day": 1267,
+        "date": "23/07/2026",
+        "event": "Coronary Angiogram"
+      },
+      {
+        "day": 1400,
+        "date": "03/24/2025",
+        "event": "Coronary Angiogram"
+      },
+      {
+        "day": 1735,
+        "date": "03/23/2026",
+        "event": "Coronary Angiogram"
+      },
+      {
+        "day": 1765,
+        "date": "03/24/2026",
+        "event": "Coronary Angiogram"
+      },
+      {
+        "day": 1765,
+        "date": "3/24/2026",
+        "event": "Coronary Angiogram"
+      }
+    ],
+    "logical": true
+  },
+  "patient": {
+    "name": null,
+    "age": "75 years",
+    "sex": "Male",
+    "id_numbers": [
+      "2397/03/2026",
+      "AHH-1778/03/26",
+      "AHH-1787/03/26"
+    ]
+  },
+  "hospital": {
+    "name": null,
+    "location": null,
+    "doctors": [
+      "M.B.B.S., D.N.B. (Med.), D.N.B. (Cardiology)",
+      "M.B.B.S., D.N.B. (Med.), D.N.B. (Cardiology)"
+    ]
+  },
+  "encounter": {
+    "date_range": "23/03/2026 to 25/03/2026",
+    "all_dates": [
+      "23/03/2026",
+      "24/03/2026",
+      "25/03/2026"
+    ],
+    "primary_procedure": "Percutaneous Coronary Intervention (PCI) to Right Coronary Artery and Left Anterior Descending Artery",
+    "package_code": "MC011A"
+  },
+  "image_inventory": {
+    "total_images": 18,
+    "by_type": {
+      "Coronary Angiogram": 14,
+      "Typed report": 2,
+      "CAG_REPORT.pdf": 1
+    },
+    "stages_present": [
+      "intra-procedure",
+      "post-procedure"
+    ],
+    "languages_seen": [
+      "English",
+      "Hindi"
+    ]
+  },
+  "clinical_narrative": "A 75-year-old male underwent percutaneous coronary intervention for stenosis in the right coronary artery and left anterior descending artery, with stent deployment and balloon angioplasty resulting in excellent final outcome with TIMI III flow and 0% residual stenosis. Pre-procedure angiography showed 70% stenosis in LAD and RCA, with intra-procedural images documenting guidewire placement, stent deployment, and post-procedure angiography confirming successful intervention.",
+  "completeness": {
+    "has_pre_procedure_imaging": false,
+    "has_intra_procedure_imaging": true,
+    "has_post_procedure_imaging": true,
+    "has_typed_report": true,
+    "has_handwritten_notes": true,
+    "has_signed_stamp": true,
+    "notes": null
+  },
+  "concerns_or_gaps": [
+    "Inconsistent dates across images (future dates like 3/24/2026 appear)",
+    "No pre-procedure imaging identified in records",
+    "No hospital name or location identified"
+  ]
+}

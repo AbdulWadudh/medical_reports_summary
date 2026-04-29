@@ -1,0 +1,88 @@
+{
+  "claim_id": "PMJAY_MH_S_G_R1_2026032310043558",
+  "package": "MG029A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 2,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000140__PMJAY_MH_S_G_R1_2026032310043558__Scan_0002.pdf",
+      "page": 1,
+      "pages_total": 1,
+      "image_type": "Typed report",
+      "body_region": "N/A",
+      "modality_view": "N/A",
+      "stage_of_care": "n/a",
+      "stage_evidence": "N/A",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Special Investigation\nU.S.G. Date 21/03/2026\nNo any significant abn\nX-Ray\nHyperinflation of lungs\nseen\nE.C.G.\nInvestigation\nH.B. 11.1%\nT.L.C. 114000\nD.L.C.\nPlaecs 186020\nB.T.&C.L.\nBlood Grouping\n-Typing\nBlood Sugar\n32\nSerum Urea\n1204 0.2\nSerum Bilirubin\nSerum Creatinine\n1.2\nSGOT\n12\nSGPT 0.6\nV.D.R.L.\nN04-139\nWidal Test\nK4-3.8\nP.S. for M.O.\nC.F. -92\nUrine",
+        "english": "Special Investigation\nU.S.G. Date 21/03/2026\nNo any significant abn\nX-Ray\nHyperinflation of lungs\nseen\nE.C.G.\nInvestigation\nH.B. 11.1%\nT.L.C. 114000\nD.L.C.\nPlaecs 186020\nB.T.&C.L.\nBlood Grouping\n-Typing\nBlood Sugar\n32\nSerum Urea\n1204 0.2\nSerum Bilirubin\nSerum Creatinine\n1.2\nSGOT\n12\nSGPT 0.6\nV.D.R.L.\nN04-139\nWidal Test\nK4-3.8\nP.S. for M.O.\nC.F. -92\nUrine"
+      },
+      "summary": "This is a typed laboratory report showing results of various investigations including X-ray findings, blood tests, and urine analysis. The X-ray report indicates hyperinflation of the lungs. The report also includes hematological and biochemical parameters such as Hb, TLC, serum urea, bilirubin, creatinine, SGOT, SGPT, VDRL, Widal test, and urine parameters.",
+      "key_observations": [
+        "X-ray finding: Hyperinflation of lungs",
+        "Hemoglobin (H.B.) level: 11.1%",
+        "Total Leukocyte Count (T.L.C.): 114000",
+        "Blood Sugar: 32",
+        "Serum Urea: 1204 0.2",
+        "Serum Creatinine: 1.2",
+        "SGOT: 12",
+        "SGPT: 0.6",
+        "VDRL: N04-139",
+        "Widal Test: K4-3.8",
+        "Urine: C.F. -92"
+      ],
+      "dates_found": [
+        "21/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2225,
+        "completion_tokens": 704,
+        "total_duration_ms": 4599
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000471__PMJAY_MH_S_G_R1_2026032310043558__LAB.pdf",
+      "page": 1,
+      "pages_total": 1,
+      "image_type": "Chest X-Ray",
+      "body_region": "Chest (PA)",
+      "modality_view": "PA",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Multiple medical devices visible: central venous catheter with ports, chest tubes, and a pacemaker/defibrillator generator with leads",
+      "ocr": {
+        "language": "none",
+        "verbatim": "",
+        "english": ""
+      },
+      "summary": "A post-procedure chest X-ray showing the thoracic cavity with visible medical devices including a central venous catheter, chest tubes, and a pacemaker/defibrillator generator with leads.",
+      "key_observations": [
+        "Multiple medical devices are present: central venous catheter with ports, chest tubes, and a pacemaker/defibrillator generator with leads.",
+        "Right lung appears partially collapsed or compressed, with possible pleural effusion or consolidation.",
+        "Left lung shows diffuse opacities, possibly indicating pneumonia, atelectasis, or fluid accumulation.",
+        "Ribs and spine are visible with no obvious fractures.",
+        "Image is a photograph of a physical X-ray film, with some glare and partial obscuration at the top and bottom edges."
+      ],
+      "dates_found": [],
+      "image_quality": {
+        "rating": "fair",
+        "limitations": [
+          "Photograph of a physical X-ray film, not a direct digital image.",
+          "Glare and partial obscuration at top and bottom edges.",
+          "Image is slightly blurry and has low contrast in some areas."
+        ]
+      },
+      "_usage": {
+        "prompt_tokens": 2220,
+        "completion_tokens": 316,
+        "total_duration_ms": 3945
+      }
+    }
+  ]
+}

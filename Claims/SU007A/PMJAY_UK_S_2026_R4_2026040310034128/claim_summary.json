@@ -1,0 +1,214 @@
+{
+  "claim_id": "PMJAY_UK_S_2026_R4_2026040310034128",
+  "package": "SU007A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 4,
+  "generated_ms": 4797,
+  "header": {
+    "claim_id": "PMJAY_UK_S_2026_R4_2026040310034128",
+    "patient_name": null,
+    "modality": "Mixed",
+    "body_part": "Right kidney + ureter",
+    "study_date": "03/04/2024",
+    "reviewer": null
+  },
+  "status": {
+    "consistency": "partial",
+    "confidence_pct": 75,
+    "clinical_risk_score": "Medium",
+    "key_findings": [
+      {
+        "finding": "Renal calculi in right kidney",
+        "ai_detected": null,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "DJ stent placement",
+        "ai_detected": null,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "Pre-procedure imaging (KUB/IVP) showing calculi",
+        "ai_detected": null,
+        "report_mentioned": true,
+        "note": null
+      }
+    ]
+  },
+  "scan_viewer": {
+    "primary_image_source": "000102__PMJAY_UK_S_2026_R4_2026040310034128__USG_IVP_BLOOD_R.pdf",
+    "detected_regions": [],
+    "ai_overlays_available": false
+  },
+  "ai_clinical_findings": {
+    "fracture": {
+      "present": false,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "fluid_accumulation": {
+      "present": false,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "tumor_mass": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "infiltration": {
+      "severity": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "image_quality": null
+  },
+  "multi_image_analysis": {
+    "entries": [
+      {
+        "modality": "Typed report",
+        "day": 1,
+        "date": "03/04/2024",
+        "finding": "Right kidney + ureter",
+        "confirmed": true
+      },
+      {
+        "modality": "IVP",
+        "day": 720,
+        "date": "23/03/2026",
+        "finding": "Abdomen — pelvicalyceal system",
+        "confirmed": true
+      },
+      {
+        "modality": "Abdominal X-Ray (KUB)",
+        "day": 733,
+        "date": "05/04/2026",
+        "finding": "Abdomen — pelvicalyceal system",
+        "confirmed": true
+      }
+    ],
+    "consistency_score_pct": null
+  },
+  "report_nlp_extraction": {
+    "reported_diagnosis": null,
+    "reported_severity": null,
+    "reported_findings": [],
+    "extraction_confidence": null
+  },
+  "finding_correlation": {
+    "rows": [
+      {
+        "finding": "Renal calculi in right kidney",
+        "image_ai": null,
+        "report": true,
+        "match": null
+      },
+      {
+        "finding": "DJ stent placement",
+        "image_ai": null,
+        "report": true,
+        "match": null
+      },
+      {
+        "finding": "Pre-procedure imaging (KUB/IVP) showing calculi",
+        "image_ai": null,
+        "report": true,
+        "match": null
+      }
+    ],
+    "consistency_score_pct": null
+  },
+  "inconsistency_detection": {
+    "possible_exaggerations": [],
+    "underreported_findings": [],
+    "hidden_findings": []
+  },
+  "stg_alignment": {
+    "claimed_package": "SU007A",
+    "evidence_required": [],
+    "stg_compliance_score_pct": null
+  },
+  "radiology_timeline": {
+    "events": [
+      {
+        "day": 1,
+        "date": "03/04/2024",
+        "event": "Typed report"
+      },
+      {
+        "day": 720,
+        "date": "23/03/2026",
+        "event": "IVP"
+      },
+      {
+        "day": 733,
+        "date": "05/04/2026",
+        "event": "Abdominal X-Ray (KUB)"
+      },
+      {
+        "day": 1310,
+        "date": "03/23/2026",
+        "event": "Typed report"
+      }
+    ],
+    "logical": true
+  },
+  "patient": {
+    "name": null,
+    "age": "55 years",
+    "sex": "Female",
+    "id_numbers": []
+  },
+  "hospital": {
+    "name": null,
+    "location": null,
+    "doctors": [
+      "Dr. Anurag Gangcman",
+      "D. R. Mukab"
+    ]
+  },
+  "encounter": {
+    "date_range": "03/04/2024 to 05/04/2026",
+    "all_dates": [
+      "03/04/2024",
+      "03/23/2026",
+      "23/03/2026",
+      "05/04/2026"
+    ],
+    "primary_procedure": "Right PCNL with DJ stent for renal calculus",
+    "package_code": "SU007A"
+  },
+  "image_inventory": {
+    "total_images": 4,
+    "by_type": {
+      "Typed report": 2,
+      "IVP": 1,
+      "Abdominal X-Ray (KUB)": 1
+    },
+    "stages_present": [
+      "pre-procedure",
+      "intra-procedure",
+      "post-procedure"
+    ],
+    "languages_seen": [
+      "English"
+    ]
+  },
+  "clinical_narrative": "A 55-year-old female underwent right PCNL with DJ stent placement for renal calculi on April 3, 2024. Pre-procedure imaging (KUB) was performed on April 5, 2026; intra-procedure IVP images were taken on March 23, 2026; and post-procedure IVP and surgical notes were documented on April 3, 2024.",
+  "completeness": {
+    "has_pre_procedure_imaging": true,
+    "has_intra_procedure_imaging": true,
+    "has_post_procedure_imaging": true,
+    "has_typed_report": true,
+    "has_handwritten_notes": false,
+    "has_signed_stamp": false,
+    "notes": null
+  },
+  "concerns_or_gaps": [
+    "Inconsistent dates: surgical procedure (April 3, 2024) is prior to pre-op KUB (April 5, 2026) and intra-op IVP (March 23, 2026).",
+    "No patient name or ID number visible in any image.",
+    "No signed stamp or physician signature visible on typed reports."
+  ]
+}

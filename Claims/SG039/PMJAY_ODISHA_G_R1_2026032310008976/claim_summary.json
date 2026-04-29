@@ -1,0 +1,197 @@
+{
+  "claim_id": "PMJAY_ODISHA_G_R1_2026032310008976",
+  "package": "SG039",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 2,
+  "generated_ms": 43816,
+  "header": {
+    "claim_id": "PMJAY_ODISHA_G_R1_2026032310008976",
+    "patient_name": null,
+    "modality": "Ultrasound",
+    "body_part": "Abdomen & Pelvis",
+    "study_date": "17/03/2026",
+    "reviewer": null
+  },
+  "status": {
+    "consistency": "consistent",
+    "confidence_pct": 95,
+    "clinical_risk_score": "Low",
+    "key_findings": [
+      {
+        "finding": "Grade I fatty liver",
+        "ai_detected": null,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "Cholelithiasis (gallstone 32 x 12mm)",
+        "ai_detected": null,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "Normal kidneys",
+        "ai_detected": null,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "Ovarian cysts (7-8mm)",
+        "ai_detected": null,
+        "report_mentioned": true,
+        "note": null
+      }
+    ]
+  },
+  "scan_viewer": {
+    "primary_image_source": "000022__PMJAY_ODISHA_G_R1_2026032310008976__PARBATI_MAHANANDA_REPORTS.pdf",
+    "detected_regions": [],
+    "ai_overlays_available": false
+  },
+  "ai_clinical_findings": {
+    "fracture": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "fluid_accumulation": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "tumor_mass": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "infiltration": {
+      "severity": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "image_quality": null
+  },
+  "multi_image_analysis": {
+    "entries": [
+      {
+        "modality": "Typed report",
+        "day": 1,
+        "date": "17/03/2026",
+        "finding": "Abdomen & Pelvis",
+        "confirmed": false
+      },
+      {
+        "modality": "Ultrasound",
+        "day": null,
+        "date": null,
+        "finding": "Abdomen — kidneys",
+        "confirmed": true
+      }
+    ],
+    "consistency_score_pct": null
+  },
+  "report_nlp_extraction": {
+    "reported_diagnosis": null,
+    "reported_severity": null,
+    "reported_findings": [],
+    "extraction_confidence": null
+  },
+  "finding_correlation": {
+    "rows": [
+      {
+        "finding": "Grade I fatty liver",
+        "image_ai": null,
+        "report": true,
+        "match": null
+      },
+      {
+        "finding": "Cholelithiasis (gallstone 32 x 12mm)",
+        "image_ai": null,
+        "report": true,
+        "match": null
+      },
+      {
+        "finding": "Normal kidneys",
+        "image_ai": null,
+        "report": true,
+        "match": null
+      },
+      {
+        "finding": "Ovarian cysts (7-8mm)",
+        "image_ai": null,
+        "report": true,
+        "match": null
+      }
+    ],
+    "consistency_score_pct": null
+  },
+  "inconsistency_detection": {
+    "possible_exaggerations": [],
+    "underreported_findings": [],
+    "hidden_findings": []
+  },
+  "stg_alignment": {
+    "claimed_package": "SG039",
+    "evidence_required": [],
+    "stg_compliance_score_pct": null
+  },
+  "radiology_timeline": {
+    "events": [
+      {
+        "day": 1,
+        "date": "17/03/2026",
+        "event": "Typed report"
+      }
+    ],
+    "logical": true
+  },
+  "patient": {
+    "name": null,
+    "age": "44 years",
+    "sex": "Female",
+    "id_numbers": [
+      "216168"
+    ]
+  },
+  "hospital": {
+    "name": null,
+    "location": null,
+    "doctors": []
+  },
+  "encounter": {
+    "date_range": "17/03/2026 to 17/03/2026",
+    "all_dates": [
+      "17/03/2026"
+    ],
+    "primary_procedure": "Abdomen & Pelvis Ultrasound",
+    "package_code": "SG039"
+  },
+  "image_inventory": {
+    "total_images": 2,
+    "by_type": {
+      "Typed report": 1,
+      "Ultrasound": 1
+    },
+    "stages_present": [
+      "pre-procedure"
+    ],
+    "languages_seen": [
+      "English"
+    ]
+  },
+  "clinical_narrative": "Ultrasound of abdomen and pelvis performed on March 17, 2026, revealing grade I fatty liver, a 32 x 12mm gallstone, normal kidneys, and two small ovarian cysts. Images show pre-procedure kidney views with measurements.",
+  "completeness": {
+    "has_pre_procedure_imaging": true,
+    "has_intra_procedure_imaging": false,
+    "has_post_procedure_imaging": false,
+    "has_typed_report": true,
+    "has_handwritten_notes": false,
+    "has_signed_stamp": false,
+    "notes": null
+  },
+  "concerns_or_gaps": [
+    "PATIENT NAME MISSING IN REPORT",
+    "No date found in second image",
+    "No hospital or doctor details visible"
+  ]
+}

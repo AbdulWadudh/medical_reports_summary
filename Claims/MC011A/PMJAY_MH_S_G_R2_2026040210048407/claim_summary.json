@@ -1,0 +1,197 @@
+{
+  "claim_id": "PMJAY_MH_S_G_R2_2026040210048407",
+  "package": "MC011A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 5,
+  "generated_ms": 8328,
+  "header": {
+    "claim_id": "PMJAY_MH_S_G_R2_2026040210048407",
+    "patient_name": "Krushna Barge",
+    "modality": "Coronary Angiogram",
+    "body_part": "Coronary tree",
+    "study_date": "01/04/2026",
+    "reviewer": null
+  },
+  "status": {
+    "consistency": "consistent",
+    "confidence_pct": 95,
+    "clinical_risk_score": "Medium",
+    "key_findings": [
+      {
+        "finding": "PTCA performed on RCA with two stents",
+        "ai_detected": true,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "Critical stenosis (85-90%) in RCA",
+        "ai_detected": true,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "No dissection or complications during procedure",
+        "ai_detected": true,
+        "report_mentioned": true,
+        "note": null
+      }
+    ]
+  },
+  "scan_viewer": {
+    "primary_image_source": "000354__PMJAY_MH_S_G_R2_2026040210048407__Krushna_Barge_cag.pdf",
+    "detected_regions": [],
+    "ai_overlays_available": false
+  },
+  "ai_clinical_findings": {
+    "fracture": {
+      "present": false,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "fluid_accumulation": {
+      "present": false,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "tumor_mass": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "infiltration": {
+      "severity": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "image_quality": null
+  },
+  "multi_image_analysis": {
+    "entries": [
+      {
+        "modality": "Typed report",
+        "day": 31,
+        "date": "03/04/2026",
+        "finding": "Coronary arteries — Right Coronary Artery (RCA)",
+        "confirmed": true
+      },
+      {
+        "modality": "Coronary Angiogram",
+        "day": 1,
+        "date": "04/03/2026",
+        "finding": "Coronary tree — left system",
+        "confirmed": true
+      }
+    ],
+    "consistency_score_pct": null
+  },
+  "report_nlp_extraction": {
+    "reported_diagnosis": null,
+    "reported_severity": null,
+    "reported_findings": [],
+    "extraction_confidence": null
+  },
+  "finding_correlation": {
+    "rows": [
+      {
+        "finding": "PTCA performed on RCA with two stents",
+        "image_ai": true,
+        "report": true,
+        "match": true
+      },
+      {
+        "finding": "Critical stenosis (85-90%) in RCA",
+        "image_ai": true,
+        "report": true,
+        "match": true
+      },
+      {
+        "finding": "No dissection or complications during procedure",
+        "image_ai": true,
+        "report": true,
+        "match": true
+      }
+    ],
+    "consistency_score_pct": 100
+  },
+  "inconsistency_detection": {
+    "possible_exaggerations": [],
+    "underreported_findings": [],
+    "hidden_findings": []
+  },
+  "stg_alignment": {
+    "claimed_package": "MC011A",
+    "evidence_required": [],
+    "stg_compliance_score_pct": null
+  },
+  "radiology_timeline": {
+    "events": [
+      {
+        "day": 1,
+        "date": "04/03/2026",
+        "event": "Coronary Angiogram"
+      },
+      {
+        "day": 29,
+        "date": "01/04/2026",
+        "event": "Coronary Angiogram"
+      },
+      {
+        "day": 31,
+        "date": "03/04/2026",
+        "event": "Typed report"
+      }
+    ],
+    "logical": true
+  },
+  "patient": {
+    "name": "Krushna Barge",
+    "age": "74 years",
+    "sex": "Male",
+    "id_numbers": []
+  },
+  "hospital": {
+    "name": null,
+    "location": null,
+    "doctors": []
+  },
+  "encounter": {
+    "date_range": "01/04/2026 to 04/03/2026",
+    "all_dates": [
+      "01/04/2026",
+      "03/04/2026",
+      "04/03/2026"
+    ],
+    "primary_procedure": "PTCA with stent deployment in Right Coronary Artery",
+    "package_code": "MC011A"
+  },
+  "image_inventory": {
+    "total_images": 5,
+    "by_type": {
+      "Typed report": 1,
+      "Coronary Angiogram": 4
+    },
+    "stages_present": [
+      "pre-procedure",
+      "intra-procedure",
+      "post-procedure"
+    ],
+    "languages_seen": [
+      "English"
+    ]
+  },
+  "clinical_narrative": "A 74-year-old male underwent PTCA with two drug-eluting stents in the right coronary artery on April 3, 2026, following a pre-procedure angiogram showing critical stenosis. Intra-procedure images captured guidewire placement and stent deployment. Post-procedure angiogram confirmed adequate stent deployment with TIMI III flow. No complications were noted.",
+  "completeness": {
+    "has_pre_procedure_imaging": true,
+    "has_intra_procedure_imaging": true,
+    "has_post_procedure_imaging": true,
+    "has_typed_report": true,
+    "has_handwritten_notes": false,
+    "has_signed_stamp": false,
+    "notes": null
+  },
+  "concerns_or_gaps": [
+    "No hospital name or location identified",
+    "No doctor names visible",
+    "No signed stamp or physician signature on typed report"
+  ]
+}

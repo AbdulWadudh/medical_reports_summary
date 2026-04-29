@@ -1,0 +1,80 @@
+{
+  "claim_id": "MMJAA_UP_2025_R2_2026032510051485",
+  "package": "MG029A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 2,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000362__MMJAA_UP_2025_R2_2026032510051485__XRAY.pdf",
+      "page": 1,
+      "pages_total": 2,
+      "image_type": "Chest X-Ray",
+      "body_region": "Chest (PA)",
+      "modality_view": "PA",
+      "stage_of_care": "pre-procedure",
+      "stage_evidence": "No devices or contrast media visible; diagnostic view",
+      "ocr": {
+        "language": "English",
+        "verbatim": "PA\nL\n65 DR\n26-3-2026 3\nM CHEST.FRN P>A",
+        "english": "PA\nL\n65 DR\n26-3-2026 3\nM CHEST.FRN P>A"
+      },
+      "summary": "A posterior-anterior (PA) chest X-ray showing the thoracic cavity, including ribs, spine, and lung fields. The image is displayed on a monitor with technical metadata visible.",
+      "key_observations": [
+        "Standard PA chest X-ray view",
+        "Date stamp: 26-3-2026 3 (interpreted as 26/03/2026)",
+        "Patient identifier: M CHEST.FRN P>A",
+        "Image orientation markers: 'PA' (top left), 'L' (top right)",
+        "Image quality appears good with clear anatomical structures"
+      ],
+      "dates_found": [
+        "26/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2223,
+        "completion_tokens": 296,
+        "total_duration_ms": 3488
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000362__MMJAA_UP_2025_R2_2026032510051485__XRAY.pdf",
+      "page": 2,
+      "pages_total": 2,
+      "image_type": "Typed report",
+      "body_region": "Chest",
+      "modality_view": "PA",
+      "stage_of_care": "n/a",
+      "stage_evidence": "Clinical report, not a scan",
+      "ocr": {
+        "language": "English",
+        "verbatim": "PATHOLOGICAL EXAMINATION REPORT\n\nPatient Name: \nAge: 65\nReferring Physician: \n\nPatient ID: \nSex: M\nStudy Date: 26-3-2026\n\nDIGITAL RADIOGRAPH CHEST PA VIEW\nB/L broncho-vascular markings are prominent.\nBoth domes of diaphragm and CP angles are normal.\nBoth hila are normal.\nNo evidence of mediastinal shift is seen.\nCardiac size is normal.\n\nIMPRESSION:\nFINDINGS ARE S/O—BRONCHITIS.\n\nAD:- Kindly Review with clinical findings.\n\nTechnologist\nTiming-8.00 am to 8.00 pm\nNOT FOR MEDICO LEGAL PURPOSE\nसुविधाएं - पैथालोजी, ECG, Digital X-Ray.\nPick-up Center also available here.\n\nPathologist\nSample Collection Facility from Home also available.",
+        "english": "PATHOLOGICAL EXAMINATION REPORT\n\nPatient Name: \nAge: 65\nReferring Physician: \n\nPatient ID: \nSex: M\nStudy Date: 26-3-2026\n\nDIGITAL RADIOGRAPH CHEST PA VIEW\nB/L broncho-vascular markings are prominent.\nBoth domes of diaphragm and CP angles are normal.\nBoth hila are normal.\nNo evidence of mediastinal shift is seen.\nCardiac size is normal.\n\nIMPRESSION:\nFINDINGS ARE S/O—BRONCHITIS.\n\nAD:- Kindly Review with clinical findings.\n\nTechnologist\nTiming-8.00 am to 8.00 pm\nNOT FOR MEDICO LEGAL PURPOSE\nFacilities - Pathology, ECG, Digital X-Ray.\nPick-up Center also available here.\n\nPathologist\nSample Collection Facility from Home also available."
+      },
+      "summary": "This is a typed pathological examination report for a digital chest X-ray (PA view) performed on a 65-year-old male patient on March 26, 2026. The report notes prominent broncho-vascular markings and normal diaphragm, hila, and cardiac size, with an impression of bronchitis.",
+      "key_observations": [
+        "Patient age: 65, male",
+        "Study date: 26-3-2026",
+        "Findings: Prominent broncho-vascular markings, normal diaphragm and hila, normal cardiac size",
+        "Impression: S/O Bronchitis",
+        "Advice: Kindly Review with clinical findings"
+      ],
+      "dates_found": [
+        "26/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2223,
+        "completion_tokens": 669,
+        "total_duration_ms": 5459
+      }
+    }
+  ]
+}

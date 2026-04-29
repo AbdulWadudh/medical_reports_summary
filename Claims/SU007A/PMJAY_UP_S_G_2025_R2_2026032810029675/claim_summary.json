@@ -1,0 +1,205 @@
+{
+  "claim_id": "PMJAY_UP_S_G_2025_R2_2026032810029675",
+  "package": "SU007A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 4,
+  "generated_ms": 4242,
+  "header": {
+    "claim_id": "PMJAY_UP_S_G_2025_R2_2026032810029675",
+    "patient_name": null,
+    "modality": "X-Ray",
+    "body_part": "Abdomen — pelvicalyceal system",
+    "study_date": "21/03/2026",
+    "reviewer": null
+  },
+  "status": {
+    "consistency": "consistent",
+    "confidence_pct": 95,
+    "clinical_risk_score": "Low",
+    "key_findings": [
+      {
+        "finding": "Right renal calculus",
+        "ai_detected": false,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "Well-positioned right double-J ureteral stent",
+        "ai_detected": false,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "No radio-opaque renal or gall stones",
+        "ai_detected": false,
+        "report_mentioned": true,
+        "note": null
+      }
+    ]
+  },
+  "scan_viewer": {
+    "primary_image_source": "000240__PMJAY_UP_S_G_2025_R2_2026032810029675__MALA_DEVIV_IVP.pdf",
+    "detected_regions": [],
+    "ai_overlays_available": false
+  },
+  "ai_clinical_findings": {
+    "fracture": {
+      "present": false,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "fluid_accumulation": {
+      "present": false,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "tumor_mass": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "infiltration": {
+      "severity": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "image_quality": null
+  },
+  "multi_image_analysis": {
+    "entries": [
+      {
+        "modality": "Typed report",
+        "day": 1,
+        "date": "21/03/2026",
+        "finding": "Abdomen — pelvicalyceal system",
+        "confirmed": true
+      },
+      {
+        "modality": "Abdominal X-Ray (KUB)",
+        "day": 11,
+        "date": "31/03/2026",
+        "finding": "Abdomen — pelvicalyceal system",
+        "confirmed": true
+      },
+      {
+        "modality": "IVP",
+        "day": null,
+        "date": null,
+        "finding": "Abdomen — pelvicalyceal system",
+        "confirmed": true
+      }
+    ],
+    "consistency_score_pct": null
+  },
+  "report_nlp_extraction": {
+    "reported_diagnosis": null,
+    "reported_severity": null,
+    "reported_findings": [],
+    "extraction_confidence": null
+  },
+  "finding_correlation": {
+    "rows": [
+      {
+        "finding": "Right renal calculus",
+        "image_ai": false,
+        "report": true,
+        "match": false
+      },
+      {
+        "finding": "Well-positioned right double-J ureteral stent",
+        "image_ai": false,
+        "report": true,
+        "match": false
+      },
+      {
+        "finding": "No radio-opaque renal or gall stones",
+        "image_ai": false,
+        "report": true,
+        "match": false
+      }
+    ],
+    "consistency_score_pct": 0
+  },
+  "inconsistency_detection": {
+    "possible_exaggerations": [],
+    "underreported_findings": [],
+    "hidden_findings": []
+  },
+  "stg_alignment": {
+    "claimed_package": "SU007A",
+    "evidence_required": [],
+    "stg_compliance_score_pct": null
+  },
+  "radiology_timeline": {
+    "events": [
+      {
+        "day": 1,
+        "date": "21/03/2026",
+        "event": "Typed report"
+      },
+      {
+        "day": 11,
+        "date": "31/03/2026",
+        "event": "Typed report"
+      },
+      {
+        "day": 11,
+        "date": "31/03/2026",
+        "event": "Abdominal X-Ray (KUB)"
+      }
+    ],
+    "logical": true
+  },
+  "patient": {
+    "name": null,
+    "age": "33 years",
+    "sex": "Female",
+    "id_numbers": []
+  },
+  "hospital": {
+    "name": null,
+    "location": null,
+    "doctors": []
+  },
+  "encounter": {
+    "date_range": "21/03/2026 to 31/03/2026",
+    "all_dates": [
+      "21/03/2026",
+      "31/03/2026"
+    ],
+    "primary_procedure": "IVP and KUB X-ray for renal calculus evaluation",
+    "package_code": "SU007A"
+  },
+  "image_inventory": {
+    "total_images": 4,
+    "by_type": {
+      "Typed report": 2,
+      "Abdominal X-Ray (KUB)": 1,
+      "IVP": 1
+    },
+    "stages_present": [
+      "pre-procedure",
+      "intra-procedure",
+      "post-procedure"
+    ],
+    "languages_seen": [
+      "English"
+    ]
+  },
+  "clinical_narrative": "Two radiology reports and imaging from March 21–31, 2026, show a right renal calculus (27x15mm) on IVP and a well-positioned right double-J stent on KUB X-ray. Sequential IVP images document contrast progression. No stones seen on KUB. Reports advise clinical correlation.",
+  "completeness": {
+    "has_pre_procedure_imaging": false,
+    "has_intra_procedure_imaging": true,
+    "has_post_procedure_imaging": true,
+    "has_typed_report": true,
+    "has_handwritten_notes": false,
+    "has_signed_stamp": true,
+    "notes": null
+  },
+  "concerns_or_gaps": [
+    "No patient name or ID visible in any image or report.",
+    "No hospital name or location identified.",
+    "No referring doctor name visible.",
+    "No pre-procedure imaging available."
+  ]
+}

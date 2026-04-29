@@ -1,0 +1,80 @@
+{
+  "claim_id": "MAV_GJ_R3_2026033110059264",
+  "package": "MG029A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 2,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000021__MAV_GJ_R3_2026033110059264__X_RAY_REPORT.pdf",
+      "page": 1,
+      "pages_total": 1,
+      "image_type": "Typed report",
+      "body_region": "Chest",
+      "modality_view": "N/A",
+      "stage_of_care": "n/a",
+      "stage_evidence": "This is a radiology report, not an image of a procedure.",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Name :\nReport Dt/Receipt No : 27-03-2026 / 2211916271\nR/b Doctor : Medicine Unit 1 (General Medicine)\nAbha Address :\nCity : Morbi\nOpdid : 26116137\nSex/Age : Male/ 48Y\nAbha No : 91-6362-4276-4083\n\nBED SIDE PORTABLE CHEST X-RAY\nHazziness noted in right lower lung zone .Adv Chest X-Ray PA view for better evaluation.\nOld healed calcified lesions noted in bilateral hilar region.\n\nRest both lung fields appear normal in under view.\nBoth domes of diaphragm appears normal.\nVisible bony thoracic cage appears normal.\n\nImaging findings should be co-related with clinical findings.This report is not for Medicolegal purpose.\n\nReport by : 120986\nDirector of Acedamics\nProfessor and Head\nProfessor\nAssistant Professor\nSR (Senior Resident)\nSR (Senior Resident)\nJR (Junior Resident)\n\nPage No 1",
+        "english": "Name :\nReport Dt/Receipt No : 27-03-2026 / 2211916271\nR/b Doctor : Medicine Unit 1 (General Medicine)\nAbha Address :\nCity : Morbi\nOpdid : 26116137\nSex/Age : Male/ 48Y\nAbha No : 91-6362-4276-4083\n\nBED SIDE PORTABLE CHEST X-RAY\nHazziness noted in right lower lung zone .Adv Chest X-Ray PA view for better evaluation.\nOld healed calcified lesions noted in bilateral hilar region.\n\nRest both lung fields appear normal in under view.\nBoth domes of diaphragm appears normal.\nVisible bony thoracic cage appears normal.\n\nImaging findings should be co-related with clinical findings.This report is not for Medicolegal purpose.\n\nReport by : 120986\nDirector of Acedamics\nProfessor and Head\nProfessor\nAssistant Professor\nSR (Senior Resident)\nSR (Senior Resident)\nJR (Junior Resident)\n\nPage No 1"
+      },
+      "summary": "This is a typed chest X-ray report from a bedside portable X-ray, indicating haziness in the right lower lung zone and old healed calcified lesions in the bilateral hilar region. The rest of the lung fields, diaphragm, and bony thoracic cage appear normal. The report advises an advanced PA chest X-ray for better evaluation and states that findings should be correlated with clinical findings.",
+      "key_observations": [
+        "Report is for a bedside portable chest X-ray.",
+        "Haziness noted in right lower lung zone.",
+        "Old healed calcified lesions noted in bilateral hilar region.",
+        "Rest of lung fields, diaphragm, and bony thoracic cage appear normal.",
+        "Recommendation for advanced PA chest X-ray.",
+        "Report is not for medicolegal purpose."
+      ],
+      "dates_found": [
+        "27/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2220,
+        "completion_tokens": 779,
+        "total_duration_ms": 6786
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000063__MAV_GJ_R3_2026033110059264__X_RAY_PLATE.jpeg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Chest X-Ray",
+      "body_region": "Chest (PA)",
+      "modality_view": "AP",
+      "stage_of_care": "pre-procedure",
+      "stage_evidence": "No devices or catheters visible; diagnostic imaging for evaluation",
+      "ocr": {
+        "language": "English",
+        "verbatim": "R\nChest AP\n26/03/2026 9:15:50 PM\nPat. ID. 26116137",
+        "english": "R\nChest AP\n26/03/2026 9:15:50 PM\nPat. ID. 26116137"
+      },
+      "summary": "A posterior-anterior (PA) chest X-ray showing the thoracic cavity, including the lungs, heart, and bony thorax. The image is labeled with patient ID and acquisition time.",
+      "key_observations": [
+        "Right side marker 'R' visible on the image.",
+        "Patient ID: 26116137.",
+        "Acquisition date and time: 26/03/2026 9:15:50 PM.",
+        "Image appears to be a standard diagnostic chest X-ray with no visible foreign bodies or devices."
+      ],
+      "dates_found": [
+        "26/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 1976,
+        "completion_tokens": 316,
+        "total_duration_ms": 3767
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "claim_id": "PMJAY_ODISHA_G_R1_2026032310008976",
+  "package": "SG039",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 2,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000022__PMJAY_ODISHA_G_R1_2026032310008976__PARBATI_MAHANANDA_REPORTS.pdf",
+      "page": 1,
+      "pages_total": 2,
+      "image_type": "Typed report",
+      "body_region": "Abdomen & Pelvis",
+      "modality_view": "N/A",
+      "stage_of_care": "n/a",
+      "stage_evidence": "Clinical report of ultrasound findings",
+      "ocr": {
+        "language": "English",
+        "verbatim": "MR No : 216168\nRequest No. : 190093765\nPatient Name : \nReport Date : 17/03/2026\n\nDate of exam: 17/03/2026\nUSG ABDOMEN & PELVIS.\n\nLIVER : Increase echogenicity suggestive of grade I fatty changes of liver.\n: No focal lesion.\n: Intrahepatic biliary radicles are not dilated.\n: Portal vein - 10mm (normal).\n\nGALL BLADDER : Measures 9.0 x 4.4 cm with normal bile echotexture.\n: Wall thickness - 2mm (normal)\n: Calculus of 32 x 12mm is seen as echogenic focus with posterior acoustic shadowing.\n\nCBD : 3mm (normal)\n\nPANCREAS : Size shape and echotexture appears normal with normal pancreatic duct.\n\nSPLEEN : Normal size with homogenous parenchyma.\n\nKIDNEYS: \n: Right : Measures 9.6cm x 3.3cm.\n: Left : Measures 9.5cm x 3.6cm.\n: Size of kidneys are within normal limits with normal cortical echogenicity.\n: Corticomedullary differentiation is well delineated.\n: No evidence of calculus or hydronephrotic changes.\n: Suprarenal area appears normal.\n\nURINARY BLADDER : Moderately filled. Normal wall thickness.\n: No evidence of calculus or intraluminal mass lesion.\n: Measures 10.4cm x 5.3cm.\n\nUTERUS : \n: Bulky & normal echogenicity. Two nebothian cysts of 7 to 8mm.\n\nRIGHT OVARY\nLEFT OVARY\n: Measures 2.0cm x 1.6cm.\n: Measures 2.0cm x 1.2cm.\n: Both ovaries are of normal size and echotexture.\n: Rest of lower abdomen and pelvis reveals normal gas filled bowel loops.\n: No significant lymphadenopathy or ascites seen.\n\nIMPRESSION - : Grade I fatty changes of liver.\n: Cholelithiasis.\n\nSr.Consultant Radiologist",
+        "english": "MR No : 216168\nRequest No. : 190093765\nPatient Name : \nReport Date : 17/03/2026\n\nDate of exam: 17/03/2026\nUSG ABDOMEN & PELVIS.\n\nLIVER : Increase echogenicity suggestive of grade I fatty changes of liver.\n: No focal lesion.\n: Intrahepatic biliary radicles are not dilated.\n: Portal vein - 10mm (normal).\n\nGALL BLADDER : Measures 9.0 x 4.4 cm with normal bile echotexture.\n: Wall thickness - 2mm (normal)\n: Calculus of 32 x 12mm is seen as echogenic focus with posterior acoustic shadowing.\n\nCBD : 3mm (normal)\n\nPANCREAS : Size shape and echotexture appears normal with normal pancreatic duct.\n\nSPLEEN : Normal size with homogenous parenchyma.\n\nKIDNEYS: \n: Right : Measures 9.6cm x 3.3cm.\n: Left : Measures 9.5cm x 3.6cm.\n: Size of kidneys are within normal limits with normal cortical echogenicity.\n: Corticomedullary differentiation is well delineated.\n: No evidence of calculus or hydronephrotic changes.\n: Suprarenal area appears normal.\n\nURINARY BLADDER : Moderately filled. Normal wall thickness.\n: No evidence of calculus or intraluminal mass lesion.\n: Measures 10.4cm x 5.3cm.\n\nUTERUS : \n: Bulky & normal echogenicity. Two nebothian cysts of 7 to 8mm.\n\nRIGHT OVARY\nLEFT OVARY\n: Measures 2.0cm x 1.6cm.\n: Measures 2.0cm x 1.2cm.\n: Both ovaries are of normal size and echotexture.\n: Rest of lower abdomen and pelvis reveals normal gas filled bowel loops.\n: No significant lymphadenopathy or ascites seen.\n\nIMPRESSION - : Grade I fatty changes of liver.\n: Cholelithiasis.\n\nSr.Consultant Radiologist"
+      },
+      "summary": "This is a typed ultrasound report of the abdomen and pelvis, dated March 17, 2026, for a 44-year-old female patient. The report details findings including grade I fatty changes of the liver, a gallstone (32 x 12mm) in the gallbladder, normal-sized kidneys, and two small ovarian cysts. The impression is grade I fatty liver and cholelithiasis.",
+      "key_observations": [
+        "Grade I fatty changes of the liver",
+        "Cholelithiasis (gallstone) measuring 32 x 12mm",
+        "Normal-sized kidneys with no hydronephrosis",
+        "Two nebothian ovarian cysts measuring 7-8mm",
+        "Normal pancreas, spleen, and urinary bladder"
+      ],
+      "dates_found": [
+        "17/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2229,
+        "completion_tokens": 1321,
+        "total_duration_ms": 7586
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000022__PMJAY_ODISHA_G_R1_2026032310008976__PARBATI_MAHANANDA_REPORTS.pdf",
+      "page": 2,
+      "pages_total": 2,
+      "image_type": "Ultrasound",
+      "body_region": "Abdomen — kidneys",
+      "modality_view": "Long-axis",
+      "stage_of_care": "pre-procedure",
+      "stage_evidence": "Diagnostic imaging without intervention",
+      "ocr": {
+        "language": "English",
+        "verbatim": "RT KIDNEY\nLT KIDNEY",
+        "english": "RT KIDNEY\nLT KIDNEY"
+      },
+      "summary": "This is a set of ultrasound images showing the right and left kidneys. The images are diagnostic in nature, taken before any procedure, and include measurements and annotations for each kidney.",
+      "key_observations": [
+        "Images show both right and left kidneys with annotations.",
+        "Measurements are visible for each kidney (e.g., 3.82 cm, 3.33 cm).",
+        "Ultrasound machine interface is visible with patient and scan parameters."
+      ],
+      "dates_found": [],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2229,
+        "completion_tokens": 210,
+        "total_duration_ms": 1952
+      }
+    }
+  ]
+}

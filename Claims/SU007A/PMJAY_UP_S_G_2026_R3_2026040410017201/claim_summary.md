@@ -2,53 +2,100 @@
 
 **Package:** SU007A  ·  **Model:** accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd  ·  **Images:** 5
 
-## Patient
-- **Name:** unknown
-- **Age:** 49 years
-- **Sex:** Female
-- **IDs:** 2026040603, 2026040310
+| Claim ID | Patient | Modality | Body Part | Study Date | Reviewer |
+|---|---|---|---|---|---|
+| PMJAY_UP_S_G_2026_R3_2026040410017201 | — | X-Ray | Abdomen — pelvicalyceal system | 03/04/2026 | — |
 
-## Hospital
-- **Name:** unknown
-- **Location:** unknown
+> 🟢 **IMAGE & REPORT CONSISTENT**  ·  Confidence: 95%  ·  Clinical Risk Score: Medium
 
-## Encounter
-- **Date range:** 03/04/2026 to 06/04/2026
-- **Primary procedure:** Intravenous Pyelogram (IVP) with contrast and post-operative KUB X-ray
-- **Package code:** SU007A
-- **All dates seen:** 03/04/2026, 04/04/2026, 06/04/2026
+**Key findings:**
+- Right DJ stent present _(AI ✖ · Report ✔)_
+- Renal calculi (17mm right, 14mm left) _(AI ✖ · Report ✔)_
+- Hydronephrosis with ureteral dilation _(AI ✖ · Report ✔)_
 
-## Clinical narrative
+## Interactive Scan Viewer
+- **Primary image:** 000275__PMJAY_UP_S_G_2026_R3_2026040410017201__IVP_X_RAY_WITH_REPORT.pdf
+- **AI overlays available:** no
 
-The dossier contains imaging and reports from an IVP study performed on a 38-year-old female patient on April 3, 2026, showing bilateral renal pelvis calculi (17mm and 14mm) with hydronephrosis and mild right ureteral dilation. A subsequent post-operative KUB X-ray dated April 6, 2026, shows a DJ stent in the right side and a urinary catheter in the bladder. Both reports note no significant abnormalities beyond the calculi and stent placement. The IVP report recommends further NCCT KUB imaging.
+## AI Clinical Findings
+- **Fracture:** ✖
+- **Fluid accumulation:** ✖
+- **Tumor / mass:** —
+- **Infiltration:** —
+- **Image quality:** —
 
-## Key findings
-- Bilateral renal pelvis calculi (17mm right, 14mm left) with hydronephrosis and mild right ureteral dilation.
-- No significant abnormalities in bones or bladder on post-op KUB X-ray.
-- DJ stent visible in right side KUB region.
-- No abnormal radio-opaque shadows in kidneys or ureters on post-op imaging.
-- No clinical correlation provided in reports.
+## Multi-image Analysis
+| Modality | Day | Date | Finding | Confirmed |
+|---|---|---|---|---|
+| Abdominal X-Ray (KUB) | 93 | 04/06/2026 | Abdomen — pelvicalyceal system | ✔ |
+| Typed report | 32 | 04/04/2026 | Abdomen — pelvicalyceal system | ✔ |
+| IVP | 1 | 04/03/2026 | Abdomen — pelvicalyceal system | ✔ |
 
-## Image inventory
-- **Total images:** 5
-- **By type:**
-  - Intra-procedure IVP images (sequential): 4
-  - Typed report (IVP): 1
-  - Post-procedure KUB X-ray image (PA): 1
-  - Typed report (KUB): 1
-- **Stages present:** intra-procedure, post-procedure
-- **Languages:** English
+**Consistency Score:** —%
 
-## Completeness
-- Pre-procedure imaging: false
-- Intra-procedure imaging: true
-- Post-procedure imaging: true
-- Typed report: true
-- Handwritten notes: false
-- Signed stamp: false
+## Report NLP Extraction
+- **Reported diagnosis:** —
+- **Reported severity:** —
+- **Reported findings:** —
+- **Extraction confidence:** —
 
-## Concerns / gaps
-- No pre-procedure imaging present.
-- No patient name or referring physician identified in any document.
-- No hospital or location information provided.
-- No clinical correlation or diagnosis mentioned beyond radiology findings.
+## Finding Correlation
+| Finding | Image AI | Report | Match |
+|---|---|---|---|
+| Right DJ stent present | ✖ | ✔ | ✖ |
+| Renal calculi (17mm right, 14mm left) | ✖ | ✔ | ✖ |
+| Hydronephrosis with ureteral dilation | ✖ | ✔ | ✖ |
+
+**Consistency Score:** 0%
+
+## Inconsistency Detection
+- **Possible exaggerations:** ✔ none detected
+- **Underreported findings:** ✔ none detected
+- **Hidden findings:** ✔ none detected
+
+## STG Alignment
+- **Claimed package:** SU007A
+- **STG compliance score:** —%
+
+## Radiology Timeline
+- Day 1 – IVP _(04/03/2026)_
+- Day 31 – IVP _(03/04/2026)_
+- Day 32 – Typed report _(04/04/2026)_
+- Day 34 – Typed report _(06/04/2026)_
+- Day 93 – Abdominal X-Ray (KUB) _(04/06/2026)_
+
+**Timeline logical:** ✔
+
+---
+
+## Reference detail
+
+**Patient**
+- Name: — · Age: 49 years · Sex: Female
+- IDs: 2026040603, 2026040310
+
+**Hospital**
+- Name: — · Location: —
+
+**Encounter**
+- Date range: 03/04/2026 to 06/04/2026 · Procedure: IVP with KUB X-ray and post-op imaging · Package code: SU007A
+- All dates seen: 03/04/2026, 04/04/2026, 06/04/2026
+
+**Image inventory**
+- Total: 5
+- By type: Abdominal X-Ray (KUB): 1, Typed report: 2, IVP: 2
+- Stages: pre-procedure, intra-procedure, post-procedure
+- Languages: English
+
+**Clinical narrative**
+
+The claim includes pre-procedure IVP imaging (April 3, 2026) showing bilateral renal calculi and hydronephrosis, intra-procedure IVP images at multiple time points, and post-operative KUB X-ray (April 6, 2026) with a DJ stent visible. All reports are typed and include patient age and ID. No handwritten notes or signed stamps are visible.
+
+**Completeness**
+- Pre: ✔ · Intra: ✔ · Post: ✔
+- Typed report: ✔ · Handwritten: ✖ · Signed stamp: ✖
+
+**Concerns / gaps**
+- Patient name not visible in any image or report.
+- Hospital name and location not identified.
+- No signed stamp or physician signature visible on reports.

@@ -1,0 +1,82 @@
+{
+  "claim_id": "BOCW_UP_2025_R2_2026032410041507",
+  "package": "MG029A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 2,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000039__BOCW_UP_2025_R2_2026032410041507__POST_XRAY_FILM01.jpeg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Chest X-Ray",
+      "body_region": "Chest (PA)",
+      "modality_view": "PA",
+      "stage_of_care": "post-procedure",
+      "stage_evidence": "Image displayed on a monitor with 'Editing' tab active, suggesting post-acquisition review",
+      "ocr": {
+        "language": "English",
+        "verbatim": "MRS\n35 Y/F\n55\nFemale 263231941\nChest PA\n30/03/2026 17:27:27",
+        "english": "MRS\n35 Y/F\n55\nFemale 263231941\nChest PA\n30/03/2026 17:27:27"
+      },
+      "summary": "A post-procedure chest X-ray (PA view) displayed on a monitor, showing the thoracic cavity with visible lung fields, heart silhouette, and bony thorax. Patient information and timestamp are visible on the image footer.",
+      "key_observations": [
+        "PA view of chest X-ray",
+        "Patient is female, 35 years old",
+        "Image timestamp: 30/03/2026 17:27:27",
+        "Displayed on a monitor with 'Editing' tab active, indicating post-acquisition review"
+      ],
+      "dates_found": [
+        "30/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": [
+          "Image is a photograph of a monitor display, not the original film",
+          "Minor glare and screen artifacts present"
+        ]
+      },
+      "_usage": {
+        "prompt_tokens": 2303,
+        "completion_tokens": 356,
+        "total_duration_ms": 4162
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000263__BOCW_UP_2025_R2_2026032410041507__chest_xray_report.pdf",
+      "page": 1,
+      "pages_total": 1,
+      "image_type": "Typed report",
+      "body_region": "Chest",
+      "modality_view": "PA",
+      "stage_of_care": "n/a",
+      "stage_evidence": "Radiology report describing findings from a chest X-ray",
+      "ocr": {
+        "language": "English",
+        "verbatim": "PATIENT: AGE/SEX:55 Y /F\nREF BY: DATE: 24/03/2026\nCHEST X-RAY (PA VIEW)\n> Prominent Hilar shadows on right side? Vascular\n> Non homogenous opacity seen in lower zone of right lung ?Pneumonitis\n> Cardiothoracic ratio is ~17/27 ...likely cardiomegaly.\n> Flattening of bilateral hemidiaphragm ?COPD\n> Bony cage appears normal.\n> Costo-phrenic angles are bilaterally clear.\n> Trachea is central in position.\n\nIMPRESSION:-\n• ?COPD\n• RIGHT LOWER ZONE PNEUMONITIS\n• BORDERLINE CARDIOMEGALY\n\nAdv: Clinical Correlation\n\nJR JR ASSISTANT PROFESSOR ASSISTANT PROFESSOR ASSISTANT PROFESSOR\nThis is a professional opinion not a diagnosis. NOT MEANT FOR MEDICOLEGAL PURPOSES\n\nIGH\nPROFESSOR & H.O.D.",
+        "english": "PATIENT: AGE/SEX:55 Y /F\nREF BY: DATE: 24/03/2026\nCHEST X-RAY (PA VIEW)\n> Prominent Hilar shadows on right side? Vascular\n> Non homogenous opacity seen in lower zone of right lung ?Pneumonitis\n> Cardiothoracic ratio is ~17/27 ...likely cardiomegaly.\n> Flattening of bilateral hemidiaphragm ?COPD\n> Bony cage appears normal.\n> Costo-phrenic angles are bilaterally clear.\n> Trachea is central in position.\n\nIMPRESSION:-\n• ?COPD\n• RIGHT LOWER ZONE PNEUMONITIS\n• BORDERLINE CARDIOMEGALY\n\nAdv: Clinical Correlation\n\nJR JR ASSISTANT PROFESSOR ASSISTANT PROFESSOR ASSISTANT PROFESSOR\nThis is a professional opinion not a diagnosis. NOT MEANT FOR MEDICOLEGAL PURPOSES\n\nIGH\nPROFESSOR & H.O.D."
+      },
+      "summary": "This is a typed chest X-ray report (PA view) for a 55-year-old female patient dated 24/03/2026. The report lists findings including prominent hilar shadows, non-homogenous opacity in the right lower lung zone, a cardiothoracic ratio suggestive of borderline cardiomegaly, flattening of hemidiaphragms, and normal bony cage. The impression includes possible COPD, right lower zone pneumonitis, and borderline cardiomegaly, with a note advising clinical correlation.",
+      "key_observations": [
+        "Patient age/sex: 55 Y/F",
+        "Report date: 24/03/2026",
+        "Findings: Prominent hilar shadows on right side, non-homogenous opacity in right lower lung zone, cardiothoracic ratio ~17/27 suggesting cardiomegaly, flattening of hemidiaphragms, normal bony cage, clear costophrenic angles, central trachea",
+        "Impression: ?COPD, Right lower zone pneumonitis, Borderline cardiomegaly",
+        "Disclaimer: This is a professional opinion not a diagnosis. NOT MEANT FOR MEDICOLEGAL PURPOSES"
+      ],
+      "dates_found": [
+        "24/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2224,
+        "completion_tokens": 841,
+        "total_duration_ms": 6671
+      }
+    }
+  ]
+}

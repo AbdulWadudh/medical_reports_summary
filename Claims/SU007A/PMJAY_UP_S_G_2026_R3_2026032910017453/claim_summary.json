@@ -1,0 +1,211 @@
+{
+  "claim_id": "PMJAY_UP_S_G_2026_R3_2026032910017453",
+  "package": "SU007A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 5,
+  "generated_ms": 6995,
+  "header": {
+    "claim_id": "PMJAY_UP_S_G_2026_R3_2026032910017453",
+    "patient_name": "RAVINDRA YADAVKUV",
+    "modality": "X-Ray",
+    "body_part": "Abdomen — pelvicalyceal system",
+    "study_date": "02/04/2026",
+    "reviewer": null
+  },
+  "status": {
+    "consistency": "consistent",
+    "confidence_pct": 95,
+    "clinical_risk_score": "Low",
+    "key_findings": [
+      {
+        "finding": "Right double-J ureteral stent well-positioned",
+        "ai_detected": true,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "No radio-opaque renal or gall stones",
+        "ai_detected": true,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "Normal renal outlines and psoas shadows",
+        "ai_detected": true,
+        "report_mentioned": true,
+        "note": null
+      }
+    ]
+  },
+  "scan_viewer": {
+    "primary_image_source": "000256__PMJAY_UP_S_G_2026_R3_2026032910017453__RAVINDRA_YADAVKUV.pdf",
+    "detected_regions": [],
+    "ai_overlays_available": false
+  },
+  "ai_clinical_findings": {
+    "fracture": {
+      "present": false,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "fluid_accumulation": {
+      "present": false,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "tumor_mass": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "infiltration": {
+      "severity": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "image_quality": null
+  },
+  "multi_image_analysis": {
+    "entries": [
+      {
+        "modality": "Typed report",
+        "day": 1,
+        "date": "18/03/2026",
+        "finding": "Abdomen — pelvicalyceal system",
+        "confirmed": true
+      },
+      {
+        "modality": "Abdominal X-Ray (KUB)",
+        "day": 16,
+        "date": "02/04/2026",
+        "finding": "Abdomen — pelvicalyceal system",
+        "confirmed": true
+      },
+      {
+        "modality": "IVP",
+        "day": null,
+        "date": null,
+        "finding": "Abdomen — pelvicalyceal system",
+        "confirmed": true
+      }
+    ],
+    "consistency_score_pct": null
+  },
+  "report_nlp_extraction": {
+    "reported_diagnosis": null,
+    "reported_severity": null,
+    "reported_findings": [],
+    "extraction_confidence": null
+  },
+  "finding_correlation": {
+    "rows": [
+      {
+        "finding": "Right double-J ureteral stent well-positioned",
+        "image_ai": true,
+        "report": true,
+        "match": true
+      },
+      {
+        "finding": "No radio-opaque renal or gall stones",
+        "image_ai": true,
+        "report": true,
+        "match": true
+      },
+      {
+        "finding": "Normal renal outlines and psoas shadows",
+        "image_ai": true,
+        "report": true,
+        "match": true
+      }
+    ],
+    "consistency_score_pct": 100
+  },
+  "inconsistency_detection": {
+    "possible_exaggerations": [],
+    "underreported_findings": [],
+    "hidden_findings": []
+  },
+  "stg_alignment": {
+    "claimed_package": "SU007A",
+    "evidence_required": [],
+    "stg_compliance_score_pct": null
+  },
+  "radiology_timeline": {
+    "events": [
+      {
+        "day": 1,
+        "date": "18/03/2026",
+        "event": "Typed report"
+      },
+      {
+        "day": 5,
+        "date": "22/03/2026",
+        "event": "Typed report"
+      },
+      {
+        "day": 16,
+        "date": "02/04/2026",
+        "event": "Typed report"
+      },
+      {
+        "day": 16,
+        "date": "02/04/2026",
+        "event": "Abdominal X-Ray (KUB)"
+      }
+    ],
+    "logical": true
+  },
+  "patient": {
+    "name": "RAVINDRA YADAVKUV",
+    "age": "29 years",
+    "sex": "Male",
+    "id_numbers": []
+  },
+  "hospital": {
+    "name": null,
+    "location": null,
+    "doctors": []
+  },
+  "encounter": {
+    "date_range": "22/03/2026 to 02/04/2026",
+    "all_dates": [
+      "22/03/2026",
+      "18/03/2026",
+      "02/04/2026"
+    ],
+    "primary_procedure": "IVP with KUB X-ray and ultrasound for right renal calculus",
+    "package_code": "SU007A"
+  },
+  "image_inventory": {
+    "total_images": 5,
+    "by_type": {
+      "Typed report": 3,
+      "Abdominal X-Ray (KUB)": 1,
+      "IVP": 1
+    },
+    "stages_present": [
+      "pre-procedure",
+      "intra-procedure",
+      "post-procedure"
+    ],
+    "languages_seen": [
+      "English"
+    ]
+  },
+  "clinical_narrative": "A 29-year-old male underwent pre-procedure ultrasound and IVP to evaluate right renal calculus, followed by post-procedure KUB X-ray confirming placement of a right double-J ureteral stent. The IVP showed delayed excretory function on the left side and normal function on the right. The ultrasound noted multiple echogenic foci in the right kidney consistent with calculi. Four intra-procedure IVP images were captured at different time points after contrast injection.",
+  "completeness": {
+    "has_pre_procedure_imaging": true,
+    "has_intra_procedure_imaging": true,
+    "has_post_procedure_imaging": true,
+    "has_typed_report": true,
+    "has_handwritten_notes": false,
+    "has_signed_stamp": false,
+    "notes": null
+  },
+  "concerns_or_gaps": [
+    "No patient ID or hospital name identified in any image.",
+    "No doctor names or hospital location visible.",
+    "Intra-procedure IVP images lack date information.",
+    "Intra-procedure image quality is fair with graininess and low contrast."
+  ]
+}

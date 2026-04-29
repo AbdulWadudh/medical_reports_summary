@@ -1,0 +1,206 @@
+{
+  "claim_id": "PMJAY_UP_S_G_2025_R2_1022259191",
+  "package": "SU007A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 3,
+  "generated_ms": 4022,
+  "header": {
+    "claim_id": "PMJAY_UP_S_G_2025_R2_1022259191",
+    "patient_name": "MR. 46 YRS/M",
+    "modality": "X-Ray",
+    "body_part": "Abdomen — pelvicalyceal system",
+    "study_date": "06/04/2026",
+    "reviewer": null
+  },
+  "status": {
+    "consistency": "consistent",
+    "confidence_pct": 90,
+    "clinical_risk_score": "Medium",
+    "key_findings": [
+      {
+        "finding": "Left proximal ureteric calculus suspected",
+        "ai_detected": false,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "Contrast uptake absent in left kidney",
+        "ai_detected": false,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "Large radio-opacity in left paraspinal region at L3/L4",
+        "ai_detected": false,
+        "report_mentioned": true,
+        "note": null
+      }
+    ]
+  },
+  "scan_viewer": {
+    "primary_image_source": "000198__PMJAY_UP_S_G_2025_R2_1022259191__POSTKUB.jpeg",
+    "detected_regions": [],
+    "ai_overlays_available": false
+  },
+  "ai_clinical_findings": {
+    "fracture": {
+      "present": false,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "fluid_accumulation": {
+      "present": false,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "tumor_mass": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "infiltration": {
+      "severity": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "image_quality": "good"
+  },
+  "multi_image_analysis": {
+    "entries": [
+      {
+        "modality": "Abdominal X-Ray (KUB)",
+        "day": 43,
+        "date": "06/04/2026",
+        "finding": "Abdomen — pelvicalyceal system",
+        "confirmed": true
+      },
+      {
+        "modality": "Typed report",
+        "day": 1,
+        "date": "23/02/2026",
+        "finding": "Abdomen — pelvicalyceal system",
+        "confirmed": false
+      },
+      {
+        "modality": "IVP",
+        "day": 1,
+        "date": "23/02/2026",
+        "finding": "Abdomen — pelvicalyceal system",
+        "confirmed": true
+      }
+    ],
+    "consistency_score_pct": null
+  },
+  "report_nlp_extraction": {
+    "reported_diagnosis": null,
+    "reported_severity": null,
+    "reported_findings": [],
+    "extraction_confidence": null
+  },
+  "finding_correlation": {
+    "rows": [
+      {
+        "finding": "Left proximal ureteric calculus suspected",
+        "image_ai": false,
+        "report": true,
+        "match": false
+      },
+      {
+        "finding": "Contrast uptake absent in left kidney",
+        "image_ai": false,
+        "report": true,
+        "match": false
+      },
+      {
+        "finding": "Large radio-opacity in left paraspinal region at L3/L4",
+        "image_ai": false,
+        "report": true,
+        "match": false
+      }
+    ],
+    "consistency_score_pct": 0
+  },
+  "inconsistency_detection": {
+    "possible_exaggerations": [],
+    "underreported_findings": [],
+    "hidden_findings": []
+  },
+  "stg_alignment": {
+    "claimed_package": "SU007A",
+    "evidence_required": [],
+    "stg_compliance_score_pct": null
+  },
+  "radiology_timeline": {
+    "events": [
+      {
+        "day": 1,
+        "date": "23/02/2026",
+        "event": "Typed report"
+      },
+      {
+        "day": 1,
+        "date": "23/02/2026",
+        "event": "IVP"
+      },
+      {
+        "day": 43,
+        "date": "06/04/2026",
+        "event": "Abdominal X-Ray (KUB)"
+      }
+    ],
+    "logical": true
+  },
+  "patient": {
+    "name": "MR. 46 YRS/M",
+    "age": "46 years",
+    "sex": "Male",
+    "id_numbers": []
+  },
+  "hospital": {
+    "name": null,
+    "location": null,
+    "doctors": [
+      "MD, DNB, MNAMS (RADIO DIAGNOSIS)",
+      "Ex-24 Consultant Radiologist"
+    ]
+  },
+  "encounter": {
+    "date_range": "23/02/2026 to 06/04/2026",
+    "all_dates": [
+      "23/02/2026",
+      "06/04/2026"
+    ],
+    "primary_procedure": "Intravenous Pyelogram (IVP)",
+    "package_code": "SU007A"
+  },
+  "image_inventory": {
+    "total_images": 3,
+    "by_type": {
+      "Abdominal X-Ray (KUB)": 1,
+      "Intra-procedure imaging (IVP)": 1,
+      "Typed report": 1
+    },
+    "stages_present": [
+      "intra-procedure",
+      "post-procedure"
+    ],
+    "languages_seen": [
+      "English"
+    ]
+  },
+  "clinical_narrative": "A 46-year-old male underwent an IVP procedure on February 23, 2026, followed by a post-procedure KUB X-ray on April 6, 2026. Imaging revealed a large radio-opacity in the left paraspinal region and absence of contrast uptake in the left kidney, suggesting a possible left proximal ureteric calculus. The IVP series included sequential views from pre-contrast to delayed imaging.",
+  "completeness": {
+    "has_pre_procedure_imaging": false,
+    "has_intra_procedure_imaging": true,
+    "has_post_procedure_imaging": true,
+    "has_typed_report": true,
+    "has_handwritten_notes": false,
+    "has_signed_stamp": false,
+    "notes": null
+  },
+  "concerns_or_gaps": [
+    "No pre-procedure imaging found.",
+    "No signed stamp or doctor's signature visible on typed report.",
+    "No hospital name or location identified."
+  ]
+}

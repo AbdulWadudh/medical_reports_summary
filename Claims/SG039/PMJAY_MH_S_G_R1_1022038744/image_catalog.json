@@ -1,0 +1,98 @@
+{
+  "claim_id": "PMJAY_MH_S_G_R1_1022038744",
+  "package": "SG039",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 3,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000151__PMJAY_MH_S_G_R1_1022038744__USG_REPORT1.pdf",
+      "page": 1,
+      "pages_total": 3,
+      "image_type": "Typed report",
+      "body_region": "Abdomen and pelvis",
+      "modality_view": "N/A",
+      "stage_of_care": "n/a",
+      "stage_evidence": "This is a diagnostic report, not a procedural image.",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Department of Radiology & Imaging\nFMT/RAD/06\nRev. Dt. : 01/01/2016\nNAME : \nPATIENT ID : 010611714\nORDER NO. : 506311\nREFERRED BY: \nAGE : 37 Years\nSEX : F\nDATE : 18-Feb-2026\nABDOMINAL AND PELVIS SONOGRAPHY\nB-mode real time USG done.\nLiver is normal in size and shape and show normal homogenous echopattern.\nNo intrahepatic focal or diffuse lesion seen.\nGall bladder is minimally distended with multiple calculi within (8-10) largest\nmeasures 14-15 mm.\nC.B.D. and portal vein are of normal calibre.\n(Rt) kidney measures 9.0 x 3.7 cm. (Lt) kidney measures 10.9 x 4.4 cm.\nBoth kidneys show normal cortical echogenicity.\nNo calculus, hydronephrosis or S.O.L. seen on either side.\nSpleen, Pancreas and major abdominal vessels are normal.\nNo ascites, adenopathy or collection seen. Urinary bladder is normal.\nUterus is normal in size, shape and show normal midline endometrial echo.\nBoth ovaries are normal. No adnexal mass. No free fluid in P.O.D.\nBowel loops appear normal.\nOPINION: GALL BLADDER IS MINIMALLY DISTENDED WITH MULTIPLE CALCULI WITHIN (8-10)\nLARGEST MEASURES 14-15 MM.\nSUGGESTED : CLINICAL CORRELATION.\nDr.\nMBBS, DNB (Radiology)\nReg.\nFMF UK Certified\nFMF ID 316532\nConsultant Radiologist",
+        "english": "Department of Radiology & Imaging\nFMT/RAD/06\nRev. Dt. : 01/01/2016\nNAME : \nPATIENT ID : 010611714\nORDER NO. : 506311\nREFERRED BY: \nAGE : 37 Years\nSEX : F\nDATE : 18-Feb-2026\nABDOMINAL AND PELVIS SONOGRAPHY\nB-mode real time USG done.\nLiver is normal in size and shape and show normal homogenous echopattern.\nNo intrahepatic focal or diffuse lesion seen.\nGall bladder is minimally distended with multiple calculi within (8-10) largest\nmeasures 14-15 mm.\nC.B.D. and portal vein are of normal calibre.\n(Rt) kidney measures 9.0 x 3.7 cm. (Lt) kidney measures 10.9 x 4.4 cm.\nBoth kidneys show normal cortical echogenicity.\nNo calculus, hydronephrosis or S.O.L. seen on either side.\nSpleen, Pancreas and major abdominal vessels are normal.\nNo ascites, adenopathy or collection seen. Urinary bladder is normal.\nUterus is normal in size, shape and show normal midline endometrial echo.\nBoth ovaries are normal. No adnexal mass. No free fluid in P.O.D.\nBowel loops appear normal.\nOPINION: GALL BLADDER IS MINIMALLY DISTENDED WITH MULTIPLE CALCULI WITHIN (8-10)\nLARGEST MEASURES 14-15 MM.\nSUGGESTED : CLINICAL CORRELATION.\nDr.\nMBBS, DNB (Radiology)\nReg.\nFMF UK Certified\nFMF ID 316532\nConsultant Radiologist"
+      },
+      "summary": "This is a typed ultrasound report of the abdomen and pelvis, detailing findings from a B-mode real-time scan. The report notes a normal liver, kidneys, spleen, pancreas, and bowel. The gall bladder is described as minimally distended with multiple calculi (stones) measuring 14-15 mm, which is the key abnormal finding. The report concludes with a suggestion for clinical correlation.",
+      "key_observations": [
+        "Normal liver, kidneys, spleen, pancreas, and bowel loops.",
+        "Gall bladder is minimally distended with multiple calculi (stones) measuring 14-15 mm.",
+        "Suggestion for clinical correlation due to gall bladder findings."
+      ],
+      "dates_found": [
+        "18/02/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2217,
+        "completion_tokens": 1104,
+        "total_duration_ms": 8025
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000151__PMJAY_MH_S_G_R1_1022038744__USG_REPORT1.pdf",
+      "page": 2,
+      "pages_total": 3,
+      "image_type": "Ultrasound",
+      "body_region": "Abdomen — kidneys",
+      "modality_view": "Long-axis",
+      "stage_of_care": "pre-procedure",
+      "stage_evidence": "Diagnostic ultrasound images; no interventional devices visible",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Department of Radiology & Imaging\nPatient ID 010611714\nReferred By GS Unit 3\nPatient Name\nAge/Sex 37 Years/F\n\nHITACHI DR 010611714 37Y F 18-02-26 14:34:47\nAP:100% 18 FPS\nHdT-4.5Rx R:17.0 BG:60 BD:66\nABDOMEN 1 Probe:C251\n\nHITACHI DR 010611714 37Y F 18-02-26 14:34:47\nAP:100% 18 FPS\nHdT-4.5Rx R:17.0 BG:63 BD:66\nABDOMEN 1 Probe:C251\n\nHITACHI DR 010611714 37Y F 18-02-26 14:35:12\nAP:100% 18 FPS\nRIGHT KIDNEY\nHdT-4.5Rx R:17.0 BG:55 BD:66\nABDOMEN 1 Probe:C251\nIDist: 9.0cm Dist: 3.7cm\n\nHITACHI DR 010611714 37Y F 18-02-26 14:35:12\nAP:100% 18 FPS\nLEFT KIDNEY\nHdT-4.5Rx R:17.0 BG:55 BD:66\nABDOMEN 1 Probe:C251\nIDist: 10.3cm Dist: 4.4cm\n\nHITACHI DR 010611714 37Y F 18-02-26 14:35:34\nAP:100% 18 FPS\nHdT-4.5Rx R:17.0 BG:55 BD:66\nABDOMEN 1 Probe:C251\n\nHITACHI DR 010611714 37Y F 18-02-26 14:35:51\nAP:100% 18 FPS\nHdT-4.5Rx R:17.0 BG:58 BD:66\nABDOMEN 1 Probe:C251",
+        "english": "Department of Radiology & Imaging\nPatient ID 010611714\nReferred By GS Unit 3\nPatient Name\nAge/Sex 37 Years/F\n\nHITACHI DR 010611714 37Y F 18-02-26 14:34:47\nAP:100% 18 FPS\nHdT-4.5Rx R:17.0 BG:60 BD:66\nABDOMEN 1 Probe:C251\n\nHITACHI DR 010611714 37Y F 18-02-26 14:34:47\nAP:100% 18 FPS\nHdT-4.5Rx R:17.0 BG:63 BD:66\nABDOMEN 1 Probe:C251\n\nHITACHI DR 010611714 37Y F 18-02-26 14:35:12\nAP:100% 18 FPS\nRIGHT KIDNEY\nHdT-4.5Rx R:17.0 BG:55 BD:66\nABDOMEN 1 Probe:C251\nIDist: 9.0cm Dist: 3.7cm\n\nHITACHI DR 010611714 37Y F 18-02-26 14:35:12\nAP:100% 18 FPS\nLEFT KIDNEY\nHdT-4.5Rx R:17.0 BG:55 BD:66\nABDOMEN 1 Probe:C251\nIDist: 10.3cm Dist: 4.4cm\n\nHITACHI DR 010611714 37Y F 18-02-26 14:35:34\nAP:100% 18 FPS\nHdT-4.5Rx R:17.0 BG:55 BD:66\nABDOMEN 1 Probe:C251\n\nHITACHI DR 010611714 37Y F 18-02-26 14:35:51\nAP:100% 18 FPS\nHdT-4.5Rx R:17.0 BG:58 BD:66\nABDOMEN 1 Probe:C251"
+      },
+      "summary": "Six ultrasound images from a diagnostic abdominal scan showing the kidneys and surrounding structures. The images are labeled 'RIGHT KIDNEY' and 'LEFT KIDNEY' with measurements for depth and distance. The patient is a 37-year-old female.",
+      "key_observations": [
+        "Six ultrasound images from a diagnostic abdominal scan",
+        "Images show the right and left kidneys with measurements (IDist: 9.0cm, Dist: 3.7cm for right; IDist: 10.3cm, Dist: 4.4cm for left)",
+        "Patient is 37-year-old female",
+        "Images are from a Hitachi ultrasound machine (Probe C251)",
+        "Date of scan: 18-02-26 (February 18, 2026)"
+      ],
+      "dates_found": [
+        "18/02/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2217,
+        "completion_tokens": 1446,
+        "total_duration_ms": 10353
+      }
+    },
+    {
+      "image_index": 2,
+      "source": "000151__PMJAY_MH_S_G_R1_1022038744__USG_REPORT1.pdf",
+      "page": 3,
+      "pages_total": 3,
+      "image_type": "Ultrasound",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "Long-axis",
+      "stage_of_care": "pre-procedure",
+      "stage_evidence": "Diagnostic ultrasound images; no interventional devices visible",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Patient ID 010611714\nReferred By GS Unit 3\nPatient Name\nAge/Sex 37 Years/F\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.39\nHITACHI DR 010611714 37Y F 18-02-26 14.36.06\nHITACHI DR 010611714 37Y F 18-02-26 14.36.39\nHITACHI DR 010611714 37Y F 18-02-26 14.36.46\nLEFT KIDNEY\nHITACHI DR 010611714 37Y F 18-02-26 14.36.39\nHITACHI DR 010611714 37Y F 18-02-26 14.36.06\nHITACHI DR 010611714 37Y F 18-02-26 14.36.39\nHITACHI DR 010611714 37Y F 18-02-26 14.36.46\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 14.36.07\nHITACHI DR 010611714 37Y F 18-02-26 1"
+      },
+      "_usage": {
+        "prompt_tokens": 2217,
+        "completion_tokens": 4096,
+        "total_duration_ms": 25116
+      }
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "claim_id": "PMJAY_UP_S_G_2026_R3_2026040410017201",
+  "package": "SU007A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 5,
+  "generated_ms": 4296,
+  "header": {
+    "claim_id": "PMJAY_UP_S_G_2026_R3_2026040410017201",
+    "patient_name": null,
+    "modality": "X-Ray",
+    "body_part": "Abdomen — pelvicalyceal system",
+    "study_date": "03/04/2026",
+    "reviewer": null
+  },
+  "status": {
+    "consistency": "consistent",
+    "confidence_pct": 95,
+    "clinical_risk_score": "Medium",
+    "key_findings": [
+      {
+        "finding": "Right DJ stent present",
+        "ai_detected": false,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "Renal calculi (17mm right, 14mm left)",
+        "ai_detected": false,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "Hydronephrosis with ureteral dilation",
+        "ai_detected": false,
+        "report_mentioned": true,
+        "note": null
+      }
+    ]
+  },
+  "scan_viewer": {
+    "primary_image_source": "000275__PMJAY_UP_S_G_2026_R3_2026040410017201__IVP_X_RAY_WITH_REPORT.pdf",
+    "detected_regions": [],
+    "ai_overlays_available": false
+  },
+  "ai_clinical_findings": {
+    "fracture": {
+      "present": false,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "fluid_accumulation": {
+      "present": false,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "tumor_mass": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "infiltration": {
+      "severity": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "image_quality": null
+  },
+  "multi_image_analysis": {
+    "entries": [
+      {
+        "modality": "Abdominal X-Ray (KUB)",
+        "day": 93,
+        "date": "04/06/2026",
+        "finding": "Abdomen — pelvicalyceal system",
+        "confirmed": true
+      },
+      {
+        "modality": "Typed report",
+        "day": 32,
+        "date": "04/04/2026",
+        "finding": "Abdomen — pelvicalyceal system",
+        "confirmed": true
+      },
+      {
+        "modality": "IVP",
+        "day": 1,
+        "date": "04/03/2026",
+        "finding": "Abdomen — pelvicalyceal system",
+        "confirmed": true
+      }
+    ],
+    "consistency_score_pct": null
+  },
+  "report_nlp_extraction": {
+    "reported_diagnosis": null,
+    "reported_severity": null,
+    "reported_findings": [],
+    "extraction_confidence": null
+  },
+  "finding_correlation": {
+    "rows": [
+      {
+        "finding": "Right DJ stent present",
+        "image_ai": false,
+        "report": true,
+        "match": false
+      },
+      {
+        "finding": "Renal calculi (17mm right, 14mm left)",
+        "image_ai": false,
+        "report": true,
+        "match": false
+      },
+      {
+        "finding": "Hydronephrosis with ureteral dilation",
+        "image_ai": false,
+        "report": true,
+        "match": false
+      }
+    ],
+    "consistency_score_pct": 0
+  },
+  "inconsistency_detection": {
+    "possible_exaggerations": [],
+    "underreported_findings": [],
+    "hidden_findings": []
+  },
+  "stg_alignment": {
+    "claimed_package": "SU007A",
+    "evidence_required": [],
+    "stg_compliance_score_pct": null
+  },
+  "radiology_timeline": {
+    "events": [
+      {
+        "day": 1,
+        "date": "04/03/2026",
+        "event": "IVP"
+      },
+      {
+        "day": 31,
+        "date": "03/04/2026",
+        "event": "IVP"
+      },
+      {
+        "day": 32,
+        "date": "04/04/2026",
+        "event": "Typed report"
+      },
+      {
+        "day": 34,
+        "date": "06/04/2026",
+        "event": "Typed report"
+      },
+      {
+        "day": 93,
+        "date": "04/06/2026",
+        "event": "Abdominal X-Ray (KUB)"
+      }
+    ],
+    "logical": true
+  },
+  "patient": {
+    "name": null,
+    "age": "49 years",
+    "sex": "Female",
+    "id_numbers": [
+      "2026040603",
+      "2026040310"
+    ]
+  },
+  "hospital": {
+    "name": null,
+    "location": null,
+    "doctors": []
+  },
+  "encounter": {
+    "date_range": "03/04/2026 to 06/04/2026",
+    "all_dates": [
+      "03/04/2026",
+      "04/04/2026",
+      "06/04/2026"
+    ],
+    "primary_procedure": "IVP with KUB X-ray and post-op imaging",
+    "package_code": "SU007A"
+  },
+  "image_inventory": {
+    "total_images": 5,
+    "by_type": {
+      "Abdominal X-Ray (KUB)": 1,
+      "Typed report": 2,
+      "IVP": 2
+    },
+    "stages_present": [
+      "pre-procedure",
+      "intra-procedure",
+      "post-procedure"
+    ],
+    "languages_seen": [
+      "English"
+    ]
+  },
+  "clinical_narrative": "The claim includes pre-procedure IVP imaging (April 3, 2026) showing bilateral renal calculi and hydronephrosis, intra-procedure IVP images at multiple time points, and post-operative KUB X-ray (April 6, 2026) with a DJ stent visible. All reports are typed and include patient age and ID. No handwritten notes or signed stamps are visible.",
+  "completeness": {
+    "has_pre_procedure_imaging": true,
+    "has_intra_procedure_imaging": true,
+    "has_post_procedure_imaging": true,
+    "has_typed_report": true,
+    "has_handwritten_notes": false,
+    "has_signed_stamp": false,
+    "notes": null
+  },
+  "concerns_or_gaps": [
+    "Patient name not visible in any image or report.",
+    "Hospital name and location not identified.",
+    "No signed stamp or physician signature visible on reports."
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "claim_id": "PMJAY_UP_S_G_2025_R2_2026032810042482",
+  "package": "SU007A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 4,
+  "generated_ms": 4053,
+  "header": {
+    "claim_id": "PMJAY_UP_S_G_2025_R2_2026032810042482",
+    "patient_name": "GOVINDKUV",
+    "modality": "X-Ray",
+    "body_part": "Abdomen — pelvicalyceal system",
+    "study_date": "31/03/2026",
+    "reviewer": null
+  },
+  "status": {
+    "consistency": "consistent",
+    "confidence_pct": 95,
+    "clinical_risk_score": "Low",
+    "key_findings": [
+      {
+        "finding": "Left double-J ureteral stent well-positioned",
+        "ai_detected": true,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "No radio-opaque renal or gall stones",
+        "ai_detected": true,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "Normal renal outlines, psoas shadows, lumbosacral spine",
+        "ai_detected": true,
+        "report_mentioned": true,
+        "note": null
+      }
+    ]
+  },
+  "scan_viewer": {
+    "primary_image_source": "000245__PMJAY_UP_S_G_2025_R2_2026032810042482__GOVINDKUV.pdf",
+    "detected_regions": [],
+    "ai_overlays_available": false
+  },
+  "ai_clinical_findings": {
+    "fracture": {
+      "present": false,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "fluid_accumulation": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "tumor_mass": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "infiltration": {
+      "severity": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "image_quality": null
+  },
+  "multi_image_analysis": {
+    "entries": [
+      {
+        "modality": "Typed report",
+        "day": 1,
+        "date": "21/03/2026",
+        "finding": "Abdomen — pelvicalyceal system",
+        "confirmed": true
+      },
+      {
+        "modality": "Abdominal X-Ray (KUB)",
+        "day": 11,
+        "date": "31/03/2026",
+        "finding": "Abdomen — pelvicalyceal system",
+        "confirmed": true
+      },
+      {
+        "modality": "IVP",
+        "day": null,
+        "date": null,
+        "finding": "Abdomen — pelvicalyceal system",
+        "confirmed": true
+      }
+    ],
+    "consistency_score_pct": null
+  },
+  "report_nlp_extraction": {
+    "reported_diagnosis": null,
+    "reported_severity": null,
+    "reported_findings": [],
+    "extraction_confidence": null
+  },
+  "finding_correlation": {
+    "rows": [
+      {
+        "finding": "Left double-J ureteral stent well-positioned",
+        "image_ai": true,
+        "report": true,
+        "match": true
+      },
+      {
+        "finding": "No radio-opaque renal or gall stones",
+        "image_ai": true,
+        "report": true,
+        "match": true
+      },
+      {
+        "finding": "Normal renal outlines, psoas shadows, lumbosacral spine",
+        "image_ai": true,
+        "report": true,
+        "match": true
+      }
+    ],
+    "consistency_score_pct": 100
+  },
+  "inconsistency_detection": {
+    "possible_exaggerations": [],
+    "underreported_findings": [],
+    "hidden_findings": []
+  },
+  "stg_alignment": {
+    "claimed_package": "SU007A",
+    "evidence_required": [],
+    "stg_compliance_score_pct": null
+  },
+  "radiology_timeline": {
+    "events": [
+      {
+        "day": 1,
+        "date": "21/03/2026",
+        "event": "Typed report"
+      },
+      {
+        "day": 11,
+        "date": "31/03/2026",
+        "event": "Typed report"
+      },
+      {
+        "day": 11,
+        "date": "31/03/2026",
+        "event": "Abdominal X-Ray (KUB)"
+      }
+    ],
+    "logical": true
+  },
+  "patient": {
+    "name": "GOVINDKUV",
+    "age": "33 years",
+    "sex": "Male",
+    "id_numbers": []
+  },
+  "hospital": {
+    "name": null,
+    "location": null,
+    "doctors": []
+  },
+  "encounter": {
+    "date_range": "21/03/2026 to 31/03/2026",
+    "all_dates": [
+      "21/03/2026",
+      "31/03/2026"
+    ],
+    "primary_procedure": "IVP and KUB X-ray for left renal calculus and stent placement",
+    "package_code": "SU007A"
+  },
+  "image_inventory": {
+    "total_images": 4,
+    "by_type": {
+      "Typed report": 2,
+      "Abdominal X-Ray (KUB)": 1,
+      "IVP": 1
+    },
+    "stages_present": [
+      "pre-procedure",
+      "intra-procedure",
+      "post-procedure"
+    ],
+    "languages_seen": [
+      "English"
+    ]
+  },
+  "clinical_narrative": "Two radiology reports and corresponding imaging documents show a 34-year-old male underwent an IVP on March 21, 2026, revealing a left renal calculus. A subsequent KUB X-ray on March 31, 2026, confirmed placement of a left double-J ureteral stent with no stones detected. Pre-procedure IVP images show contrast progression through the urinary tract.",
+  "completeness": {
+    "has_pre_procedure_imaging": true,
+    "has_intra_procedure_imaging": false,
+    "has_post_procedure_imaging": true,
+    "has_typed_report": true,
+    "has_handwritten_notes": false,
+    "has_signed_stamp": false,
+    "notes": null
+  },
+  "concerns_or_gaps": [
+    "No hospital name or location identified",
+    "No doctor names visible",
+    "No signed stamp or official seal on any document",
+    "No patient ID numbers provided"
+  ]
+}

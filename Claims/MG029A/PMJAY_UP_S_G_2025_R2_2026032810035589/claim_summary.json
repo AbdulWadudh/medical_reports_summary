@@ -1,0 +1,180 @@
+{
+  "claim_id": "PMJAY_UP_S_G_2025_R2_2026032810035589",
+  "package": "MG029A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 2,
+  "generated_ms": 4033,
+  "header": {
+    "claim_id": "PMJAY_UP_S_G_2025_R2_2026032810035589",
+    "patient_name": null,
+    "modality": "X-Ray",
+    "body_part": "Chest",
+    "study_date": "29/03/2026",
+    "reviewer": null
+  },
+  "status": {
+    "consistency": "consistent",
+    "confidence_pct": 90,
+    "clinical_risk_score": "Medium",
+    "key_findings": [
+      {
+        "finding": "Enlarged cardiac silhouette",
+        "ai_detected": true,
+        "report_mentioned": false,
+        "note": "Image shows enlarged cardiac silhouette; report does not mention it."
+      },
+      {
+        "finding": "Bilateral emphysematous changes",
+        "ai_detected": false,
+        "report_mentioned": true,
+        "note": null
+      }
+    ]
+  },
+  "scan_viewer": {
+    "primary_image_source": "000040__PMJAY_UP_S_G_2025_R2_2026032810035589__X_ray_Chest.jpg",
+    "detected_regions": [],
+    "ai_overlays_available": false
+  },
+  "ai_clinical_findings": {
+    "fracture": {
+      "present": false,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "fluid_accumulation": {
+      "present": false,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "tumor_mass": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "infiltration": {
+      "severity": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "image_quality": null
+  },
+  "multi_image_analysis": {
+    "entries": [
+      {
+        "modality": "Chest X-Ray",
+        "day": 1,
+        "date": "29/03/2026",
+        "finding": "Chest (PA)",
+        "confirmed": true
+      },
+      {
+        "modality": "Typed report",
+        "day": 1,
+        "date": "29/03/2026",
+        "finding": "Chest",
+        "confirmed": false
+      }
+    ],
+    "consistency_score_pct": null
+  },
+  "report_nlp_extraction": {
+    "reported_diagnosis": null,
+    "reported_severity": null,
+    "reported_findings": [],
+    "extraction_confidence": null
+  },
+  "finding_correlation": {
+    "rows": [
+      {
+        "finding": "Enlarged cardiac silhouette",
+        "image_ai": true,
+        "report": false,
+        "match": false
+      },
+      {
+        "finding": "Bilateral emphysematous changes",
+        "image_ai": false,
+        "report": true,
+        "match": false
+      }
+    ],
+    "consistency_score_pct": 0
+  },
+  "inconsistency_detection": {
+    "possible_exaggerations": [],
+    "underreported_findings": [],
+    "hidden_findings": []
+  },
+  "stg_alignment": {
+    "claimed_package": "MG029A",
+    "evidence_required": [],
+    "stg_compliance_score_pct": null
+  },
+  "radiology_timeline": {
+    "events": [
+      {
+        "day": 1,
+        "date": "29/03/2026",
+        "event": "Chest X-Ray"
+      },
+      {
+        "day": 1,
+        "date": "29/03/2026",
+        "event": "Typed report"
+      }
+    ],
+    "logical": true
+  },
+  "patient": {
+    "name": null,
+    "age": "66 years",
+    "sex": "Female",
+    "id_numbers": [
+      "66Y F MED 401"
+    ]
+  },
+  "hospital": {
+    "name": null,
+    "location": null,
+    "doctors": [
+      "MBBS, DNB, DMRD"
+    ]
+  },
+  "encounter": {
+    "date_range": "29/03/2026 to 29/03/2026",
+    "all_dates": [
+      "29/03/2026"
+    ],
+    "primary_procedure": "Chest X-Ray (PA view)",
+    "package_code": "MG029A"
+  },
+  "image_inventory": {
+    "total_images": 2,
+    "by_type": {
+      "Chest X-Ray": 1,
+      "Typed report": 1
+    },
+    "stages_present": [
+      "pre-procedure"
+    ],
+    "languages_seen": [
+      "English"
+    ]
+  },
+  "clinical_narrative": "A 66-year-old female underwent a chest X-ray in PA view on 29/03/2026. The report notes bilateral emphysematous changes and advises further imaging with HRCT chest and 2D echo. Cardiac silhouette appears enlarged on the X-ray.",
+  "completeness": {
+    "has_pre_procedure_imaging": true,
+    "has_intra_procedure_imaging": false,
+    "has_post_procedure_imaging": false,
+    "has_typed_report": true,
+    "has_handwritten_notes": false,
+    "has_signed_stamp": true,
+    "notes": null
+  },
+  "concerns_or_gaps": [
+    "CP angle not clear in report",
+    "No hospital name or location identified",
+    "No patient name visible"
+  ]
+}

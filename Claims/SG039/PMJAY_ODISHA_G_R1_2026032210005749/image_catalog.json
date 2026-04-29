@@ -1,0 +1,83 @@
+{
+  "claim_id": "PMJAY_ODISHA_G_R1_2026032210005749",
+  "package": "SG039",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 2,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000231__PMJAY_ODISHA_G_R1_2026032210005749__SASMITA_USG.pdf",
+      "page": 1,
+      "pages_total": 2,
+      "image_type": "Typed report",
+      "body_region": "Abdomen — hepatobiliary system, kidneys, urinary bladder, uterus, ovaries",
+      "modality_view": "N/A",
+      "stage_of_care": "n/a",
+      "stage_evidence": "Clinical report of ultrasound findings",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Name of Patient: \nRef. By: \nAge / Sex: 28 Years / Female\nDate: 19.03.2026\nInvestigation: USG of Whole Abdomen\n\nUSG OF WHOLE ABDOMEN\nLIVER: Normal in size (12.15 cm). Normal parenchyma echotexture. No focal lesion IHBR\nDilation is seen. P.V.- normal.\nCBD: Not dilated. No intraductal calculi seen.\nGALL BLADDER: Multiple mobile calculi noted in GB lumen, largest measuring 9 mm.\nPANCREAS: Normal in size & outline. Parenchyma echo is normal. Pancreatic duct is not\ndilated.\nSPLEEN: Normal in size (9.5) cm. Parenchymal echogenicity appears normal.\nKIDNEYS:\nRT. KIDNEY: Normal in shape and size — (11.1 x 4.4) cm. parenchymal echogenicity is\nnormal. Cortical thickness is normal. Cortico medullary differentiation is well maintained.\nCollecting system appears normal. No evidence of calculus or any pathological abnormalities\nis seen.\nLT. KIDNEY: Normal in shape and size — (11.3 x 4.9) cm. Parenchymal echogenicity is\nnormal. Cortical thickness is normal. Cortico medullary differentiation is well maintained.\nCollecting system appears normal. No evidence of calculus or any pathological abnormalities\nis seen.\nURINARY BLADDER: Distended with normal wall thickness. No diverticula/SOI/calculus seen in\nlumen.\nOthers: No evidence of any free fluid in the peritoneal cavity.\nUTERUS: Enlarged in size — (10.3 x 5.1 x 4.7) cm.\nEndometrial thickness: 8.4 mm\nOVARY: Lt. Ovary: 3.2 x 2.2 cm \n Rt. Ovary: 3.1 x 1.7 cm\n\nIMPRESSION:\n• CHOLELITHIASIS.\n• BULKY UTERUS\n\nSuggested: Clinical correlation.\n\nMD (Radiodiagnosis)\nReg. No- 16216(OCM)",
+        "english": "Name of Patient: \nRef. By: \nAge / Sex: 28 Years / Female\nDate: 19.03.2026\nInvestigation: USG of Whole Abdomen\n\nUSG OF WHOLE ABDOMEN\nLIVER: Normal in size (12.15 cm). Normal parenchyma echotexture. No focal lesion IHBR\nDilation is seen. P.V.- normal.\nCBD: Not dilated. No intraductal calculi seen.\nGALL BLADDER: Multiple mobile calculi noted in GB lumen, largest measuring 9 mm.\nPANCREAS: Normal in size & outline. Parenchyma echo is normal. Pancreatic duct is not\ndilated.\nSPLEEN: Normal in size (9.5) cm. Parenchymal echogenicity appears normal.\nKIDNEYS:\nRT. KIDNEY: Normal in shape and size — (11.1 x 4.4) cm. parenchymal echogenicity is\nnormal. Cortical thickness is normal. Cortico medullary differentiation is well maintained.\nCollecting system appears normal. No evidence of calculus or any pathological abnormalities\nis seen.\nLT. KIDNEY: Normal in shape and size — (11.3 x 4.9) cm. Parenchymal echogenicity is\nnormal. Cortical thickness is normal. Cortico medullary differentiation is well maintained.\nCollecting system appears normal. No evidence of calculus or any pathological abnormalities\nis seen.\nURINARY BLADDER: Distended with normal wall thickness. No diverticula/SOI/calculus seen in\nlumen.\nOthers: No evidence of any free fluid in the peritoneal cavity.\nUTERUS: Enlarged in size — (10.3 x 5.1 x 4.7) cm.\nEndometrial thickness: 8.4 mm\nOVARY: Lt. Ovary: 3.2 x 2.2 cm \n Rt. Ovary: 3.1 x 1.7 cm\n\nIMPRESSION:\n• CHOLELITHIASIS.\n• BULKY UTERUS\n\nSuggested: Clinical correlation.\n\nMD (Radiodiagnosis)\nReg. No- 16216(OCM)"
+      },
+      "summary": "This is a typed ultrasound report of the whole abdomen for a 28-year-old female patient, dated March 19, 2026. The report details findings on the liver, gallbladder, pancreas, spleen, kidneys, urinary bladder, uterus, and ovaries, concluding with an impression of cholelithiasis and a bulky uterus.",
+      "key_observations": [
+        "Multiple mobile calculi in the gallbladder, largest 9 mm",
+        "Enlarged uterus (10.3 x 5.1 x 4.7 cm) with 8.4 mm endometrial thickness",
+        "Normal-sized kidneys with no calculi or abnormalities",
+        "Normal liver, spleen, and pancreas",
+        "Diagnosis of cholelithiasis and bulky uterus",
+        "Report signed by MD (Radiodiagnosis) with registration number 16216(OCM)"
+      ],
+      "dates_found": [
+        "19/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2225,
+        "completion_tokens": 1345,
+        "total_duration_ms": 8067
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000231__PMJAY_ODISHA_G_R1_2026032210005749__SASMITA_USG.pdf",
+      "page": 2,
+      "pages_total": 2,
+      "image_type": "Ultrasound",
+      "body_region": "Abdomen — hepatobiliary system",
+      "modality_view": "Long-axis",
+      "stage_of_care": "pre-procedure",
+      "stage_evidence": "Diagnostic ultrasound images without contrast or intervention",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Page 1/1\nsound Image Report",
+        "english": "Page 1/1\nsound Image Report"
+      },
+      "summary": "A set of nine grayscale ultrasound images showing the hepatobiliary system, likely the gallbladder and biliary ducts, from multiple long-axis views. The images are diagnostic in nature and appear to be from a pre-procedure assessment.",
+      "key_observations": [
+        "Nine ultrasound images arranged in a 3x3 grid.",
+        "Images show anatomical structures consistent with the hepatobiliary system.",
+        "Ultrasound machine brand 'DACON' visible in the corners of each image.",
+        "Images are grayscale with varying levels of echogenicity.",
+        "Text 'Page 1/1' and 'sound Image Report' visible on the left margin."
+      ],
+      "dates_found": [],
+      "image_quality": {
+        "rating": "fair",
+        "limitations": [
+          "Low contrast and grainy image quality.",
+          "Images are dark and lack clear definition of internal structures.",
+          "Photograph of printed ultrasound images, not the original digital scan."
+        ]
+      },
+      "_usage": {
+        "prompt_tokens": 2225,
+        "completion_tokens": 291,
+        "total_duration_ms": 3354
+      }
+    }
+  ]
+}

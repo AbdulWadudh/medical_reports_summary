@@ -2,53 +2,109 @@
 
 **Package:** MC011A  ·  **Model:** accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd  ·  **Images:** 21
 
-## Patient
-- **Name:** unknown
-- **Age:** 73 years
-- **Sex:** Female
-- **IDs:** 2414/03/2026, AHH-1798/03/26, 2404/03/2026
+| Claim ID | Patient | Modality | Body Part | Study Date | Reviewer |
+|---|---|---|---|---|---|
+| PMJAY_MH_S_G_R1_2026032910015645 | — | Coronary Angiogram | Coronary tree — left system | 28/03/2026 | — |
 
-## Hospital
-- **Name:** unknown
-- **Location:** unknown
-- **Doctors:** unknown
+> 🟢 **IMAGE & REPORT CONSISTENT**  ·  Confidence: 95%  ·  Clinical Risk Score: Medium
 
-## Encounter
-- **Date range:** 03/28/2026 to 03/31/2026
-- **Primary procedure:** PTCA to LCX and RCA with stent deployment
-- **Package code:** MC011A
-- **All dates seen:** 03/28/2026, 03/31/2025, 03/31/2026, 05/03/2025
+**Key findings:**
+- Stent deployment _(AI ✔ · Report ✔)_
+- 95% stenosis in LCX _(AI ✖ · Report ✔)_
+- 80% stenosis in RCA _(AI ✖ · Report ✔)_
+- TIMI III flow post-PTCA _(AI ✖ · Report ✔)_
 
-## Clinical narrative
+## Interactive Scan Viewer
+- **Primary image:** 000255__PMJAY_MH_S_G_R1_2026032910015645__PTCA_IMAGES.pdf
+- **AI overlays available:** no
 
-A 73-year-old female underwent percutaneous coronary intervention (PTCA) on March 31, 2026, for stenosis in the left circumflex (LCX) and right coronary artery (RCA). Pre-procedure angiography showed 95% stenosis in LCX and 80% in RCA. Intra-procedure fluoroscopic images show guidewires, catheters, and stents deployed. Post-procedure reports confirm excellent result with TIMI III flow and 0% residual stenosis. Images include multiple projections (RAO, LAO, CAUD) acquired during the procedure.
+## AI Clinical Findings
+- **Fracture:** —
+- **Fluid accumulation:** —
+- **Tumor / mass:** —
+- **Infiltration:** —
+- **Image quality:** —
 
-## Key findings
-- Intra-procedural fluoroscopic images show guidewire and catheter placement in left coronary system.
-- Sterile angiographic images confirm successful deployment of two stents: LAD-GRACE 3.0 X 16 mm and RCA-GRACE 2.75 X 32 mm.
-- No dissection or thrombus observed post-PTCA.
-- Favorable outcome with TIMI III flow and zero residual stenosis.
-- Cath-lab equipment: AXIOM-Artis system used throughout procedure.
+## Multi-image Analysis
+| Modality | Day | Date | Finding | Confirmed |
+|---|---|---|---|---|
+| Coronary Angiogram | 1 | 31/03/2020 | Coronary tree — left system | ✔ |
+| Typed report | 2165 | 2404/03/2026 | Coronary arteries | ✔ |
 
-## Image inventory
-- **Total images:** 21
-- **By type:**
-  - Coronary Angiogram: 19
-  - Typed report: 2
-- **Stages present:** intra-procedure, post-procedure
-- **Languages:** English
+**Consistency Score:** —%
 
-## Completeness
-- Pre-procedure imaging: false
-- Intra-procedure imaging: true
-- Post-procedure imaging: true
-- Typed report: true
-- Handwritten notes: true
-- Signed stamp: false
-- **Notes:** No pre-procedure imaging present; handwritten notes on diagrams; no signed stamp visible.
+## Report NLP Extraction
+- **Reported diagnosis:** —
+- **Reported severity:** —
+- **Reported findings:** —
+- **Extraction confidence:** —
 
-## Concerns / gaps
-- Inconsistent dates across images (e.g., March 31, 2025; March 5, 2025; March 31, 2028).
-- Some image metadata appears corrupted or misaligned (e.g., 'US' instead of 'US' in date field).
-- No identifiable hospital or doctor name visible.
-- No pre-procedure imaging available to confirm baseline anatomy before intervention.
+## Finding Correlation
+| Finding | Image AI | Report | Match |
+|---|---|---|---|
+| Stent deployment | ✔ | ✔ | ✔ |
+| 95% stenosis in LCX | ✖ | ✔ | ✖ |
+| 80% stenosis in RCA | ✖ | ✔ | ✖ |
+| TIMI III flow post-PTCA | ✖ | ✔ | ✖ |
+
+**Consistency Score:** 25%
+
+## Inconsistency Detection
+- **Possible exaggerations:** ✔ none detected
+- **Underreported findings:** ✔ none detected
+- **Hidden findings:** ✔ none detected
+
+## STG Alignment
+- **Claimed package:** MC011A
+- **STG compliance score:** —%
+
+## Radiology Timeline
+- Day 1 – Coronary Angiogram _(31/03/2020)_
+- Day 1801 – Coronary Angiogram _(05/03/2025)_
+- Day 1827 – Coronary Angiogram _(31/03/2025)_
+- Day 2164 – Coronary Angiogram _(03/03/2026)_
+- Day 2165 – Typed report _(2404/03/2026)_
+- Day 2189 – Typed report _(28/03/2026)_
+- Day 2189 – Coronary Angiogram _(28/03/2026)_
+- Day 2192 – Coronary Angiogram _(31/03/2026)_
+- Day 2192 – Typed report _(31/03/2026)_
+- Day 2923 – Coronary Angiogram _(31/03/2028)_
+- Day 2926 – Coronary Angiogram _(03/28/2026)_
+- Day 3017 – Coronary Angiogram _(03/31/2026)_
+
+**Timeline logical:** ✔
+
+---
+
+## Reference detail
+
+**Patient**
+- Name: — · Age: 73 years · Sex: Female
+- IDs: 2414/03/2026, AHH-1798/03/26
+
+**Hospital**
+- Name: — · Location: —
+
+**Encounter**
+- Date range: 28/03/2026 to 31/03/2026 · Procedure: PTCA to LCX and RCA with stent deployment · Package code: MC011A
+- All dates seen: 28/03/2026, 31/03/2026
+
+**Image inventory**
+- Total: 21
+- By type: Coronary Angiogram: 19, Typed report: 2
+- Stages: intra-procedure, post-procedure
+- Languages: English
+
+**Clinical narrative**
+
+A 73-year-old female underwent PTCA on the left circumflex and right coronary arteries, with stent deployment. Pre-procedure angiography revealed 95% stenosis in LCX and 80% in RCA. Intra-procedure images show guidewires and catheters during intervention. Post-procedure reports confirm excellent result with TIMI III flow and 0% residual stenosis. Two stents (LAD-GRACE 3.0 X 16 mm and RCA-GRACE 2.75 X 32 mm) were deployed.
+
+**Completeness**
+- Pre: ✔ · Intra: ✔ · Post: ✔
+- Typed report: ✔ · Handwritten: ✔ · Signed stamp: ✖
+
+**Concerns / gaps**
+- Inconsistent date ranges across images (e.g., 3/31/2025, 3/31/2028)
+- No hospital or doctor names identified
+- No signed stamp or official seal on reports
+- Some OCR text contains garbled or partial data (e.g., 'HFS', 'VD12A')

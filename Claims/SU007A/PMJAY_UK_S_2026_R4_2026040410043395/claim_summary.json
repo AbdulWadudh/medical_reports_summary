@@ -1,0 +1,218 @@
+{
+  "claim_id": "PMJAY_UK_S_2026_R4_2026040410043395",
+  "package": "SU007A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 4,
+  "generated_ms": 4199,
+  "header": {
+    "claim_id": "PMJAY_UK_S_2026_R4_2026040410043395",
+    "patient_name": null,
+    "modality": "X-Ray",
+    "body_part": "Abdomen — pelvicalyceal system",
+    "study_date": "02/04/2026",
+    "reviewer": null
+  },
+  "status": {
+    "consistency": "partial",
+    "confidence_pct": 75,
+    "clinical_risk_score": "Low",
+    "key_findings": [
+      {
+        "finding": "DJ stent in situ",
+        "ai_detected": null,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "Previous calculus resolved",
+        "ai_detected": null,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "Increased bowel gas shadows",
+        "ai_detected": null,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "No radio-opacity in left renal region",
+        "ai_detected": null,
+        "report_mentioned": true,
+        "note": null
+      }
+    ]
+  },
+  "scan_viewer": {
+    "primary_image_source": "000180__PMJAY_UK_S_2026_R4_2026040410043395__XRAY_CT_REPORT.pdf",
+    "detected_regions": [],
+    "ai_overlays_available": false
+  },
+  "ai_clinical_findings": {
+    "fracture": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "fluid_accumulation": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "tumor_mass": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "infiltration": {
+      "severity": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "image_quality": null
+  },
+  "multi_image_analysis": {
+    "entries": [
+      {
+        "modality": "Typed report",
+        "day": 4,
+        "date": "02/04/2026",
+        "finding": "Abdomen — pelvicalyceal system",
+        "confirmed": true
+      },
+      {
+        "modality": "Abdominal X-Ray (KUB)",
+        "day": 1,
+        "date": "30/03/2026",
+        "finding": "Abdomen — pelvicalyceal system",
+        "confirmed": true
+      }
+    ],
+    "consistency_score_pct": null
+  },
+  "report_nlp_extraction": {
+    "reported_diagnosis": null,
+    "reported_severity": null,
+    "reported_findings": [],
+    "extraction_confidence": null
+  },
+  "finding_correlation": {
+    "rows": [
+      {
+        "finding": "DJ stent in situ",
+        "image_ai": null,
+        "report": true,
+        "match": null
+      },
+      {
+        "finding": "Previous calculus resolved",
+        "image_ai": null,
+        "report": true,
+        "match": null
+      },
+      {
+        "finding": "Increased bowel gas shadows",
+        "image_ai": null,
+        "report": true,
+        "match": null
+      },
+      {
+        "finding": "No radio-opacity in left renal region",
+        "image_ai": null,
+        "report": true,
+        "match": null
+      }
+    ],
+    "consistency_score_pct": null
+  },
+  "inconsistency_detection": {
+    "possible_exaggerations": [],
+    "underreported_findings": [],
+    "hidden_findings": []
+  },
+  "stg_alignment": {
+    "claimed_package": "SU007A",
+    "evidence_required": [],
+    "stg_compliance_score_pct": null
+  },
+  "radiology_timeline": {
+    "events": [
+      {
+        "day": 1,
+        "date": "30/03/2026",
+        "event": "Abdominal X-Ray (KUB)"
+      },
+      {
+        "day": 4,
+        "date": "02/04/2026",
+        "event": "Typed report"
+      },
+      {
+        "day": 8,
+        "date": "06/04/2026",
+        "event": "Typed report"
+      },
+      {
+        "day": 8,
+        "date": "06/04/2026",
+        "event": "Abdominal X-Ray (KUB)"
+      }
+    ],
+    "logical": true
+  },
+  "patient": {
+    "name": null,
+    "age": "36 years",
+    "sex": "Male",
+    "id_numbers": [
+      "250294"
+    ]
+  },
+  "hospital": {
+    "name": null,
+    "location": null,
+    "doctors": [
+      "MBBS, MD Radiology"
+    ]
+  },
+  "encounter": {
+    "date_range": "02/04/2026 to 06/04/2026",
+    "all_dates": [
+      "02/04/2026",
+      "06/04/2026",
+      "30/03/2026"
+    ],
+    "primary_procedure": "Ureteric calculus removal with DJ stent placement",
+    "package_code": "SU007A"
+  },
+  "image_inventory": {
+    "total_images": 4,
+    "by_type": {
+      "Typed report": 2,
+      "Abdominal X-Ray (KUB)": 2
+    },
+    "stages_present": [
+      "pre-procedure",
+      "intra-procedure",
+      "post-procedure"
+    ],
+    "languages_seen": [
+      "English"
+    ]
+  },
+  "clinical_narrative": "A 36-year-old male underwent imaging for renal and ureteric calculi. Pre-procedure CT scan (April 2, 2026) revealed a 4mm calculus in the right kidney and an 8mm calculus in the right upper ureter causing mild hydronephrosis. Post-procedure X-ray (April 6, 2026) confirmed clearance of the calculus and presence of a DJ stent. A separate pre-procedure X-ray (March 30, 2026) was taken on a different patient (37Y.F).",
+  "completeness": {
+    "has_pre_procedure_imaging": true,
+    "has_intra_procedure_imaging": false,
+    "has_post_procedure_imaging": true,
+    "has_typed_report": true,
+    "has_handwritten_notes": false,
+    "has_signed_stamp": true,
+    "notes": null
+  },
+  "concerns_or_gaps": [
+    "A pre-procedure image dated March 30, 2026, appears to be for a different patient (37Y.F).",
+    "No intra-procedure imaging available.",
+    "Inconsistent patient age/gender across images: one image shows '37Y.M F' which is contradictory."
+  ]
+}

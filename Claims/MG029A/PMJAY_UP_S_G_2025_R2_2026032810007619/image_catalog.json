@@ -1,0 +1,79 @@
+{
+  "claim_id": "PMJAY_UP_S_G_2025_R2_2026032810007619",
+  "package": "MG029A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 2,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000182__PMJAY_UP_S_G_2025_R2_2026032810007619__XRAYFILMREPORT.pdf",
+      "page": 1,
+      "pages_total": 2,
+      "image_type": "Typed report",
+      "body_region": "Chest",
+      "modality_view": "PA",
+      "stage_of_care": "n/a",
+      "stage_evidence": "Radiology report describing findings from a chest X-ray.",
+      "ocr": {
+        "language": "English",
+        "verbatim": "DIGITAL SKIAGRAM CHEST PA VIEW\n\nObservation\n\nIll defined opacities noted in both upper and mid zone.\n\nRest of the lung fields are normal in translucency and prominent broncho-vascular markings.\n\nBilateral pulmonary hila appear normal.\n\nBoth CP angles are obtuse.\n\nCardiac shadow is normal in size.\n\nTrachea and mediastinum appear normal.\n\nOPINION :-\n\nBILATERAL KOCH'S INFILTRATION\nBRONCHITIS.\nBILATERAL BASAL PLEURAL REACTION /THICKENING.\n\nPlease correlate clinically.\n\nMD RADIODIAGNOSIS\nCONSULTANT RADIOLOGIST\nDMC REG\n\nNote : Impression is a professional opinion and not a diagnosis. All modern machine/procedures have their limitations. If there is variance clinically this examination may be repeated or re-evaluated by other investigations. Kindly intimate us for any typing mistakes and return the report for correction within 7 days. Not valid for medico-legal purpose.",
+        "english": "DIGITAL SKIAGRAM CHEST PA VIEW\n\nObservation\n\nIll defined opacities noted in both upper and mid zone.\n\nRest of the lung fields are normal in translucency and prominent broncho-vascular markings.\n\nBilateral pulmonary hila appear normal.\n\nBoth CP angles are obtuse.\n\nCardiac shadow is normal in size.\n\nTrachea and mediastinum appear normal.\n\nOPINION :-\n\nBILATERAL KOCH'S INFILTRATION\nBRONCHITIS.\nBILATERAL BASAL PLEURAL REACTION /THICKENING.\n\nPlease correlate clinically.\n\nMD RADIODIAGNOSIS\nCONSULTANT RADIOLOGIST\nDMC REG\n\nNote : Impression is a professional opinion and not a diagnosis. All modern machine/procedures have their limitations. If there is variance clinically this examination may be repeated or re-evaluated by other investigations. Kindly intimate us for any typing mistakes and return the report for correction within 7 days. Not valid for medico-legal purpose."
+      },
+      "summary": "This is a typed radiology report for a digital chest X-ray (PA view) performed on a 66-year-old male patient on March 27, 2026. The report notes ill-defined opacities in the upper and mid lung zones, with otherwise normal lung fields, hila, cardiac shadow, trachea, and mediastinum. The radiologist's impression includes bilateral Koch's infiltration, bronchitis, and bilateral basal pleural reaction/thickening, with a request to correlate clinically.",
+      "key_observations": [
+        "Patient is 66 years old, male.",
+        "Exam date: March 27, 2026.",
+        "Findings: Ill-defined opacities in upper and mid lung zones; normal translucency elsewhere; prominent broncho-vascular markings; normal hila; obtuse CP angles; normal cardiac shadow; normal trachea and mediastinum.",
+        "Radiologist's impression: Bilateral Koch's infiltration, bronchitis, bilateral basal pleural reaction/thickening.",
+        "Note: Impression is not a diagnosis; report is not valid for medico-legal purposes."
+      ],
+      "dates_found": [
+        "27/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2229,
+        "completion_tokens": 823,
+        "total_duration_ms": 6713
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000182__PMJAY_UP_S_G_2025_R2_2026032810007619__XRAYFILMREPORT.pdf",
+      "page": 2,
+      "pages_total": 2,
+      "image_type": "Chest X-Ray",
+      "body_region": "Chest",
+      "modality_view": "PA",
+      "stage_of_care": "pre-procedure",
+      "stage_evidence": "No devices or contrast media visible; diagnostic view",
+      "ocr": {
+        "language": "English",
+        "verbatim": "66YRS/M CHEST PA VIEW 27-Mar-26",
+        "english": "66YRS/M CHEST PA VIEW 27-Mar-26"
+      },
+      "summary": "A posterior-anterior chest X-ray of a 66-year-old male, dated March 27, 2026. The image shows the bony thorax, lung fields, and mediastinum in standard PA projection.",
+      "key_observations": [
+        "Patient age and sex: 66 years, male",
+        "Projection: Posterior-anterior (PA)",
+        "Date: 27-Mar-26",
+        "Standard chest radiograph with no visible foreign bodies or contrast media"
+      ],
+      "dates_found": [
+        "27/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2229,
+        "completion_tokens": 252,
+        "total_duration_ms": 3531
+      }
+    }
+  ]
+}

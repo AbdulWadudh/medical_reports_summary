@@ -1,0 +1,204 @@
+{
+  "claim_id": "BOCW_UP_2025_R2_2026032410041507",
+  "package": "MG029A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 2,
+  "generated_ms": 4530,
+  "header": {
+    "claim_id": "BOCW_UP_2025_R2_2026032410041507",
+    "patient_name": "MRS",
+    "modality": "X-Ray",
+    "body_part": "Chest",
+    "study_date": "24/03/2026",
+    "reviewer": null
+  },
+  "status": {
+    "consistency": "partial",
+    "confidence_pct": 75,
+    "clinical_risk_score": "Medium",
+    "key_findings": [
+      {
+        "finding": "Prominent hilar shadows on right side",
+        "ai_detected": null,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "Non-homogenous opacity in right lower lung zone",
+        "ai_detected": null,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "Cardiothoracic ratio ~17/27 suggesting cardiomegaly",
+        "ai_detected": null,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "Flattening of hemidiaphragms",
+        "ai_detected": null,
+        "report_mentioned": true,
+        "note": null
+      }
+    ]
+  },
+  "scan_viewer": {
+    "primary_image_source": "000039__BOCW_UP_2025_R2_2026032410041507__POST_XRAY_FILM01.jpeg",
+    "detected_regions": [],
+    "ai_overlays_available": false
+  },
+  "ai_clinical_findings": {
+    "fracture": {
+      "present": false,
+      "confidence_pct": null,
+      "evidence": "None observed in images"
+    },
+    "fluid_accumulation": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "tumor_mass": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "infiltration": {
+      "severity": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "image_quality": null
+  },
+  "multi_image_analysis": {
+    "entries": [
+      {
+        "modality": "Chest X-Ray",
+        "day": 7,
+        "date": "30/03/2026",
+        "finding": "Chest (PA)",
+        "confirmed": true
+      },
+      {
+        "modality": "Typed report",
+        "day": 1,
+        "date": "24/03/2026",
+        "finding": "Chest",
+        "confirmed": false
+      }
+    ],
+    "consistency_score_pct": null
+  },
+  "report_nlp_extraction": {
+    "reported_diagnosis": null,
+    "reported_severity": null,
+    "reported_findings": [],
+    "extraction_confidence": null
+  },
+  "finding_correlation": {
+    "rows": [
+      {
+        "finding": "Prominent hilar shadows on right side",
+        "image_ai": null,
+        "report": true,
+        "match": null
+      },
+      {
+        "finding": "Non-homogenous opacity in right lower lung zone",
+        "image_ai": null,
+        "report": true,
+        "match": null
+      },
+      {
+        "finding": "Cardiothoracic ratio ~17/27 suggesting cardiomegaly",
+        "image_ai": null,
+        "report": true,
+        "match": null
+      },
+      {
+        "finding": "Flattening of hemidiaphragms",
+        "image_ai": null,
+        "report": true,
+        "match": null
+      }
+    ],
+    "consistency_score_pct": null
+  },
+  "inconsistency_detection": {
+    "possible_exaggerations": [],
+    "underreported_findings": [],
+    "hidden_findings": []
+  },
+  "stg_alignment": {
+    "claimed_package": "MG029A",
+    "evidence_required": [],
+    "stg_compliance_score_pct": null
+  },
+  "radiology_timeline": {
+    "events": [
+      {
+        "day": 1,
+        "date": "24/03/2026",
+        "event": "Typed report"
+      },
+      {
+        "day": 7,
+        "date": "30/03/2026",
+        "event": "Chest X-Ray"
+      }
+    ],
+    "logical": true
+  },
+  "patient": {
+    "name": "MRS",
+    "age": "35 years",
+    "sex": "Female",
+    "id_numbers": [
+      "263231941"
+    ]
+  },
+  "hospital": {
+    "name": null,
+    "location": null,
+    "doctors": [
+      "JR JR ASSISTANT PROFESSOR ASSISTANT PROFESSOR ASSISTANT PROFESSOR",
+      "IGH PROFESSOR & H.O.D."
+    ]
+  },
+  "encounter": {
+    "date_range": "24/03/2026 to 30/03/2026",
+    "all_dates": [
+      "24/03/2026",
+      "30/03/2026"
+    ],
+    "primary_procedure": "Chest X-Ray (PA view)",
+    "package_code": "MG029A"
+  },
+  "image_inventory": {
+    "total_images": 2,
+    "by_type": {
+      "Chest X-Ray": 1,
+      "Typed report": 1
+    },
+    "stages_present": [
+      "post-procedure"
+    ],
+    "languages_seen": [
+      "English"
+    ]
+  },
+  "clinical_narrative": "A chest X-ray (PA view) was performed on a 55-year-old female patient on 24/03/2026, with findings including prominent hilar shadows, non-homogenous opacity in the right lower lung zone, borderline cardiomegaly, and flattening of hemidiaphragms. A post-procedure image from 30/03/2026 shows the same patient on a monitor display. The report includes an impression of possible COPD, right lower zone pneumonitis, and borderline cardiomegaly, with a disclaimer that it is not a diagnosis.",
+  "completeness": {
+    "has_pre_procedure_imaging": false,
+    "has_intra_procedure_imaging": false,
+    "has_post_procedure_imaging": true,
+    "has_typed_report": true,
+    "has_handwritten_notes": false,
+    "has_signed_stamp": false,
+    "notes": null
+  },
+  "concerns_or_gaps": [
+    "The post-procedure image is a photograph of a monitor display, not the original film."
+  ]
+}

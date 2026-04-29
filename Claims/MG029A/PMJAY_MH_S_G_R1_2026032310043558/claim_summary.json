@@ -1,0 +1,186 @@
+{
+  "claim_id": "PMJAY_MH_S_G_R1_2026032310043558",
+  "package": "MG029A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 2,
+  "generated_ms": 5178,
+  "header": {
+    "claim_id": "PMJAY_MH_S_G_R1_2026032310043558",
+    "patient_name": null,
+    "modality": "X-Ray",
+    "body_part": "Chest",
+    "study_date": "21/03/2026",
+    "reviewer": null
+  },
+  "status": {
+    "consistency": "partial",
+    "confidence_pct": 75,
+    "clinical_risk_score": "Medium",
+    "key_findings": [
+      {
+        "finding": "Hyperinflation of lungs",
+        "ai_detected": true,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "Pleural effusion or consolidation in right lung",
+        "ai_detected": true,
+        "report_mentioned": false,
+        "note": null
+      },
+      {
+        "finding": "Diffuse opacities in left lung",
+        "ai_detected": true,
+        "report_mentioned": false,
+        "note": null
+      }
+    ]
+  },
+  "scan_viewer": {
+    "primary_image_source": "000471__PMJAY_MH_S_G_R1_2026032310043558__LAB.pdf",
+    "detected_regions": [],
+    "ai_overlays_available": false
+  },
+  "ai_clinical_findings": {
+    "fracture": {
+      "present": false,
+      "confidence_pct": 95,
+      "evidence": null
+    },
+    "fluid_accumulation": {
+      "present": true,
+      "confidence_pct": 85,
+      "evidence": "Right lung appears partially collapsed or compressed, with possible pleural effusion or consolidation (image: 000471__PMJAY_MH_S_G_R1_2026032310043558__LAB.pdf)"
+    },
+    "tumor_mass": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "infiltration": {
+      "severity": null,
+      "confidence_pct": null,
+      "evidence": "Left lung shows diffuse opacities, possibly indicating pneumonia, atelectasis, or fluid accumulation (image: 000471__PMJAY_MH_S_G_R1_2026032310043558__LAB.pdf)"
+    },
+    "image_quality": null
+  },
+  "multi_image_analysis": {
+    "entries": [
+      {
+        "modality": "Typed report",
+        "day": 1,
+        "date": "21/03/2026",
+        "finding": "N/A",
+        "confirmed": false
+      },
+      {
+        "modality": "Chest X-Ray",
+        "day": null,
+        "date": null,
+        "finding": "Chest (PA)",
+        "confirmed": true
+      }
+    ],
+    "consistency_score_pct": null
+  },
+  "report_nlp_extraction": {
+    "reported_diagnosis": null,
+    "reported_severity": null,
+    "reported_findings": [],
+    "extraction_confidence": null
+  },
+  "finding_correlation": {
+    "rows": [
+      {
+        "finding": "Hyperinflation of lungs",
+        "image_ai": true,
+        "report": true,
+        "match": true
+      },
+      {
+        "finding": "Pleural effusion or consolidation in right lung",
+        "image_ai": true,
+        "report": false,
+        "match": false
+      },
+      {
+        "finding": "Diffuse opacities in left lung",
+        "image_ai": true,
+        "report": false,
+        "match": false
+      }
+    ],
+    "consistency_score_pct": 33
+  },
+  "inconsistency_detection": {
+    "possible_exaggerations": [],
+    "underreported_findings": [],
+    "hidden_findings": []
+  },
+  "stg_alignment": {
+    "claimed_package": "MG029A",
+    "evidence_required": [],
+    "stg_compliance_score_pct": null
+  },
+  "radiology_timeline": {
+    "events": [
+      {
+        "day": 1,
+        "date": "21/03/2026",
+        "event": "Typed report"
+      }
+    ],
+    "logical": true
+  },
+  "patient": {
+    "name": null,
+    "age": null,
+    "sex": null,
+    "id_numbers": []
+  },
+  "hospital": {
+    "name": null,
+    "location": null,
+    "doctors": []
+  },
+  "encounter": {
+    "date_range": "21/03/2026 to 21/03/2026",
+    "all_dates": [
+      "21/03/2026"
+    ],
+    "primary_procedure": null,
+    "package_code": "MG029A"
+  },
+  "image_inventory": {
+    "total_images": 2,
+    "by_type": {
+      "Typed report": 1,
+      "Chest X-Ray": 1
+    },
+    "stages_present": [
+      "post-procedure"
+    ],
+    "languages_seen": [
+      "English"
+    ]
+  },
+  "clinical_narrative": "A post-procedure chest X-ray shows multiple medical devices including a central venous catheter, chest tubes, and a pacemaker/defibrillator generator. The lungs show abnormal findings including hyperinflation, possible pleural effusion, and diffuse opacities. A typed lab report from the same date lists various blood and urine parameters with no significant abnormalities noted.",
+  "completeness": {
+    "has_pre_procedure_imaging": false,
+    "has_intra_procedure_imaging": false,
+    "has_post_procedure_imaging": true,
+    "has_typed_report": true,
+    "has_handwritten_notes": false,
+    "has_signed_stamp": false,
+    "notes": "X-ray image is a photograph of a physical film with quality limitations; typed report contains lab results but no patient identifiers or signatures."
+  },
+  "concerns_or_gaps": [
+    "No patient name, age, sex, or ID numbers found.",
+    "No hospital name or location identified.",
+    "No doctor names or degrees visible.",
+    "No signed stamp or handwritten notes on any image.",
+    "No intra-procedure imaging present.",
+    "No pre-procedure imaging present."
+  ]
+}

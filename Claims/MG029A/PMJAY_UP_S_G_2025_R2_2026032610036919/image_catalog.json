@@ -1,0 +1,83 @@
+{
+  "claim_id": "PMJAY_UP_S_G_2025_R2_2026032610036919",
+  "package": "MG029A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 2,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000082__PMJAY_UP_S_G_2025_R2_2026032610036919__X_Ray_Chest_Report_0001.pdf",
+      "page": 1,
+      "pages_total": 2,
+      "image_type": "Chest X-Ray",
+      "body_region": "Chest (PA)",
+      "modality_view": "PA",
+      "stage_of_care": "n/a",
+      "stage_evidence": "No procedural devices or contrast media visible; diagnostic imaging",
+      "ocr": {
+        "language": "English",
+        "verbatim": "73V/16011M/26-Mar-2026/CHEST",
+        "english": "73V/16011M/26-Mar-2026/CHEST"
+      },
+      "summary": "A posteroanterior chest X-ray showing bilateral lung fields with diffuse opacities, particularly prominent in the lower zones, suggesting possible pulmonary consolidation or infiltrates. The cardiac silhouette is visible, and bony structures including ribs and clavicles are intact.",
+      "key_observations": [
+        "Diffuse bilateral pulmonary opacities, more pronounced in lower lung zones",
+        "Cardiac silhouette visible",
+        "Intact bony thorax (ribs, clavicles)",
+        "Image includes patient identifier and date: 26-Mar-2026"
+      ],
+      "dates_found": [
+        "26/03/2026"
+      ],
+      "image_quality": {
+        "rating": "fair",
+        "limitations": [
+          "Vertical artifacts or streaks across the image",
+          "Partial obscuration of lung fields by artifacts",
+          "Low contrast in some areas"
+        ]
+      },
+      "_usage": {
+        "prompt_tokens": 2234,
+        "completion_tokens": 301,
+        "total_duration_ms": 3709
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000082__PMJAY_UP_S_G_2025_R2_2026032610036919__X_Ray_Chest_Report_0001.pdf",
+      "page": 2,
+      "pages_total": 2,
+      "image_type": "Typed report",
+      "body_region": "Chest",
+      "modality_view": "PA",
+      "stage_of_care": "n/a",
+      "stage_evidence": "Radiology report describing findings from a chest X-ray",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Reg. No.\nPatient Name : \nPatient UHID : 177601\nAge/Sex :72Y/M\nDate :26/03/2026\nX Rav CHEST PA VIEW\nREPORT\nTrachea is central.\nCardiac size appears within normal limits.\nBilateral lung fields show patchy air-space opacities, more prominent in the lower zones, especially on the left side.\nCostophrenic angles appear clear.\nNo obvious pneumothorax seen.\nVisualized bony thorax appears intact.\nImpression: B/L Pneumonitis.\nAdvised -clinical correlation.\nRadiologist:",
+        "english": "Reg. No.\nPatient Name : \nPatient UHID : 177601\nAge/Sex :72Y/M\nDate :26/03/2026\nX Rav CHEST PA VIEW\nREPORT\nTrachea is central.\nCardiac size appears within normal limits.\nBilateral lung fields show patchy air-space opacities, more prominent in the lower zones, especially on the left side.\nCostophrenic angles appear clear.\nNo obvious pneumothorax seen.\nVisualized bony thorax appears intact.\nImpression: B/L Pneumonitis.\nAdvised -clinical correlation.\nRadiologist:"
+      },
+      "summary": "This is a typed radiology report for a chest X-ray (PA view) performed on a 72-year-old male patient on March 26, 2026. The report notes patchy air-space opacities in the bilateral lung fields, more prominent in the lower zones, especially the left side, and concludes with an impression of bilateral pneumonitis, advising clinical correlation.",
+      "key_observations": [
+        "Patient age: 72 years, male",
+        "Findings: Patchy air-space opacities in bilateral lung fields, more prominent in lower zones (especially left side)",
+        "Normal cardiac size, clear costophrenic angles, no pneumothorax, intact bony thorax",
+        "Final impression: Bilateral Pneumonitis",
+        "Advice: Clinical correlation required"
+      ],
+      "dates_found": [
+        "26/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2234,
+        "completion_tokens": 573,
+        "total_duration_ms": 4295
+      }
+    }
+  ]
+}

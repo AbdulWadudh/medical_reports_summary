@@ -1,0 +1,171 @@
+{
+  "claim_id": "PMJAY_ODISHA_G_R1_2026032210005749",
+  "package": "SG039",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 2,
+  "generated_ms": 6090,
+  "header": {
+    "claim_id": "PMJAY_ODISHA_G_R1_2026032210005749",
+    "patient_name": null,
+    "modality": "Ultrasound",
+    "body_part": "Abdomen — hepatobiliary system, kidneys, urinary bladder, uterus, ovaries",
+    "study_date": "19/03/2026",
+    "reviewer": null
+  },
+  "status": {
+    "consistency": "consistent",
+    "confidence_pct": 85,
+    "clinical_risk_score": "Low",
+    "key_findings": [
+      {
+        "finding": "Cholelithiasis",
+        "ai_detected": null,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "Bulky uterus",
+        "ai_detected": null,
+        "report_mentioned": true,
+        "note": null
+      }
+    ]
+  },
+  "scan_viewer": {
+    "primary_image_source": "000231__PMJAY_ODISHA_G_R1_2026032210005749__SASMITA_USG.pdf",
+    "detected_regions": [],
+    "ai_overlays_available": false
+  },
+  "ai_clinical_findings": {
+    "fracture": {
+      "present": false,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "fluid_accumulation": {
+      "present": false,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "tumor_mass": {
+      "present": false,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "infiltration": {
+      "severity": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "image_quality": "fair"
+  },
+  "multi_image_analysis": {
+    "entries": [
+      {
+        "modality": "Typed report",
+        "day": 1,
+        "date": "19/03/2026",
+        "finding": "Abdomen — hepatobiliary system, kidneys, urinary bladder, uterus, ovaries",
+        "confirmed": false
+      },
+      {
+        "modality": "Ultrasound",
+        "day": null,
+        "date": null,
+        "finding": "Abdomen — hepatobiliary system",
+        "confirmed": true
+      }
+    ],
+    "consistency_score_pct": null
+  },
+  "report_nlp_extraction": {
+    "reported_diagnosis": null,
+    "reported_severity": null,
+    "reported_findings": [],
+    "extraction_confidence": null
+  },
+  "finding_correlation": {
+    "rows": [
+      {
+        "finding": "Cholelithiasis",
+        "image_ai": null,
+        "report": true,
+        "match": null
+      },
+      {
+        "finding": "Bulky uterus",
+        "image_ai": null,
+        "report": true,
+        "match": null
+      }
+    ],
+    "consistency_score_pct": null
+  },
+  "inconsistency_detection": {
+    "possible_exaggerations": [],
+    "underreported_findings": [],
+    "hidden_findings": []
+  },
+  "stg_alignment": {
+    "claimed_package": "SG039",
+    "evidence_required": [],
+    "stg_compliance_score_pct": null
+  },
+  "radiology_timeline": {
+    "events": [
+      {
+        "day": 1,
+        "date": "19/03/2026",
+        "event": "Typed report"
+      }
+    ],
+    "logical": true
+  },
+  "patient": {
+    "name": null,
+    "age": "28 Years",
+    "sex": "Female",
+    "id_numbers": []
+  },
+  "hospital": {
+    "name": null,
+    "location": null,
+    "doctors": [
+      "MD (Radiodiagnosis) registration number 16216(OCM)"
+    ]
+  },
+  "encounter": {
+    "date_range": "19/03/2026 to 19/03/2026",
+    "all_dates": [
+      "19/03/2026"
+    ],
+    "primary_procedure": "Ultrasound of Whole Abdomen",
+    "package_code": "SG039"
+  },
+  "image_inventory": {
+    "total_images": 2,
+    "by_type": {
+      "Typed report": 1,
+      "Ultrasound": 1
+    },
+    "stages_present": [
+      "pre-procedure"
+    ],
+    "languages_seen": [
+      "English"
+    ]
+  },
+  "clinical_narrative": "A 28-year-old female underwent a pre-procedure ultrasound of the whole abdomen, revealing multiple mobile gallbladder calculi (largest 9 mm) and an enlarged uterus (10.3 x 5.1 x 4.7 cm) with 8.4 mm endometrial thickness. Other abdominal organs including liver, spleen, kidneys, and urinary bladder appear normal. The report is signed by a radiologist with registration number 16216(OCM).",
+  "completeness": {
+    "has_pre_procedure_imaging": true,
+    "has_intra_procedure_imaging": false,
+    "has_post_procedure_imaging": false,
+    "has_typed_report": true,
+    "has_handwritten_notes": false,
+    "has_signed_stamp": true,
+    "notes": null
+  },
+  "concerns_or_gaps": [
+    "The ultrasound images are of fair quality with low contrast and graininess; they appear to be photographs of printed images rather than original digital scans."
+  ]
+}

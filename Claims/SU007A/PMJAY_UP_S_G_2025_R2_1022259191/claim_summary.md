@@ -2,52 +2,98 @@
 
 **Package:** SU007A  ·  **Model:** accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd  ·  **Images:** 3
 
-## Patient
-- **Name:** MR. 46 YRS/M
-- **Age:** 46 years
-- **Sex:** Male
+| Claim ID | Patient | Modality | Body Part | Study Date | Reviewer |
+|---|---|---|---|---|---|
+| PMJAY_UP_S_G_2025_R2_1022259191 | MR. 46 YRS/M | X-Ray | Abdomen — pelvicalyceal system | 06/04/2026 | — |
 
-## Hospital
-- **Name:** unknown
-- **Location:** unknown
-- **Doctors:** MD, DNB, MNAMS (RADIO DIAGNOSIS); Ex-24 Consultant Radiologist
+> 🟢 **IMAGE & REPORT CONSISTENT**  ·  Confidence: 90%  ·  Clinical Risk Score: Medium
 
-## Encounter
-- **Date range:** 23/02/2026 - 06/04/2026
-- **Primary procedure:** Intravenous Pyelogram (IVP) with KUB and sequential imaging
-- **Package code:** SU007A
-- **All dates seen:** 23/02/2026, 06/04/2026
+**Key findings:**
+- Left proximal ureteric calculus suspected _(AI ✖ · Report ✔)_
+- Contrast uptake absent in left kidney _(AI ✖ · Report ✔)_
+- Large radio-opacity in left paraspinal region at L3/L4 _(AI ✖ · Report ✔)_
 
-## Clinical narrative
+## Interactive Scan Viewer
+- **Primary image:** 000198__PMJAY_UP_S_G_2025_R2_1022259191__POSTKUB.jpeg
+- **AI overlays available:** no
 
-A 46-year-old male underwent an Intravenous Pyelogram (IVP) on February 23, 2026, followed by a post-procedure KUB X-ray on April 6, 2026. The IVP report and sequential films indicate a large radio-opacity in the left paraspinal region at L3/L4 and lack of contrast uptake in the left kidney, suggesting a possible left proximal ureteric calculus. The patient had a urinary catheter in place at the time of the post-procedure imaging.
+## AI Clinical Findings
+- **Fracture:** ✖
+- **Fluid accumulation:** ✖
+- **Tumor / mass:** —
+- **Infiltration:** —
+- **Image quality:** good
 
-## Key findings
-- A large radio-opacity (30 x 17.5 mm) noted in the left paraspinal region at L3/L4.
-- No contrast uptake or excretion from the left kidney on delayed IVP views.
-- Suggestive of left proximal ureteric calculus.
-- Catheter visible in bladder on post-procedure KUB.
-- Intra-procedure IVP films show progression of contrast through urinary tract over time.
+## Multi-image Analysis
+| Modality | Day | Date | Finding | Confirmed |
+|---|---|---|---|---|
+| Abdominal X-Ray (KUB) | 43 | 06/04/2026 | Abdomen — pelvicalyceal system | ✔ |
+| Typed report | 1 | 23/02/2026 | Abdomen — pelvicalyceal system | ✖ |
+| IVP | 1 | 23/02/2026 | Abdomen — pelvicalyceal system | ✔ |
 
-## Image inventory
-- **Total images:** 3
-- **By type:**
-  - Abdominal X-Ray (KUB): 1
-  - Intra-procedure imaging (IVP): 1
-  - TYPED REPORT: 1
-- **Stages present:** intra-procedure, post-procedure, n/a
-- **Languages:** English, Hindi
+**Consistency Score:** —%
 
-## Completeness
-- Pre-procedure imaging: false
-- Intra-procedure imaging: true
-- Post-procedure imaging: true
-- Typed report: true
-- Handwritten notes: false
-- Signed stamp: false
+## Report NLP Extraction
+- **Reported diagnosis:** —
+- **Reported severity:** —
+- **Reported findings:** —
+- **Extraction confidence:** —
 
-## Concerns / gaps
-- No pre-procedure imaging present.
-- No indication of hospital name or location.
-- No physician signature or stamp visible on typed report.
-- No evidence of clinical correlation or follow-up plan beyond recommendation for NCCT/USG.
+## Finding Correlation
+| Finding | Image AI | Report | Match |
+|---|---|---|---|
+| Left proximal ureteric calculus suspected | ✖ | ✔ | ✖ |
+| Contrast uptake absent in left kidney | ✖ | ✔ | ✖ |
+| Large radio-opacity in left paraspinal region at L3/L4 | ✖ | ✔ | ✖ |
+
+**Consistency Score:** 0%
+
+## Inconsistency Detection
+- **Possible exaggerations:** ✔ none detected
+- **Underreported findings:** ✔ none detected
+- **Hidden findings:** ✔ none detected
+
+## STG Alignment
+- **Claimed package:** SU007A
+- **STG compliance score:** —%
+
+## Radiology Timeline
+- Day 1 – Typed report _(23/02/2026)_
+- Day 1 – IVP _(23/02/2026)_
+- Day 43 – Abdominal X-Ray (KUB) _(06/04/2026)_
+
+**Timeline logical:** ✔
+
+---
+
+## Reference detail
+
+**Patient**
+- Name: MR. 46 YRS/M · Age: 46 years · Sex: Male
+
+**Hospital**
+- Name: — · Location: —
+- Doctors: MD, DNB, MNAMS (RADIO DIAGNOSIS); Ex-24 Consultant Radiologist
+
+**Encounter**
+- Date range: 23/02/2026 to 06/04/2026 · Procedure: Intravenous Pyelogram (IVP) · Package code: SU007A
+- All dates seen: 23/02/2026, 06/04/2026
+
+**Image inventory**
+- Total: 3
+- By type: Abdominal X-Ray (KUB): 1, Intra-procedure imaging (IVP): 1, Typed report: 1
+- Stages: intra-procedure, post-procedure
+- Languages: English
+
+**Clinical narrative**
+
+A 46-year-old male underwent an IVP procedure on February 23, 2026, followed by a post-procedure KUB X-ray on April 6, 2026. Imaging revealed a large radio-opacity in the left paraspinal region and absence of contrast uptake in the left kidney, suggesting a possible left proximal ureteric calculus. The IVP series included sequential views from pre-contrast to delayed imaging.
+
+**Completeness**
+- Pre: ✖ · Intra: ✔ · Post: ✔
+- Typed report: ✔ · Handwritten: ✖ · Signed stamp: ✖
+
+**Concerns / gaps**
+- No pre-procedure imaging found.
+- No signed stamp or doctor's signature visible on typed report.
+- No hospital name or location identified.

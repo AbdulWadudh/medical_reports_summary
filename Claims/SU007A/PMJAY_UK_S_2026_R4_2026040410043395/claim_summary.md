@@ -2,50 +2,101 @@
 
 **Package:** SU007A  ·  **Model:** accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd  ·  **Images:** 4
 
-## Patient
-- **Name:** unknown
-- **Age:** 36 years
-- **Sex:** Male
-- **IDs:** 250294, 8, 9301
+| Claim ID | Patient | Modality | Body Part | Study Date | Reviewer |
+|---|---|---|---|---|---|
+| PMJAY_UK_S_2026_R4_2026040410043395 | — | X-Ray | Abdomen — pelvicalyceal system | 02/04/2026 | — |
 
-## Hospital
-- **Name:** unknown
-- **Location:** unknown
-- **Doctors:** MBBS, MD Radiology; Consultant Radiologist
+> 🟡 **PARTIAL MATCH**  ·  Confidence: 75%  ·  Clinical Risk Score: Low
 
-## Encounter
-- **Date range:** 30/03/2026 to 06/04/2026
-- **Primary procedure:** Removal of calculus from right upper ureter with DJ stent placement
-- **Package code:** SU007A
-- **All dates seen:** 30/03/2026, 02/04/2026, 06/04/2026
+**Key findings:**
+- DJ stent in situ _(AI — · Report ✔)_
+- Previous calculus resolved _(AI — · Report ✔)_
+- Increased bowel gas shadows _(AI — · Report ✔)_
+- No radio-opacity in left renal region _(AI — · Report ✔)_
 
-## Clinical narrative
+## Interactive Scan Viewer
+- **Primary image:** 000180__PMJAY_UK_S_2026_R4_2026040410043395__XRAY_CT_REPORT.pdf
+- **AI overlays available:** no
 
-A 36-year-old male underwent imaging for renal calculi. A CT KUB on April 2, 2026, revealed a 4mm calculus in the right kidney and an 8mm calculus in the right upper ureter causing mild hydronephrosis. A subsequent KUB X-ray on April 6, 2026, showed resolution of the calculus and presence of a DJ stent. A separate KUB image dated March 30, 2026, was for a different patient (37Y.F) and is not relevant to this claim.
+## AI Clinical Findings
+- **Fracture:** —
+- **Fluid accumulation:** —
+- **Tumor / mass:** —
+- **Infiltration:** —
+- **Image quality:** —
 
-## Key findings
-- A CT scan on April 2, 2026, identified a right upper ureteric calculus (8mm) and a non-obstructing renal calculus (4mm).
-- A post-procedure X-ray on April 6, 2026, confirmed clearance of the calculus and presence of a DJ stent.
-- A pre-procedure X-ray on March 30, 2026, was for a different patient (female) and is not part of this claim's narrative.
-- Bowel gas shadows are increased in multiple images; spine and pelvic bones appear normal.
+## Multi-image Analysis
+| Modality | Day | Date | Finding | Confirmed |
+|---|---|---|---|---|
+| Typed report | 4 | 02/04/2026 | Abdomen — pelvicalyceal system | ✔ |
+| Abdominal X-Ray (KUB) | 1 | 30/03/2026 | Abdomen — pelvicalyceal system | ✔ |
 
-## Image inventory
-- **Total images:** 4
-- **By type:**
-  - Typed report: 2
-  - Abdominal X-Ray (KUB): 2
-- **Stages present:** pre-procedure, post-procedure, n/a
-- **Languages:** English
+**Consistency Score:** —%
 
-## Completeness
-- Pre-procedure imaging: true
-- Intra-procedure imaging: false
-- Post-procedure imaging: true
-- Typed report: true
-- Handwritten notes: false
-- Signed stamp: true
+## Report NLP Extraction
+- **Reported diagnosis:** —
+- **Reported severity:** —
+- **Reported findings:** —
+- **Extraction confidence:** —
 
-## Concerns / gaps
-- A separate KUB image dated March 30, 2026, is for a different patient (female) and appears unrelated to this claim.
-- No intra-procedure imaging is present.
-- The patient’s name is missing from the typed report.
+## Finding Correlation
+| Finding | Image AI | Report | Match |
+|---|---|---|---|
+| DJ stent in situ | — | ✔ | — |
+| Previous calculus resolved | — | ✔ | — |
+| Increased bowel gas shadows | — | ✔ | — |
+| No radio-opacity in left renal region | — | ✔ | — |
+
+**Consistency Score:** —%
+
+## Inconsistency Detection
+- **Possible exaggerations:** ✔ none detected
+- **Underreported findings:** ✔ none detected
+- **Hidden findings:** ✔ none detected
+
+## STG Alignment
+- **Claimed package:** SU007A
+- **STG compliance score:** —%
+
+## Radiology Timeline
+- Day 1 – Abdominal X-Ray (KUB) _(30/03/2026)_
+- Day 4 – Typed report _(02/04/2026)_
+- Day 8 – Typed report _(06/04/2026)_
+- Day 8 – Abdominal X-Ray (KUB) _(06/04/2026)_
+
+**Timeline logical:** ✔
+
+---
+
+## Reference detail
+
+**Patient**
+- Name: — · Age: 36 years · Sex: Male
+- IDs: 250294
+
+**Hospital**
+- Name: — · Location: —
+- Doctors: MBBS, MD Radiology
+
+**Encounter**
+- Date range: 02/04/2026 to 06/04/2026 · Procedure: Ureteric calculus removal with DJ stent placement · Package code: SU007A
+- All dates seen: 02/04/2026, 06/04/2026, 30/03/2026
+
+**Image inventory**
+- Total: 4
+- By type: Typed report: 2, Abdominal X-Ray (KUB): 2
+- Stages: pre-procedure, intra-procedure, post-procedure
+- Languages: English
+
+**Clinical narrative**
+
+A 36-year-old male underwent imaging for renal and ureteric calculi. Pre-procedure CT scan (April 2, 2026) revealed a 4mm calculus in the right kidney and an 8mm calculus in the right upper ureter causing mild hydronephrosis. Post-procedure X-ray (April 6, 2026) confirmed clearance of the calculus and presence of a DJ stent. A separate pre-procedure X-ray (March 30, 2026) was taken on a different patient (37Y.F).
+
+**Completeness**
+- Pre: ✔ · Intra: ✖ · Post: ✔
+- Typed report: ✔ · Handwritten: ✖ · Signed stamp: ✔
+
+**Concerns / gaps**
+- A pre-procedure image dated March 30, 2026, appears to be for a different patient (37Y.F).
+- No intra-procedure imaging available.
+- Inconsistent patient age/gender across images: one image shows '37Y.M F' which is contradictory.

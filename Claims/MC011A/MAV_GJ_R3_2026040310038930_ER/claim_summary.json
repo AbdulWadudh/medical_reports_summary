@@ -1,0 +1,215 @@
+{
+  "claim_id": "MAV_GJ_R3_2026040310038930_ER",
+  "package": "MC011A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 7,
+  "generated_ms": 7392,
+  "header": {
+    "claim_id": "MAV_GJ_R3_2026040310038930_ER",
+    "patient_name": "TPA",
+    "modality": "Coronary Angiogram",
+    "body_part": "Coronary tree — left system",
+    "study_date": "03/04/2026",
+    "reviewer": null
+  },
+  "status": {
+    "consistency": "consistent",
+    "confidence_pct": 95,
+    "clinical_risk_score": "High",
+    "key_findings": [
+      {
+        "finding": "ACS-AWSTEMI with cardiogenic shock",
+        "ai_detected": true,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "Severe LV dysfunction",
+        "ai_detected": true,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "100% occlusion of LAD",
+        "ai_detected": true,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "PAMI to LAD with 2 stents deployed",
+        "ai_detected": true,
+        "report_mentioned": true,
+        "note": null
+      }
+    ]
+  },
+  "scan_viewer": {
+    "primary_image_source": "000035__MAV_GJ_R3_2026040310038930__POST_CAG_DAIGARM.jpg",
+    "detected_regions": [],
+    "ai_overlays_available": false
+  },
+  "ai_clinical_findings": {
+    "fracture": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "fluid_accumulation": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "tumor_mass": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "infiltration": {
+      "severity": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "image_quality": null
+  },
+  "multi_image_analysis": {
+    "entries": [
+      {
+        "modality": "Coronary Angiogram",
+        "day": 1,
+        "date": "04/03/2026",
+        "finding": "Coronary tree — left system",
+        "confirmed": true
+      },
+      {
+        "modality": "Typed report",
+        "day": 31,
+        "date": "03/04/2026",
+        "finding": "Coronary tree — left system",
+        "confirmed": true
+      }
+    ],
+    "consistency_score_pct": null
+  },
+  "report_nlp_extraction": {
+    "reported_diagnosis": null,
+    "reported_severity": null,
+    "reported_findings": [],
+    "extraction_confidence": null
+  },
+  "finding_correlation": {
+    "rows": [
+      {
+        "finding": "ACS-AWSTEMI with cardiogenic shock",
+        "image_ai": true,
+        "report": true,
+        "match": true
+      },
+      {
+        "finding": "Severe LV dysfunction",
+        "image_ai": true,
+        "report": true,
+        "match": true
+      },
+      {
+        "finding": "100% occlusion of LAD",
+        "image_ai": true,
+        "report": true,
+        "match": true
+      },
+      {
+        "finding": "PAMI to LAD with 2 stents deployed",
+        "image_ai": true,
+        "report": true,
+        "match": true
+      }
+    ],
+    "consistency_score_pct": 100
+  },
+  "inconsistency_detection": {
+    "possible_exaggerations": [],
+    "underreported_findings": [],
+    "hidden_findings": []
+  },
+  "stg_alignment": {
+    "claimed_package": "MC011A",
+    "evidence_required": [],
+    "stg_compliance_score_pct": null
+  },
+  "radiology_timeline": {
+    "events": [
+      {
+        "day": 1,
+        "date": "04/03/2026",
+        "event": "Coronary Angiogram"
+      },
+      {
+        "day": 31,
+        "date": "03/04/2026",
+        "event": "Coronary Angiogram"
+      },
+      {
+        "day": 31,
+        "date": "03/04/2026",
+        "event": "Typed report"
+      }
+    ],
+    "logical": true
+  },
+  "patient": {
+    "name": "TPA",
+    "age": "65 years",
+    "sex": "Female",
+    "id_numbers": [
+      "TPA",
+      "20168",
+      "2026040006"
+    ]
+  },
+  "hospital": {
+    "name": null,
+    "location": null,
+    "doctors": [
+      "MD (Medicine) Dr NB (Cardiology)",
+      "interventional cardiologist"
+    ]
+  },
+  "encounter": {
+    "date_range": "03/04/2026 to 04/03/2026",
+    "all_dates": [
+      "03/04/2026",
+      "04/03/2026"
+    ],
+    "primary_procedure": "PAMI to LAD",
+    "package_code": "MC011A"
+  },
+  "image_inventory": {
+    "total_images": 7,
+    "by_type": {
+      "Coronary Angiogram": 5,
+      "Typed report": 2
+    },
+    "stages_present": [
+      "pre-procedure",
+      "intra-procedure",
+      "post-procedure"
+    ],
+    "languages_seen": [
+      "English"
+    ]
+  },
+  "clinical_narrative": "A 65-year-old female underwent emergency coronary angiography for ACS-AWSTEMI with severe LV dysfunction and cardiogenic shock. The procedure involved PAMI to the left anterior descending artery (LAD) using two stents. Intra-procedure images show catheter and guidewire placement, while post-procedure images confirm successful stent deployment. A typed report and hand-drawn diagrams document the findings and recommendations.",
+  "completeness": {
+    "has_pre_procedure_imaging": false,
+    "has_intra_procedure_imaging": true,
+    "has_post_procedure_imaging": true,
+    "has_typed_report": true,
+    "has_handwritten_notes": true,
+    "has_signed_stamp": false,
+    "notes": null
+  },
+  "concerns_or_gaps": [
+    "Intra-procedure images are screen captures with UI overlays, reducing diagnostic clarity.",
+    "No pre-procedure imaging available.",
+    "No hospital name or location explicitly identified in documents."
+  ]
+}

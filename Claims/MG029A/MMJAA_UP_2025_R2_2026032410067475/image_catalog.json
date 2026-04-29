@@ -1,0 +1,82 @@
+{
+  "claim_id": "MMJAA_UP_2025_R2_2026032410067475",
+  "package": "MG029A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 2,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000667__MMJAA_UP_2025_R2_2026032410067475__XRAY_AND_REPORT.pdf",
+      "page": 1,
+      "pages_total": 2,
+      "image_type": "Chest X-Ray",
+      "body_region": "Chest (PA)",
+      "modality_view": "PA",
+      "stage_of_care": "pre-procedure",
+      "stage_evidence": "No devices or contrast media visible; diagnostic imaging for evaluation",
+      "ocr": {
+        "language": "English",
+        "verbatim": "PT NAME - AGE/SEX - 58Y/F CHEST PA DATE - 24/03/2026",
+        "english": "PT NAME - AGE/SEX - 58Y/F CHEST PA DATE - 24/03/2026"
+      },
+      "summary": "A posteroanterior (PA) chest X-ray of a 58-year-old female, dated March 24, 2026. The image shows the bony thorax, lung fields, heart, and diaphragm. The right lung appears more radiolucent than the left. The heart silhouette is visible in the mediastinum.",
+      "key_observations": [
+        "PA chest X-ray view",
+        "Patient age 58, female",
+        "Date of imaging: 24/03/2026",
+        "Right lung appears more radiolucent than left",
+        "Heart silhouette visible",
+        "Diaphragm and bony thorax structures visible"
+      ],
+      "dates_found": [
+        "24/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2225,
+        "completion_tokens": 318,
+        "total_duration_ms": 3631
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000667__MMJAA_UP_2025_R2_2026032410067475__XRAY_AND_REPORT.pdf",
+      "page": 2,
+      "pages_total": 2,
+      "image_type": "Typed report",
+      "body_region": "Chest",
+      "modality_view": "PA",
+      "stage_of_care": "n/a",
+      "stage_evidence": "This is a radiology report, not a procedural image.",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Patient Name: \nAge / Sex: 58Y/F\nReferring Physician:\nStudy Date: 24/03/2026\nDIGITAL RADIOGRAPH CHEST PA VIEW\nReport:\nBilateral hila are prominent -likely nodal/vascular.\nProminent of broncho-vascular marking and hila-bronchitis.\nBoth domes of diaphragm and CP angles are normal.\nNo evidence of mediastinal shift is seen.\nCardiac size is normal.\nBony cage appear normal.\nsoft tissue appear normal.\nAd-clinical correlation further evaluation.\nM.D. Radiodiagnosis\nReg. No.- 39917\nThe science of radiology is based upon interpretation of shadows of normal and abnormal tissue. This is neither complete nor accurate; hence, findings should always be interpreted in to the light of clinico-pathological correlation. This is a professional opinion, not a diagnosis. Not meant for medico legal purposes.",
+        "english": "Patient Name: \nAge / Sex: 58Y/F\nReferring Physician:\nStudy Date: 24/03/2026\nDIGITAL RADIOGRAPH CHEST PA VIEW\nReport:\nBilateral hila are prominent -likely nodal/vascular.\nProminent of broncho-vascular marking and hila-bronchitis.\nBoth domes of diaphragm and CP angles are normal.\nNo evidence of mediastinal shift is seen.\nCardiac size is normal.\nBony cage appear normal.\nsoft tissue appear normal.\nAd-clinical correlation further evaluation.\nM.D. Radiodiagnosis\nReg. No.- 39917\nThe science of radiology is based upon interpretation of shadows of normal and abnormal tissue. This is neither complete nor accurate; hence, findings should always be interpreted in to the light of clinico-pathological correlation. This is a professional opinion, not a diagnosis. Not meant for medico legal purposes."
+      },
+      "summary": "This is a typed radiology report for a digital chest X-ray (PA view) performed on a 58-year-old female on March 24, 2026. The report notes prominent hila, broncho-vascular markings, and normal cardiac and bony cage appearance, with a recommendation for clinical correlation.",
+      "key_observations": [
+        "Patient is 58-year-old female.",
+        "Study date is 24/03/2026.",
+        "Findings include prominent bilateral hila, broncho-vascular markings, and hila-bronchitis.",
+        "Cardiac size, bony cage, and soft tissues are normal.",
+        "Report recommends further evaluation with clinical correlation.",
+        "Report includes a disclaimer that findings are a professional opinion, not a diagnosis, and not meant for medico-legal purposes."
+      ],
+      "dates_found": [
+        "24/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2225,
+        "completion_tokens": 705,
+        "total_duration_ms": 5180
+      }
+    }
+  ]
+}

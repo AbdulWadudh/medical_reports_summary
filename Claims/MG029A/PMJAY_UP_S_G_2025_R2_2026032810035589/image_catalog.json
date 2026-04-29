@@ -1,0 +1,83 @@
+{
+  "claim_id": "PMJAY_UP_S_G_2025_R2_2026032810035589",
+  "package": "MG029A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 2,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000040__PMJAY_UP_S_G_2025_R2_2026032810035589__X_ray_Chest.jpg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Chest X-Ray",
+      "body_region": "Chest (PA)",
+      "modality_view": "PA",
+      "stage_of_care": "pre-procedure",
+      "stage_evidence": "No devices or contrast media visible; diagnostic view",
+      "ocr": {
+        "language": "English",
+        "verbatim": "66Y F MED 401 F CHEST,FRN P->A 29-Mar-26 11:19 AM",
+        "english": "66Y F MED 401 F CHEST,FRN P->A 29-Mar-26 11:19 AM"
+      },
+      "summary": "A posteroanterior chest X-ray of a 66-year-old female showing the thoracic cage, lungs, heart, and diaphragm. The image is marked with patient identifier and acquisition details.",
+      "key_observations": [
+        "PA view of chest with clear visualization of bony thorax and lung fields",
+        "Marked 'R' on right shoulder indicating patient orientation",
+        "Patient identifier: 66Y F MED 401",
+        "Acquisition date: 29-Mar-26 (normalized to 29/03/2026)",
+        "Time of acquisition: 11:19 AM",
+        "Cardiac silhouette appears enlarged"
+      ],
+      "dates_found": [
+        "29/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2382,
+        "completion_tokens": 322,
+        "total_duration_ms": 4087
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000449__PMJAY_UP_S_G_2025_R2_2026032810035589__Report.jpg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Typed report",
+      "body_region": "Chest",
+      "modality_view": "PA",
+      "stage_of_care": "n/a",
+      "stage_evidence": "This is a radiology report, not an image of the procedure.",
+      "ocr": {
+        "language": "English",
+        "verbatim": "PATIENT'S NAME:-\nREFERRED BY  : DR.\nDATE- 29.03.2026\nAGE/SEX - 66Y/F\n\nDIGITAL X-RAY CHEST PA VIEW\n\n• B/L emphysematous changes.\n• CP angle are not clear.\n• Visualized bone are normal.\n• Cardio Thoracic ratio is normal .\n• Trachea is normal in position.\n\nADVICE :- HRCT CHEST , 2D ECHO\nPlease correlate clinically.\n\nMBBS,DNB,DMRD\n(RADIODIAGNOSIS)\nReg No -",
+        "english": "PATIENT'S NAME:-\nREFERRED BY  : DR.\nDATE- 29.03.2026\nAGE/SEX - 66Y/F\n\nDIGITAL X-RAY CHEST PA VIEW\n\n• B/L emphysematous changes.\n• CP angle are not clear.\n• Visualized bone are normal.\n• Cardio Thoracic ratio is normal .\n• Trachea is normal in position.\n\nADVICE :- HRCT CHEST , 2D ECHO\nPlease correlate clinically.\n\nMBBS,DNB,DMRD\n(RADIODIAGNOSIS)\nReg No -"
+      },
+      "summary": "This is a typed radiology report for a digital chest X-ray in PA view. It notes bilateral emphysematous changes and advises further imaging with HRCT chest and 2D echo.",
+      "key_observations": [
+        "Report is for a digital chest X-ray in PA view.",
+        "Patient is 66-year-old female.",
+        "Findings include bilateral emphysematous changes.",
+        "CP angle is not clear.",
+        "Visualized bones, cardiothoracic ratio, and trachea are normal.",
+        "Advice includes HRCT chest and 2D echo.",
+        "Report is signed by a radiologist (MBBS, DNB, DMRD)."
+      ],
+      "dates_found": [
+        "29/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2259,
+        "completion_tokens": 533,
+        "total_duration_ms": 4249
+      }
+    }
+  ]
+}

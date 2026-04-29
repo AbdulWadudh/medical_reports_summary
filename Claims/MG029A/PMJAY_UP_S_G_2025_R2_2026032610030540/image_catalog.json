@@ -1,0 +1,78 @@
+{
+  "claim_id": "PMJAY_UP_S_G_2025_R2_2026032610030540",
+  "package": "MG029A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 2,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000126__PMJAY_UP_S_G_2025_R2_2026032610030540__RAMBHEJ_XRAY_FILM.pdf",
+      "page": 1,
+      "pages_total": 2,
+      "image_type": "Chest X-Ray",
+      "body_region": "Chest (PA)",
+      "modality_view": "PA",
+      "stage_of_care": "pre-procedure",
+      "stage_evidence": "No catheter, stent, or other interventional device visible",
+      "ocr": {
+        "language": "English",
+        "verbatim": "79YM,\nSEX:\nDOB:\nID: PAT000434\nCHEST",
+        "english": "79YM,\nSEX:\nDOB:\nID: PAT000434\nCHEST"
+      },
+      "summary": "A frontal chest X-ray of a 79-year-old male patient, showing the bony thorax, lung fields, and mediastinum. The image includes patient identification data on the left side.",
+      "key_observations": [
+        "Patient is 79 years old (79YM) and male (SEX: M)",
+        "Patient ID: PAT000434",
+        "Image is labeled 'CHEST' at the bottom left",
+        "Standard PA view of chest with visible ribs, clavicles, and lung fields",
+        "Image appears to be a digital radiograph displayed on a monitor"
+      ],
+      "dates_found": [],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2232,
+        "completion_tokens": 280,
+        "total_duration_ms": 2492
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000126__PMJAY_UP_S_G_2025_R2_2026032610030540__RAMBHEJ_XRAY_FILM.pdf",
+      "page": 2,
+      "pages_total": 2,
+      "image_type": "Typed report",
+      "body_region": "Chest",
+      "modality_view": "PA",
+      "stage_of_care": "n/a",
+      "stage_evidence": "Radiology report with findings and impression",
+      "ocr": {
+        "language": "English",
+        "verbatim": "X-RAY CHEST (PA VIEW)\nPatient name:-\nAge:- 79y\nDate:- 27/03/2026\nSex:- male\nFindings:-\n• Bilateral lung fields shows increase in vascular markings with patchy opacities seen in right upper lobe.\n• Bilateral lung appear hyperinflated.\n• Trachea slightly shifted towards left\n• Cardiac size are within normal limits.\n• Mediastinum contours appears maintained and right side diaphragm appears slightly elevated .\nImpression:-\n• Above features suggestive of bronchitis likely allergic/infective ?copd\nClinical correlation suggested\nSignature\nTIMING: 8.00 AM TO 8.00 PM FOR HOME COLLECTION-DIAL Mob. : 9795819823, 8604505116\n24 घण्टे अल्ट्रासाउण्ड सुविधा उपलब्ध\nसुविधाएँ: सारी प्रकार के पेशीलॉजिकल जांचे • हॉर्मोन्स • ग्लूकोसाइलेटेड हीमोग्लोबिन (Hb 1c) • ट्यूबल टेस्ट\nClinical correlation is essential for final diagnosis, in case of disparity test must be repeated. this report is not valid for medicolegal purpose.",
+        "english": "X-RAY CHEST (PA VIEW)\nPatient name:-\nAge:- 79y\nDate:- 27/03/2026\nSex:- male\nFindings:-\n• Bilateral lung fields shows increase in vascular markings with patchy opacities seen in right upper lobe.\n• Bilateral lung appear hyperinflated.\n• Trachea slightly shifted towards left\n• Cardiac size are within normal limits.\n• Mediastinum contours appears maintained and right side diaphragm appears slightly elevated .\nImpression:-\n• Above features suggestive of bronchitis likely allergic/infective ?copd\nClinical correlation suggested\nSignature\nTIMING: 8.00 AM TO 8.00 PM FOR HOME COLLECTION-DIAL Mob. : 9795819823, 8604505116\n24 hours ultrasound facility available\nFacilities: All types of physiological tests • Hormones • Glycosylated Hemoglobin (Hb 1c) • Tubal test\nClinical correlation is essential for final diagnosis, in case of disparity test must be repeated. this report is not valid for medicolegal purpose."
+      },
+      "summary": "This is a typed radiology report for a PA chest X-ray performed on a 79-year-old male patient on March 27, 2026. The findings include increased vascular markings, patchy opacities in the right upper lobe, hyperinflated lungs, leftward tracheal shift, normal cardiac size, and a slightly elevated right diaphragm. The impression suggests bronchitis, possibly allergic or infective, with a question of COPD. The report advises clinical correlation and notes it is not valid for medicolegal purposes.",
+      "key_observations": [
+        "Patient age: 79 years, male",
+        "Date of X-ray: 27/03/2026",
+        "Findings: Hyperinflated lungs, patchy opacities in right upper lobe, leftward tracheal shift, normal cardiac size, elevated right diaphragm",
+        "Impression: Suggestive of bronchitis (allergic/infective) or COPD",
+        "Report advises clinical correlation and is not valid for medicolegal use"
+      ],
+      "dates_found": [
+        "27/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2232,
+        "completion_tokens": 954,
+        "total_duration_ms": 10541
+      }
+    }
+  ]
+}

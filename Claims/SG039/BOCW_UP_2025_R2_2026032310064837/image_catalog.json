@@ -1,0 +1,82 @@
+{
+  "claim_id": "BOCW_UP_2025_R2_2026032310064837",
+  "package": "SG039",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 2,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000146__BOCW_UP_2025_R2_2026032310064837__usgfilm.jpg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Ultrasound",
+      "body_region": "Abdomen — hepatobiliary system, spleen, urinary bladder",
+      "modality_view": "N/A",
+      "stage_of_care": "pre-procedure",
+      "stage_evidence": "Diagnostic ultrasound images without contrast or intervention",
+      "ocr": {
+        "language": "English",
+        "verbatim": "SIEMENS\nF 28.03.2020 14.54.19\nCH6-2\nAbdomen\n3.6 MHz\nDR 66 dB\nEdge 1\nPersist 3\nRIS 3\nMap D\nTint 6\n10 fps\nURINARY BLADDER\nD1 = 92.5mm\nD2 = 57.6mm\nD3 = 25.5mm\nP 100% MI 0.7\nSIEMENS\nF 28.03.2020 14.54.19\nCH6-2\nAbdomen\n3.6 MHz\nDR 66 dB\nEdge 1\nPersist 3\nRIS 3\nMap D\nTint 6\n10 fps\nSPLIEN\nSIEMENS\nF 28.03.2020 14.54.19\nCH6-2\nAbdomen\n3.6 MHz\nDR 66 dB\nEdge 1\nPersist 3\nRIS 3\nMap D\nTint 6\n10 fps\nLEFT KIDNEY\nSIEMENS\nF 28.03.2020 14.54.19\nCH6-2\nAbdomen\n3.6 MHz\nDR 66 dB\nEdge 1\nPersist 3\nRIS 3\nMap D\nTint 6\n10 fps\nLIVER\nD1 = 128.2mm\nD2 = 2.5mm\nD3 = 3.1mm\nP 100% MI 0.7\nSIEMENS\nF 28.03.2020 14.54.19\nCH6-2\nAbdomen\n3.6 MHz\nDR 66 dB\nEdge 1\nPersist 3\nRIS 3\nMap D\nTint 6\n10 fps\nRIGHT LIVER\nSIEMENS\nF 28.03.2020 14.54.19\nCH6-2\nAbdomen\n3.6 MHz\nDR 66 dB\nEdge 1\nPersist 3\nRIS 3\nMap D\nTint 6\n10 fps\nPANCREAS\nMULTIPLE ECHODENSE",
+        "english": "SIEMENS\nF 28.03.2020 14.54.19\nCH6-2\nAbdomen\n3.6 MHz\nDR 66 dB\nEdge 1\nPersist 3\nRIS 3\nMap D\nTint 6\n10 fps\nURINARY BLADDER\nD1 = 92.5mm\nD2 = 57.6mm\nD3 = 25.5mm\nP 100% MI 0.7\nSIEMENS\nF 28.03.2020 14.54.19\nCH6-2\nAbdomen\n3.6 MHz\nDR 66 dB\nEdge 1\nPersist 3\nRIS 3\nMap D\nTint 6\n10 fps\nSPLIEN\nSIEMENS\nF 28.03.2020 14.54.19\nCH6-2\nAbdomen\n3.6 MHz\nDR 66 dB\nEdge 1\nPersist 3\nRIS 3\nMap D\nTint 6\n10 fps\nLEFT KIDNEY\nSIEMENS\nF 28.03.2020 14.54.19\nCH6-2\nAbdomen\n3.6 MHz\nDR 66 dB\nEdge 1\nPersist 3\nRIS 3\nMap D\nTint 6\n10 fps\nLIVER\nD1 = 128.2mm\nD2 = 2.5mm\nD3 = 3.1mm\nP 100% MI 0.7\nSIEMENS\nF 28.03.2020 14.54.19\nCH6-2\nAbdomen\n3.6 MHz\nDR 66 dB\nEdge 1\nPersist 3\nRIS 3\nMap D\nTint 6\n10 fps\nRIGHT LIVER\nSIEMENS\nF 28.03.2020 14.54.19\nCH6-2\nAbdomen\n3.6 MHz\nDR 66 dB\nEdge 1\nPersist 3\nRIS 3\nMap D\nTint 6\n10 fps\nPANCREAS\nMULTIPLE ECHODENSE"
+      },
+      "summary": "A composite ultrasound image from a Siemens machine showing multiple abdominal organ views including urinary bladder, spleen, left kidney, liver, right liver, and pancreas. The pancreas image is annotated with 'MULTIPLE ECHODENSE'.",
+      "key_observations": [
+        "Multiple abdominal ultrasound images displayed on a single screen.",
+        "Organs labeled: urinary bladder, spleen, left kidney, liver, right liver, pancreas.",
+        "Pancreas image shows 'MULTIPLE ECHODENSE' annotation.",
+        "Ultrasound machine model: Siemens.",
+        "Date and time stamp: 28.03.2020 14:54:19.",
+        "Measurements provided for bladder (D1, D2, D3) and liver (D1, D2, D3)."
+      ],
+      "dates_found": [
+        "28/03/2020"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2218,
+        "completion_tokens": 1378,
+        "total_duration_ms": 9383
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000233__BOCW_UP_2025_R2_2026032310064837__usg.jpg",
+      "page": null,
+      "pages_total": null,
+      "image_type": "Typed report",
+      "body_region": "Whole abdomen",
+      "modality_view": "N/A",
+      "stage_of_care": "n/a",
+      "stage_evidence": "This is a diagnostic report, not a procedural image.",
+      "ocr": {
+        "language": "English",
+        "verbatim": "PATIENT NAME\nAGE/SEX: -47 Y/F\nREF BY DR: -\nDATE: -23/03/2026\nU.S.G. REPORT (WHOLE ABDOMEN)\nLiver: -Liver appears normal in size approx. (128 mm) with Normal shape & increased echogenicity of liver parenchyma. Homogeneous parenchymal echo-texture. IHBR are not dilated. No space occupying lesion is seen in any lobe. Portal vain is normal. Hepatic vessels are normal. L.v.c and Aorta appears normal.\nG. Bladder: - Gall bladder is Well distended with shows multiple echogenic Foci casting shadow of variable size ranging from- 2-3 mm is noted in the lumen of the gall bladder. Wall thickness is almost normal. no pericholecystic fluid is noted. Common bile duct is normal in caliber.\nPancreas: - Pancreas is normal in shape and size. No mass/calcification is seen.\nSpleen: - Spleen is appears normal in shape and size (92 mm). No mass/cyst is seen\nKidneys: - Both kidneys are normal in shape size with normal its position. Normal echogenicity and echo texture. Normal cortical thickness. C.m.d is maintained with distinct renal sinus echoes.\nU. bladder: - Urine bladder is well distended. Wall is regular and smooth. No intra-luminal echogenic focus or mass lesion is seen.\nUterus: - Uterus is anteverted, appears normal in shape and size (67x25 mm). Cervix Is normal. Both ovary normal shape, size and echo texture.\nOthers: - No Ascites/No pleural effusion / No intra-peritoneal or retroperitoneal lesion seen /No appendicitis/ Both Psoas muscles appears normal. Excess gassy bowel loops seen in abdomen.\nIMPRESSION: - PRESENT SCAN REVEALS.\nMICRO-CHOLELITHIASIS.\nADV: - Kindly Clinically correlate with fallow up study.\n\nUltrasound is not modality of choice to rule out subtle bowel lesion.\nPlease Intimate us for any typing mistakes and send the report for correction within 3 days.\nThe science of radiological diagnosis is based on the interpretation of various shadows produced by both the normal and abnormal, conductive. Further biochemical and radiological investigation & clinical correlation is required to enable the clinician to reach the final diagnosis.\n\nA Certified Collection Centre of\nसी0सी0 ऑफ पैथ:  कस्ताय रोड, तुर्कपट्टी  ब्लाक रोड, दुब्दी  हैतिमपुर, कुशीनगर\nKindly Correlate Clinically and inform the Diagnostic Centre in case of any discrepancy. इमरतेन्सी 24 घण्टे सुविधा उपलब्ध\nNot For Medico Legal Purpose.\nTIME : 7 AM to 7 PM",
+        "english": "PATIENT NAME\nAGE/SEX: -47 Y/F\nREF BY DR: -\nDATE: -23/03/2026\nU.S.G. REPORT (WHOLE ABDOMEN)\nLiver: -Liver appears normal in size approx. (128 mm) with Normal shape & increased echogenicity of liver parenchyma. Homogeneous parenchymal echo-texture. IHBR are not dilated. No space occupying lesion is seen in any lobe. Portal vain is normal. Hepatic vessels are normal. L.v.c and Aorta appears normal.\nG. Bladder: - Gall bladder is Well distended with shows multiple echogenic Foci casting shadow of variable size ranging from- 2-3 mm is noted in the lumen of the gall bladder. Wall thickness is almost normal. no pericholecystic fluid is noted. Common bile duct is normal in caliber.\nPancreas: - Pancreas is normal in shape and size. No mass/calcification is seen.\nSpleen: - Spleen is appears normal in shape and size (92 mm). No mass/cyst is seen\nKidneys: - Both kidneys are normal in shape size with normal its position. Normal echogenicity and echo texture. Normal cortical thickness. C.m.d is maintained with distinct renal sinus echoes.\nU. bladder: - Urine bladder is well distended. Wall is regular and smooth. No intra-luminal echogenic focus or mass lesion is seen.\nUterus: - Uterus is anteverted, appears normal in shape and size (67x25 mm). Cervix Is normal. Both ovary normal shape, size and echo texture.\nOthers: - No Ascites/No pleural effusion / No intra-peritoneal or retroperitoneal lesion seen /No appendicitis/ Both Psoas muscles appears normal. Excess gassy bowel loops seen in abdomen.\nIMPRESSION: - PRESENT SCAN REVEALS.\nMICRO-CHOLELITHIASIS.\nADV: - Kindly Clinically correlate with fallow up study.\n\nUltrasound is not modality of choice to rule out subtle bowel lesion.\nPlease Intimate us for any typing mistakes and send the report for correction within 3 days.\nThe science of radiological diagnosis is based on the interpretation of various shadows produced by both the normal and abnormal, conductive. Further biochemical and radiological investigation & clinical correlation is required to enable the clinician to reach the final diagnosis.\n\nA Certified Collection Centre of\nसी0सी0 ऑफ पैथ:  कस्ताय रोड, तुर्कपट्टी  ब्लाक रोड, दुब्दी  हैतिमपुर, कुशीनगर\nKindly Correlate Clinically and inform the Diagnostic Centre in case of any discrepancy. इमरतेन्सी 24 घण्टे सुविधा उपलब्ध\nNot For Medico Legal Purpose.\nTIME : 7 AM to 7 PM"
+      },
+      "summary": "This is a typed ultrasound report of the whole abdomen for a 47-year-old female patient, dated March 23, 2026. The report details findings on the liver, gall bladder, pancreas, spleen, kidneys, urinary bladder, uterus, and other abdominal structures. The key finding is micro-cholelithiasis (small gallstones) in the gall bladder. The report advises clinical correlation and follow-up.",
+      "key_observations": [
+        "Patient is a 47-year-old female.",
+        "Report is dated March 23, 2026.",
+        "Key finding: Micro-cholelithiasis (small gallstones) in the gall bladder.",
+        "Other organs (liver, pancreas, spleen, kidneys, bladder, uterus) appear normal.",
+        "Report advises clinical correlation and follow-up study.",
+        "Report includes disclaimer: 'Not For Medico Legal Purpose.'"
+      ],
+      "dates_found": [
+        "23/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2217,
+        "completion_tokens": 1683,
+        "total_duration_ms": 10823
+      }
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "claim_id": "PMJAY_MH_S_G_R1_2026032910015645",
+  "package": "MC011A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 21,
+  "generated_ms": 5758,
+  "header": {
+    "claim_id": "PMJAY_MH_S_G_R1_2026032910015645",
+    "patient_name": null,
+    "modality": "Coronary Angiogram",
+    "body_part": "Coronary tree — left system",
+    "study_date": "28/03/2026",
+    "reviewer": null
+  },
+  "status": {
+    "consistency": "consistent",
+    "confidence_pct": 95,
+    "clinical_risk_score": "Medium",
+    "key_findings": [
+      {
+        "finding": "Stent deployment",
+        "ai_detected": true,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "95% stenosis in LCX",
+        "ai_detected": false,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "80% stenosis in RCA",
+        "ai_detected": false,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "TIMI III flow post-PTCA",
+        "ai_detected": false,
+        "report_mentioned": true,
+        "note": null
+      }
+    ]
+  },
+  "scan_viewer": {
+    "primary_image_source": "000255__PMJAY_MH_S_G_R1_2026032910015645__PTCA_IMAGES.pdf",
+    "detected_regions": [],
+    "ai_overlays_available": false
+  },
+  "ai_clinical_findings": {
+    "fracture": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "fluid_accumulation": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "tumor_mass": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "infiltration": {
+      "severity": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "image_quality": null
+  },
+  "multi_image_analysis": {
+    "entries": [
+      {
+        "modality": "Coronary Angiogram",
+        "day": 1,
+        "date": "31/03/2020",
+        "finding": "Coronary tree — left system",
+        "confirmed": true
+      },
+      {
+        "modality": "Typed report",
+        "day": 2165,
+        "date": "2404/03/2026",
+        "finding": "Coronary arteries",
+        "confirmed": true
+      }
+    ],
+    "consistency_score_pct": null
+  },
+  "report_nlp_extraction": {
+    "reported_diagnosis": null,
+    "reported_severity": null,
+    "reported_findings": [],
+    "extraction_confidence": null
+  },
+  "finding_correlation": {
+    "rows": [
+      {
+        "finding": "Stent deployment",
+        "image_ai": true,
+        "report": true,
+        "match": true
+      },
+      {
+        "finding": "95% stenosis in LCX",
+        "image_ai": false,
+        "report": true,
+        "match": false
+      },
+      {
+        "finding": "80% stenosis in RCA",
+        "image_ai": false,
+        "report": true,
+        "match": false
+      },
+      {
+        "finding": "TIMI III flow post-PTCA",
+        "image_ai": false,
+        "report": true,
+        "match": false
+      }
+    ],
+    "consistency_score_pct": 25
+  },
+  "inconsistency_detection": {
+    "possible_exaggerations": [],
+    "underreported_findings": [],
+    "hidden_findings": []
+  },
+  "stg_alignment": {
+    "claimed_package": "MC011A",
+    "evidence_required": [],
+    "stg_compliance_score_pct": null
+  },
+  "radiology_timeline": {
+    "events": [
+      {
+        "day": 1,
+        "date": "31/03/2020",
+        "event": "Coronary Angiogram"
+      },
+      {
+        "day": 1801,
+        "date": "05/03/2025",
+        "event": "Coronary Angiogram"
+      },
+      {
+        "day": 1827,
+        "date": "31/03/2025",
+        "event": "Coronary Angiogram"
+      },
+      {
+        "day": 2164,
+        "date": "03/03/2026",
+        "event": "Coronary Angiogram"
+      },
+      {
+        "day": 2165,
+        "date": "2404/03/2026",
+        "event": "Typed report"
+      },
+      {
+        "day": 2189,
+        "date": "28/03/2026",
+        "event": "Typed report"
+      },
+      {
+        "day": 2189,
+        "date": "28/03/2026",
+        "event": "Coronary Angiogram"
+      },
+      {
+        "day": 2192,
+        "date": "31/03/2026",
+        "event": "Coronary Angiogram"
+      },
+      {
+        "day": 2192,
+        "date": "31/03/2026",
+        "event": "Typed report"
+      },
+      {
+        "day": 2923,
+        "date": "31/03/2028",
+        "event": "Coronary Angiogram"
+      },
+      {
+        "day": 2926,
+        "date": "03/28/2026",
+        "event": "Coronary Angiogram"
+      },
+      {
+        "day": 3017,
+        "date": "03/31/2026",
+        "event": "Coronary Angiogram"
+      }
+    ],
+    "logical": true
+  },
+  "patient": {
+    "name": null,
+    "age": "73 years",
+    "sex": "Female",
+    "id_numbers": [
+      "2414/03/2026",
+      "AHH-1798/03/26"
+    ]
+  },
+  "hospital": {
+    "name": null,
+    "location": null,
+    "doctors": []
+  },
+  "encounter": {
+    "date_range": "28/03/2026 to 31/03/2026",
+    "all_dates": [
+      "28/03/2026",
+      "31/03/2026"
+    ],
+    "primary_procedure": "PTCA to LCX and RCA with stent deployment",
+    "package_code": "MC011A"
+  },
+  "image_inventory": {
+    "total_images": 21,
+    "by_type": {
+      "Coronary Angiogram": 19,
+      "Typed report": 2
+    },
+    "stages_present": [
+      "intra-procedure",
+      "post-procedure"
+    ],
+    "languages_seen": [
+      "English"
+    ]
+  },
+  "clinical_narrative": "A 73-year-old female underwent PTCA on the left circumflex and right coronary arteries, with stent deployment. Pre-procedure angiography revealed 95% stenosis in LCX and 80% in RCA. Intra-procedure images show guidewires and catheters during intervention. Post-procedure reports confirm excellent result with TIMI III flow and 0% residual stenosis. Two stents (LAD-GRACE 3.0 X 16 mm and RCA-GRACE 2.75 X 32 mm) were deployed.",
+  "completeness": {
+    "has_pre_procedure_imaging": true,
+    "has_intra_procedure_imaging": true,
+    "has_post_procedure_imaging": true,
+    "has_typed_report": true,
+    "has_handwritten_notes": true,
+    "has_signed_stamp": false,
+    "notes": null
+  },
+  "concerns_or_gaps": [
+    "Inconsistent date ranges across images (e.g., 3/31/2025, 3/31/2028)",
+    "No hospital or doctor names identified",
+    "No signed stamp or official seal on reports",
+    "Some OCR text contains garbled or partial data (e.g., 'HFS', 'VD12A')"
+  ]
+}

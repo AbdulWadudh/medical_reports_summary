@@ -1,0 +1,88 @@
+{
+  "claim_id": "MMJAA_UP_2025_R2_2026032010050826",
+  "package": "MG029A",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 2,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000990__MMJAA_UP_2025_R2_2026032010050826__phoolpattideviprexray.pdf",
+      "page": 1,
+      "pages_total": 2,
+      "image_type": "Chest X-Ray",
+      "body_region": "Chest",
+      "modality_view": "AP",
+      "stage_of_care": "pre-procedure",
+      "stage_evidence": "No catheter, stent, or other interventional device visible",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Female 20.03.2026 2177 AP N.10/75 8cm",
+        "english": "Female 20.03.2026 2177 AP N.10/75 8cm"
+      },
+      "summary": "An anteroposterior (AP) chest X-ray of a female patient, dated March 20, 2026, showing bilateral lung fields with diffuse opacities and a visible cardiac silhouette.",
+      "key_observations": [
+        "AP view of chest",
+        "Patient gender: Female",
+        "Date: 20.03.2026",
+        "Patient ID: 2177",
+        "Scale bar: 8cm",
+        "Diffuse bilateral lung opacities",
+        "Cardiac silhouette visible"
+      ],
+      "dates_found": [
+        "20/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": [
+          "Image is a photograph of a monitor display",
+          "Partial view of patient's shoulder and upper chest",
+          "Digital overlay text present"
+        ]
+      },
+      "_usage": {
+        "prompt_tokens": 2229,
+        "completion_tokens": 314,
+        "total_duration_ms": 3834
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000990__MMJAA_UP_2025_R2_2026032010050826__phoolpattideviprexray.pdf",
+      "page": 2,
+      "pages_total": 2,
+      "image_type": "Typed report",
+      "body_region": "Chest",
+      "modality_view": "PA",
+      "stage_of_care": "n/a",
+      "stage_evidence": "Diagnostic report with diagnosis and impression",
+      "ocr": {
+        "language": "English",
+        "verbatim": "NAME : \nREF BY.: DR.\n65 YRS /FEMALE\nDATE: 20/03/2026\n\nX-RAY CHEST PA\n\nDIAGNOSIS\n• Mild cardiomegaly is seen.\n• Hila are hazy.\n• Both lungs are shown fibrosis s/o copd.\n• Both CP angles are obtuse.\n• Both domes of diaphragm are normal.\n• Soft tissue and rib cage are normal.\n\nIMPRESSION\n• MILD CARDIOMEGALY.\n• BRONCHOVESUCULAR MARGIN PROMINANCE S/O COPD?\n\n• Radiological diagnosis is solely interpretation of images produced by tissues and may not be always conclusive.\n• Please intimate regarding typing errors for correction within 7 days.\n• Further clinical correlation for final diagnosis. If required feel free to discuss.\n\nMB [Radio-Diagnosis)\nCon [Radiologist]\nREGN.UPMC",
+        "english": "NAME :\nREF BY.: DR.\n65 YRS /FEMALE\nDATE: 20/03/2026\n\nX-RAY CHEST PA\n\nDIAGNOSIS\n• Mild cardiomegaly is seen.\n• Hila are hazy.\n• Both lungs are shown fibrosis s/o copd.\n• Both CP angles are obtuse.\n• Both domes of diaphragm are normal.\n• Soft tissue and rib cage are normal.\n\nIMPRESSION\n• MILD CARDIOMEGALY.\n• BRONCHOVESUCULAR MARGIN PROMINANCE S/O COPD?\n\n• Radiological diagnosis is solely interpretation of images produced by tissues and may not be always conclusive.\n• Please intimate regarding typing errors for correction within 7 days.\n• Further clinical correlation for final diagnosis. If required feel free to discuss.\n\nMB [Radio-Diagnosis)\nCon [Radiologist]\nREGN.UPMC"
+      },
+      "summary": "This is a typed radiology report for a PA chest X-ray of a 65-year-old female patient. The report details findings including mild cardiomegaly, hazy hila, fibrosis in both lungs suggestive of COPD, obtuse costophrenic angles, and normal diaphragm domes. The impression suggests mild cardiomegaly and bronchovascular margin prominence possibly due to COPD.",
+      "key_observations": [
+        "Patient is 65 years old, female.",
+        "Diagnosis includes mild cardiomegaly and hazy hila.",
+        "Findings suggest fibrosis in both lungs consistent with COPD.",
+        "Costophrenic angles are obtuse.",
+        "Diaphragm domes are normal.",
+        "Report includes disclaimer about radiological interpretation and need for clinical correlation.",
+        "Report is signed by a radiologist with registration number UPMC."
+      ],
+      "dates_found": [
+        "20/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2229,
+        "completion_tokens": 712,
+        "total_duration_ms": 6501
+      }
+    }
+  ]
+}

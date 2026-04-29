@@ -2,56 +2,100 @@
 
 **Package:** MC011A  ·  **Model:** accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd  ·  **Images:** 24
 
-## Patient
-- **Name:** unknown
-- **Age:** 63 years
-- **Sex:** Male
-- **IDs:** UC003043, UC003042, UI-2234, U.I.-2234, UT-2234
+| Claim ID | Patient | Modality | Body Part | Study Date | Reviewer |
+|---|---|---|---|---|---|
+| BOCW_GJ_R3_2026040310046613_ER | — | Coronary Angiogram | Coronary tree — left system | 03/04/2026 | — |
 
-## Hospital
-- **Name:** Sai Hospital, Ahmedabad; Lions Hospital, Palanpur
-- **Location:** Ahmedabad, Gujarat / Palanpur, Gujarat
-- **Doctors:** Dr. Niles H. Patel (Gami); Dr. (Name not fully visible)
+> 🟢 **IMAGE & REPORT CONSISTENT**  ·  Confidence: 95%  ·  Clinical Risk Score: Medium
 
-## Encounter
-- **Date range:** 03/04/2026 to 04/04/2026
-- **Primary procedure:** PCI with two drug-eluting stents (DES) deployed in OM1 artery
-- **Package code:** MC011A
-- **All dates seen:** 03/04/2026, 03/104/2026, 04/04/2026
+**Key findings:**
+- Stent deployment in OM1 artery _(AI ✔ · Report ✔)_
+- 95% lesion in OM branch _(AI ✔ · Report ✔)_
+- 99% lesion in non-dominant artery _(AI ✔ · Report ✔)_
+- PCI with two drug-eluting stents (DES) _(AI ✔ · Report ✔)_
+- TIMI flow grade 3 post-procedure _(AI ✖ · Report ✔)_
 
-## Clinical narrative
+## Interactive Scan Viewer
+- **Primary image:** 000009__BOCW_GJ_R3_2026040310046613__7a877f13-90de-4c5d-b2c8-c47d9bb0e2dd_compressed.pdf
+- **AI overlays available:** no
 
-A 63-year-old male underwent a percutaneous coronary intervention (PCI) with two XIENCE PRIME™ drug-eluting stents deployed in the OM1 artery. The procedure was performed via right radial route and involved pre- and post-dilatation. Intra-procedure fluoroscopic images show guidewire and catheter placement within the coronary vasculature. Post-procedure reports confirm successful deployment with TIMI flow grade 3. A chest X-ray from April 4, 2026, shows no pneumothorax or fractures.
+## AI Clinical Findings
+- **Fracture:** —
+- **Fluid accumulation:** —
+- **Tumor / mass:** —
+- **Infiltration:** —
+- **Image quality:** —
 
-## Key findings
-- A 99% lesion in non-dominant artery and a 95% lesion in OM branch and LAD.
-- A PCI procedure performed with two XIENCE PRIME™ stents (sizes: 2.5x28mm and 2.5x23mm).
-- A chest X-ray dated April 4, 2026, showing normal cardiac shadow and no pneumothorax.
-- Intra-procedure angiograms captured on Samsung monitor with case IDs UC003043 and UC003042.
-- A typed PTCA report dated March 4, 2026, indicating good end result (TIMI flow grade 3).
+## Multi-image Analysis
+| Modality | Day | Date | Finding | Confirmed |
+|---|---|---|---|---|
+| Coronary Angiogram | 1 | 03/04/2026 | Coronary tree — left system | ✔ |
+| Typed report | 1 | 03/04/2026 | Coronary tree — left system | ✔ |
+| Stamp/Signature | — | — | N/A | ✖ |
+| Chest X-Ray | 2 | 04/04/2026 | Chest (PA) | ✖ |
 
-## Image inventory
-- **Total images:** 24
-- **By type:**
-  - Coronary Angiogram: 19
-  - Chest X-Ray: 1
-  - Typed report: 3
-  - Stamp/Signature: 1
-- **Stages present:** intra-procedure, post-procedure
-- **Languages:** English
+**Consistency Score:** —%
 
-## Completeness
-- Pre-procedure imaging: false
-- Intra-procedure imaging: true
-- Post-procedure imaging: true
-- Typed report: true
-- Handwritten notes: true
-- Signed stamp: true
-- **Notes:** No pre-procedure imaging present; multiple intra-procedure frames from different sessions; post-procedure reports include handwritten schematics.
+## Report NLP Extraction
+- **Reported diagnosis:** —
+- **Reported severity:** —
+- **Reported findings:** —
+- **Extraction confidence:** —
 
-## Concerns / gaps
-- Inconsistent date formats: 'March 1st' vs 'March 1st' vs 'March April' vs 'April April'.
-- Patient name not visible in any document.
-- Some images are photographs of monitor screens with low resolution or redaction.
-- One report has a typographical error: 'Date: March April' instead of 'March'.
-- Stent expiration dates on packaging are inconsistent with procedure date.
+## Finding Correlation
+| Finding | Image AI | Report | Match |
+|---|---|---|---|
+| Stent deployment in OM1 artery | ✔ | ✔ | ✔ |
+| 95% lesion in OM branch | ✔ | ✔ | ✔ |
+| 99% lesion in non-dominant artery | ✔ | ✔ | ✔ |
+| PCI with two drug-eluting stents (DES) | ✔ | ✔ | ✔ |
+| TIMI flow grade 3 post-procedure | ✖ | ✔ | ✖ |
+
+**Consistency Score:** 80%
+
+## Inconsistency Detection
+- **Possible exaggerations:** ✔ none detected
+- **Underreported findings:** ✔ none detected
+- **Hidden findings:** ✔ none detected
+
+## STG Alignment
+- **Claimed package:** MC011A
+- **STG compliance score:** —%
+
+## Radiology Timeline
+- Day 1 – Coronary Angiogram _(03/04/2026)_
+- Day 1 – Typed report _(03/04/2026)_
+- Day 2 – Chest X-Ray _(04/04/2026)_
+- Day 2 – Typed report _(04/04/2026)_
+
+**Timeline logical:** ✔
+
+---
+
+## Reference detail
+
+**Patient**
+- Name: — · Age: 63 years · Sex: Male
+- IDs: UC003043, UC003042, UI-2234, U.I.-2234, UT-2234
+
+**Hospital**
+- Name: Sai Hospital, Ahmedabad; Lions Hospital, Palanpur · Location: Ahmedabad, Gujarat
+- Doctors: Dr. Niles H. Patel (Gami); M.D. (Medicine) DNB (Cardiology)
+
+**Encounter**
+- Date range: 03/04/2026 to 04/04/2026 · Procedure: PCI with two drug-eluting stents in OM1 artery · Package code: MC011A
+- All dates seen: 03/04/2026, 03/104/2026, 04/04/2026
+
+**Image inventory**
+- Total: 24
+- By type: Coronary Angiogram: 19, Chest X-Ray: 1, Typed report: 5, Stamp/Signature: 5
+- Stages: intra-procedure, post-procedure
+- Languages: English
+
+**Clinical narrative**
+
+A 63-year-old male underwent a percutaneous coronary intervention (PCI) with two XIENCE PRIME drug-eluting stents deployed in the OM1 artery. Intra-procedure fluoroscopic images show guidewire and catheter placement during angiography. Post-procedure typed reports and hand-drawn schematics detail lesion severity and stent specifications. A chest X-ray was also performed on 04/04/2026.
+
+**Completeness**
+- Pre: ✖ · Intra: ✔ · Post: ✔
+- Typed report: ✔ · Handwritten: ✔ · Signed stamp: ✔
