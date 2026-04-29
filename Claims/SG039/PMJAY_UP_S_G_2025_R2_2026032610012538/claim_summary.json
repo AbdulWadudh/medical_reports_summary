@@ -1,0 +1,175 @@
+{
+  "claim_id": "PMJAY_UP_S_G_2025_R2_2026032610012538",
+  "package": "SG039",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 2,
+  "generated_ms": 4319,
+  "header": {
+    "claim_id": "PMJAY_UP_S_G_2025_R2_2026032610012538",
+    "patient_name": "Mrs",
+    "modality": "Ultrasound",
+    "body_part": "Abdomen",
+    "study_date": "10/03/2026",
+    "reviewer": null
+  },
+  "status": {
+    "consistency": "consistent",
+    "confidence_pct": 95,
+    "clinical_risk_score": "Low",
+    "key_findings": [
+      {
+        "finding": "Gallbladder calculus",
+        "ai_detected": true,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "No other significant abnormalities",
+        "ai_detected": true,
+        "report_mentioned": true,
+        "note": null
+      }
+    ]
+  },
+  "scan_viewer": {
+    "primary_image_source": "000138__PMJAY_UP_S_G_2025_R2_2026032610012538__Priya_Mishra_USG.pdf",
+    "detected_regions": [],
+    "ai_overlays_available": false
+  },
+  "ai_clinical_findings": {
+    "fracture": {
+      "present": false,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "fluid_accumulation": {
+      "present": false,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "tumor_mass": {
+      "present": false,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "infiltration": {
+      "severity": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "image_quality": "good"
+  },
+  "multi_image_analysis": {
+    "entries": [
+      {
+        "modality": "Typed report",
+        "day": 1,
+        "date": "10/03/2026",
+        "finding": "Whole abdomen",
+        "confirmed": false
+      },
+      {
+        "modality": "Ultrasound",
+        "day": 1,
+        "date": "10/03/2026",
+        "finding": "Abdomen — hepatobiliary system",
+        "confirmed": false
+      }
+    ],
+    "consistency_score_pct": null
+  },
+  "report_nlp_extraction": {
+    "reported_diagnosis": null,
+    "reported_severity": null,
+    "reported_findings": [],
+    "extraction_confidence": null
+  },
+  "finding_correlation": {
+    "rows": [
+      {
+        "finding": "Gallbladder calculus",
+        "image_ai": true,
+        "report": true,
+        "match": true
+      },
+      {
+        "finding": "No other significant abnormalities",
+        "image_ai": true,
+        "report": true,
+        "match": true
+      }
+    ],
+    "consistency_score_pct": 100
+  },
+  "inconsistency_detection": {
+    "possible_exaggerations": [],
+    "underreported_findings": [],
+    "hidden_findings": []
+  },
+  "stg_alignment": {
+    "claimed_package": "SG039",
+    "evidence_required": [],
+    "stg_compliance_score_pct": null
+  },
+  "radiology_timeline": {
+    "events": [
+      {
+        "day": 1,
+        "date": "10/03/2026",
+        "event": "Typed report"
+      },
+      {
+        "day": 1,
+        "date": "10/03/2026",
+        "event": "Ultrasound"
+      }
+    ],
+    "logical": true
+  },
+  "patient": {
+    "name": "Priya Mishra",
+    "age": "24 years",
+    "sex": "Female",
+    "id_numbers": []
+  },
+  "hospital": {
+    "name": "SCAN & LAB PVT. LTD.",
+    "location": null,
+    "doctors": [
+      "Dr."
+    ]
+  },
+  "encounter": {
+    "date_range": "10/03/2026 to 10/03/2026",
+    "all_dates": [
+      "10/03/2026"
+    ],
+    "primary_procedure": "Whole abdomen ultrasound",
+    "package_code": "SG039"
+  },
+  "image_inventory": {
+    "total_images": 2,
+    "by_type": {
+      "Typed report": 1,
+      "Ultrasound": 1
+    },
+    "stages_present": [],
+    "languages_seen": [
+      "English"
+    ]
+  },
+  "clinical_narrative": "A 24-year-old female underwent a whole abdomen ultrasound on March 10, 2026, revealing a 6.6 mm calculus in the gallbladder with no other significant abnormalities. The report recommends clinical correlation and follow-up.",
+  "completeness": {
+    "has_pre_procedure_imaging": false,
+    "has_intra_procedure_imaging": false,
+    "has_post_procedure_imaging": false,
+    "has_typed_report": true,
+    "has_handwritten_notes": false,
+    "has_signed_stamp": false,
+    "notes": null
+  },
+  "concerns_or_gaps": [
+    "No patient ID visible in images.",
+    "No signed stamp or doctor signature visible."
+  ]
+}

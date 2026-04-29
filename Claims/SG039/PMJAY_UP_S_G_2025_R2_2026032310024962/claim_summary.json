@@ -1,0 +1,189 @@
+{
+  "claim_id": "PMJAY_UP_S_G_2025_R2_2026032310024962",
+  "package": "SG039",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 3,
+  "generated_ms": 11324,
+  "header": {
+    "claim_id": "PMJAY_UP_S_G_2025_R2_2026032310024962",
+    "patient_name": null,
+    "modality": "Ultrasound",
+    "body_part": "Hepatobiliary system",
+    "study_date": "11/03/2026",
+    "reviewer": null
+  },
+  "status": {
+    "consistency": "consistent",
+    "confidence_pct": 95,
+    "clinical_risk_score": "Medium",
+    "key_findings": [
+      {
+        "finding": "Gallbladder calculus with wall thickening",
+        "ai_detected": true,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "Cholecystitis with cholelithiasis",
+        "ai_detected": false,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "Normal liver, pancreas, spleen, kidneys",
+        "ai_detected": false,
+        "report_mentioned": true,
+        "note": null
+      }
+    ]
+  },
+  "scan_viewer": {
+    "primary_image_source": "000156__PMJAY_UP_S_G_2025_R2_2026032310024962__USG.pdf",
+    "detected_regions": [],
+    "ai_overlays_available": false
+  },
+  "ai_clinical_findings": {
+    "fracture": {
+      "present": false,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "fluid_accumulation": {
+      "present": false,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "tumor_mass": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "infiltration": {
+      "severity": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "image_quality": null
+  },
+  "multi_image_analysis": {
+    "entries": [
+      {
+        "modality": "Typed report",
+        "day": 1,
+        "date": "11/03/2026",
+        "finding": "Hepatobiliary system",
+        "confirmed": true
+      },
+      {
+        "modality": "Ultrasound",
+        "day": 1,
+        "date": "11/03/2026",
+        "finding": "Abdomen — pelvicalyceal system",
+        "confirmed": true
+      }
+    ],
+    "consistency_score_pct": null
+  },
+  "report_nlp_extraction": {
+    "reported_diagnosis": null,
+    "reported_severity": null,
+    "reported_findings": [],
+    "extraction_confidence": null
+  },
+  "finding_correlation": {
+    "rows": [
+      {
+        "finding": "Gallbladder calculus with wall thickening",
+        "image_ai": true,
+        "report": true,
+        "match": true
+      },
+      {
+        "finding": "Cholecystitis with cholelithiasis",
+        "image_ai": false,
+        "report": true,
+        "match": false
+      },
+      {
+        "finding": "Normal liver, pancreas, spleen, kidneys",
+        "image_ai": false,
+        "report": true,
+        "match": false
+      }
+    ],
+    "consistency_score_pct": 33
+  },
+  "inconsistency_detection": {
+    "possible_exaggerations": [],
+    "underreported_findings": [],
+    "hidden_findings": []
+  },
+  "stg_alignment": {
+    "claimed_package": "SG039",
+    "evidence_required": [],
+    "stg_compliance_score_pct": null
+  },
+  "radiology_timeline": {
+    "events": [
+      {
+        "day": 1,
+        "date": "11/03/2026",
+        "event": "Typed report"
+      },
+      {
+        "day": 1,
+        "date": "11/03/2026",
+        "event": "Ultrasound"
+      }
+    ],
+    "logical": true
+  },
+  "patient": {
+    "name": null,
+    "age": "71 years",
+    "sex": "Female",
+    "id_numbers": []
+  },
+  "hospital": {
+    "name": null,
+    "location": null,
+    "doctors": []
+  },
+  "encounter": {
+    "date_range": "11/03/2026 to 11/03/2026",
+    "all_dates": [
+      "11/03/2026"
+    ],
+    "primary_procedure": "Abdominal ultrasound for gallbladder calculus and cholecystitis",
+    "package_code": "SG039"
+  },
+  "image_inventory": {
+    "total_images": 3,
+    "by_type": {
+      "Typed report": 1,
+      "Ultrasound": 2
+    },
+    "stages_present": [
+      "pre-procedure"
+    ],
+    "languages_seen": [
+      "English"
+    ]
+  },
+  "clinical_narrative": "Ultrasound report and images from March 11, 2026, show a 16.5mm calculus in the gallbladder with wall thickening, leading to a diagnosis of cholecystitis with cholelithiasis. Normal findings in liver, pancreas, spleen, and kidneys. Images include views of kidneys, CBD, pancreas, gallbladder, uterus, and liver.",
+  "completeness": {
+    "has_pre_procedure_imaging": true,
+    "has_intra_procedure_imaging": false,
+    "has_post_procedure_imaging": false,
+    "has_typed_report": true,
+    "has_handwritten_notes": false,
+    "has_signed_stamp": false,
+    "notes": null
+  },
+  "concerns_or_gaps": [
+    "The scan date (11/03/2026) is in the future relative to claim submission date (2026-03-23).",
+    "No patient name or ID visible in any image or report.",
+    "No hospital or doctor name visible.",
+    "No signed stamp or handwritten notes detected."
+  ]
+}

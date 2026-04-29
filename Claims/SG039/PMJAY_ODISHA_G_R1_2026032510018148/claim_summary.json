@@ -1,0 +1,177 @@
+{
+  "claim_id": "PMJAY_ODISHA_G_R1_2026032510018148",
+  "package": "SG039",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 2,
+  "generated_ms": 7412,
+  "header": {
+    "claim_id": "PMJAY_ODISHA_G_R1_2026032510018148",
+    "patient_name": "APF2526/03/09-4",
+    "modality": "Ultrasound",
+    "body_part": "Abdomen and Pelvis",
+    "study_date": "09/03/2026",
+    "reviewer": null
+  },
+  "status": {
+    "consistency": "consistent",
+    "confidence_pct": 95,
+    "clinical_risk_score": "Medium",
+    "key_findings": [
+      {
+        "finding": "Acute on chronic cholecystitis with cholelithiasis",
+        "ai_detected": null,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "Gallbladder calculus 22mm with sludge and mild wall thickening",
+        "ai_detected": null,
+        "report_mentioned": true,
+        "note": null
+      }
+    ]
+  },
+  "scan_viewer": {
+    "primary_image_source": "000094__PMJAY_ODISHA_G_R1_2026032510018148__USG.pdf",
+    "detected_regions": [
+      {
+        "label": "Gallbladder with calculus and sludge",
+        "image_source": "000094__PMJAY_ODISHA_G_R1_2026032510018148__USG.pdf",
+        "page": 1
+      }
+    ],
+    "ai_overlays_available": false
+  },
+  "ai_clinical_findings": {
+    "fracture": {
+      "present": false,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "fluid_accumulation": {
+      "present": false,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "tumor_mass": {
+      "present": false,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "infiltration": {
+      "severity": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "image_quality": "good"
+  },
+  "multi_image_analysis": {
+    "entries": [
+      {
+        "modality": "Typed report",
+        "day": 1,
+        "date": "09/03/2026",
+        "finding": "Abdomen and Pelvis",
+        "confirmed": false
+      },
+      {
+        "modality": "Ultrasound",
+        "day": null,
+        "date": null,
+        "finding": "Abdomen — pelvicalyceal system",
+        "confirmed": true
+      }
+    ],
+    "consistency_score_pct": null
+  },
+  "report_nlp_extraction": {
+    "reported_diagnosis": null,
+    "reported_severity": null,
+    "reported_findings": [],
+    "extraction_confidence": null
+  },
+  "finding_correlation": {
+    "rows": [
+      {
+        "finding": "Acute on chronic cholecystitis with cholelithiasis",
+        "image_ai": null,
+        "report": true,
+        "match": null
+      },
+      {
+        "finding": "Gallbladder calculus 22mm with sludge and mild wall thickening",
+        "image_ai": null,
+        "report": true,
+        "match": null
+      }
+    ],
+    "consistency_score_pct": null
+  },
+  "inconsistency_detection": {
+    "possible_exaggerations": [],
+    "underreported_findings": [],
+    "hidden_findings": []
+  },
+  "stg_alignment": {
+    "claimed_package": "SG039",
+    "evidence_required": [],
+    "stg_compliance_score_pct": null
+  },
+  "radiology_timeline": {
+    "events": [
+      {
+        "day": 1,
+        "date": "09/03/2026",
+        "event": "Typed report"
+      }
+    ],
+    "logical": true
+  },
+  "patient": {
+    "name": "APF2526/03/09-4",
+    "age": "35 years",
+    "sex": "Female",
+    "id_numbers": []
+  },
+  "hospital": {
+    "name": null,
+    "location": null,
+    "doctors": []
+  },
+  "encounter": {
+    "date_range": "09/03/2026 to 09/03/2026",
+    "all_dates": [
+      "09/03/2026"
+    ],
+    "primary_procedure": null,
+    "package_code": "SG039"
+  },
+  "image_inventory": {
+    "total_images": 2,
+    "by_type": {
+      "Typed report": 1,
+      "Ultrasound": 1
+    },
+    "stages_present": [
+      "pre-procedure"
+    ],
+    "languages_seen": [
+      "English"
+    ]
+  },
+  "clinical_narrative": "Ultrasound report of abdomen and pelvis for a 35-year-old female, dated 09/03/2026, showing acute on chronic cholecystitis with cholelithiasis (gallstones), including a 22mm calculus in the gallbladder neck. Other organs appear normal. The report is a technical document requiring clinical correlation.",
+  "completeness": {
+    "has_pre_procedure_imaging": true,
+    "has_intra_procedure_imaging": false,
+    "has_post_procedure_imaging": false,
+    "has_typed_report": true,
+    "has_handwritten_notes": false,
+    "has_signed_stamp": false,
+    "notes": "Image 1 is a typed ultrasound report; Image 2 is an ultrasound image with no readable content."
+  },
+  "concerns_or_gaps": [
+    "The second image contains no readable content or summary.",
+    "No hospital or doctor details are visible.",
+    "No signed stamp or handwritten notes found."
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "claim_id": "PMJAY_UP_S_G_2025_R2_2026032210011112",
+  "package": "SG039",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 2,
+  "generated_ms": 6650,
+  "header": {
+    "claim_id": "PMJAY_UP_S_G_2025_R2_2026032210011112",
+    "patient_name": null,
+    "modality": "Ultrasound",
+    "body_part": "Abdomen and pelvis",
+    "study_date": "18/03/2026",
+    "reviewer": null
+  },
+  "status": {
+    "consistency": "consistent",
+    "confidence_pct": 95,
+    "clinical_risk_score": "Low",
+    "key_findings": [
+      {
+        "finding": "Hepatomegaly",
+        "ai_detected": null,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "Microlithiasis with sludge in gallbladder",
+        "ai_detected": null,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "Normal pancreas, spleen, kidneys, ureters, urinary bladder",
+        "ai_detected": null,
+        "report_mentioned": true,
+        "note": null
+      },
+      {
+        "finding": "Post-hysterectomy status (uterus not visualized)",
+        "ai_detected": null,
+        "report_mentioned": true,
+        "note": null
+      }
+    ]
+  },
+  "scan_viewer": {
+    "primary_image_source": "000106__PMJAY_UP_S_G_2025_R2_2026032210011112__USG_REPORT.pdf",
+    "detected_regions": [],
+    "ai_overlays_available": false
+  },
+  "ai_clinical_findings": {
+    "fracture": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "fluid_accumulation": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "tumor_mass": {
+      "present": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "infiltration": {
+      "severity": null,
+      "confidence_pct": null,
+      "evidence": null
+    },
+    "image_quality": null
+  },
+  "multi_image_analysis": {
+    "entries": [
+      {
+        "modality": "Typed report",
+        "day": 1,
+        "date": "18/03/2026",
+        "finding": "Abdomen and pelvis",
+        "confirmed": false
+      },
+      {
+        "modality": "Ultrasound",
+        "day": 1,
+        "date": "18/03/2026",
+        "finding": "Abdomen — hepatobiliary system, kidneys, spleen",
+        "confirmed": true
+      }
+    ],
+    "consistency_score_pct": null
+  },
+  "report_nlp_extraction": {
+    "reported_diagnosis": null,
+    "reported_severity": null,
+    "reported_findings": [],
+    "extraction_confidence": null
+  },
+  "finding_correlation": {
+    "rows": [
+      {
+        "finding": "Hepatomegaly",
+        "image_ai": null,
+        "report": true,
+        "match": null
+      },
+      {
+        "finding": "Microlithiasis with sludge in gallbladder",
+        "image_ai": null,
+        "report": true,
+        "match": null
+      },
+      {
+        "finding": "Normal pancreas, spleen, kidneys, ureters, urinary bladder",
+        "image_ai": null,
+        "report": true,
+        "match": null
+      },
+      {
+        "finding": "Post-hysterectomy status (uterus not visualized)",
+        "image_ai": null,
+        "report": true,
+        "match": null
+      }
+    ],
+    "consistency_score_pct": null
+  },
+  "inconsistency_detection": {
+    "possible_exaggerations": [],
+    "underreported_findings": [],
+    "hidden_findings": []
+  },
+  "stg_alignment": {
+    "claimed_package": "SG039",
+    "evidence_required": [],
+    "stg_compliance_score_pct": null
+  },
+  "radiology_timeline": {
+    "events": [
+      {
+        "day": 1,
+        "date": "18/03/2026",
+        "event": "Typed report"
+      },
+      {
+        "day": 1,
+        "date": "18/03/2026",
+        "event": "Ultrasound"
+      },
+      {
+        "day": 62,
+        "date": "18/05/2026",
+        "event": "Ultrasound"
+      }
+    ],
+    "logical": true
+  },
+  "patient": {
+    "name": null,
+    "age": "47 years",
+    "sex": "Female",
+    "id_numbers": [
+      "08"
+    ]
+  },
+  "hospital": {
+    "name": null,
+    "location": null,
+    "doctors": [
+      "DR M.S."
+    ]
+  },
+  "encounter": {
+    "date_range": "18/03/2026 to 18/05/2026",
+    "all_dates": [
+      "18/03/2026",
+      "18/05/2026"
+    ],
+    "primary_procedure": "Abdomen and pelvis ultrasound",
+    "package_code": "SG039"
+  },
+  "image_inventory": {
+    "total_images": 2,
+    "by_type": {
+      "Typed report": 1,
+      "Ultrasound": 1
+    },
+    "stages_present": [
+      "pre-procedure"
+    ],
+    "languages_seen": [
+      "English"
+    ]
+  },
+  "clinical_narrative": "Ultrasound of abdomen and pelvis performed on March 18, 2026, showing hepatomegaly (liver 144mm) and microlithiasis with sludge in gallbladder. Other organs including pancreas, spleen, kidneys, ureters, and bladder appear normal. Patient has history of hysterectomy with uterus not visualized. Images include pre-procedure ultrasound views of liver, kidneys, gallbladder, spleen, pancreas, and common bile duct.",
+  "completeness": {
+    "has_pre_procedure_imaging": true,
+    "has_intra_procedure_imaging": false,
+    "has_post_procedure_imaging": false,
+    "has_typed_report": true,
+    "has_handwritten_notes": false,
+    "has_signed_stamp": false,
+    "notes": "Report notes it is not valid for medico-legal purposes."
+  },
+  "concerns_or_gaps": [
+    "No patient name or ID visible in typed report except ID number '08'.",
+    "No hospital name or location visible.",
+    "No signed stamp or doctor signature visible.",
+    "Dates include both March 18 and May 18 — possible error or multiple scans."
+  ]
+}

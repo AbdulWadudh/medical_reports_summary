@@ -1,0 +1,81 @@
+{
+  "claim_id": "PMJAY_UP_S_G_2025_R2_2026032610012538",
+  "package": "SG039",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 2,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000138__PMJAY_UP_S_G_2025_R2_2026032610012538__Priya_Mishra_USG.pdf",
+      "page": 1,
+      "pages_total": 2,
+      "image_type": "Typed report",
+      "body_region": "Whole abdomen",
+      "modality_view": "N/A",
+      "stage_of_care": "n/a",
+      "stage_evidence": "Clinical report with findings and impression",
+      "ocr": {
+        "language": "English",
+        "verbatim": "SCAN & LAB PVT. LTD.\n\nName:Mrs\nRegistered ON :10-03-2026\n09:00:43\nReg No :133375\nRef By :Dr.\nAge :24Years\nSex :Female\nLAB No :\n\nUSG WHOLE ABDOMEN\nLiver is normal in size, shape & echotexture. Intra hepatic biliary radicals are not dilated and biliary confluence is patent. No focal or diffuse lesion seen. IVC and hepatic veins are normal. Portal vein is normal in size.\n\nGall bladder is distended showing a calculus of size 6.6 mm is seen in GB lumen. Wall thickness is normal. No pericholecystic collection seen. CBD is normal in diameter. Lumen is anechoic.\n\nPancreas is normal in size. Margins are regular. Parenchyma shows normal echotexture. Pancreatic duct is not dilated. No focal area of altered echogenicity or calcification is seen.\n\nSpleen is normal in size, shape and echotexture. No focal or diffuse mass lesion seen. No collaterals are seen.\n\nKidneys are normal in size, shape and echotexture. Corticomediullary differentiation is maintained. Pelvicalyceal system is not dilated. No obvious calculus or mass lesion seen. Ureters are not dilated.\n\nUrinary Bladder is distended. Wall thickness is normal. No calculus or mass seen.\n\nUterus is normal in size, shape and echotexture. No obvious focal lesion seen. Endometrial thickness is normal. Cervix appears normal.\n\nAdnexa: Both ovaries are normal in size, shape and echotexture. No obvious mass lesion seen.\n\nThere is no free fluid in peritoneal cavity.\nThere is no significant retroperitoneal or mesenteric lymphadenopathy.\nNo obvious bowel wall thickening seen.\n\nIMPRESSION:-\n• Cholelithiasis.\nAdv- Clinical correlation & follow-up.\n\nMD RADIODIAGNOSIS\n\nAbove impression is not the final diagnosis. Please correte clinico-pathologically. In case of any discrepancy,\nplease send patient for review (free). The report and films are not valid for medico-legal or juridical purpose,\n\nकृपया पुरानी रिपोर्ट व डॉक्टर का पचाई ना जाए अवश्य लायें",
+        "english": "SCAN & LAB PVT. LTD.\n\nName:Mrs\nRegistered ON :10-03-2026\n09:00:43\nReg No :133375\nRef By :Dr.\nAge :24Years\nSex :Female\nLAB No :\n\nUSG WHOLE ABDOMEN\nLiver is normal in size, shape & echotexture. Intra hepatic biliary radicals are not dilated and biliary confluence is patent. No focal or diffuse lesion seen. IVC and hepatic veins are normal. Portal vein is normal in size.\n\nGall bladder is distended showing a calculus of size 6.6 mm is seen in GB lumen. Wall thickness is normal. No pericholecystic collection seen. CBD is normal in diameter. Lumen is anechoic.\n\nPancreas is normal in size. Margins are regular. Parenchyma shows normal echotexture. Pancreatic duct is not dilated. No focal area of altered echogenicity or calcification is seen.\n\nSpleen is normal in size, shape and echotexture. No focal or diffuse mass lesion seen. No collaterals are seen.\n\nKidneys are normal in size, shape and echotexture. Corticomediullary differentiation is maintained. Pelvicalyceal system is not dilated. No obvious calculus or mass lesion seen. Ureters are not dilated.\n\nUrinary Bladder is distended. Wall thickness is normal. No calculus or mass seen.\n\nUterus is normal in size, shape and echotexture. No obvious focal lesion seen. Endometrial thickness is normal. Cervix appears normal.\n\nAdnexa: Both ovaries are normal in size, shape and echotexture. No obvious mass lesion seen.\n\nThere is no free fluid in peritoneal cavity.\nThere is no significant retroperitoneal or mesenteric lymphadenopathy.\nNo obvious bowel wall thickening seen.\n\nIMPRESSION:-\n• Cholelithiasis.\nAdv- Clinical correlation & follow-up.\n\nMD RADIODIAGNOSIS\n\nAbove impression is not the final diagnosis. Please correte clinico-pathologically. In case of any discrepancy,\nplease send patient for review (free). The report and films are not valid for medico-legal or juridical purpose,\n\nPlease do not send old reports and doctor's prescription. Please bring them."
+      },
+      "summary": "This is a typed ultrasound report of a 24-year-old female patient, detailing findings from a whole abdomen USG. The report notes a 6.6 mm calculus in the gallbladder, with no other significant abnormalities. The final impression is cholelithiasis, with a recommendation for clinical correlation and follow-up.",
+      "key_observations": [
+        "Patient is 24 years old, female.",
+        "Gallbladder contains a 6.6 mm calculus.",
+        "No other significant abnormalities found in liver, pancreas, spleen, kidneys, bladder, uterus, or adnexa.",
+        "Final impression: Cholelithiasis.",
+        "Recommendation: Clinical correlation and follow-up."
+      ],
+      "dates_found": [
+        "10/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2230,
+        "completion_tokens": 1382,
+        "total_duration_ms": 7996
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000138__PMJAY_UP_S_G_2025_R2_2026032610012538__Priya_Mishra_USG.pdf",
+      "page": 2,
+      "pages_total": 2,
+      "image_type": "Ultrasound",
+      "body_region": "Abdomen — hepatobiliary system",
+      "modality_view": "Transverse",
+      "stage_of_care": "n/a",
+      "stage_evidence": "No procedural devices or contrast agents visible; diagnostic imaging only",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Study Date 10/03/2026\nPrinted Date : 10/03/2026 11:21:55 AM",
+        "english": "Study Date 10/03/2026\nPrinted Date : 10/03/2026 11:21:55 AM"
+      },
+      "summary": "A set of nine ultrasound images showing the hepatobiliary system, including the gallbladder and liver, with varying views and findings. The study was performed on March 10, 2026.",
+      "key_observations": [
+        "Nine grayscale ultrasound images arranged in a 3x3 grid.",
+        "Images show the gallbladder and surrounding liver tissue.",
+        "Multiple views including transverse and possibly longitudinal sections.",
+        "Ultrasound machine brand 'Toshiba' visible on each image.",
+        "Study date: 10/03/2026; printed date: 10/03/2026 11:21:55 AM.",
+        "Patient ID field is redacted."
+      ],
+      "dates_found": [
+        "10/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2230,
+        "completion_tokens": 350,
+        "total_duration_ms": 2651
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "claim_id": "PMJAY_UP_S_G_2025_R2_2026032510052386",
+  "package": "SG039",
+  "model": "accounts/ajeya-rao-k-eckusf6m/deployments/euufjyfd",
+  "n_images": 2,
+  "records": [
+    {
+      "image_index": 0,
+      "source": "000052__PMJAY_UP_S_G_2025_R2_2026032510052386__USG.pdf",
+      "page": 1,
+      "pages_total": 2,
+      "image_type": "Ultrasound",
+      "body_region": "Abdomen — pelvicalyceal system",
+      "modality_view": "Long-axis",
+      "stage_of_care": "pre-procedure",
+      "stage_evidence": "Diagnostic ultrasound images without contrast or intervention",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Abdomen\n2D HAR\nTOM 4.4\nFRE 4.4\nCn 33\nDn 74\nFR 60\n18.0\nRT Kidney\nLT Kidney\nAbdomen\n2D HAR\nTOM 4.4\nFRE 4.4\nCn 33\nDn 74\nFR 60\n18.0\nAbdomen\n2D HAR\nTOM 4.4\nFRE 4.4\nCn 33\nDn 74\nFR 60\n18.0\nGB\nLiver\nAbdomen\n2D HAR\nTOM 4.4\nFRE 4.4\nCn 33\nDn 74\nFR 60\n18.0\nUT\nUT\nD 7.07 cm\nD 3.48 cm\nD 4.63 cm",
+        "english": "Abdomen\n2D HAR\nTOM 4.4\nFRE 4.4\nCn 33\nDn 74\nFR 60\n18.0\nRT Kidney\nLT Kidney\nAbdomen\n2D HAR\nTOM 4.4\nFRE 4.4\nCn 33\nDn 74\nFR 60\n18.0\nAbdomen\n2D HAR\nTOM 4.4\nFRE 4.4\nCn 33\nDn 74\nFR 60\n18.0\nGB\nLiver\nAbdomen\n2D HAR\nTOM 4.4\nFRE 4.4\nCn 33\nDn 74\nFR 60\n18.0\nUT\nUT\nD 7.07 cm\nD 3.48 cm\nD 4.63 cm"
+      },
+      "summary": "Four ultrasound images of the abdomen showing the right and left kidneys, gallbladder, liver, and ureters with measurements.",
+      "key_observations": [
+        "Images show bilateral kidneys with annotations 'RT Kidney' and 'LT Kidney'",
+        "Gallbladder (GB) and liver are visible in one image",
+        "Ureters (UT) are shown with measurements: 7.07 cm, 3.48 cm, and 4.63 cm",
+        "Ultrasound machine settings (2D HAR, TOM 4.4, FRE 4.4, etc.) are visible on each image"
+      ],
+      "dates_found": [
+        "19/03/2020"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2225,
+        "completion_tokens": 680,
+        "total_duration_ms": 4263
+      }
+    },
+    {
+      "image_index": 1,
+      "source": "000052__PMJAY_UP_S_G_2025_R2_2026032510052386__USG.pdf",
+      "page": 2,
+      "pages_total": 2,
+      "image_type": "Typed report",
+      "body_region": "Abdomen — hepatobiliary system, kidneys, urinary bladder, uterus, ovaries",
+      "modality_view": "N/A",
+      "stage_of_care": "n/a",
+      "stage_evidence": "Clinical report of findings from ultrasound examination",
+      "ocr": {
+        "language": "English",
+        "verbatim": "Reg. No. :\n\nPatient Name: \n\nRef by: - Dr. \n\nFEMALE ULTRASONOGRAPHY REPORT\n\nLiver: Normal in shape, size and normal echo pattern.\nIHBR not dilated Portal vein not dilated. No mass / cyst seen.\n\nGall bladder: Normal in shape, size. Wall thickness appears normal.\nPeri-cholecystic area appears normal. Multiple hard echodence shadow largest one (approx 8.7mm ) seen in lumen & neck.\nNot dilated.\n\nSpleen: Normal in shape size and echo pattern. No mass / cyst seen.\nSplenic vessels not dilated.\n\nPancreas: Normal in shape and echo pattern. No mass / cyst seen.\nPancreatic ducts not dilated.\n\nRT. Kidney : Normal in shape & size and location.\nCorticomedullary differentiation is well distinct. Calyces not dilated.\nNo hydronephrosis or renal calculus seen in both the kidneys.\n\nLT. Kidney : Normal in shape & size and location.\nCorticomedullary differentiation is well distinct. Calyces not dilated.\nNo hydronephrosis or renal calculus seen in both the kidneys.\n\nU. Bladder: Is partially filled.\n\nUterus: Normal in size (70x34x45mm) Echo texture of myometrium is homogenous.\nCavity empty. Endometrial thickness appears normal.\n\nOvaries: Normal.\nAdenexas: Normal.\n\nPOD: No free fluid seen.\n\nLymph nodes: Not seen.\n\nAscetic Fluid: No free fluid seen inside the peritoneal cavity.\n\nOthers: Excessive gas filled bowel loops seen in all over abdomen.\n\nINFERRENCE: Cholelithiasis.\n\nUSG has its own limitations, please correlate clinically\nNot for medico-legal use\n\nMob.\nE-mail :",
+        "english": "Reg. No. :\n\nPatient Name: \n\nRef by: - Dr. \n\nFEMALE ULTRASONOGRAPHY REPORT\n\nLiver: Normal in shape, size and normal echo pattern.\nIHBR not dilated Portal vein not dilated. No mass / cyst seen.\n\nGall bladder: Normal in shape, size. Wall thickness appears normal.\nPeri-cholecystic area appears normal. Multiple hard echodence shadow largest one (approx 8.7mm ) seen in lumen & neck.\nNot dilated.\n\nSpleen: Normal in shape size and echo pattern. No mass / cyst seen.\nSplenic vessels not dilated.\n\nPancreas: Normal in shape and echo pattern. No mass / cyst seen.\nPancreatic ducts not dilated.\n\nRT. Kidney : Normal in shape & size and location.\nCorticomedullary differentiation is well distinct. Calyces not dilated.\nNo hydronephrosis or renal calculus seen in both the kidneys.\n\nLT. Kidney : Normal in shape & size and location.\nCorticomedullary differentiation is well distinct. Calyces not dilated.\nNo hydronephrosis or renal calculus seen in both the kidneys.\n\nU. Bladder: Is partially filled.\n\nUterus: Normal in size (70x34x45mm) Echo texture of myometrium is homogenous.\nCavity empty. Endometrial thickness appears normal.\n\nOvaries: Normal.\nAdenexas: Normal.\n\nPOD: No free fluid seen.\n\nLymph nodes: Not seen.\n\nAscetic Fluid: No free fluid seen inside the peritoneal cavity.\n\nOthers: Excessive gas filled bowel loops seen in all over abdomen.\n\nINFERRENCE: Cholelithiasis.\n\nUSG has its own limitations, please correlate clinically\nNot for medico-legal use\n\nMob.\nE-mail :"
+      },
+      "summary": "This is a female ultrasound report dated 19/03/2026, detailing findings from an abdominal ultrasound. The report notes normal findings for liver, spleen, pancreas, kidneys, and uterus, but identifies multiple gallstones (largest 8.7mm) in the gallbladder, leading to the inference of cholelithiasis.",
+      "key_observations": [
+        "Multiple gallstones (largest 8.7mm) detected in the gallbladder",
+        "Normal liver, spleen, pancreas, kidneys, and uterus",
+        "Uterus is normal in size (70x34x45mm) with empty cavity",
+        "Cholelithiasis is the final inference",
+        "Report explicitly states 'Not for medico-legal use'"
+      ],
+      "dates_found": [
+        "19/03/2026"
+      ],
+      "image_quality": {
+        "rating": "good",
+        "limitations": []
+      },
+      "_usage": {
+        "prompt_tokens": 2225,
+        "completion_tokens": 1168,
+        "total_duration_ms": 7653
+      }
+    }
+  ]
+}
