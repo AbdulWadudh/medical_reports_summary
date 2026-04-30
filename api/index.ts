@@ -104,11 +104,9 @@ app.get("/", (req, res) => {
   res.json({ status: "ok", message: "Medical Reports API is running" });
 });
 
-const PORT = process.env.PORT || 3000;
-if (process.env.NODE_ENV !== "production") {
-  app.listen(PORT, () => {
-    console.log(`Server listening on port ${PORT}`);
-  });
-}
+const PORT = process.env.PORT || 3434;
+app.listen(PORT, () => {
+  console.log(`Server listening on port ${PORT}`);
+});
 
 export default app;
