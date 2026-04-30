@@ -16,8 +16,8 @@ COPY . .
 # Create the temporary directory for file processing
 RUN mkdir -p /tmp/medical-claims && chmod 777 /tmp/medical-claims
 
-# Expose the requested port
-EXPOSE 3434
+# Expose the internal port
+EXPOSE 3000
 
 # Set production environment
 ENV NODE_ENV=production
