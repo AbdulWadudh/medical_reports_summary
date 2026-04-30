@@ -3,6 +3,7 @@
   "private": true,
   "description": "Per-image OCR + summary for medical document claims.",
   "main": "api/index.ts",
+  "type": "module",
   "dependencies": {
     "express": "^4.19.2",
     "cors": "^2.8.5",
