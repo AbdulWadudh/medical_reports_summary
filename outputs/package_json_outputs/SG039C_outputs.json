@@ -1,0 +1,402 @@
+[
+  {
+    "Claim details": {
+      "Claim No. ": "BOCW_UP_2025_R2_2026032310064837",
+      "Package Code": "SG039C"
+    },
+    "1: Image classification": {
+      "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "USG abdomen"
+    },
+    "2a: Pre-procedure Image description": {
+      "Liver": "Not assessed / Not seen",
+      "Gall bladder": "Multiple echogenic foci are seen within the gall bladder lumen, suggestive of stones. Gall bladder wall appears thickened.",
+      "Spleen": "Not assessed / Not seen",
+      "Kidneys": "Not assessed / Not seen",
+      "Urinary bladder": "Not assessed / Not seen",
+      "Prostate/ Uterus": "Not assessed / Not seen",
+      "Peritoneal fluid": "Not assessed / Not seen"
+    },
+    "3a: Pre-procedure validity of reports": {
+      "Intra:Within report consistency check (Consistent/Partially supported/Unsupportred": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reason for Partially supported/Unsupported": "Not assessed / Not seen"
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+      "Reasoning_Alignment": "STG specifies ONLY pre-procedure USG, but post-procedure solo exists.",
+      "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Unsupported",
+      "Reason for deviation from STG (to be mapped to PPD and CPD section)": "No pre-procedure USG includes gallbladder assessment as mandated."
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Pre-procedure investigation date (DD/MM/YYYY)": "",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag for one month older documents for pre-procedure investigations ": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Fair - Low contrast, Partial view"
+    },
+    "Summary PDF": "Pre image: USG abdomen. Gall bladder: Multiple echogenic foci are seen within the gall bladder lumen, suggestive of stones. Gall bladder wall appears thickened.. Report correlation: Not assessed / Not seen. Package alignment: Only post-procedure investigation aligns. STG alignment: Unsupported."
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "PMJAY_JH_S_G_R2_2026032510041783",
+      "Package Code": "SG039C"
+    },
+    "1: Image classification": {
+      "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "USG abdomen"
+    },
+    "2a: Pre-procedure Image description": {
+      "Liver": "Normal in size, appearance and echo texture. No focal lesion seen. Intra-hepatic biliary radicals are not dilated. Hepatic veins and IVC appear normal.",
+      "Gall bladder": "Distended with normal shape, size and position, also normal wall thickness showing are multiple hyper echoic structures with posterior acoustic shadow at the body and neck. Largest calculus measuring approx 1.77 cm.",
+      "Spleen": "Measures 9.62 CM in long axis and appears normal. No focal lesion. Splenic vein is normal in calibre.",
+      "Kidneys": "Both kidneys are normal in size and normal echo texture. CMD are well maintained. PCS are not dilated.",
+      "Urinary bladder": "Urinary bladder is well distended and Wall thickness appears normal. Intra wall are regular. Lumen is echo free.",
+      "Prostate/ Uterus": "Uterus is enlarged in size measuring 9.83 x 4.80x 5.64 CM. Endometrium thickness measuring 0.9 cm and Myometrium appears normal. There is a well-defined, hypo echo lesion measuring (23 x25) mm in size, located on the outer surface of uterus, could be suggestive of 'subserosal fibroid'. Cervix is Thick and Shape.",
+      "Peritoneal fluid": "Not present"
+    },
+    "3a: Pre-procedure validity of reports": {
+      "Intra:Within report consistency check (Consistent/Partially supported/Unsupportred": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reason for Partially supported/Unsupported": "Not assessed / Not seen"
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigateion aligns",
+      "Reasoning_Alignment": "Both imaging provided (USG post-procedure reported as such) relates to gallbladder post-stages but originates from incorrect package evolution.",
+      "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Partially supported",
+      "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Pre-procedure USG abdomen was missing; post-procedure claims lack direct affirmation due to incorrect package code (SG039C). Misalignment between evidence and procedure focus."
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Pre-procedure investigation date (DD/MM/YYYY)": "",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag for one month older documents for pre-procedure investigations ": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Fair - low contrast, some blur, partial view"
+    },
+    "Summary PDF": "Pre image: USG abdomen. Gall bladder: Distended with normal shape, size and position, also normal wall thickness showing are multiple hyper echoic structures with posterior acoustic shadow at the body and neck. Largest calculus measuring approx 1.77 cm.. Report correlation: Not assessed / Not seen. Package alignment: Only post-procedure investigateion aligns. STG alignment: Partially supported."
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "PMJAY_MH_S_G_R1_1022038744",
+      "Package Code": "SG039C"
+    },
+    "1: Image classification": {
+      "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "USG abdomen"
+    },
+    "2a: Pre-procedure Image description": {
+      "Liver": "Not assessed / Not seen",
+      "Gall bladder": "Not assessed / Not seen",
+      "Spleen": "Not assessed / Not seen",
+      "Kidneys": "Not assessed / Not seen",
+      "Urinary bladder": "Not assessed / Not seen",
+      "Prostate/ Uterus": "Not assessed / Not seen",
+      "Peritoneal fluid": "Not assessed / Not seen"
+    },
+    "3a: Pre-procedure validity of reports": {
+      "Intra:Within report consistency check (Consistent/Partially supported/Unsupportred": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reason for Partially supported/Unsupported": "Not assessed / Not seen"
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+      "Reasoning_Alignment": "Not assessed / Not seen",
+      "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Pre-procedure investigation date (DD/MM/YYYY)": "",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag for one month older documents for pre-procedure investigations ": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Good"
+    },
+    "Summary PDF": "Pre image: USG abdomen. Gall bladder: Not assessed / Not seen. Report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "PMJAY_ODISHA_G_R1_2026032210005749",
+      "Package Code": "SG039C"
+    },
+    "1: Image classification": {
+      "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "USG abdomen"
+    },
+    "2a: Pre-procedure Image description": {
+      "Liver": "Not assessed / Not seen",
+      "Gall bladder": "Not assessed / Not seen",
+      "Spleen": "Not assessed / Not seen",
+      "Kidneys": "Not assessed / Not seen",
+      "Urinary bladder": "Not assessed / Not seen",
+      "Prostate/ Uterus": "Not assessed / Not seen",
+      "Peritoneal fluid": "Not assessed / Not seen"
+    },
+    "3a: Pre-procedure validity of reports": {
+      "Intra:Within report consistency check (Consistent/Partially supported/Unsupportred": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reason for Partially supported/Unsupported": "Not assessed / Not seen"
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+      "Reasoning_Alignment": "Not assessed / Not seen",
+      "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Pre-procedure investigation date (DD/MM/YYYY)": "",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag for one month older documents for pre-procedure investigations ": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Good"
+    },
+    "Summary PDF": "Pre image: USG abdomen. Gall bladder: Not assessed / Not seen. Report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "PMJAY_ODISHA_G_R1_2026032310008976",
+      "Package Code": "SG039C"
+    },
+    "1: Image classification": {
+      "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "USG abdomen"
+    },
+    "2a: Pre-procedure Image description": {
+      "Liver": "Not assessed / Not seen",
+      "Gall bladder": "Not assessed / Not seen",
+      "Spleen": "Not assessed / Not seen",
+      "Kidneys": "Not assessed / Not seen",
+      "Urinary bladder": "Not assessed / Not seen",
+      "Prostate/ Uterus": "Not assessed / Not seen",
+      "Peritoneal fluid": "Not assessed / Not seen"
+    },
+    "3a: Pre-procedure validity of reports": {
+      "Intra:Within report consistency check (Consistent/Partially supported/Unsupportred": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reason for Partially supported/Unsupported": "Not assessed / Not seen"
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+      "Reasoning_Alignment": "Not assessed / Not seen",
+      "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Pre-procedure investigation date (DD/MM/YYYY)": "",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag for one month older documents for pre-procedure investigations ": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Good"
+    },
+    "Summary PDF": "Pre image: USG abdomen. Gall bladder: Not assessed / Not seen. Report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "PMJAY_ODISHA_G_R1_2026032510018148",
+      "Package Code": "SG039C"
+    },
+    "1: Image classification": {
+      "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "USG abdomen"
+    },
+    "2a: Pre-procedure Image description": {
+      "Liver": "Not assessed / Not seen",
+      "Gall bladder": "Not assessed / Not seen",
+      "Spleen": "Not assessed / Not seen",
+      "Kidneys": "Not assessed / Not seen",
+      "Urinary bladder": "Not assessed / Not seen",
+      "Prostate/ Uterus": "Not assessed / Not seen",
+      "Peritoneal fluid": "Not assessed / Not seen"
+    },
+    "3a: Pre-procedure validity of reports": {
+      "Intra:Within report consistency check (Consistent/Partially supported/Unsupportred": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reason for Partially supported/Unsupported": "Not assessed / Not seen"
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+      "Reasoning_Alignment": "Not assessed / Not seen",
+      "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Pre-procedure investigation date (DD/MM/YYYY)": "25/03/2024",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag for one month older documents for pre-procedure investigations ": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Good"
+    },
+    "Summary PDF": "Pre image: USG abdomen. Gall bladder: Not assessed / Not seen. Report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "PMJAY_UP_S_G_2025_R2_2026032210011112",
+      "Package Code": "SG039C"
+    },
+    "1: Image classification": {
+      "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "USG abdomen"
+    },
+    "2a: Pre-procedure Image description": {
+      "Liver": "Not assessed / Not seen",
+      "Gall bladder": "Not assessed / Not seen",
+      "Spleen": "Not assessed / Not seen",
+      "Kidneys": "Not assessed / Not seen",
+      "Urinary bladder": "Not assessed / Not seen",
+      "Prostate/ Uterus": "Not assessed / Not seen",
+      "Peritoneal fluid": "Not assessed / Not seen"
+    },
+    "3a: Pre-procedure validity of reports": {
+      "Intra:Within report consistency check (Consistent/Partially supported/Unsupportred": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reason for Partially supported/Unsupported": "Not assessed / Not seen"
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+      "Reasoning_Alignment": "Not assessed / Not seen",
+      "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Pre-procedure investigation date (DD/MM/YYYY)": "",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag for one month older documents for pre-procedure investigations ": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Good"
+    },
+    "Summary PDF": "Pre image: USG abdomen. Gall bladder: Not assessed / Not seen. Report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "PMJAY_UP_S_G_2025_R2_2026032310024962",
+      "Package Code": "SG039C"
+    },
+    "1: Image classification": {
+      "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "USG abdomen"
+    },
+    "2a: Pre-procedure Image description": {
+      "Liver": "Not assessed / Not seen",
+      "Gall bladder": "Not assessed / Not seen",
+      "Spleen": "Not assessed / Not seen",
+      "Kidneys": "Not assessed / Not seen",
+      "Urinary bladder": "Not assessed / Not seen",
+      "Prostate/ Uterus": "Not assessed / Not seen",
+      "Peritoneal fluid": "Not assessed / Not seen"
+    },
+    "3a: Pre-procedure validity of reports": {
+      "Intra:Within report consistency check (Consistent/Partially supported/Unsupportred": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reason for Partially supported/Unsupported": "Not assessed / Not seen"
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+      "Reasoning_Alignment": "Not assessed / Not seen",
+      "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Pre-procedure investigation date (DD/MM/YYYY)": "11/03/2020",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag for one month older documents for pre-procedure investigations ": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Fair - Blurred, Partial view"
+    },
+    "Summary PDF": "Pre image: USG abdomen. Gall bladder: Not assessed / Not seen. Report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "PMJAY_UP_S_G_2025_R2_2026032510052386",
+      "Package Code": "SG039C"
+    },
+    "1: Image classification": {
+      "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "USG abdomen"
+    },
+    "2a: Pre-procedure Image description": {
+      "Liver": "Not assessed / Not seen",
+      "Gall bladder": "Multiple stones visible within the gall bladder lumen. Wall appears normal. Lumen distended.",
+      "Spleen": "Not assessed / Not seen",
+      "Kidneys": "Right kidney visible.",
+      "Urinary bladder": "Not assessed / Not seen",
+      "Prostate/ Uterus": "Not assessed / Not seen",
+      "Peritoneal fluid": "Not assessed / Not seen"
+    },
+    "3a: Pre-procedure validity of reports": {
+      "Intra:Within report consistency check (Consistent/Partially supported/Unsupportred": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reason for Partially supported/Unsupported": "Not assessed / Not seen"
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+      "Reasoning_Alignment": "STG specifies USG abdomen must be PRE-procedure only; this case shows only post-procedure imaging.",
+      "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Partially supported",
+      "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Post-procedure ultrasound images exist, but STG does not mandate or align with this type of post-intervention imaging for cholecystectomy package."
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Pre-procedure investigation date (DD/MM/YYYY)": "",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag for one month older documents for pre-procedure investigations ": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Fair - Text is slightly blurry in places"
+    },
+    "Summary PDF": "Pre image: USG abdomen. Gall bladder: Multiple stones visible within the gall bladder lumen. Wall appears normal. Lumen distended.. Report correlation: Not assessed / Not seen. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported."
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "PMJAY_UP_S_G_2025_R2_2026032610012538",
+      "Package Code": "SG039C"
+    },
+    "1: Image classification": {
+      "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "USG abdomen"
+    },
+    "2a: Pre-procedure Image description": {
+      "Liver": "Not assessed / Not seen",
+      "Gall bladder": "Not assessed / Not seen",
+      "Spleen": "Not assessed / Not seen",
+      "Kidneys": "Not assessed / Not seen",
+      "Urinary bladder": "Not assessed / Not seen",
+      "Prostate/ Uterus": "Not assessed / Not seen",
+      "Peritoneal fluid": "Not assessed / Not seen"
+    },
+    "3a: Pre-procedure validity of reports": {
+      "Intra:Within report consistency check (Consistent/Partially supported/Unsupportred": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reason for Partially supported/Unsupported": "Not assessed / Not seen"
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+      "Reasoning_Alignment": "Not assessed / Not seen",
+      "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Pre-procedure investigation date (DD/MM/YYYY)": "10/03/2026",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag for one month older documents for pre-procedure investigations ": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Good"
+    },
+    "Summary PDF": "Pre image: USG abdomen. Gall bladder: Not assessed / Not seen. Report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+  }
+]

@@ -1,0 +1,2105 @@
+{
+  "package_outputs": {
+    "MC011A": [
+      {
+        "Claim details": {
+          "Claim No. ": "BOCW_GJ_R3_2026040310046613_ER",
+          "Package Code": "MC011A"
+        },
+        "1: Image classification": {
+          "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)",
+          "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)"
+        },
+        "2a: Pre-procedure Image description": {
+          "LMCA": "Proximal ~ No disease, Mid ~ Not visualised, Distal ~ Not visualised",
+          "LAD": "Proximal ~ ~70% stenosis, Mid ~ ~60% stenosis, Distal ~ No disease",
+          "LCX ": "Proximal ~ No disease, Mid ~ No disease, Distal ~ Not visualised, OM ~ No disease",
+          "RCA": "Proximal ~ No disease, Mid ~ Not visualised, Distal ~ Not visualised"
+        },
+        "2b: Post-procedure Image description": {
+          "LMCA": "Not assessed / Not seen",
+          "LAD": "Proximal ~ normal, Mid ~ <percent>% stenosis, Distal ~ normal",
+          "LCX": "Proximal ~ normal, Mid ~ normal, Distal ~ normal, OM ~ normal",
+          "RCA": "Proximal ~ Not assessed / Not seen, Mid ~ Not assessed / Not seen, Distal ~ Not assessed / Not seen",
+          "Stent Visualization": "Yes"
+        },
+        "3a: Pre-procedure validity of reports": {
+          "Intra: Within report consistency check \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning (2)": "No pre-procedure angiography images or reports focusing on coronary anatomy are included in the dossier (only observational stent packaging exists)."
+        },
+        "3a: Post-procedure validity of reports (only inter)": {
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Partially supported",
+          "Reasoning": "The procedural report confirms successful PCI with stent placement for OM1 disease, while the final coronary angiogram images emphasize stent visualization but lack consistent anastomosis specifications in all coronary arteries per the report's findings, especially regarding RCA and LAD stenosis percentages."
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+          "Reasoning": "Pre-procedure angiogram (visualization of stent) missing, only post-procedure comes from PCI report (stent placement + TIMI-3 flow).",
+          "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Partially supported",
+          "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Procedural alignment confirmed (strandtilization reported) but pre-procedure angiogram to validate disease is absent."
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Pre-procedure investigation date (From written report, or else the radiological image) (DD/MM/YYYY)": "17/10/2023",
+          "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "11/02/2027",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag for one month older documents for pre-procedure investigations  (Yes/ No)": "No",
+          "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Fair - Slight blur, Partial view"
+        },
+        "Summary PDF": "Pre image: Cardiac angiogram (multiple stills). Post image: Cardiac angiogram (multiple stills). Pre report correlation: Not assessed / Not seen. Post report correlation: Partially supported. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported.",
+        "Remarks": ""
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "GOV_GJ_R2_2025_2026040410000059",
+          "Package Code": "MC011A"
+        },
+        "1: Image classification": {
+          "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)",
+          "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)"
+        },
+        "2a: Pre-procedure Image description": {
+          "LMCA": "Not assessed / Not seen",
+          "LAD": "Not assessed / Not seen",
+          "LCX ": "Not assessed / Not seen",
+          "RCA": "Not assessed / Not seen"
+        },
+        "2b: Post-procedure Image description": {
+          "LMCA": "Not assessed / Not seen",
+          "LAD": "Proximal ~ 99% stenosis, Mid ~ normal, Distal ~ normal",
+          "LCX": "Not assessed / Not seen",
+          "RCA": "Not assessed / Not seen",
+          "Stent Visualization": "Yes"
+        },
+        "3a: Pre-procedure validity of reports": {
+          "Intra: Within report consistency check \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning (2)": "No pre-procedure investigation (e.g., baseline coronary angiogram) in this package; evidence only shows intra/post-procedure imaging and reports."
+        },
+        "3a: Post-procedure validity of reports (only inter)": {
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Consistent",
+          "Reasoning": "Report documents LAD proximal 99% stenosis, which aligns with the intra-procedure images showing pre-stent 'stenosis 99%,' with post-dilation and stent deployment visualized."
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+          "Reasoning": "Assessment of stent placement and visually confirmed restored flow (post-procedure factoids: *stent_visualization: Yes, LAD now mid/distal normal*)",
+          "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Consistent",
+          "Reason for deviation from STG (to be mapped to PPD and CPD section)": "For MC011A, post-procedure images stents are explicitly documented in line with STG requirements."
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Pre-procedure investigation date (From written report, or else the radiological image) (DD/MM/YYYY)": "04/04/2026",
+          "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "04/04/2026",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag for one month older documents for pre-procedure investigations  (Yes/ No)": "No",
+          "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Fair - low contrast, grainy appearance"
+        },
+        "Summary PDF": "Pre image: Cardiac angiogram (multiple stills). Post image: Cardiac angiogram (multiple stills). Pre report correlation: Not assessed / Not seen. Post report correlation: Consistent. Package alignment: Only post-procedure investigation aligns. STG alignment: Consistent.",
+        "Remarks": ""
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "MAV_GJ_R3_2026040310038930_ER",
+          "Package Code": "MC011A"
+        },
+        "1: Image classification": {
+          "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)",
+          "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)"
+        },
+        "2a: Pre-procedure Image description": {
+          "LMCA": "Not assessed / Not seen",
+          "LAD": "Proximal ~ <50>% stenosis, Mid ~ <50>% stenosis, Distal ~ normal",
+          "LCX ": "Proximal ~ normal, Mid ~ Not visualised, Distal ~ Not visualised, OM ~ normal",
+          "RCA": "Proximal ~ normal, Mid ~ normal, Distal ~ normal"
+        },
+        "2b: Post-procedure Image description": {
+          "LMCA": "Not assessed / Not seen",
+          "LAD": "Proximal ~ <100%> stenosis, Mid ~ <100%> stenosis, Distal ~ <100%> stenosis",
+          "LCX": "Proximal ~ Not visualised, Mid ~ Not visualised, Distal ~ Not visualised, OM ~ Not visualised",
+          "RCA": "Proximal ~ Not visualised, Mid ~ Not visualised, Distal ~ Not visualised",
+          "Stent Visualization": "Yes"
+        },
+        "3a: Pre-procedure validity of reports": {
+          "Intra: Within report consistency check \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Partially supported",
+          "Reasoning (2)": "No clear pre-procedure coronary angiogram images found; only emergency status and general hemodynamics reported without direct anatomical stenosis mapping."
+        },
+        "3a: Post-procedure validity of reports (only inter)": {
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Consistent",
+          "Reasoning": "Angiographic images and reports confirm successful dual-stent placement in the LAD with resolution of mid 100% occlusion post-PAMI, aligningwith post-procedure summaries."
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+          "Reasoning": "Only post-procedure angiograms confirming stent placement and restored flow are documented; no pre-procedure angiogram attaches to the dossier.",
+          "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Partially supported",
+          "Reason for deviation from STG (to be mapped to PPD and CPD section)": "STG (MC011A) mandates BOTH pre- and post-procedure angiograms; only post-procedure images are available, documenting successful intervention."
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Pre-procedure investigation date (From written report, or else the radiological image) (DD/MM/YYYY)": "04/03/2026",
+          "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "03/04/2026",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag for one month older documents for pre-procedure investigations  (Yes/ No)": "No",
+          "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Fair - blur, low contrast, partial view"
+        },
+        "Summary PDF": "Pre image: Cardiac angiogram (multiple stills). Post image: Cardiac angiogram (multiple stills). Pre report correlation: Partially supported. Post report correlation: Consistent. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported.",
+        "Remarks": ""
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "PMJAY_DL_S_G_R2_2026040210052168",
+          "Package Code": "MC011A"
+        },
+        "1: Image classification": {
+          "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)",
+          "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)"
+        },
+        "2a: Pre-procedure Image description": {
+          "LMCA": "Not visualised",
+          "LAD": "Proximal ~ No disease, Mid ~ Not visualised, Distal ~ Not visualised",
+          "LCX ": "Proximal ~ Not visualised, Mid ~ Not visualised, Distal ~ Not visualised, OM ~ Not visualised",
+          "RCA": "Proximal ~ No disease, Mid ~ Not visualised, Distal ~ Not visualised"
+        },
+        "2b: Post-procedure Image description": {
+          "LMCA": "Not assessed / Not seen",
+          "LAD": "Proximal ~ normal, Mid ~ normal, Distal ~ normal",
+          "LCX": "Proximal ~ Not visualised, Mid ~ Not visualised, Distal ~ Not visualised, OM ~ Not visualised",
+          "RCA": "Proximal ~ normal, Mid ~ normal, Distal ~ normal",
+          "Stent Visualization": "Yes"
+        },
+        "3a: Pre-procedure validity of reports": {
+          "Intra: Within report consistency check \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Partially supported",
+          "Reasoning (2)": "Pre-procedure angiogram shows detailed stenosis (LAD mid 90% with thrombus, distal 90%) but arcuta anatomy (LCX/RCA) was not clearly visualised, issuing discrepancy with report's claim of 'double vessel disease'."
+        },
+        "3a: Post-procedure validity of reports (only inter)": {
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Consistent",
+          "Reasoning": "Post-procedure angiogram confirms normal stent placements and restored flow in LAD with absence of disease in visualized segments (proximal/mid/distal RCA and LAD), consistent with PE/management of dual DES stenting."
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Both pre-procedure and post-procedure investigations align",
+          "Reasoning": "Both pre- and post-coronary angiograms are available with explicit labeling and anatomical documentation consistent with the package details.",
+          "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Consistent",
+          "Reason for deviation from STG (to be mapped to PPD and CPD section)": "The package (MC011A) mandates pre- and post-procedure angiograms to demonstrate stent placement/flow restoration, both of which are present, align in modality, and clearly show pre-morbid and post-revascularization coronary anatomy."
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "02/04/2026",
+          "Pre-procedure investigation date (From written report, or else the radiological image) (DD/MM/YYYY)": "",
+          "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "04/04/2026",
+          "Discharge Date (DD/MM/YYYY)": "04/04/2026",
+          "Flag for one month older documents for pre-procedure investigations  (Yes/ No)": "No",
+          "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Fair - Partial view, Text overlay"
+        },
+        "Summary PDF": "Pre image: Cardiac angiogram (multiple stills). Post image: Cardiac angiogram (multiple stills). Pre report correlation: Partially supported. Post report correlation: Consistent. Package alignment: Both pre-procedure and post-procedure investigations align. STG alignment: Consistent.",
+        "Remarks": ""
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "PMJAY_GJ_S_G_R3_2026033110058967_ER",
+          "Package Code": "MC011A"
+        },
+        "1: Image classification": {
+          "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)",
+          "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)"
+        },
+        "2a: Pre-procedure Image description": {
+          "LMCA": "normal",
+          "LAD": "Proximal ~ No disease, Mid ~ <percent>% stenosis, Distal ~ normal",
+          "LCX ": "Proximal ~ Not visualised, Mid ~ 90% stenosis, Distal ~ Not visualised, OM ~ Not visualised",
+          "RCA": "Proximal ~ normal, Mid ~ normal, Distal ~ normal"
+        },
+        "2b: Post-procedure Image description": {
+          "LMCA": "Not assessed / Not seen",
+          "LAD": "Not assessed / Not seen",
+          "LCX": "Proximal ~ normal, Mid ~ normal, Distal ~ normal; OM ~ normal",
+          "RCA": "Not assessed / Not seen",
+          "Stent Visualization": "Yes"
+        },
+        "3a: Pre-procedure validity of reports": {
+          "Intra: Within report consistency check \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Partially supported",
+          "Reasoning (2)": "The pre-procedure report notes a 90% stenosis in the mid-LCX, while intra-procedure images confirm it, but some pre-report details on LAD stenosis are unclear and contradict anatomical notes in pages 1 and 2."
+        },
+        "3a: Post-procedure validity of reports (only inter)": {
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Consistent",
+          "Reasoning": "Post-procedure images and reports uniformly demonstrate successful stent placement in the LCX with TIMI III flow and no residual stenosis, confirming adequacy of intervention"
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+          "Reasoning": "No pre-procedure angiogram included in the dossier, but post-procedure coronary angiograms and report confirm stent deployment and restored flow.",
+          "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Partially supported",
+          "Reason for deviation from STG (to be mapped to PPD and CPD section)": "The reported procedure (PTCA with 1DES) and post-procedure images demonstrate stent placement and normal flow restoration, fulfilling key STG criteria, although full pre- and intra-procedure documentation is missing."
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Pre-procedure investigation date (From written report, or else the radiological image) (DD/MM/YYYY)": "31/03/2026",
+          "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "31/03/2026",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag for one month older documents for pre-procedure investigations  (Yes/ No)": "No",
+          "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Fair - handwriting not always clear, partial view"
+        },
+        "Summary PDF": "Pre image: Cardiac angiogram (multiple stills). Post image: Cardiac angiogram (multiple stills). Pre report correlation: Partially supported. Post report correlation: Consistent. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported.",
+        "Remarks": ""
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "PMJAY_GJ_S_G_R3_2026040410001743",
+          "Package Code": "MC011A"
+        },
+        "1: Image classification": {
+          "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)",
+          "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)"
+        },
+        "2a: Pre-procedure Image description": {
+          "LMCA": "Not assessed / Not seen",
+          "LAD": "Proximal ~ 99%, Mid ~ Not visualised, Distal ~ Not visualised",
+          "LCX ": "Not assessed / Not seen",
+          "RCA": "Not assessed / Not seen"
+        },
+        "2b: Post-procedure Image description": {
+          "LMCA": "Not assessed / Not seen",
+          "LAD": "Not assessed / Not seen",
+          "LCX": "Not assessed / Not seen",
+          "RCA": "Not assessed / Not seen",
+          "Stent Visualization": "Not assessed / Not seen"
+        },
+        "3a: Pre-procedure validity of reports": {
+          "Intra: Within report consistency check \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning (2)": "No pre-procedure investigation (such as baseline coronary angiogram or stress test) in this package."
+        },
+        "3a: Post-procedure validity of reports (only inter)": {
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen"
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+          "Reasoning": "Intra-procedure coronary angiograms confirm stent visualization post-PTCA and restored lumen flow.",
+          "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Consistent",
+          "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Intra-procedure angiograms visualize *both* stenosis pre-stent and *post*-stent **identified improved lumen flow** (impression:\n                                'Successful PTCA' with stent placement), fulfilling the package’s implicit post-procedure requirement."
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Pre-procedure investigation date (From written report, or else the radiological image) (DD/MM/YYYY)": "01/04/2026",
+          "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "04/04/2026",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag for one month older documents for pre-procedure investigations  (Yes/ No)": "No",
+          "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Fair - Partial view, Printed image - slight blur"
+        },
+        "Summary PDF": "Pre image: Cardiac angiogram (multiple stills). Post image: Cardiac angiogram (multiple stills). Pre report correlation: Not assessed / Not seen. Post report correlation: Not assessed / Not seen. Package alignment: Only post-procedure investigation aligns. STG alignment: Consistent.",
+        "Remarks": ""
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "PMJAY_MH_S_G_R1_2026032310059049",
+          "Package Code": "MC011A"
+        },
+        "1: Image classification": {
+          "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)",
+          "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)"
+        },
+        "2a: Pre-procedure Image description": {
+          "LMCA": "Not assessed / Not seen",
+          "LAD": "Proximal ~ <50>% stenosis, Mid ~ <50>% stenosis, Distal ~ <50>% stenosis",
+          "LCX ": "Proximal ~ Not visualised, Mid ~ Not visualised, Distal ~ Not visualised, OM ~ Not visualised",
+          "RCA": "Not assessed / Not seen"
+        },
+        "2b: Post-procedure Image description": {
+          "LMCA": "Not assessed / Not seen",
+          "LAD": "Proximal ~ normal, Mid ~ <percent>% stenosis, Distal ~ normal",
+          "LCX": "Proximal ~ Not visualised, Mid ~ Not visualised, Distal ~ Not visualised, OM ~ Not visualised",
+          "RCA": "Proximal ~ normal, Mid ~ normal, Distal ~ normal",
+          "Stent Visualization": "Yes"
+        },
+        "3a: Pre-procedure validity of reports": {
+          "Intra: Within report consistency check \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning (2)": "No clear pre-procedure diagnostic angiogram images segregated from the document dossier in this package."
+        },
+        "3a: Post-procedure validity of reports (only inter)": {
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Partially supported",
+          "Reasoning": "Post-procedure reports confirm successful RCA stents (TIMI III flow, 0% residual stenosis) and excellent results, but images lack consistent anatomical side-by-side detail."
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+          "Reasoning": "No explicit pre-procedure angiogram available in the dossier, despite stent visualization present post-procedure showing restored flow.",
+          "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Partially supported",
+          "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Procedure implies MC011A package intent, but critical pre-procedure angiogram is missing, limiting full alignment."
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Pre-procedure investigation date (From written report, or else the radiological image) (DD/MM/YYYY)": "29/03/2007",
+          "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "24/03/2026",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag for one month older documents for pre-procedure investigations  (Yes/ No)": "No",
+          "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Fair - low contrast, text is slightly blurry, partial view"
+        },
+        "Summary PDF": "Pre image: Cardiac angiogram (multiple stills). Post image: Cardiac angiogram (multiple stills). Pre report correlation: Not assessed / Not seen. Post report correlation: Partially supported. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported.",
+        "Remarks": ""
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "PMJAY_MH_S_G_R1_2026032610038286_P",
+          "Package Code": "MC011A"
+        },
+        "1: Image classification": {
+          "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)",
+          "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)"
+        },
+        "2a: Pre-procedure Image description": {
+          "LMCA": "Not visualised",
+          "LAD": "Proximal ~ No disease, Mid ~ <percent>% stenosis, Distal ~ <percent>% stenosis",
+          "LCX ": "Proximal ~ Not visualised, Mid ~ Not visualised, Distal ~ Not visualised, OM ~ Not visualised",
+          "RCA": "Proximal ~ No disease, Mid ~ No disease, Distal ~ No disease"
+        },
+        "2b: Post-procedure Image description": {
+          "LMCA": "Not assessed / Not seen",
+          "LAD": "Proximal ~ normal, Mid ~ <50% stenosis, Distal ~ normal",
+          "LCX": "Proximal ~ normal, Mid ~ normal, Distal ~ normal, OM ~ normal",
+          "RCA": "Not assessed / Not seen",
+          "Stent Visualization": "Yes"
+        },
+        "3a: Pre-procedure validity of reports": {
+          "Intra: Within report consistency check \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Partially supported",
+          "Reasoning (2)": "The official pre-procedure report (**000295** page 1) records **40% stenosis in Mid LAD, 30% stenosis in Diagonal Branch, and 80% stenosis in Prox-Mid LCX, LCX-normal distally**, but images lack distinct segmental documentation to claim as definitive evidence of all the pre-reported findings."
+        },
+        "3a: Post-procedure validity of reports (only inter)": {
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Consistent",
+          "Reasoning": "Both imaging (PFCA_STENT.pdf page 1, 000301 image page 3) and final report (**000287** page 1) confirm stent placement success in LCX via PTCA, with documented zero residual stenosis/TIMI-III flow and no dissection."
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+          "Reasoning": "The dossier includes intra-procedure frames without pre-procedure baseline contrast views or immediate post-stent deployment angiograms showing restored flow; only post-procedure stent visualization equates to ‘showing stent/restored flow’ if interpreted in the admitted procedure report",
+          "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Partially supported",
+          "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Lacks mandatory pre-procedure angiogram comparing and justifies stenting plus summative clear flow data in a separate step"
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Pre-procedure investigation date (From written report, or else the radiological image) (DD/MM/YYYY)": "03/07/1942",
+          "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "27/03/2026",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag for one month older documents for pre-procedure investigations  (Yes/ No)": "No",
+          "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Fair - Slight blur"
+        },
+        "Summary PDF": "Pre image: Cardiac angiogram (multiple stills). Post image: Cardiac angiogram (multiple stills). Pre report correlation: Partially supported. Post report correlation: Consistent. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported.",
+        "Remarks": ""
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "PMJAY_MH_S_G_R1_2026032910015645",
+          "Package Code": "MC011A"
+        },
+        "1: Image classification": {
+          "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)",
+          "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)"
+        },
+        "2a: Pre-procedure Image description": {
+          "LMCA": "Not visualised",
+          "LAD": "Proximal ~ <50% stenosis>, Mid ~ Not visualised, Distal ~ Not visualised",
+          "LCX ": "Proximal ~ Not visualised, Mid ~ Not visualised, Distal ~ Not visualised, OM ~ Not visualised",
+          "RCA": "Proximal ~ Not visualised, Mid ~ Not visualised, Distal ~ Not visualised"
+        },
+        "2b: Post-procedure Image description": {
+          "LMCA": "Not assessed / Not seen",
+          "LAD": "Proximal ~ normal, Mid ~ <percent>% stenosis, Distal ~ <percent>% stenosis",
+          "LCX": "Proximal ~ normal, Mid ~ normal, Distal ~ normal, OM ~ normal",
+          "RCA": "Not assessed / Not seen",
+          "Stent Visualization": "Yes"
+        },
+        "3a: Pre-procedure validity of reports": {
+          "Intra: Within report consistency check \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Partially supported",
+          "Reasoning (2)": "Pre-procedure angiogram reports cite significant stenosis (≥80% in RCA, 95% in proximal LCX), but visualized vessels vary across images without a clear continuum, decreasing yield of definitive evidence in the dossier."
+        },
+        "3a: Post-procedure validity of reports (only inter)": {
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Consistent",
+          "Reasoning": "Post-procedure images verify stent placement in LCX and RCA with signs of successful revascularization, resolving all reported stenotic lesions and confirming TIMI III flow per procedural report."
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+          "Reasoning": "Evidence confirms post-procedurecoronary angiogram with stent visualization, though pre-procedureradiogram is absent.",
+          "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Partially supported",
+          "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Post-procedural confirmation of stent visualization aligns with STG; missing pre-procedure angiogram reduces full compliance."
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Pre-procedure investigation date (From written report, or else the radiological image) (DD/MM/YYYY)": "31/03/1953",
+          "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "31/03/2026",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag for one month older documents for pre-procedure investigations  (Yes/ No)": "No",
+          "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Fair - Partial view, Text overlay from monitor"
+        },
+        "Summary PDF": "Pre image: Cardiac angiogram (multiple stills). Post image: Cardiac angiogram (multiple stills). Pre report correlation: Partially supported. Post report correlation: Consistent. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported.",
+        "Remarks": ""
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "PMJAY_MH_S_G_R2_2026040210048407",
+          "Package Code": "MC011A"
+        },
+        "1: Image classification": {
+          "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)",
+          "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)"
+        },
+        "2a: Pre-procedure Image description": {
+          "LMCA": "Not assessed / Not seen",
+          "LAD": "Not assessed / Not seen",
+          "LCX ": "Not assessed / Not seen",
+          "RCA": "Not assessed / Not seen"
+        },
+        "2b: Post-procedure Image description": {
+          "LMCA": "Not assessed / Not seen",
+          "LAD": "Not assessed / Not seen",
+          "LCX": "Not assessed / Not seen",
+          "RCA": "Not assessed / Not seen",
+          "Stent Visualization": "Not assessed / Not seen"
+        },
+        "3a: Pre-procedure validity of reports": {
+          "Intra: Within report consistency check \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning (2)": "Not assessed / Not seen"
+        },
+        "3a: Post-procedure validity of reports (only inter)": {
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen"
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Pre-procedure investigation date (From written report, or else the radiological image) (DD/MM/YYYY)": "04/03/2026",
+          "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "03/04/2026",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag for one month older documents for pre-procedure investigations  (Yes/ No)": "No",
+          "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Fair - blur, low contrast, partial redaction"
+        },
+        "Summary PDF": "Pre image: Cardiac angiogram (multiple stills). Post image: Cardiac angiogram (multiple stills). Pre report correlation: Not assessed / Not seen. Post report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen.",
+        "Remarks": ""
+      }
+    ],
+    "MG029A": [
+      {
+        "Claim details": {
+          "Claim No. ": "BOCW_UP_2025_R2_2026032410041507",
+          "Package_code": "MG029A"
+        },
+        "1: Image classification": {
+          "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Chest X ray"
+        },
+        "2b: Post Procedure Image description": {
+          "Lung fields": "Clear bilateral lung fields",
+          "Left and right CP angles": "Both clear",
+          "Left and right hilum": "Normal",
+          "Midline shift": "Not seen",
+          "Cardiac size": "Normal"
+        },
+        "3b: Post-procedure validity of reports": {
+          "Intra Report Consistency Check (within report)\n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning (2)": "Not assessed / Not seen"
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+          "Reason for Non alignment": "Package MG029A for COPD/pneumonitis follow-up matches expected POST-procedure chest X-ray only.",
+          "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Consistent",
+          "Reason for deviation from STG \n(to be mapped to PPD and CPD section)": "Claim aligns with the STG mandatory post-procedural chest X-ray requirement."
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "30/03/2026",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Fair - artifact, low contrast"
+        },
+        "Summary PDF": "Post image: Chest X ray. Lung fields: Clear bilateral lung fields. Report correlation: Not assessed / Not seen. Package alignment: Only post-procedure investigation aligns. STG alignment: Consistent."
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "MAV_GJ_R3_2026033110059264",
+          "Package_code": "MG029A"
+        },
+        "1: Image classification": {
+          "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Chest X ray"
+        },
+        "2b: Post Procedure Image description": {
+          "Lung fields": "Not assessed / Not seen",
+          "Left and right CP angles": "Not assessed / Not seen",
+          "Left and right hilum": "Not assessed / Not seen",
+          "Midline shift": "Not assessed / Not seen",
+          "Cardiac size": "Not assessed / Not seen"
+        },
+        "3b: Post-procedure validity of reports": {
+          "Intra Report Consistency Check (within report)\n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning (2)": "Not assessed / Not seen"
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+          "Reason for Non alignment": "Not assessed / Not seen",
+          "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reason for deviation from STG \n(to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "27/03/2026",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Fair - redaction of personal information"
+        },
+        "Summary PDF": "Post image: Chest X ray. Lung fields: Not assessed / Not seen. Report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "MMJAA_UP_2025_R2_2026032010050826",
+          "Package_code": "MG029A"
+        },
+        "1: Image classification": {
+          "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Chest X ray"
+        },
+        "2b: Post Procedure Image description": {
+          "Lung fields": "Clear",
+          "Left and right CP angles": "Both clear",
+          "Left and right hilum": "Normal",
+          "Midline shift": "Not seen",
+          "Cardiac size": "Normal"
+        },
+        "3b: Post-procedure validity of reports": {
+          "Intra Report Consistency Check (within report)\n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning (2)": "Not assessed / Not seen"
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+          "Reason for Non alignment": "Post-procedure chest X-ray is present; no pre-procedure image exists, though STG requires no pre-image",
+          "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Partially supported",
+          "Reason for deviation from STG \n(to be mapped to PPD and CPD section)": "MG029A explicitly requires a *single* **post-procedure** chest X-ray (accounted for); pre-procedure radiograph is excluded but not mandated via exception"
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "20/03/2026",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Fair - low contrast, partial view"
+        },
+        "Summary PDF": "Post image: Chest X ray. Lung fields: Clear. Report correlation: Not assessed / Not seen. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported."
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "MMJAA_UP_2025_R2_2026032410067475",
+          "Package_code": "MG029A"
+        },
+        "1: Image classification": {
+          "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Chest X ray"
+        },
+        "2b: Post Procedure Image description": {
+          "Lung fields": "Clear",
+          "Left and right CP angles": "Both clear",
+          "Left and right hilum": "Normal",
+          "Midline shift": "Not seen",
+          "Cardiac size": "Normal"
+        },
+        "3b: Post-procedure validity of reports": {
+          "Intra Report Consistency Check (within report)\n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning (2)": "Not assessed / Not seen"
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only pre-procedure investigation aligns",
+          "Reason for Non alignment": "Package MG029A expects only a **POST**-procedure CXR, but a pre-procedure CXR was submitted.",
+          "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Unsupported",
+          "Reason for deviation from STG \n(to be mapped to PPD and CPD section)": "case lacks mandated **post-procedure** imaging per STG."
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "24/03/2026",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Fair - obscured name"
+        },
+        "Summary PDF": "Post image: Chest X ray. Lung fields: Clear. Report correlation: Not assessed / Not seen. Package alignment: Only pre-procedure investigation aligns. STG alignment: Unsupported."
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "MMJAA_UP_2025_R2_2026032510051485",
+          "Package_code": "MG029A"
+        },
+        "1: Image classification": {
+          "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Chest X ray"
+        },
+        "2b: Post Procedure Image description": {
+          "Lung fields": "Clear bilateral lung fields",
+          "Left and right CP angles": "Both clear",
+          "Left and right hilum": "Normal",
+          "Midline shift": "Not seen",
+          "Cardiac size": "Normal"
+        },
+        "3b: Post-procedure validity of reports": {
+          "Intra Report Consistency Check (within report)\n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning (2)": "Not assessed / Not seen"
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+          "Reason for Non alignment": "Package MG029A expects only a post-procedure chest X-ray and this case has a validated post-procedure chest X-ray with report.",
+          "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Consistent",
+          "Reason for deviation from STG \n(to be mapped to PPD and CPD section)": "STG requires only one post-procedure X-ray, aligning with the claim."
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "26/03/2026",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Fair - contrast slightly reduced, some artifacts"
+        },
+        "Summary PDF": "Post image: Chest X ray. Lung fields: Clear bilateral lung fields. Report correlation: Not assessed / Not seen. Package alignment: Only post-procedure investigation aligns. STG alignment: Consistent."
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "PMJAY_MH_S_G_R1_2026032310043558",
+          "Package_code": "MG029A"
+        },
+        "1: Image classification": {
+          "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Chest X ray"
+        },
+        "2b: Post Procedure Image description": {
+          "Lung fields": "Not assessed / Not seen",
+          "Left and right CP angles": "Not assessed / Not seen",
+          "Left and right hilum": "Not assessed / Not seen",
+          "Midline shift": "Not assessed / Not seen",
+          "Cardiac size": "Not assessed / Not seen"
+        },
+        "3b: Post-procedure validity of reports": {
+          "Intra Report Consistency Check (within report)\n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning (2)": "Not assessed / Not seen"
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+          "Reason for Non alignment": "Not assessed / Not seen",
+          "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reason for deviation from STG \n(to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "02/03/2026",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Fair - blur, low contrast"
+        },
+        "Summary PDF": "Post image: Chest X ray. Lung fields: Not assessed / Not seen. Report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "PMJAY_UP_S_G_2025_R2_2026032610030540",
+          "Package_code": "MG029A"
+        },
+        "1: Image classification": {
+          "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Chest X ray"
+        },
+        "2b: Post Procedure Image description": {
+          "Lung fields": "Clear bilateral lung fields",
+          "Left and right CP angles": "Both clear",
+          "Left and right hilum": "Normal",
+          "Midline shift": "Not seen",
+          "Cardiac size": "Normal"
+        },
+        "3b: Post-procedure validity of reports": {
+          "Intra Report Consistency Check (within report)\n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning (2)": "Not assessed / Not seen"
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+          "Reason for Non alignment": "Only one post-procedure chest X-ray matches the MG029A guideline package. The pre-procedure X-ray provided is not explicitly labeled as pre-procedure.",
+          "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Partially supported",
+          "Reason for deviation from STG \n(to be mapped to PPD and CPD section)": "The package (MG029A) exclusively warrants a **single post-procedure chest X-ray**, whereas the dossier presents two X-rays (one likely mislabeled as pre-procedure, per documentation only) and lacks a formal report. Alignment is partial due to labeling and documentation gaps."
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "27/03/2026",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Fair - Blur, partial view, text overlap"
+        },
+        "Summary PDF": "Post image: Chest X ray. Lung fields: Clear bilateral lung fields. Report correlation: Not assessed / Not seen. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported."
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "PMJAY_UP_S_G_2025_R2_2026032610036919",
+          "Package_code": "MG029A"
+        },
+        "1: Image classification": {
+          "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Chest X ray"
+        },
+        "2b: Post Procedure Image description": {
+          "Lung fields": "Clear bilateral lung fields",
+          "Left and right CP angles": "Both clear",
+          "Left and right hilum": "Normal",
+          "Midline shift": "Not seen",
+          "Cardiac size": "Normal"
+        },
+        "3b: Post-procedure validity of reports": {
+          "Intra Report Consistency Check (within report)\n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning (2)": "Not assessed / Not seen"
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+          "Reason for Non alignment": "The dossier contains only a post-procedure chest X-ray aligning with MG029A.",
+          "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Consistent",
+          "Reason for deviation from STG \n(to be mapped to PPD and CPD section)": "Package MG029A explicitly requires only a post-procedure chest X-ray for COPD exacerbation/pneumonitis follow-up."
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "26/03/2026",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Fair - date stamp obscures portions of the image, visible grid pattern, some blur"
+        },
+        "Summary PDF": "Post image: Chest X ray. Lung fields: Clear bilateral lung fields. Report correlation: Not assessed / Not seen. Package alignment: Only post-procedure investigation aligns. STG alignment: Consistent."
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "PMJAY_UP_S_G_2025_R2_2026032810007619",
+          "Package_code": "MG029A"
+        },
+        "1: Image classification": {
+          "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Chest X ray"
+        },
+        "2b: Post Procedure Image description": {
+          "Lung fields": "Not assessed / Not seen",
+          "Left and right CP angles": "Not assessed / Not seen",
+          "Left and right hilum": "Not assessed / Not seen",
+          "Midline shift": "Not assessed / Not seen",
+          "Cardiac size": "Not assessed / Not seen"
+        },
+        "3b: Post-procedure validity of reports": {
+          "Intra Report Consistency Check (within report)\n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning (2)": "Not assessed / Not seen"
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+          "Reason for Non alignment": "Not assessed / Not seen",
+          "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reason for deviation from STG \n(to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "27/03/2026",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Good"
+        },
+        "Summary PDF": "Post image: Chest X ray. Lung fields: Not assessed / Not seen. Report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "PMJAY_UP_S_G_2025_R2_2026032810035589",
+          "Package_code": "MG029A"
+        },
+        "1: Image classification": {
+          "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Chest X ray"
+        },
+        "2b: Post Procedure Image description": {
+          "Lung fields": "Clear",
+          "Left and right CP angles": "Both clear",
+          "Left and right hilum": "Normal",
+          "Midline shift": "Not seen",
+          "Cardiac size": "Normal"
+        },
+        "3b: Post-procedure validity of reports": {
+          "Intra Report Consistency Check (within report)\n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning (2)": "Not assessed / Not seen"
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only pre-procedure investigation aligns",
+          "Reason for Non alignment": "Only a pre-procedure chest X-ray exists; post-procedure imaging is required by MG029A for follow-up Alignment",
+          "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Unsupported",
+          "Reason for deviation from STG \n(to be mapped to PPD and CPD section)": "Absent post-procedure X-ray makes the case non-compliant with MG029A package criteria"
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "29/03/2026",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Fair - Slightly aged appearance, Low contrast"
+        },
+        "Summary PDF": "Post image: Chest X ray. Lung fields: Clear. Report correlation: Not assessed / Not seen. Package alignment: Only pre-procedure investigation aligns. STG alignment: Unsupported."
+      }
+    ],
+    "SG039C": [
+      {
+        "Claim details": {
+          "Claim No. ": "BOCW_UP_2025_R2_2026032310064837",
+          "Package Code": "SG039C"
+        },
+        "1: Image classification": {
+          "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "USG abdomen"
+        },
+        "2a: Pre-procedure Image description": {
+          "Liver": "Not assessed / Not seen",
+          "Gall bladder": "Multiple echogenic foci are seen within the gall bladder lumen, suggestive of stones. Gall bladder wall appears thickened.",
+          "Spleen": "Not assessed / Not seen",
+          "Kidneys": "Not assessed / Not seen",
+          "Urinary bladder": "Not assessed / Not seen",
+          "Prostate/ Uterus": "Not assessed / Not seen",
+          "Peritoneal fluid": "Not assessed / Not seen"
+        },
+        "3a: Pre-procedure validity of reports": {
+          "Intra:Within report consistency check (Consistent/Partially supported/Unsupportred": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reason for Partially supported/Unsupported": "Not assessed / Not seen"
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+          "Reasoning_Alignment": "STG specifies ONLY pre-procedure USG, but post-procedure solo exists.",
+          "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Unsupported",
+          "Reason for deviation from STG (to be mapped to PPD and CPD section)": "No pre-procedure USG includes gallbladder assessment as mandated."
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Pre-procedure investigation date (DD/MM/YYYY)": "",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag for one month older documents for pre-procedure investigations ": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Fair - Low contrast, Partial view"
+        },
+        "Summary PDF": "Pre image: USG abdomen. Gall bladder: Multiple echogenic foci are seen within the gall bladder lumen, suggestive of stones. Gall bladder wall appears thickened.. Report correlation: Not assessed / Not seen. Package alignment: Only post-procedure investigation aligns. STG alignment: Unsupported."
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "PMJAY_JH_S_G_R2_2026032510041783",
+          "Package Code": "SG039C"
+        },
+        "1: Image classification": {
+          "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "USG abdomen"
+        },
+        "2a: Pre-procedure Image description": {
+          "Liver": "Normal in size, appearance and echo texture. No focal lesion seen. Intra-hepatic biliary radicals are not dilated. Hepatic veins and IVC appear normal.",
+          "Gall bladder": "Distended with normal shape, size and position, also normal wall thickness showing are multiple hyper echoic structures with posterior acoustic shadow at the body and neck. Largest calculus measuring approx 1.77 cm.",
+          "Spleen": "Measures 9.62 CM in long axis and appears normal. No focal lesion. Splenic vein is normal in calibre.",
+          "Kidneys": "Both kidneys are normal in size and normal echo texture. CMD are well maintained. PCS are not dilated.",
+          "Urinary bladder": "Urinary bladder is well distended and Wall thickness appears normal. Intra wall are regular. Lumen is echo free.",
+          "Prostate/ Uterus": "Uterus is enlarged in size measuring 9.83 x 4.80x 5.64 CM. Endometrium thickness measuring 0.9 cm and Myometrium appears normal. There is a well-defined, hypo echo lesion measuring (23 x25) mm in size, located on the outer surface of uterus, could be suggestive of 'subserosal fibroid'. Cervix is Thick and Shape.",
+          "Peritoneal fluid": "Not present"
+        },
+        "3a: Pre-procedure validity of reports": {
+          "Intra:Within report consistency check (Consistent/Partially supported/Unsupportred": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reason for Partially supported/Unsupported": "Not assessed / Not seen"
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigateion aligns",
+          "Reasoning_Alignment": "Both imaging provided (USG post-procedure reported as such) relates to gallbladder post-stages but originates from incorrect package evolution.",
+          "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Partially supported",
+          "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Pre-procedure USG abdomen was missing; post-procedure claims lack direct affirmation due to incorrect package code (SG039C). Misalignment between evidence and procedure focus."
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Pre-procedure investigation date (DD/MM/YYYY)": "",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag for one month older documents for pre-procedure investigations ": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Fair - low contrast, some blur, partial view"
+        },
+        "Summary PDF": "Pre image: USG abdomen. Gall bladder: Distended with normal shape, size and position, also normal wall thickness showing are multiple hyper echoic structures with posterior acoustic shadow at the body and neck. Largest calculus measuring approx 1.77 cm.. Report correlation: Not assessed / Not seen. Package alignment: Only post-procedure investigateion aligns. STG alignment: Partially supported."
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "PMJAY_MH_S_G_R1_1022038744",
+          "Package Code": "SG039C"
+        },
+        "1: Image classification": {
+          "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "USG abdomen"
+        },
+        "2a: Pre-procedure Image description": {
+          "Liver": "Not assessed / Not seen",
+          "Gall bladder": "Not assessed / Not seen",
+          "Spleen": "Not assessed / Not seen",
+          "Kidneys": "Not assessed / Not seen",
+          "Urinary bladder": "Not assessed / Not seen",
+          "Prostate/ Uterus": "Not assessed / Not seen",
+          "Peritoneal fluid": "Not assessed / Not seen"
+        },
+        "3a: Pre-procedure validity of reports": {
+          "Intra:Within report consistency check (Consistent/Partially supported/Unsupportred": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reason for Partially supported/Unsupported": "Not assessed / Not seen"
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+          "Reasoning_Alignment": "Not assessed / Not seen",
+          "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Pre-procedure investigation date (DD/MM/YYYY)": "",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag for one month older documents for pre-procedure investigations ": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Good"
+        },
+        "Summary PDF": "Pre image: USG abdomen. Gall bladder: Not assessed / Not seen. Report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "PMJAY_ODISHA_G_R1_2026032210005749",
+          "Package Code": "SG039C"
+        },
+        "1: Image classification": {
+          "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "USG abdomen"
+        },
+        "2a: Pre-procedure Image description": {
+          "Liver": "Not assessed / Not seen",
+          "Gall bladder": "Not assessed / Not seen",
+          "Spleen": "Not assessed / Not seen",
+          "Kidneys": "Not assessed / Not seen",
+          "Urinary bladder": "Not assessed / Not seen",
+          "Prostate/ Uterus": "Not assessed / Not seen",
+          "Peritoneal fluid": "Not assessed / Not seen"
+        },
+        "3a: Pre-procedure validity of reports": {
+          "Intra:Within report consistency check (Consistent/Partially supported/Unsupportred": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reason for Partially supported/Unsupported": "Not assessed / Not seen"
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+          "Reasoning_Alignment": "Not assessed / Not seen",
+          "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Pre-procedure investigation date (DD/MM/YYYY)": "",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag for one month older documents for pre-procedure investigations ": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Good"
+        },
+        "Summary PDF": "Pre image: USG abdomen. Gall bladder: Not assessed / Not seen. Report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "PMJAY_ODISHA_G_R1_2026032310008976",
+          "Package Code": "SG039C"
+        },
+        "1: Image classification": {
+          "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "USG abdomen"
+        },
+        "2a: Pre-procedure Image description": {
+          "Liver": "Not assessed / Not seen",
+          "Gall bladder": "Not assessed / Not seen",
+          "Spleen": "Not assessed / Not seen",
+          "Kidneys": "Not assessed / Not seen",
+          "Urinary bladder": "Not assessed / Not seen",
+          "Prostate/ Uterus": "Not assessed / Not seen",
+          "Peritoneal fluid": "Not assessed / Not seen"
+        },
+        "3a: Pre-procedure validity of reports": {
+          "Intra:Within report consistency check (Consistent/Partially supported/Unsupportred": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reason for Partially supported/Unsupported": "Not assessed / Not seen"
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+          "Reasoning_Alignment": "Not assessed / Not seen",
+          "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Pre-procedure investigation date (DD/MM/YYYY)": "",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag for one month older documents for pre-procedure investigations ": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Good"
+        },
+        "Summary PDF": "Pre image: USG abdomen. Gall bladder: Not assessed / Not seen. Report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "PMJAY_ODISHA_G_R1_2026032510018148",
+          "Package Code": "SG039C"
+        },
+        "1: Image classification": {
+          "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "USG abdomen"
+        },
+        "2a: Pre-procedure Image description": {
+          "Liver": "Not assessed / Not seen",
+          "Gall bladder": "Not assessed / Not seen",
+          "Spleen": "Not assessed / Not seen",
+          "Kidneys": "Not assessed / Not seen",
+          "Urinary bladder": "Not assessed / Not seen",
+          "Prostate/ Uterus": "Not assessed / Not seen",
+          "Peritoneal fluid": "Not assessed / Not seen"
+        },
+        "3a: Pre-procedure validity of reports": {
+          "Intra:Within report consistency check (Consistent/Partially supported/Unsupportred": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reason for Partially supported/Unsupported": "Not assessed / Not seen"
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+          "Reasoning_Alignment": "Not assessed / Not seen",
+          "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Pre-procedure investigation date (DD/MM/YYYY)": "25/03/2024",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag for one month older documents for pre-procedure investigations ": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Good"
+        },
+        "Summary PDF": "Pre image: USG abdomen. Gall bladder: Not assessed / Not seen. Report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "PMJAY_UP_S_G_2025_R2_2026032210011112",
+          "Package Code": "SG039C"
+        },
+        "1: Image classification": {
+          "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "USG abdomen"
+        },
+        "2a: Pre-procedure Image description": {
+          "Liver": "Not assessed / Not seen",
+          "Gall bladder": "Not assessed / Not seen",
+          "Spleen": "Not assessed / Not seen",
+          "Kidneys": "Not assessed / Not seen",
+          "Urinary bladder": "Not assessed / Not seen",
+          "Prostate/ Uterus": "Not assessed / Not seen",
+          "Peritoneal fluid": "Not assessed / Not seen"
+        },
+        "3a: Pre-procedure validity of reports": {
+          "Intra:Within report consistency check (Consistent/Partially supported/Unsupportred": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reason for Partially supported/Unsupported": "Not assessed / Not seen"
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+          "Reasoning_Alignment": "Not assessed / Not seen",
+          "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Pre-procedure investigation date (DD/MM/YYYY)": "",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag for one month older documents for pre-procedure investigations ": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Good"
+        },
+        "Summary PDF": "Pre image: USG abdomen. Gall bladder: Not assessed / Not seen. Report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "PMJAY_UP_S_G_2025_R2_2026032310024962",
+          "Package Code": "SG039C"
+        },
+        "1: Image classification": {
+          "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "USG abdomen"
+        },
+        "2a: Pre-procedure Image description": {
+          "Liver": "Not assessed / Not seen",
+          "Gall bladder": "Not assessed / Not seen",
+          "Spleen": "Not assessed / Not seen",
+          "Kidneys": "Not assessed / Not seen",
+          "Urinary bladder": "Not assessed / Not seen",
+          "Prostate/ Uterus": "Not assessed / Not seen",
+          "Peritoneal fluid": "Not assessed / Not seen"
+        },
+        "3a: Pre-procedure validity of reports": {
+          "Intra:Within report consistency check (Consistent/Partially supported/Unsupportred": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reason for Partially supported/Unsupported": "Not assessed / Not seen"
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+          "Reasoning_Alignment": "Not assessed / Not seen",
+          "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Pre-procedure investigation date (DD/MM/YYYY)": "11/03/2020",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag for one month older documents for pre-procedure investigations ": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Fair - Blurred, Partial view"
+        },
+        "Summary PDF": "Pre image: USG abdomen. Gall bladder: Not assessed / Not seen. Report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "PMJAY_UP_S_G_2025_R2_2026032510052386",
+          "Package Code": "SG039C"
+        },
+        "1: Image classification": {
+          "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "USG abdomen"
+        },
+        "2a: Pre-procedure Image description": {
+          "Liver": "Not assessed / Not seen",
+          "Gall bladder": "Multiple stones visible within the gall bladder lumen. Wall appears normal. Lumen distended.",
+          "Spleen": "Not assessed / Not seen",
+          "Kidneys": "Right kidney visible.",
+          "Urinary bladder": "Not assessed / Not seen",
+          "Prostate/ Uterus": "Not assessed / Not seen",
+          "Peritoneal fluid": "Not assessed / Not seen"
+        },
+        "3a: Pre-procedure validity of reports": {
+          "Intra:Within report consistency check (Consistent/Partially supported/Unsupportred": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reason for Partially supported/Unsupported": "Not assessed / Not seen"
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+          "Reasoning_Alignment": "STG specifies USG abdomen must be PRE-procedure only; this case shows only post-procedure imaging.",
+          "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Partially supported",
+          "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Post-procedure ultrasound images exist, but STG does not mandate or align with this type of post-intervention imaging for cholecystectomy package."
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Pre-procedure investigation date (DD/MM/YYYY)": "",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag for one month older documents for pre-procedure investigations ": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Fair - Text is slightly blurry in places"
+        },
+        "Summary PDF": "Pre image: USG abdomen. Gall bladder: Multiple stones visible within the gall bladder lumen. Wall appears normal. Lumen distended.. Report correlation: Not assessed / Not seen. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported."
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "PMJAY_UP_S_G_2025_R2_2026032610012538",
+          "Package Code": "SG039C"
+        },
+        "1: Image classification": {
+          "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "USG abdomen"
+        },
+        "2a: Pre-procedure Image description": {
+          "Liver": "Not assessed / Not seen",
+          "Gall bladder": "Not assessed / Not seen",
+          "Spleen": "Not assessed / Not seen",
+          "Kidneys": "Not assessed / Not seen",
+          "Urinary bladder": "Not assessed / Not seen",
+          "Prostate/ Uterus": "Not assessed / Not seen",
+          "Peritoneal fluid": "Not assessed / Not seen"
+        },
+        "3a: Pre-procedure validity of reports": {
+          "Intra:Within report consistency check (Consistent/Partially supported/Unsupportred": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reason for Partially supported/Unsupported": "Not assessed / Not seen"
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+          "Reasoning_Alignment": "Not assessed / Not seen",
+          "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Pre-procedure investigation date (DD/MM/YYYY)": "10/03/2026",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag for one month older documents for pre-procedure investigations ": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Good"
+        },
+        "Summary PDF": "Pre image: USG abdomen. Gall bladder: Not assessed / Not seen. Report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+      }
+    ],
+    "SU007A": [
+      {
+        "Claim details": {
+          "Claim No. ": "MMJAA_UP_2026_R3_2026033010053802",
+          "Package code": "SU007A"
+        },
+        "1: Image classification": {
+          "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "IVP",
+          "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "X ray KUB"
+        },
+        "2a: Pre- Procedure Image description": {
+          "Pelvicalyceal system": "Not assessed / Not seen",
+          "Ureter": "Not assessed / Not seen",
+          "Urinary bladder": "Not assessed / Not seen",
+          "Stone visualisation": "Not assessed / Not seen"
+        },
+        "2b: Post Procedure Image description": {
+          "Any radio opaque shadow or calcification in abdomen region": "Yes",
+          "DJ stent/ PCN tube visualised": "DJ stent visualised on left side"
+        },
+        "3a: Pre-procedure validity of reports": {
+          "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n (Consistent/Partially supported/Unsupported)": "Partially supported",
+          "Reasoning (2)": "Pre-procedure findings in the USG (echogenic foci, renal calculi) support left renal pathology (size 26x15mm), but the}<i> detailed ureteral or stent status is not assessed</i> in the images."
+        },
+        "3b: Post-procedure validity of reports": {
+          "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Unsupported",
+          "Reasoning (2)": "<i>Post-procedure abdominal X-ray</i> shows only a DJ stent in situ but lacks conspicuous radio-opaque shadow matching the USG-reported 26x14mm calculus or ureteral/PCS dilatation from IVP."
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+          "Reasoning": "Only POST-procedure KUB X-ray with DJ stent visualisation is provided; no pre-procedure IVP found",
+          "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Unsupported",
+          "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Missing pre-procedure IVP required by SU007A"
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Pre-procedure investigation date (DD/MM/YYYY)": "",
+          "Post Procedure Investigation Date (DD/MM/YYYY)": "02/04/2026",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag for one month older documents for pre-procedure investigations ": "No",
+          "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Fair - Some image blur"
+        },
+        "Summary PDF": "Pre image: IVP. Post image: X ray KUB. Stone visualisation: Not assessed / Not seen. Post device evidence: DJ stent visualised on left side. Package alignment: Only post-procedure investigation aligns. STG alignment: Unsupported.",
+        "Remarks": ""
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "PMJAY_UK_S_2026_R4_2026040110012509",
+          "Package code": "SU007A"
+        },
+        "1: Image classification": {
+          "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "IVP",
+          "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "X ray KUB"
+        },
+        "2a: Pre- Procedure Image description": {
+          "Pelvicalyceal system": "Not assessed / Not seen",
+          "Ureter": "Not assessed / Not seen",
+          "Urinary bladder": "Not assessed / Not seen",
+          "Stone visualisation": "Not assessed / Not seen"
+        },
+        "2b: Post Procedure Image description": {
+          "Any radio opaque shadow or calcification in abdomen region": "Yes",
+          "DJ stent/ PCN tube visualised": "DJ stent visualised on right side"
+        },
+        "3a: Pre-procedure validity of reports": {
+          "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning (2)": "No pre-procedure investigation (IVP or other) clearly linked to this dossier stage; only intra-procedure IVP (dated 04/03/2026) and post-procedure KUB X-ray were provided."
+        },
+        "3b: Post-procedure validity of reports": {
+          "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Unsupported",
+          "Reasoning (2)": "The post-procedure KUB report contradictory recalls a left-sided DJ stent in contrast to X-ray image observations (and IVP report also documenting left stenting), despite aerosolized findings confirming its presence."
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+          "Reasoning": "Pre-procedure IVP exists but was performed intra-procedure without specified staging or exclusion for pre-procedure suitability.",
+          "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Partially supported",
+          "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Only the POST-procedure KUB X-ray matches the expected investigation (SU007A), though the evidence shows intra-procedural IVP not clearly labeled as pre-proc"
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Pre-procedure investigation date (DD/MM/YYYY)": "31/01/2020",
+          "Post Procedure Investigation Date (DD/MM/YYYY)": "04/04/2026",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag for one month older documents for pre-procedure investigations ": "No",
+          "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Fair - Slight blur, Some light reflections from the lightbox"
+        },
+        "Summary PDF": "Pre image: IVP. Post image: X ray KUB. Stone visualisation: Not assessed / Not seen. Post device evidence: DJ stent visualised on right side. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported.",
+        "Remarks": ""
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "PMJAY_UK_S_2026_R4_2026040210027830",
+          "Package code": "SU007A"
+        },
+        "1: Image classification": {
+          "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "IVP",
+          "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "X ray KUB"
+        },
+        "2a: Pre- Procedure Image description": {
+          "Pelvicalyceal system": "Normal",
+          "Ureter": "Normal",
+          "Urinary bladder": "Normal in size, shape and contour.",
+          "Stone visualisation": "Not seen"
+        },
+        "2b: Post Procedure Image description": {
+          "Any radio opaque shadow or calcification in abdomen region": "Yes",
+          "DJ stent/ PCN tube visualised": "Not seen"
+        },
+        "3a: Pre-procedure validity of reports": {
+          "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n (Consistent/Partially supported/Unsupported)": "Unsupported",
+          "Reasoning (2)": "No clear pre-procedure report exists within the evidence matching the IVUSG and primary imaging; ultrasound evidence provided dates to mid-2020, making correlation irrelevant to this post-procedure claim."
+        },
+        "3b: Post-procedure validity of reports": {
+          "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Partially supported",
+          "Reasoning (2)": "Post-procedure images show stone calculations and hydronephrosis (IVP/USG) but inconsistency persists between the KUB report suggesting 'normal' renal shadows and IVP findings identifying bilateral calculi, requiring further procedural timeline correlation."
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Both pre procedure and post procedure investigations align",
+          "Reasoning": "Valid postmodern USG image and IVP reports exist alongside correctly defined pre/post-procedure studies.",
+          "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Partially supported",
+          "Reason for deviation from STG (to be mapped to PPD and CPD section)": "POST IVP (closest investigator to Su007A assertion) shows verified DJ stent but missing PRE-IVP for definitive baseline assessment and missing POST KUB X-ray standard."
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Pre-procedure investigation date (DD/MM/YYYY)": "04/04/2026",
+          "Post Procedure Investigation Date (DD/MM/YYYY)": "27/03/2026",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag for one month older documents for pre-procedure investigations ": "No",
+          "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Fair - Slightly tilted view, Some text cut off"
+        },
+        "Summary PDF": "Pre image: IVP. Post image: X ray KUB. Stone visualisation: Not seen. Post device evidence: Not seen. Package alignment: Both pre procedure and post procedure investigations align. STG alignment: Partially supported.",
+        "Remarks": ""
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "PMJAY_UK_S_2026_R4_2026040310034128",
+          "Package code": "SU007A"
+        },
+        "1: Image classification": {
+          "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "IVP",
+          "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "X ray KUB"
+        },
+        "2a: Pre- Procedure Image description": {
+          "Pelvicalyceal system": "Not assessed / Not seen",
+          "Ureter": "Not assessed / Not seen",
+          "Urinary bladder": "Not assessed / Not seen",
+          "Stone visualisation": "Not assessed / Not seen"
+        },
+        "2b: Post Procedure Image description": {
+          "Any radio opaque shadow or calcification in abdomen region": "Not assessed / Not seen",
+          "DJ stent/ PCN tube visualised": "Not assessed / Not seen"
+        },
+        "3a: Pre-procedure validity of reports": {
+          "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning (2)": "Not assessed / Not seen"
+        },
+        "3b: Post-procedure validity of reports": {
+          "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+          "Reasoning (2)": "Not assessed / Not seen"
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Pre-procedure investigation date (DD/MM/YYYY)": "",
+          "Post Procedure Investigation Date (DD/MM/YYYY)": "05/04/2026",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag for one month older documents for pre-procedure investigations ": "No",
+          "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Fair - Slight blur"
+        },
+        "Summary PDF": "Pre image: IVP. Post image: X ray KUB. Stone visualisation: Not assessed / Not seen. Post device evidence: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen.",
+        "Remarks": ""
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "PMJAY_UK_S_2026_R4_2026040410043395",
+          "Package code": "SU007A"
+        },
+        "1: Image classification": {
+          "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "IVP",
+          "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "X ray KUB"
+        },
+        "2a: Pre- Procedure Image description": {
+          "Pelvicalyceal system": "Not assessed / Not seen",
+          "Ureter": "Not assessed / Not seen",
+          "Urinary bladder": "Not assessed / Not seen",
+          "Stone visualisation": "Not assessed / Not seen"
+        },
+        "2b: Post Procedure Image description": {
+          "Any radio opaque shadow or calcification in abdomen region": "Not assessed / Not seen",
+          "DJ stent/ PCN tube visualised": "Not assessed / Not seen"
+        },
+        "3a: Pre-procedure validity of reports": {
+          "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning (2)": "Not assessed / Not seen"
+        },
+        "3b: Post-procedure validity of reports": {
+          "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+          "Reasoning (2)": "Not assessed / Not seen"
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Pre-procedure investigation date (DD/MM/YYYY)": "30/03/2026",
+          "Post Procedure Investigation Date (DD/MM/YYYY)": "06/04/2026",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag for one month older documents for pre-procedure investigations ": "No",
+          "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Good"
+        },
+        "Summary PDF": "Pre image: IVP. Post image: X ray KUB. Stone visualisation: Not assessed / Not seen. Post device evidence: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen.",
+        "Remarks": ""
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "PMJAY_UP_S_G_2025_R2_1022259191",
+          "Package code": "SU007A"
+        },
+        "1: Image classification": {
+          "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "IVP",
+          "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "X ray KUB"
+        },
+        "2a: Pre- Procedure Image description": {
+          "Pelvicalyceal system": "Normal",
+          "Ureter": "Normal",
+          "Urinary bladder": "Normal",
+          "Stone visualisation": "Not seen"
+        },
+        "2b: Post Procedure Image description": {
+          "Any radio opaque shadow or calcification in abdomen region": "Yes",
+          "DJ stent/ PCN tube visualised": "DJ stent visualised on left side"
+        },
+        "3a: Pre-procedure validity of reports": {
+          "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n (Consistent/Partially supported/Unsupported)": "Unsupported",
+          "Reasoning (2)": "يسون نشده است به دلیل عدم ترسیم اپاراتی Texte گاردشه در گزارش برخلاف scenes تشریح ت Bezwarری belowیวันที่ منجر می‌شود به presumptive calculus left ureter،"
+        },
+        "3b: Post-procedure validity of reports": {
+          "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Partially supported",
+          "Reasoning (2)": "Not assessed / Not seen"
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+          "Reasoning": "Pre-procedure IVP was present but no clear alignment with standard for pre-DJ stenting/PCN; stray intra-procedure images miss the required ‘true’ pre-procedure IVP. Only post-procedure X-ray KUB aligns definitively.",
+          "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Partially supported",
+          "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Package mandates explicit PRE-IVP (NOT intra) and POST-X-ray-KUB; though POST-KUB validate stent placement, pre-procedure evidence remains misaligned/timing$."
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Pre-procedure investigation date (DD/MM/YYYY)": "23/02/2026",
+          "Post Procedure Investigation Date (DD/MM/YYYY)": "06/04/2026",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag for one month older documents for pre-procedure investigations ": "No",
+          "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Fair - Glare/reflections on the image surface, Text is partially obscured"
+        },
+        "Summary PDF": "Pre image: IVP. Post image: X ray KUB. Stone visualisation: Not seen. Post device evidence: DJ stent visualised on left side. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported.",
+        "Remarks": ""
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "PMJAY_UP_S_G_2025_R2_2026032810029675",
+          "Package code": "SU007A"
+        },
+        "1: Image classification": {
+          "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "IVP",
+          "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "X ray KUB"
+        },
+        "2a: Pre- Procedure Image description": {
+          "Pelvicalyceal system": "Not assessed / Not seen",
+          "Ureter": "Not assessed / Not seen",
+          "Urinary bladder": "Not assessed / Not seen",
+          "Stone visualisation": "Not assessed / Not seen"
+        },
+        "2b: Post Procedure Image description": {
+          "Any radio opaque shadow or calcification in abdomen region": "Not assessed / Not seen",
+          "DJ stent/ PCN tube visualised": "Not assessed / Not seen"
+        },
+        "3a: Pre-procedure validity of reports": {
+          "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning (2)": "Not assessed / Not seen"
+        },
+        "3b: Post-procedure validity of reports": {
+          "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+          "Reasoning (2)": "Not assessed / Not seen"
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Pre-procedure investigation date (DD/MM/YYYY)": "",
+          "Post Procedure Investigation Date (DD/MM/YYYY)": "31/03/2026",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag for one month older documents for pre-procedure investigations ": "No",
+          "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Good"
+        },
+        "Summary PDF": "Pre image: IVP. Post image: X ray KUB. Stone visualisation: Not assessed / Not seen. Post device evidence: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen.",
+        "Remarks": ""
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "PMJAY_UP_S_G_2025_R2_2026032810042482",
+          "Package code": "SU007A"
+        },
+        "1: Image classification": {
+          "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "IVP",
+          "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "X ray KUB"
+        },
+        "2a: Pre- Procedure Image description": {
+          "Pelvicalyceal system": "Not assessed / Not seen",
+          "Ureter": "Not assessed / Not seen",
+          "Urinary bladder": "Not assessed / Not seen",
+          "Stone visualisation": "Not assessed / Not seen"
+        },
+        "2b: Post Procedure Image description": {
+          "Any radio opaque shadow or calcification in abdomen region": "Not assessed / Not seen",
+          "DJ stent/ PCN tube visualised": "Not assessed / Not seen"
+        },
+        "3a: Pre-procedure validity of reports": {
+          "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning (2)": "Not assessed / Not seen"
+        },
+        "3b: Post-procedure validity of reports": {
+          "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+          "Reasoning (2)": "Not assessed / Not seen"
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Pre-procedure investigation date (DD/MM/YYYY)": "",
+          "Post Procedure Investigation Date (DD/MM/YYYY)": "31/03/2026",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag for one month older documents for pre-procedure investigations ": "No",
+          "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Good"
+        },
+        "Summary PDF": "Pre image: IVP. Post image: X ray KUB. Stone visualisation: Not assessed / Not seen. Post device evidence: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen.",
+        "Remarks": ""
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "PMJAY_UP_S_G_2026_R3_2026032910017453",
+          "Package code": "SU007A"
+        },
+        "1: Image classification": {
+          "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "IVP",
+          "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "X ray KUB"
+        },
+        "2a: Pre- Procedure Image description": {
+          "Pelvicalyceal system": "Not assessed / Not seen",
+          "Ureter": "Not assessed / Not seen",
+          "Urinary bladder": "Not assessed / Not seen",
+          "Stone visualisation": "Not assessed / Not seen"
+        },
+        "2b: Post Procedure Image description": {
+          "Any radio opaque shadow or calcification in abdomen region": "Not assessed / Not seen",
+          "DJ stent/ PCN tube visualised": "Not assessed / Not seen"
+        },
+        "3a: Pre-procedure validity of reports": {
+          "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning (2)": "Not assessed / Not seen"
+        },
+        "3b: Post-procedure validity of reports": {
+          "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+          "Reasoning (2)": "Not assessed / Not seen"
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Pre-procedure investigation date (DD/MM/YYYY)": "02/04/2026",
+          "Post Procedure Investigation Date (DD/MM/YYYY)": "02/04/2026",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag for one month older documents for pre-procedure investigations ": "No",
+          "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Fair - blur, partial view"
+        },
+        "Summary PDF": "Pre image: IVP. Post image: X ray KUB. Stone visualisation: Not assessed / Not seen. Post device evidence: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen.",
+        "Remarks": ""
+      },
+      {
+        "Claim details": {
+          "Claim No. ": "PMJAY_UP_S_G_2026_R3_2026040410017201",
+          "Package code": "SU007A"
+        },
+        "1: Image classification": {
+          "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "IVP",
+          "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "X ray KUB"
+        },
+        "2a: Pre- Procedure Image description": {
+          "Pelvicalyceal system": "Dilated with maintained cupping of calyces",
+          "Ureter": "Right upper ureter is mildly dilated. And delayed excretion on the left ureter.",
+          "Urinary bladder": "Distended and normally opacified by contrast. No obvious irregularity of wall / filling defect seen.",
+          "Stone visualisation": "Visualised on both sides"
+        },
+        "2b: Post Procedure Image description": {
+          "Any radio opaque shadow or calcification in abdomen region": "Yes",
+          "DJ stent/ PCN tube visualised": "DJ stent visualised on right side"
+        },
+        "3a: Pre-procedure validity of reports": {
+          "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n (Consistent/Partially supported/Unsupported)": "Partially supported",
+          "Reasoning (2)": "Pre-procedure anatomical staging is inconsistently assessed/visible across IVP reports; stones and calyceal changes are documented but are not entirely mirrored in all comparative image pages."
+        },
+        "3b: Post-procedure validity of reports": {
+          "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+          "Reasoning": "Not assessed / Not seen",
+          "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Consistent",
+          "Reasoning (2)": "Post-procedure KUB X-ray and report confirm the presence and placement of a DJ stent on the right side, without abnormal radio-opaque shadows in urinary structures."
+        },
+        "3: Procedure code and STG alignment": {
+          "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+          "Reasoning": "No valid pre-procedure IVP (staging aside,  unconfirmed renditometry) reported for alignment; valid POST X-ray KUB aligns with package.",
+          "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Partially supported",
+          "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Correct post-op X-ray (KUB) with DJ stent visualisation documented, but pre-procedure IVP screening missing despite expectations."
+        },
+        "4: Stage awareness": {
+          "Admission Date (DD/MM/YYYY)": "",
+          "Pre-procedure investigation date (DD/MM/YYYY)": "04/03/2026",
+          "Post Procedure Investigation Date (DD/MM/YYYY)": "04/06/2026",
+          "Discharge Date (DD/MM/YYYY)": "",
+          "Flag for one month older documents for pre-procedure investigations ": "No",
+          "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+        },
+        "5. Quality": {
+          "Comment on image quality/ usability": "Fair - minor blur"
+        },
+        "Summary PDF": "Pre image: IVP. Post image: X ray KUB. Stone visualisation: Visualised on both sides. Post device evidence: DJ stent visualised on right side. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported.",
+        "Remarks": ""
+      }
+    ]
+  },
+  "final_reviewer_flags": [],
+  "final_case_summaries": [
+    {
+      "package_code": "MC011A",
+      "case_id": "BOCW_GJ_R3_2026040310046613_ER",
+      "num_pages": 24,
+      "num_flags": 0,
+      "overall_note": "Pre image: Cardiac angiogram (multiple stills). Post image: Cardiac angiogram (multiple stills). Pre report correlation: Not assessed / Not seen. Post report correlation: Partially supported. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported."
+    },
+    {
+      "package_code": "MC011A",
+      "case_id": "GOV_GJ_R2_2025_2026040410000059",
+      "num_pages": 4,
+      "num_flags": 0,
+      "overall_note": "Pre image: Cardiac angiogram (multiple stills). Post image: Cardiac angiogram (multiple stills). Pre report correlation: Not assessed / Not seen. Post report correlation: Consistent. Package alignment: Only post-procedure investigation aligns. STG alignment: Consistent."
+    },
+    {
+      "package_code": "MC011A",
+      "case_id": "MAV_GJ_R3_2026040310038930_ER",
+      "num_pages": 7,
+      "num_flags": 0,
+      "overall_note": "Pre image: Cardiac angiogram (multiple stills). Post image: Cardiac angiogram (multiple stills). Pre report correlation: Partially supported. Post report correlation: Consistent. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported."
+    },
+    {
+      "package_code": "MC011A",
+      "case_id": "PMJAY_DL_S_G_R2_2026040210052168",
+      "num_pages": 4,
+      "num_flags": 0,
+      "overall_note": "Pre image: Cardiac angiogram (multiple stills). Post image: Cardiac angiogram (multiple stills). Pre report correlation: Partially supported. Post report correlation: Consistent. Package alignment: Both pre-procedure and post-procedure investigations align. STG alignment: Consistent."
+    },
+    {
+      "package_code": "MC011A",
+      "case_id": "PMJAY_GJ_S_G_R3_2026033110058967_ER",
+      "num_pages": 8,
+      "num_flags": 0,
+      "overall_note": "Pre image: Cardiac angiogram (multiple stills). Post image: Cardiac angiogram (multiple stills). Pre report correlation: Partially supported. Post report correlation: Consistent. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported."
+    },
+    {
+      "package_code": "MC011A",
+      "case_id": "PMJAY_GJ_S_G_R3_2026040410001743",
+      "num_pages": 4,
+      "num_flags": 0,
+      "overall_note": "Pre image: Cardiac angiogram (multiple stills). Post image: Cardiac angiogram (multiple stills). Pre report correlation: Not assessed / Not seen. Post report correlation: Not assessed / Not seen. Package alignment: Only post-procedure investigation aligns. STG alignment: Consistent."
+    },
+    {
+      "package_code": "MC011A",
+      "case_id": "PMJAY_MH_S_G_R1_2026032310059049",
+      "num_pages": 18,
+      "num_flags": 0,
+      "overall_note": "Pre image: Cardiac angiogram (multiple stills). Post image: Cardiac angiogram (multiple stills). Pre report correlation: Not assessed / Not seen. Post report correlation: Partially supported. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported."
+    },
+    {
+      "package_code": "MC011A",
+      "case_id": "PMJAY_MH_S_G_R1_2026032610038286_P",
+      "num_pages": 16,
+      "num_flags": 0,
+      "overall_note": "Pre image: Cardiac angiogram (multiple stills). Post image: Cardiac angiogram (multiple stills). Pre report correlation: Partially supported. Post report correlation: Consistent. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported."
+    },
+    {
+      "package_code": "MC011A",
+      "case_id": "PMJAY_MH_S_G_R1_2026032910015645",
+      "num_pages": 21,
+      "num_flags": 0,
+      "overall_note": "Pre image: Cardiac angiogram (multiple stills). Post image: Cardiac angiogram (multiple stills). Pre report correlation: Partially supported. Post report correlation: Consistent. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported."
+    },
+    {
+      "package_code": "MC011A",
+      "case_id": "PMJAY_MH_S_G_R2_2026040210048407",
+      "num_pages": 5,
+      "num_flags": 0,
+      "overall_note": "Pre image: Cardiac angiogram (multiple stills). Post image: Cardiac angiogram (multiple stills). Pre report correlation: Not assessed / Not seen. Post report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+    },
+    {
+      "package_code": "MG029A",
+      "case_id": "BOCW_UP_2025_R2_2026032410041507",
+      "num_pages": 2,
+      "num_flags": 0,
+      "overall_note": "Post image: Chest X ray. Lung fields: Clear bilateral lung fields. Report correlation: Not assessed / Not seen. Package alignment: Only post-procedure investigation aligns. STG alignment: Consistent."
+    },
+    {
+      "package_code": "MG029A",
+      "case_id": "MAV_GJ_R3_2026033110059264",
+      "num_pages": 4,
+      "num_flags": 0,
+      "overall_note": "Post image: Chest X ray. Lung fields: Not assessed / Not seen. Report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+    },
+    {
+      "package_code": "MG029A",
+      "case_id": "MMJAA_UP_2025_R2_2026032010050826",
+      "num_pages": 2,
+      "num_flags": 0,
+      "overall_note": "Post image: Chest X ray. Lung fields: Clear. Report correlation: Not assessed / Not seen. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported."
+    },
+    {
+      "package_code": "MG029A",
+      "case_id": "MMJAA_UP_2025_R2_2026032410067475",
+      "num_pages": 2,
+      "num_flags": 0,
+      "overall_note": "Post image: Chest X ray. Lung fields: Clear. Report correlation: Not assessed / Not seen. Package alignment: Only pre-procedure investigation aligns. STG alignment: Unsupported."
+    },
+    {
+      "package_code": "MG029A",
+      "case_id": "MMJAA_UP_2025_R2_2026032510051485",
+      "num_pages": 2,
+      "num_flags": 0,
+      "overall_note": "Post image: Chest X ray. Lung fields: Clear bilateral lung fields. Report correlation: Not assessed / Not seen. Package alignment: Only post-procedure investigation aligns. STG alignment: Consistent."
+    },
+    {
+      "package_code": "MG029A",
+      "case_id": "PMJAY_MH_S_G_R1_2026032310043558",
+      "num_pages": 2,
+      "num_flags": 0,
+      "overall_note": "Post image: Chest X ray. Lung fields: Not assessed / Not seen. Report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+    },
+    {
+      "package_code": "MG029A",
+      "case_id": "PMJAY_UP_S_G_2025_R2_2026032610030540",
+      "num_pages": 2,
+      "num_flags": 0,
+      "overall_note": "Post image: Chest X ray. Lung fields: Clear bilateral lung fields. Report correlation: Not assessed / Not seen. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported."
+    },
+    {
+      "package_code": "MG029A",
+      "case_id": "PMJAY_UP_S_G_2025_R2_2026032610036919",
+      "num_pages": 2,
+      "num_flags": 0,
+      "overall_note": "Post image: Chest X ray. Lung fields: Clear bilateral lung fields. Report correlation: Not assessed / Not seen. Package alignment: Only post-procedure investigation aligns. STG alignment: Consistent."
+    },
+    {
+      "package_code": "MG029A",
+      "case_id": "PMJAY_UP_S_G_2025_R2_2026032810007619",
+      "num_pages": 2,
+      "num_flags": 0,
+      "overall_note": "Post image: Chest X ray. Lung fields: Not assessed / Not seen. Report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+    },
+    {
+      "package_code": "MG029A",
+      "case_id": "PMJAY_UP_S_G_2025_R2_2026032810035589",
+      "num_pages": 2,
+      "num_flags": 0,
+      "overall_note": "Post image: Chest X ray. Lung fields: Clear. Report correlation: Not assessed / Not seen. Package alignment: Only pre-procedure investigation aligns. STG alignment: Unsupported."
+    },
+    {
+      "package_code": "SG039C",
+      "case_id": "BOCW_UP_2025_R2_2026032310064837",
+      "num_pages": 2,
+      "num_flags": 0,
+      "overall_note": "Pre image: USG abdomen. Gall bladder: Multiple echogenic foci are seen within the gall bladder lumen, suggestive of stones. Gall bladder wall appears thickened.. Report correlation: Not assessed / Not seen. Package alignment: Only post-procedure investigation aligns. STG alignment: Unsupported."
+    },
+    {
+      "package_code": "SG039C",
+      "case_id": "PMJAY_JH_S_G_R2_2026032510041783",
+      "num_pages": 3,
+      "num_flags": 0,
+      "overall_note": "Pre image: USG abdomen. Gall bladder: Distended with normal shape, size and position, also normal wall thickness showing are multiple hyper echoic structures with posterior acoustic shadow at the body and neck. Largest calculus measuring approx 1.77 cm.. Report correlation: Not assessed / Not seen. Package alignment: Only post-procedure investigateion aligns. STG alignment: Partially supported."
+    },
+    {
+      "package_code": "SG039C",
+      "case_id": "PMJAY_MH_S_G_R1_1022038744",
+      "num_pages": 3,
+      "num_flags": 0,
+      "overall_note": "Pre image: USG abdomen. Gall bladder: Not assessed / Not seen. Report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+    },
+    {
+      "package_code": "SG039C",
+      "case_id": "PMJAY_ODISHA_G_R1_2026032210005749",
+      "num_pages": 2,
+      "num_flags": 0,
+      "overall_note": "Pre image: USG abdomen. Gall bladder: Not assessed / Not seen. Report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+    },
+    {
+      "package_code": "SG039C",
+      "case_id": "PMJAY_ODISHA_G_R1_2026032310008976",
+      "num_pages": 2,
+      "num_flags": 0,
+      "overall_note": "Pre image: USG abdomen. Gall bladder: Not assessed / Not seen. Report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+    },
+    {
+      "package_code": "SG039C",
+      "case_id": "PMJAY_ODISHA_G_R1_2026032510018148",
+      "num_pages": 2,
+      "num_flags": 0,
+      "overall_note": "Pre image: USG abdomen. Gall bladder: Not assessed / Not seen. Report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+    },
+    {
+      "package_code": "SG039C",
+      "case_id": "PMJAY_UP_S_G_2025_R2_2026032210011112",
+      "num_pages": 2,
+      "num_flags": 0,
+      "overall_note": "Pre image: USG abdomen. Gall bladder: Not assessed / Not seen. Report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+    },
+    {
+      "package_code": "SG039C",
+      "case_id": "PMJAY_UP_S_G_2025_R2_2026032310024962",
+      "num_pages": 3,
+      "num_flags": 0,
+      "overall_note": "Pre image: USG abdomen. Gall bladder: Not assessed / Not seen. Report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+    },
+    {
+      "package_code": "SG039C",
+      "case_id": "PMJAY_UP_S_G_2025_R2_2026032510052386",
+      "num_pages": 2,
+      "num_flags": 0,
+      "overall_note": "Pre image: USG abdomen. Gall bladder: Multiple stones visible within the gall bladder lumen. Wall appears normal. Lumen distended.. Report correlation: Not assessed / Not seen. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported."
+    },
+    {
+      "package_code": "SG039C",
+      "case_id": "PMJAY_UP_S_G_2025_R2_2026032610012538",
+      "num_pages": 2,
+      "num_flags": 0,
+      "overall_note": "Pre image: USG abdomen. Gall bladder: Not assessed / Not seen. Report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+    },
+    {
+      "package_code": "SU007A",
+      "case_id": "MMJAA_UP_2026_R3_2026033010053802",
+      "num_pages": 5,
+      "num_flags": 0,
+      "overall_note": "Pre image: IVP. Post image: X ray KUB. Stone visualisation: Not assessed / Not seen. Post device evidence: DJ stent visualised on left side. Package alignment: Only post-procedure investigation aligns. STG alignment: Unsupported."
+    },
+    {
+      "package_code": "SU007A",
+      "case_id": "PMJAY_UK_S_2026_R4_2026040110012509",
+      "num_pages": 4,
+      "num_flags": 0,
+      "overall_note": "Pre image: IVP. Post image: X ray KUB. Stone visualisation: Not assessed / Not seen. Post device evidence: DJ stent visualised on right side. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported."
+    },
+    {
+      "package_code": "SU007A",
+      "case_id": "PMJAY_UK_S_2026_R4_2026040210027830",
+      "num_pages": 6,
+      "num_flags": 0,
+      "overall_note": "Pre image: IVP. Post image: X ray KUB. Stone visualisation: Not seen. Post device evidence: Not seen. Package alignment: Both pre procedure and post procedure investigations align. STG alignment: Partially supported."
+    },
+    {
+      "package_code": "SU007A",
+      "case_id": "PMJAY_UK_S_2026_R4_2026040310034128",
+      "num_pages": 4,
+      "num_flags": 0,
+      "overall_note": "Pre image: IVP. Post image: X ray KUB. Stone visualisation: Not assessed / Not seen. Post device evidence: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+    },
+    {
+      "package_code": "SU007A",
+      "case_id": "PMJAY_UK_S_2026_R4_2026040410043395",
+      "num_pages": 4,
+      "num_flags": 0,
+      "overall_note": "Pre image: IVP. Post image: X ray KUB. Stone visualisation: Not assessed / Not seen. Post device evidence: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+    },
+    {
+      "package_code": "SU007A",
+      "case_id": "PMJAY_UP_S_G_2025_R2_1022259191",
+      "num_pages": 3,
+      "num_flags": 0,
+      "overall_note": "Pre image: IVP. Post image: X ray KUB. Stone visualisation: Not seen. Post device evidence: DJ stent visualised on left side. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported."
+    },
+    {
+      "package_code": "SU007A",
+      "case_id": "PMJAY_UP_S_G_2025_R2_2026032810029675",
+      "num_pages": 4,
+      "num_flags": 0,
+      "overall_note": "Pre image: IVP. Post image: X ray KUB. Stone visualisation: Not assessed / Not seen. Post device evidence: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+    },
+    {
+      "package_code": "SU007A",
+      "case_id": "PMJAY_UP_S_G_2025_R2_2026032810042482",
+      "num_pages": 4,
+      "num_flags": 0,
+      "overall_note": "Pre image: IVP. Post image: X ray KUB. Stone visualisation: Not assessed / Not seen. Post device evidence: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+    },
+    {
+      "package_code": "SU007A",
+      "case_id": "PMJAY_UP_S_G_2026_R3_2026032910017453",
+      "num_pages": 5,
+      "num_flags": 0,
+      "overall_note": "Pre image: IVP. Post image: X ray KUB. Stone visualisation: Not assessed / Not seen. Post device evidence: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+    },
+    {
+      "package_code": "SU007A",
+      "case_id": "PMJAY_UP_S_G_2026_R3_2026040410017201",
+      "num_pages": 5,
+      "num_flags": 0,
+      "overall_note": "Pre image: IVP. Post image: X ray KUB. Stone visualisation: Visualised on both sides. Post device evidence: DJ stent visualised on right side. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported."
+    }
+  ]
+}

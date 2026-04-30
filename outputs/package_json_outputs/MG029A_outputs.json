@@ -1,0 +1,382 @@
+[
+  {
+    "Claim details": {
+      "Claim No. ": "BOCW_UP_2025_R2_2026032410041507",
+      "Package_code": "MG029A"
+    },
+    "1: Image classification": {
+      "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Chest X ray"
+    },
+    "2b: Post Procedure Image description": {
+      "Lung fields": "Clear bilateral lung fields",
+      "Left and right CP angles": "Both clear",
+      "Left and right hilum": "Normal",
+      "Midline shift": "Not seen",
+      "Cardiac size": "Normal"
+    },
+    "3b: Post-procedure validity of reports": {
+      "Intra Report Consistency Check (within report)\n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning (2)": "Not assessed / Not seen"
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+      "Reason for Non alignment": "Package MG029A for COPD/pneumonitis follow-up matches expected POST-procedure chest X-ray only.",
+      "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Consistent",
+      "Reason for deviation from STG \n(to be mapped to PPD and CPD section)": "Claim aligns with the STG mandatory post-procedural chest X-ray requirement."
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "30/03/2026",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Fair - artifact, low contrast"
+    },
+    "Summary PDF": "Post image: Chest X ray. Lung fields: Clear bilateral lung fields. Report correlation: Not assessed / Not seen. Package alignment: Only post-procedure investigation aligns. STG alignment: Consistent."
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "MAV_GJ_R3_2026033110059264",
+      "Package_code": "MG029A"
+    },
+    "1: Image classification": {
+      "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Chest X ray"
+    },
+    "2b: Post Procedure Image description": {
+      "Lung fields": "Not assessed / Not seen",
+      "Left and right CP angles": "Not assessed / Not seen",
+      "Left and right hilum": "Not assessed / Not seen",
+      "Midline shift": "Not assessed / Not seen",
+      "Cardiac size": "Not assessed / Not seen"
+    },
+    "3b: Post-procedure validity of reports": {
+      "Intra Report Consistency Check (within report)\n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning (2)": "Not assessed / Not seen"
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+      "Reason for Non alignment": "Not assessed / Not seen",
+      "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reason for deviation from STG \n(to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "27/03/2026",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Fair - redaction of personal information"
+    },
+    "Summary PDF": "Post image: Chest X ray. Lung fields: Not assessed / Not seen. Report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "MMJAA_UP_2025_R2_2026032010050826",
+      "Package_code": "MG029A"
+    },
+    "1: Image classification": {
+      "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Chest X ray"
+    },
+    "2b: Post Procedure Image description": {
+      "Lung fields": "Clear",
+      "Left and right CP angles": "Both clear",
+      "Left and right hilum": "Normal",
+      "Midline shift": "Not seen",
+      "Cardiac size": "Normal"
+    },
+    "3b: Post-procedure validity of reports": {
+      "Intra Report Consistency Check (within report)\n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning (2)": "Not assessed / Not seen"
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+      "Reason for Non alignment": "Post-procedure chest X-ray is present; no pre-procedure image exists, though STG requires no pre-image",
+      "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Partially supported",
+      "Reason for deviation from STG \n(to be mapped to PPD and CPD section)": "MG029A explicitly requires a *single* **post-procedure** chest X-ray (accounted for); pre-procedure radiograph is excluded but not mandated via exception"
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "20/03/2026",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Fair - low contrast, partial view"
+    },
+    "Summary PDF": "Post image: Chest X ray. Lung fields: Clear. Report correlation: Not assessed / Not seen. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported."
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "MMJAA_UP_2025_R2_2026032410067475",
+      "Package_code": "MG029A"
+    },
+    "1: Image classification": {
+      "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Chest X ray"
+    },
+    "2b: Post Procedure Image description": {
+      "Lung fields": "Clear",
+      "Left and right CP angles": "Both clear",
+      "Left and right hilum": "Normal",
+      "Midline shift": "Not seen",
+      "Cardiac size": "Normal"
+    },
+    "3b: Post-procedure validity of reports": {
+      "Intra Report Consistency Check (within report)\n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning (2)": "Not assessed / Not seen"
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only pre-procedure investigation aligns",
+      "Reason for Non alignment": "Package MG029A expects only a **POST**-procedure CXR, but a pre-procedure CXR was submitted.",
+      "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Unsupported",
+      "Reason for deviation from STG \n(to be mapped to PPD and CPD section)": "case lacks mandated **post-procedure** imaging per STG."
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "24/03/2026",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Fair - obscured name"
+    },
+    "Summary PDF": "Post image: Chest X ray. Lung fields: Clear. Report correlation: Not assessed / Not seen. Package alignment: Only pre-procedure investigation aligns. STG alignment: Unsupported."
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "MMJAA_UP_2025_R2_2026032510051485",
+      "Package_code": "MG029A"
+    },
+    "1: Image classification": {
+      "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Chest X ray"
+    },
+    "2b: Post Procedure Image description": {
+      "Lung fields": "Clear bilateral lung fields",
+      "Left and right CP angles": "Both clear",
+      "Left and right hilum": "Normal",
+      "Midline shift": "Not seen",
+      "Cardiac size": "Normal"
+    },
+    "3b: Post-procedure validity of reports": {
+      "Intra Report Consistency Check (within report)\n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning (2)": "Not assessed / Not seen"
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+      "Reason for Non alignment": "Package MG029A expects only a post-procedure chest X-ray and this case has a validated post-procedure chest X-ray with report.",
+      "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Consistent",
+      "Reason for deviation from STG \n(to be mapped to PPD and CPD section)": "STG requires only one post-procedure X-ray, aligning with the claim."
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "26/03/2026",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Fair - contrast slightly reduced, some artifacts"
+    },
+    "Summary PDF": "Post image: Chest X ray. Lung fields: Clear bilateral lung fields. Report correlation: Not assessed / Not seen. Package alignment: Only post-procedure investigation aligns. STG alignment: Consistent."
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "PMJAY_MH_S_G_R1_2026032310043558",
+      "Package_code": "MG029A"
+    },
+    "1: Image classification": {
+      "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Chest X ray"
+    },
+    "2b: Post Procedure Image description": {
+      "Lung fields": "Not assessed / Not seen",
+      "Left and right CP angles": "Not assessed / Not seen",
+      "Left and right hilum": "Not assessed / Not seen",
+      "Midline shift": "Not assessed / Not seen",
+      "Cardiac size": "Not assessed / Not seen"
+    },
+    "3b: Post-procedure validity of reports": {
+      "Intra Report Consistency Check (within report)\n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning (2)": "Not assessed / Not seen"
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+      "Reason for Non alignment": "Not assessed / Not seen",
+      "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reason for deviation from STG \n(to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "02/03/2026",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Fair - blur, low contrast"
+    },
+    "Summary PDF": "Post image: Chest X ray. Lung fields: Not assessed / Not seen. Report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "PMJAY_UP_S_G_2025_R2_2026032610030540",
+      "Package_code": "MG029A"
+    },
+    "1: Image classification": {
+      "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Chest X ray"
+    },
+    "2b: Post Procedure Image description": {
+      "Lung fields": "Clear bilateral lung fields",
+      "Left and right CP angles": "Both clear",
+      "Left and right hilum": "Normal",
+      "Midline shift": "Not seen",
+      "Cardiac size": "Normal"
+    },
+    "3b: Post-procedure validity of reports": {
+      "Intra Report Consistency Check (within report)\n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning (2)": "Not assessed / Not seen"
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+      "Reason for Non alignment": "Only one post-procedure chest X-ray matches the MG029A guideline package. The pre-procedure X-ray provided is not explicitly labeled as pre-procedure.",
+      "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Partially supported",
+      "Reason for deviation from STG \n(to be mapped to PPD and CPD section)": "The package (MG029A) exclusively warrants a **single post-procedure chest X-ray**, whereas the dossier presents two X-rays (one likely mislabeled as pre-procedure, per documentation only) and lacks a formal report. Alignment is partial due to labeling and documentation gaps."
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "27/03/2026",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Fair - Blur, partial view, text overlap"
+    },
+    "Summary PDF": "Post image: Chest X ray. Lung fields: Clear bilateral lung fields. Report correlation: Not assessed / Not seen. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported."
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "PMJAY_UP_S_G_2025_R2_2026032610036919",
+      "Package_code": "MG029A"
+    },
+    "1: Image classification": {
+      "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Chest X ray"
+    },
+    "2b: Post Procedure Image description": {
+      "Lung fields": "Clear bilateral lung fields",
+      "Left and right CP angles": "Both clear",
+      "Left and right hilum": "Normal",
+      "Midline shift": "Not seen",
+      "Cardiac size": "Normal"
+    },
+    "3b: Post-procedure validity of reports": {
+      "Intra Report Consistency Check (within report)\n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning (2)": "Not assessed / Not seen"
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+      "Reason for Non alignment": "The dossier contains only a post-procedure chest X-ray aligning with MG029A.",
+      "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Consistent",
+      "Reason for deviation from STG \n(to be mapped to PPD and CPD section)": "Package MG029A explicitly requires only a post-procedure chest X-ray for COPD exacerbation/pneumonitis follow-up."
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "26/03/2026",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Fair - date stamp obscures portions of the image, visible grid pattern, some blur"
+    },
+    "Summary PDF": "Post image: Chest X ray. Lung fields: Clear bilateral lung fields. Report correlation: Not assessed / Not seen. Package alignment: Only post-procedure investigation aligns. STG alignment: Consistent."
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "PMJAY_UP_S_G_2025_R2_2026032810007619",
+      "Package_code": "MG029A"
+    },
+    "1: Image classification": {
+      "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Chest X ray"
+    },
+    "2b: Post Procedure Image description": {
+      "Lung fields": "Not assessed / Not seen",
+      "Left and right CP angles": "Not assessed / Not seen",
+      "Left and right hilum": "Not assessed / Not seen",
+      "Midline shift": "Not assessed / Not seen",
+      "Cardiac size": "Not assessed / Not seen"
+    },
+    "3b: Post-procedure validity of reports": {
+      "Intra Report Consistency Check (within report)\n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning (2)": "Not assessed / Not seen"
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+      "Reason for Non alignment": "Not assessed / Not seen",
+      "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reason for deviation from STG \n(to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "27/03/2026",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Good"
+    },
+    "Summary PDF": "Post image: Chest X ray. Lung fields: Not assessed / Not seen. Report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen."
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "PMJAY_UP_S_G_2025_R2_2026032810035589",
+      "Package_code": "MG029A"
+    },
+    "1: Image classification": {
+      "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Chest X ray"
+    },
+    "2b: Post Procedure Image description": {
+      "Lung fields": "Clear",
+      "Left and right CP angles": "Both clear",
+      "Left and right hilum": "Normal",
+      "Midline shift": "Not seen",
+      "Cardiac size": "Normal"
+    },
+    "3b: Post-procedure validity of reports": {
+      "Intra Report Consistency Check (within report)\n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning (2)": "Not assessed / Not seen"
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only pre-procedure investigation aligns",
+      "Reason for Non alignment": "Only a pre-procedure chest X-ray exists; post-procedure imaging is required by MG029A for follow-up Alignment",
+      "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Unsupported",
+      "Reason for deviation from STG \n(to be mapped to PPD and CPD section)": "Absent post-procedure X-ray makes the case non-compliant with MG029A package criteria"
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "29/03/2026",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Fair - Slightly aged appearance, Low contrast"
+    },
+    "Summary PDF": "Post image: Chest X ray. Lung fields: Clear. Report correlation: Not assessed / Not seen. Package alignment: Only pre-procedure investigation aligns. STG alignment: Unsupported."
+  }
+]

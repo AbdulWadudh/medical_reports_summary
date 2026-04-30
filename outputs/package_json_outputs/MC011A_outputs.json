@@ -1,0 +1,522 @@
+[
+  {
+    "Claim details": {
+      "Claim No. ": "BOCW_GJ_R3_2026040310046613_ER",
+      "Package Code": "MC011A"
+    },
+    "1: Image classification": {
+      "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)",
+      "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)"
+    },
+    "2a: Pre-procedure Image description": {
+      "LMCA": "Proximal ~ No disease, Mid ~ Not visualised, Distal ~ Not visualised",
+      "LAD": "Proximal ~ ~70% stenosis, Mid ~ ~60% stenosis, Distal ~ No disease",
+      "LCX ": "Proximal ~ No disease, Mid ~ No disease, Distal ~ Not visualised, OM ~ No disease",
+      "RCA": "Proximal ~ No disease, Mid ~ Not visualised, Distal ~ Not visualised"
+    },
+    "2b: Post-procedure Image description": {
+      "LMCA": "Not assessed / Not seen",
+      "LAD": "Proximal ~ normal, Mid ~ <percent>% stenosis, Distal ~ normal",
+      "LCX": "Proximal ~ normal, Mid ~ normal, Distal ~ normal, OM ~ normal",
+      "RCA": "Proximal ~ Not assessed / Not seen, Mid ~ Not assessed / Not seen, Distal ~ Not assessed / Not seen",
+      "Stent Visualization": "Yes"
+    },
+    "3a: Pre-procedure validity of reports": {
+      "Intra: Within report consistency check \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning (2)": "No pre-procedure angiography images or reports focusing on coronary anatomy are included in the dossier (only observational stent packaging exists)."
+    },
+    "3a: Post-procedure validity of reports (only inter)": {
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Partially supported",
+      "Reasoning": "The procedural report confirms successful PCI with stent placement for OM1 disease, while the final coronary angiogram images emphasize stent visualization but lack consistent anastomosis specifications in all coronary arteries per the report's findings, especially regarding RCA and LAD stenosis percentages."
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+      "Reasoning": "Pre-procedure angiogram (visualization of stent) missing, only post-procedure comes from PCI report (stent placement + TIMI-3 flow).",
+      "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Partially supported",
+      "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Procedural alignment confirmed (strandtilization reported) but pre-procedure angiogram to validate disease is absent."
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Pre-procedure investigation date (From written report, or else the radiological image) (DD/MM/YYYY)": "17/10/2023",
+      "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "11/02/2027",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag for one month older documents for pre-procedure investigations  (Yes/ No)": "No",
+      "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Fair - Slight blur, Partial view"
+    },
+    "Summary PDF": "Pre image: Cardiac angiogram (multiple stills). Post image: Cardiac angiogram (multiple stills). Pre report correlation: Not assessed / Not seen. Post report correlation: Partially supported. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported.",
+    "Remarks": ""
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "GOV_GJ_R2_2025_2026040410000059",
+      "Package Code": "MC011A"
+    },
+    "1: Image classification": {
+      "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)",
+      "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)"
+    },
+    "2a: Pre-procedure Image description": {
+      "LMCA": "Not assessed / Not seen",
+      "LAD": "Not assessed / Not seen",
+      "LCX ": "Not assessed / Not seen",
+      "RCA": "Not assessed / Not seen"
+    },
+    "2b: Post-procedure Image description": {
+      "LMCA": "Not assessed / Not seen",
+      "LAD": "Proximal ~ 99% stenosis, Mid ~ normal, Distal ~ normal",
+      "LCX": "Not assessed / Not seen",
+      "RCA": "Not assessed / Not seen",
+      "Stent Visualization": "Yes"
+    },
+    "3a: Pre-procedure validity of reports": {
+      "Intra: Within report consistency check \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning (2)": "No pre-procedure investigation (e.g., baseline coronary angiogram) in this package; evidence only shows intra/post-procedure imaging and reports."
+    },
+    "3a: Post-procedure validity of reports (only inter)": {
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Consistent",
+      "Reasoning": "Report documents LAD proximal 99% stenosis, which aligns with the intra-procedure images showing pre-stent 'stenosis 99%,' with post-dilation and stent deployment visualized."
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+      "Reasoning": "Assessment of stent placement and visually confirmed restored flow (post-procedure factoids: *stent_visualization: Yes, LAD now mid/distal normal*)",
+      "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Consistent",
+      "Reason for deviation from STG (to be mapped to PPD and CPD section)": "For MC011A, post-procedure images stents are explicitly documented in line with STG requirements."
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Pre-procedure investigation date (From written report, or else the radiological image) (DD/MM/YYYY)": "04/04/2026",
+      "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "04/04/2026",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag for one month older documents for pre-procedure investigations  (Yes/ No)": "No",
+      "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Fair - low contrast, grainy appearance"
+    },
+    "Summary PDF": "Pre image: Cardiac angiogram (multiple stills). Post image: Cardiac angiogram (multiple stills). Pre report correlation: Not assessed / Not seen. Post report correlation: Consistent. Package alignment: Only post-procedure investigation aligns. STG alignment: Consistent.",
+    "Remarks": ""
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "MAV_GJ_R3_2026040310038930_ER",
+      "Package Code": "MC011A"
+    },
+    "1: Image classification": {
+      "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)",
+      "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)"
+    },
+    "2a: Pre-procedure Image description": {
+      "LMCA": "Not assessed / Not seen",
+      "LAD": "Proximal ~ <50>% stenosis, Mid ~ <50>% stenosis, Distal ~ normal",
+      "LCX ": "Proximal ~ normal, Mid ~ Not visualised, Distal ~ Not visualised, OM ~ normal",
+      "RCA": "Proximal ~ normal, Mid ~ normal, Distal ~ normal"
+    },
+    "2b: Post-procedure Image description": {
+      "LMCA": "Not assessed / Not seen",
+      "LAD": "Proximal ~ <100%> stenosis, Mid ~ <100%> stenosis, Distal ~ <100%> stenosis",
+      "LCX": "Proximal ~ Not visualised, Mid ~ Not visualised, Distal ~ Not visualised, OM ~ Not visualised",
+      "RCA": "Proximal ~ Not visualised, Mid ~ Not visualised, Distal ~ Not visualised",
+      "Stent Visualization": "Yes"
+    },
+    "3a: Pre-procedure validity of reports": {
+      "Intra: Within report consistency check \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Partially supported",
+      "Reasoning (2)": "No clear pre-procedure coronary angiogram images found; only emergency status and general hemodynamics reported without direct anatomical stenosis mapping."
+    },
+    "3a: Post-procedure validity of reports (only inter)": {
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Consistent",
+      "Reasoning": "Angiographic images and reports confirm successful dual-stent placement in the LAD with resolution of mid 100% occlusion post-PAMI, aligningwith post-procedure summaries."
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+      "Reasoning": "Only post-procedure angiograms confirming stent placement and restored flow are documented; no pre-procedure angiogram attaches to the dossier.",
+      "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Partially supported",
+      "Reason for deviation from STG (to be mapped to PPD and CPD section)": "STG (MC011A) mandates BOTH pre- and post-procedure angiograms; only post-procedure images are available, documenting successful intervention."
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Pre-procedure investigation date (From written report, or else the radiological image) (DD/MM/YYYY)": "04/03/2026",
+      "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "03/04/2026",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag for one month older documents for pre-procedure investigations  (Yes/ No)": "No",
+      "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Fair - blur, low contrast, partial view"
+    },
+    "Summary PDF": "Pre image: Cardiac angiogram (multiple stills). Post image: Cardiac angiogram (multiple stills). Pre report correlation: Partially supported. Post report correlation: Consistent. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported.",
+    "Remarks": ""
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "PMJAY_DL_S_G_R2_2026040210052168",
+      "Package Code": "MC011A"
+    },
+    "1: Image classification": {
+      "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)",
+      "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)"
+    },
+    "2a: Pre-procedure Image description": {
+      "LMCA": "Not visualised",
+      "LAD": "Proximal ~ No disease, Mid ~ Not visualised, Distal ~ Not visualised",
+      "LCX ": "Proximal ~ Not visualised, Mid ~ Not visualised, Distal ~ Not visualised, OM ~ Not visualised",
+      "RCA": "Proximal ~ No disease, Mid ~ Not visualised, Distal ~ Not visualised"
+    },
+    "2b: Post-procedure Image description": {
+      "LMCA": "Not assessed / Not seen",
+      "LAD": "Proximal ~ normal, Mid ~ normal, Distal ~ normal",
+      "LCX": "Proximal ~ Not visualised, Mid ~ Not visualised, Distal ~ Not visualised, OM ~ Not visualised",
+      "RCA": "Proximal ~ normal, Mid ~ normal, Distal ~ normal",
+      "Stent Visualization": "Yes"
+    },
+    "3a: Pre-procedure validity of reports": {
+      "Intra: Within report consistency check \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Partially supported",
+      "Reasoning (2)": "Pre-procedure angiogram shows detailed stenosis (LAD mid 90% with thrombus, distal 90%) but arcuta anatomy (LCX/RCA) was not clearly visualised, issuing discrepancy with report's claim of 'double vessel disease'."
+    },
+    "3a: Post-procedure validity of reports (only inter)": {
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Consistent",
+      "Reasoning": "Post-procedure angiogram confirms normal stent placements and restored flow in LAD with absence of disease in visualized segments (proximal/mid/distal RCA and LAD), consistent with PE/management of dual DES stenting."
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Both pre-procedure and post-procedure investigations align",
+      "Reasoning": "Both pre- and post-coronary angiograms are available with explicit labeling and anatomical documentation consistent with the package details.",
+      "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Consistent",
+      "Reason for deviation from STG (to be mapped to PPD and CPD section)": "The package (MC011A) mandates pre- and post-procedure angiograms to demonstrate stent placement/flow restoration, both of which are present, align in modality, and clearly show pre-morbid and post-revascularization coronary anatomy."
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "02/04/2026",
+      "Pre-procedure investigation date (From written report, or else the radiological image) (DD/MM/YYYY)": "",
+      "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "04/04/2026",
+      "Discharge Date (DD/MM/YYYY)": "04/04/2026",
+      "Flag for one month older documents for pre-procedure investigations  (Yes/ No)": "No",
+      "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Fair - Partial view, Text overlay"
+    },
+    "Summary PDF": "Pre image: Cardiac angiogram (multiple stills). Post image: Cardiac angiogram (multiple stills). Pre report correlation: Partially supported. Post report correlation: Consistent. Package alignment: Both pre-procedure and post-procedure investigations align. STG alignment: Consistent.",
+    "Remarks": ""
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "PMJAY_GJ_S_G_R3_2026033110058967_ER",
+      "Package Code": "MC011A"
+    },
+    "1: Image classification": {
+      "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)",
+      "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)"
+    },
+    "2a: Pre-procedure Image description": {
+      "LMCA": "normal",
+      "LAD": "Proximal ~ No disease, Mid ~ <percent>% stenosis, Distal ~ normal",
+      "LCX ": "Proximal ~ Not visualised, Mid ~ 90% stenosis, Distal ~ Not visualised, OM ~ Not visualised",
+      "RCA": "Proximal ~ normal, Mid ~ normal, Distal ~ normal"
+    },
+    "2b: Post-procedure Image description": {
+      "LMCA": "Not assessed / Not seen",
+      "LAD": "Not assessed / Not seen",
+      "LCX": "Proximal ~ normal, Mid ~ normal, Distal ~ normal; OM ~ normal",
+      "RCA": "Not assessed / Not seen",
+      "Stent Visualization": "Yes"
+    },
+    "3a: Pre-procedure validity of reports": {
+      "Intra: Within report consistency check \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Partially supported",
+      "Reasoning (2)": "The pre-procedure report notes a 90% stenosis in the mid-LCX, while intra-procedure images confirm it, but some pre-report details on LAD stenosis are unclear and contradict anatomical notes in pages 1 and 2."
+    },
+    "3a: Post-procedure validity of reports (only inter)": {
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Consistent",
+      "Reasoning": "Post-procedure images and reports uniformly demonstrate successful stent placement in the LCX with TIMI III flow and no residual stenosis, confirming adequacy of intervention"
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+      "Reasoning": "No pre-procedure angiogram included in the dossier, but post-procedure coronary angiograms and report confirm stent deployment and restored flow.",
+      "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Partially supported",
+      "Reason for deviation from STG (to be mapped to PPD and CPD section)": "The reported procedure (PTCA with 1DES) and post-procedure images demonstrate stent placement and normal flow restoration, fulfilling key STG criteria, although full pre- and intra-procedure documentation is missing."
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Pre-procedure investigation date (From written report, or else the radiological image) (DD/MM/YYYY)": "31/03/2026",
+      "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "31/03/2026",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag for one month older documents for pre-procedure investigations  (Yes/ No)": "No",
+      "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Fair - handwriting not always clear, partial view"
+    },
+    "Summary PDF": "Pre image: Cardiac angiogram (multiple stills). Post image: Cardiac angiogram (multiple stills). Pre report correlation: Partially supported. Post report correlation: Consistent. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported.",
+    "Remarks": ""
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "PMJAY_GJ_S_G_R3_2026040410001743",
+      "Package Code": "MC011A"
+    },
+    "1: Image classification": {
+      "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)",
+      "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)"
+    },
+    "2a: Pre-procedure Image description": {
+      "LMCA": "Not assessed / Not seen",
+      "LAD": "Proximal ~ 99%, Mid ~ Not visualised, Distal ~ Not visualised",
+      "LCX ": "Not assessed / Not seen",
+      "RCA": "Not assessed / Not seen"
+    },
+    "2b: Post-procedure Image description": {
+      "LMCA": "Not assessed / Not seen",
+      "LAD": "Not assessed / Not seen",
+      "LCX": "Not assessed / Not seen",
+      "RCA": "Not assessed / Not seen",
+      "Stent Visualization": "Not assessed / Not seen"
+    },
+    "3a: Pre-procedure validity of reports": {
+      "Intra: Within report consistency check \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning (2)": "No pre-procedure investigation (such as baseline coronary angiogram or stress test) in this package."
+    },
+    "3a: Post-procedure validity of reports (only inter)": {
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen"
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+      "Reasoning": "Intra-procedure coronary angiograms confirm stent visualization post-PTCA and restored lumen flow.",
+      "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Consistent",
+      "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Intra-procedure angiograms visualize *both* stenosis pre-stent and *post*-stent **identified improved lumen flow** (impression:\n                                'Successful PTCA' with stent placement), fulfilling the package’s implicit post-procedure requirement."
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Pre-procedure investigation date (From written report, or else the radiological image) (DD/MM/YYYY)": "01/04/2026",
+      "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "04/04/2026",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag for one month older documents for pre-procedure investigations  (Yes/ No)": "No",
+      "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Fair - Partial view, Printed image - slight blur"
+    },
+    "Summary PDF": "Pre image: Cardiac angiogram (multiple stills). Post image: Cardiac angiogram (multiple stills). Pre report correlation: Not assessed / Not seen. Post report correlation: Not assessed / Not seen. Package alignment: Only post-procedure investigation aligns. STG alignment: Consistent.",
+    "Remarks": ""
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "PMJAY_MH_S_G_R1_2026032310059049",
+      "Package Code": "MC011A"
+    },
+    "1: Image classification": {
+      "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)",
+      "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)"
+    },
+    "2a: Pre-procedure Image description": {
+      "LMCA": "Not assessed / Not seen",
+      "LAD": "Proximal ~ <50>% stenosis, Mid ~ <50>% stenosis, Distal ~ <50>% stenosis",
+      "LCX ": "Proximal ~ Not visualised, Mid ~ Not visualised, Distal ~ Not visualised, OM ~ Not visualised",
+      "RCA": "Not assessed / Not seen"
+    },
+    "2b: Post-procedure Image description": {
+      "LMCA": "Not assessed / Not seen",
+      "LAD": "Proximal ~ normal, Mid ~ <percent>% stenosis, Distal ~ normal",
+      "LCX": "Proximal ~ Not visualised, Mid ~ Not visualised, Distal ~ Not visualised, OM ~ Not visualised",
+      "RCA": "Proximal ~ normal, Mid ~ normal, Distal ~ normal",
+      "Stent Visualization": "Yes"
+    },
+    "3a: Pre-procedure validity of reports": {
+      "Intra: Within report consistency check \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning (2)": "No clear pre-procedure diagnostic angiogram images segregated from the document dossier in this package."
+    },
+    "3a: Post-procedure validity of reports (only inter)": {
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Partially supported",
+      "Reasoning": "Post-procedure reports confirm successful RCA stents (TIMI III flow, 0% residual stenosis) and excellent results, but images lack consistent anatomical side-by-side detail."
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+      "Reasoning": "No explicit pre-procedure angiogram available in the dossier, despite stent visualization present post-procedure showing restored flow.",
+      "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Partially supported",
+      "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Procedure implies MC011A package intent, but critical pre-procedure angiogram is missing, limiting full alignment."
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Pre-procedure investigation date (From written report, or else the radiological image) (DD/MM/YYYY)": "29/03/2007",
+      "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "24/03/2026",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag for one month older documents for pre-procedure investigations  (Yes/ No)": "No",
+      "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Fair - low contrast, text is slightly blurry, partial view"
+    },
+    "Summary PDF": "Pre image: Cardiac angiogram (multiple stills). Post image: Cardiac angiogram (multiple stills). Pre report correlation: Not assessed / Not seen. Post report correlation: Partially supported. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported.",
+    "Remarks": ""
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "PMJAY_MH_S_G_R1_2026032610038286_P",
+      "Package Code": "MC011A"
+    },
+    "1: Image classification": {
+      "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)",
+      "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)"
+    },
+    "2a: Pre-procedure Image description": {
+      "LMCA": "Not visualised",
+      "LAD": "Proximal ~ No disease, Mid ~ <percent>% stenosis, Distal ~ <percent>% stenosis",
+      "LCX ": "Proximal ~ Not visualised, Mid ~ Not visualised, Distal ~ Not visualised, OM ~ Not visualised",
+      "RCA": "Proximal ~ No disease, Mid ~ No disease, Distal ~ No disease"
+    },
+    "2b: Post-procedure Image description": {
+      "LMCA": "Not assessed / Not seen",
+      "LAD": "Proximal ~ normal, Mid ~ <50% stenosis, Distal ~ normal",
+      "LCX": "Proximal ~ normal, Mid ~ normal, Distal ~ normal, OM ~ normal",
+      "RCA": "Not assessed / Not seen",
+      "Stent Visualization": "Yes"
+    },
+    "3a: Pre-procedure validity of reports": {
+      "Intra: Within report consistency check \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Partially supported",
+      "Reasoning (2)": "The official pre-procedure report (**000295** page 1) records **40% stenosis in Mid LAD, 30% stenosis in Diagonal Branch, and 80% stenosis in Prox-Mid LCX, LCX-normal distally**, but images lack distinct segmental documentation to claim as definitive evidence of all the pre-reported findings."
+    },
+    "3a: Post-procedure validity of reports (only inter)": {
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Consistent",
+      "Reasoning": "Both imaging (PFCA_STENT.pdf page 1, 000301 image page 3) and final report (**000287** page 1) confirm stent placement success in LCX via PTCA, with documented zero residual stenosis/TIMI-III flow and no dissection."
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+      "Reasoning": "The dossier includes intra-procedure frames without pre-procedure baseline contrast views or immediate post-stent deployment angiograms showing restored flow; only post-procedure stent visualization equates to ‘showing stent/restored flow’ if interpreted in the admitted procedure report",
+      "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Partially supported",
+      "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Lacks mandatory pre-procedure angiogram comparing and justifies stenting plus summative clear flow data in a separate step"
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Pre-procedure investigation date (From written report, or else the radiological image) (DD/MM/YYYY)": "03/07/1942",
+      "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "27/03/2026",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag for one month older documents for pre-procedure investigations  (Yes/ No)": "No",
+      "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Fair - Slight blur"
+    },
+    "Summary PDF": "Pre image: Cardiac angiogram (multiple stills). Post image: Cardiac angiogram (multiple stills). Pre report correlation: Partially supported. Post report correlation: Consistent. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported.",
+    "Remarks": ""
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "PMJAY_MH_S_G_R1_2026032910015645",
+      "Package Code": "MC011A"
+    },
+    "1: Image classification": {
+      "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)",
+      "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)"
+    },
+    "2a: Pre-procedure Image description": {
+      "LMCA": "Not visualised",
+      "LAD": "Proximal ~ <50% stenosis>, Mid ~ Not visualised, Distal ~ Not visualised",
+      "LCX ": "Proximal ~ Not visualised, Mid ~ Not visualised, Distal ~ Not visualised, OM ~ Not visualised",
+      "RCA": "Proximal ~ Not visualised, Mid ~ Not visualised, Distal ~ Not visualised"
+    },
+    "2b: Post-procedure Image description": {
+      "LMCA": "Not assessed / Not seen",
+      "LAD": "Proximal ~ normal, Mid ~ <percent>% stenosis, Distal ~ <percent>% stenosis",
+      "LCX": "Proximal ~ normal, Mid ~ normal, Distal ~ normal, OM ~ normal",
+      "RCA": "Not assessed / Not seen",
+      "Stent Visualization": "Yes"
+    },
+    "3a: Pre-procedure validity of reports": {
+      "Intra: Within report consistency check \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Partially supported",
+      "Reasoning (2)": "Pre-procedure angiogram reports cite significant stenosis (≥80% in RCA, 95% in proximal LCX), but visualized vessels vary across images without a clear continuum, decreasing yield of definitive evidence in the dossier."
+    },
+    "3a: Post-procedure validity of reports (only inter)": {
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Consistent",
+      "Reasoning": "Post-procedure images verify stent placement in LCX and RCA with signs of successful revascularization, resolving all reported stenotic lesions and confirming TIMI III flow per procedural report."
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+      "Reasoning": "Evidence confirms post-procedurecoronary angiogram with stent visualization, though pre-procedureradiogram is absent.",
+      "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Partially supported",
+      "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Post-procedural confirmation of stent visualization aligns with STG; missing pre-procedure angiogram reduces full compliance."
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Pre-procedure investigation date (From written report, or else the radiological image) (DD/MM/YYYY)": "31/03/1953",
+      "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "31/03/2026",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag for one month older documents for pre-procedure investigations  (Yes/ No)": "No",
+      "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Fair - Partial view, Text overlay from monitor"
+    },
+    "Summary PDF": "Pre image: Cardiac angiogram (multiple stills). Post image: Cardiac angiogram (multiple stills). Pre report correlation: Partially supported. Post report correlation: Consistent. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported.",
+    "Remarks": ""
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "PMJAY_MH_S_G_R2_2026040210048407",
+      "Package Code": "MC011A"
+    },
+    "1: Image classification": {
+      "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)",
+      "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "Cardiac angiogram (multiple stills)"
+    },
+    "2a: Pre-procedure Image description": {
+      "LMCA": "Not assessed / Not seen",
+      "LAD": "Not assessed / Not seen",
+      "LCX ": "Not assessed / Not seen",
+      "RCA": "Not assessed / Not seen"
+    },
+    "2b: Post-procedure Image description": {
+      "LMCA": "Not assessed / Not seen",
+      "LAD": "Not assessed / Not seen",
+      "LCX": "Not assessed / Not seen",
+      "RCA": "Not assessed / Not seen",
+      "Stent Visualization": "Not assessed / Not seen"
+    },
+    "3a: Pre-procedure validity of reports": {
+      "Intra: Within report consistency check \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning (2)": "Not assessed / Not seen"
+    },
+    "3a: Post-procedure validity of reports (only inter)": {
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen"
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Investigation and STG Alignment (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Pre-procedure investigation date (From written report, or else the radiological image) (DD/MM/YYYY)": "04/03/2026",
+      "Post Procedure Investigation Date (From written report, or else the radiological image) (DD/MM/YYYY)": "03/04/2026",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag for one month older documents for pre-procedure investigations  (Yes/ No)": "No",
+      "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Fair - blur, low contrast, partial redaction"
+    },
+    "Summary PDF": "Pre image: Cardiac angiogram (multiple stills). Post image: Cardiac angiogram (multiple stills). Pre report correlation: Not assessed / Not seen. Post report correlation: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen.",
+    "Remarks": ""
+  }
+]

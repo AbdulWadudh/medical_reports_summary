@@ -1,0 +1,512 @@
+[
+  {
+    "Claim details": {
+      "Claim No. ": "MMJAA_UP_2026_R3_2026033010053802",
+      "Package code": "SU007A"
+    },
+    "1: Image classification": {
+      "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "IVP",
+      "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "X ray KUB"
+    },
+    "2a: Pre- Procedure Image description": {
+      "Pelvicalyceal system": "Not assessed / Not seen",
+      "Ureter": "Not assessed / Not seen",
+      "Urinary bladder": "Not assessed / Not seen",
+      "Stone visualisation": "Not assessed / Not seen"
+    },
+    "2b: Post Procedure Image description": {
+      "Any radio opaque shadow or calcification in abdomen region": "Yes",
+      "DJ stent/ PCN tube visualised": "DJ stent visualised on left side"
+    },
+    "3a: Pre-procedure validity of reports": {
+      "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n (Consistent/Partially supported/Unsupported)": "Partially supported",
+      "Reasoning (2)": "Pre-procedure findings in the USG (echogenic foci, renal calculi) support left renal pathology (size 26x15mm), but the}<i> detailed ureteral or stent status is not assessed</i> in the images."
+    },
+    "3b: Post-procedure validity of reports": {
+      "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Unsupported",
+      "Reasoning (2)": "<i>Post-procedure abdominal X-ray</i> shows only a DJ stent in situ but lacks conspicuous radio-opaque shadow matching the USG-reported 26x14mm calculus or ureteral/PCS dilatation from IVP."
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+      "Reasoning": "Only POST-procedure KUB X-ray with DJ stent visualisation is provided; no pre-procedure IVP found",
+      "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Unsupported",
+      "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Missing pre-procedure IVP required by SU007A"
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Pre-procedure investigation date (DD/MM/YYYY)": "",
+      "Post Procedure Investigation Date (DD/MM/YYYY)": "02/04/2026",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag for one month older documents for pre-procedure investigations ": "No",
+      "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Fair - Some image blur"
+    },
+    "Summary PDF": "Pre image: IVP. Post image: X ray KUB. Stone visualisation: Not assessed / Not seen. Post device evidence: DJ stent visualised on left side. Package alignment: Only post-procedure investigation aligns. STG alignment: Unsupported.",
+    "Remarks": ""
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "PMJAY_UK_S_2026_R4_2026040110012509",
+      "Package code": "SU007A"
+    },
+    "1: Image classification": {
+      "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "IVP",
+      "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "X ray KUB"
+    },
+    "2a: Pre- Procedure Image description": {
+      "Pelvicalyceal system": "Not assessed / Not seen",
+      "Ureter": "Not assessed / Not seen",
+      "Urinary bladder": "Not assessed / Not seen",
+      "Stone visualisation": "Not assessed / Not seen"
+    },
+    "2b: Post Procedure Image description": {
+      "Any radio opaque shadow or calcification in abdomen region": "Yes",
+      "DJ stent/ PCN tube visualised": "DJ stent visualised on right side"
+    },
+    "3a: Pre-procedure validity of reports": {
+      "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning (2)": "No pre-procedure investigation (IVP or other) clearly linked to this dossier stage; only intra-procedure IVP (dated 04/03/2026) and post-procedure KUB X-ray were provided."
+    },
+    "3b: Post-procedure validity of reports": {
+      "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Unsupported",
+      "Reasoning (2)": "The post-procedure KUB report contradictory recalls a left-sided DJ stent in contrast to X-ray image observations (and IVP report also documenting left stenting), despite aerosolized findings confirming its presence."
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+      "Reasoning": "Pre-procedure IVP exists but was performed intra-procedure without specified staging or exclusion for pre-procedure suitability.",
+      "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Partially supported",
+      "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Only the POST-procedure KUB X-ray matches the expected investigation (SU007A), though the evidence shows intra-procedural IVP not clearly labeled as pre-proc"
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Pre-procedure investigation date (DD/MM/YYYY)": "31/01/2020",
+      "Post Procedure Investigation Date (DD/MM/YYYY)": "04/04/2026",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag for one month older documents for pre-procedure investigations ": "No",
+      "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Fair - Slight blur, Some light reflections from the lightbox"
+    },
+    "Summary PDF": "Pre image: IVP. Post image: X ray KUB. Stone visualisation: Not assessed / Not seen. Post device evidence: DJ stent visualised on right side. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported.",
+    "Remarks": ""
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "PMJAY_UK_S_2026_R4_2026040210027830",
+      "Package code": "SU007A"
+    },
+    "1: Image classification": {
+      "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "IVP",
+      "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "X ray KUB"
+    },
+    "2a: Pre- Procedure Image description": {
+      "Pelvicalyceal system": "Normal",
+      "Ureter": "Normal",
+      "Urinary bladder": "Normal in size, shape and contour.",
+      "Stone visualisation": "Not seen"
+    },
+    "2b: Post Procedure Image description": {
+      "Any radio opaque shadow or calcification in abdomen region": "Yes",
+      "DJ stent/ PCN tube visualised": "Not seen"
+    },
+    "3a: Pre-procedure validity of reports": {
+      "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n (Consistent/Partially supported/Unsupported)": "Unsupported",
+      "Reasoning (2)": "No clear pre-procedure report exists within the evidence matching the IVUSG and primary imaging; ultrasound evidence provided dates to mid-2020, making correlation irrelevant to this post-procedure claim."
+    },
+    "3b: Post-procedure validity of reports": {
+      "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Partially supported",
+      "Reasoning (2)": "Post-procedure images show stone calculations and hydronephrosis (IVP/USG) but inconsistency persists between the KUB report suggesting 'normal' renal shadows and IVP findings identifying bilateral calculi, requiring further procedural timeline correlation."
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Both pre procedure and post procedure investigations align",
+      "Reasoning": "Valid postmodern USG image and IVP reports exist alongside correctly defined pre/post-procedure studies.",
+      "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Partially supported",
+      "Reason for deviation from STG (to be mapped to PPD and CPD section)": "POST IVP (closest investigator to Su007A assertion) shows verified DJ stent but missing PRE-IVP for definitive baseline assessment and missing POST KUB X-ray standard."
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Pre-procedure investigation date (DD/MM/YYYY)": "04/04/2026",
+      "Post Procedure Investigation Date (DD/MM/YYYY)": "27/03/2026",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag for one month older documents for pre-procedure investigations ": "No",
+      "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Fair - Slightly tilted view, Some text cut off"
+    },
+    "Summary PDF": "Pre image: IVP. Post image: X ray KUB. Stone visualisation: Not seen. Post device evidence: Not seen. Package alignment: Both pre procedure and post procedure investigations align. STG alignment: Partially supported.",
+    "Remarks": ""
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "PMJAY_UK_S_2026_R4_2026040310034128",
+      "Package code": "SU007A"
+    },
+    "1: Image classification": {
+      "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "IVP",
+      "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "X ray KUB"
+    },
+    "2a: Pre- Procedure Image description": {
+      "Pelvicalyceal system": "Not assessed / Not seen",
+      "Ureter": "Not assessed / Not seen",
+      "Urinary bladder": "Not assessed / Not seen",
+      "Stone visualisation": "Not assessed / Not seen"
+    },
+    "2b: Post Procedure Image description": {
+      "Any radio opaque shadow or calcification in abdomen region": "Not assessed / Not seen",
+      "DJ stent/ PCN tube visualised": "Not assessed / Not seen"
+    },
+    "3a: Pre-procedure validity of reports": {
+      "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning (2)": "Not assessed / Not seen"
+    },
+    "3b: Post-procedure validity of reports": {
+      "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+      "Reasoning (2)": "Not assessed / Not seen"
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Pre-procedure investigation date (DD/MM/YYYY)": "",
+      "Post Procedure Investigation Date (DD/MM/YYYY)": "05/04/2026",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag for one month older documents for pre-procedure investigations ": "No",
+      "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Fair - Slight blur"
+    },
+    "Summary PDF": "Pre image: IVP. Post image: X ray KUB. Stone visualisation: Not assessed / Not seen. Post device evidence: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen.",
+    "Remarks": ""
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "PMJAY_UK_S_2026_R4_2026040410043395",
+      "Package code": "SU007A"
+    },
+    "1: Image classification": {
+      "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "IVP",
+      "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "X ray KUB"
+    },
+    "2a: Pre- Procedure Image description": {
+      "Pelvicalyceal system": "Not assessed / Not seen",
+      "Ureter": "Not assessed / Not seen",
+      "Urinary bladder": "Not assessed / Not seen",
+      "Stone visualisation": "Not assessed / Not seen"
+    },
+    "2b: Post Procedure Image description": {
+      "Any radio opaque shadow or calcification in abdomen region": "Not assessed / Not seen",
+      "DJ stent/ PCN tube visualised": "Not assessed / Not seen"
+    },
+    "3a: Pre-procedure validity of reports": {
+      "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning (2)": "Not assessed / Not seen"
+    },
+    "3b: Post-procedure validity of reports": {
+      "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+      "Reasoning (2)": "Not assessed / Not seen"
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Pre-procedure investigation date (DD/MM/YYYY)": "30/03/2026",
+      "Post Procedure Investigation Date (DD/MM/YYYY)": "06/04/2026",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag for one month older documents for pre-procedure investigations ": "No",
+      "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Good"
+    },
+    "Summary PDF": "Pre image: IVP. Post image: X ray KUB. Stone visualisation: Not assessed / Not seen. Post device evidence: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen.",
+    "Remarks": ""
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "PMJAY_UP_S_G_2025_R2_1022259191",
+      "Package code": "SU007A"
+    },
+    "1: Image classification": {
+      "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "IVP",
+      "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "X ray KUB"
+    },
+    "2a: Pre- Procedure Image description": {
+      "Pelvicalyceal system": "Normal",
+      "Ureter": "Normal",
+      "Urinary bladder": "Normal",
+      "Stone visualisation": "Not seen"
+    },
+    "2b: Post Procedure Image description": {
+      "Any radio opaque shadow or calcification in abdomen region": "Yes",
+      "DJ stent/ PCN tube visualised": "DJ stent visualised on left side"
+    },
+    "3a: Pre-procedure validity of reports": {
+      "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n (Consistent/Partially supported/Unsupported)": "Unsupported",
+      "Reasoning (2)": "يسون نشده است به دلیل عدم ترسیم اپاراتی Texte گاردشه در گزارش برخلاف scenes تشریح ت Bezwarری belowیวันที่ منجر می‌شود به presumptive calculus left ureter،"
+    },
+    "3b: Post-procedure validity of reports": {
+      "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Partially supported",
+      "Reasoning (2)": "Not assessed / Not seen"
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+      "Reasoning": "Pre-procedure IVP was present but no clear alignment with standard for pre-DJ stenting/PCN; stray intra-procedure images miss the required ‘true’ pre-procedure IVP. Only post-procedure X-ray KUB aligns definitively.",
+      "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Partially supported",
+      "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Package mandates explicit PRE-IVP (NOT intra) and POST-X-ray-KUB; though POST-KUB validate stent placement, pre-procedure evidence remains misaligned/timing$."
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Pre-procedure investigation date (DD/MM/YYYY)": "23/02/2026",
+      "Post Procedure Investigation Date (DD/MM/YYYY)": "06/04/2026",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag for one month older documents for pre-procedure investigations ": "No",
+      "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Fair - Glare/reflections on the image surface, Text is partially obscured"
+    },
+    "Summary PDF": "Pre image: IVP. Post image: X ray KUB. Stone visualisation: Not seen. Post device evidence: DJ stent visualised on left side. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported.",
+    "Remarks": ""
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "PMJAY_UP_S_G_2025_R2_2026032810029675",
+      "Package code": "SU007A"
+    },
+    "1: Image classification": {
+      "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "IVP",
+      "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "X ray KUB"
+    },
+    "2a: Pre- Procedure Image description": {
+      "Pelvicalyceal system": "Not assessed / Not seen",
+      "Ureter": "Not assessed / Not seen",
+      "Urinary bladder": "Not assessed / Not seen",
+      "Stone visualisation": "Not assessed / Not seen"
+    },
+    "2b: Post Procedure Image description": {
+      "Any radio opaque shadow or calcification in abdomen region": "Not assessed / Not seen",
+      "DJ stent/ PCN tube visualised": "Not assessed / Not seen"
+    },
+    "3a: Pre-procedure validity of reports": {
+      "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning (2)": "Not assessed / Not seen"
+    },
+    "3b: Post-procedure validity of reports": {
+      "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+      "Reasoning (2)": "Not assessed / Not seen"
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Pre-procedure investigation date (DD/MM/YYYY)": "",
+      "Post Procedure Investigation Date (DD/MM/YYYY)": "31/03/2026",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag for one month older documents for pre-procedure investigations ": "No",
+      "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Good"
+    },
+    "Summary PDF": "Pre image: IVP. Post image: X ray KUB. Stone visualisation: Not assessed / Not seen. Post device evidence: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen.",
+    "Remarks": ""
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "PMJAY_UP_S_G_2025_R2_2026032810042482",
+      "Package code": "SU007A"
+    },
+    "1: Image classification": {
+      "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "IVP",
+      "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "X ray KUB"
+    },
+    "2a: Pre- Procedure Image description": {
+      "Pelvicalyceal system": "Not assessed / Not seen",
+      "Ureter": "Not assessed / Not seen",
+      "Urinary bladder": "Not assessed / Not seen",
+      "Stone visualisation": "Not assessed / Not seen"
+    },
+    "2b: Post Procedure Image description": {
+      "Any radio opaque shadow or calcification in abdomen region": "Not assessed / Not seen",
+      "DJ stent/ PCN tube visualised": "Not assessed / Not seen"
+    },
+    "3a: Pre-procedure validity of reports": {
+      "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning (2)": "Not assessed / Not seen"
+    },
+    "3b: Post-procedure validity of reports": {
+      "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+      "Reasoning (2)": "Not assessed / Not seen"
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Pre-procedure investigation date (DD/MM/YYYY)": "",
+      "Post Procedure Investigation Date (DD/MM/YYYY)": "31/03/2026",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag for one month older documents for pre-procedure investigations ": "No",
+      "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Good"
+    },
+    "Summary PDF": "Pre image: IVP. Post image: X ray KUB. Stone visualisation: Not assessed / Not seen. Post device evidence: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen.",
+    "Remarks": ""
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "PMJAY_UP_S_G_2026_R3_2026032910017453",
+      "Package code": "SU007A"
+    },
+    "1: Image classification": {
+      "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "IVP",
+      "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "X ray KUB"
+    },
+    "2a: Pre- Procedure Image description": {
+      "Pelvicalyceal system": "Not assessed / Not seen",
+      "Ureter": "Not assessed / Not seen",
+      "Urinary bladder": "Not assessed / Not seen",
+      "Stone visualisation": "Not assessed / Not seen"
+    },
+    "2b: Post Procedure Image description": {
+      "Any radio opaque shadow or calcification in abdomen region": "Not assessed / Not seen",
+      "DJ stent/ PCN tube visualised": "Not assessed / Not seen"
+    },
+    "3a: Pre-procedure validity of reports": {
+      "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning (2)": "Not assessed / Not seen"
+    },
+    "3b: Post-procedure validity of reports": {
+      "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+      "Reasoning (2)": "Not assessed / Not seen"
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Not assessed / Not seen"
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Pre-procedure investigation date (DD/MM/YYYY)": "02/04/2026",
+      "Post Procedure Investigation Date (DD/MM/YYYY)": "02/04/2026",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag for one month older documents for pre-procedure investigations ": "No",
+      "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Fair - blur, partial view"
+    },
+    "Summary PDF": "Pre image: IVP. Post image: X ray KUB. Stone visualisation: Not assessed / Not seen. Post device evidence: Not assessed / Not seen. Package alignment: Not assessed / Not seen. STG alignment: Not assessed / Not seen.",
+    "Remarks": ""
+  },
+  {
+    "Claim details": {
+      "Claim No. ": "PMJAY_UP_S_G_2026_R3_2026040410017201",
+      "Package code": "SU007A"
+    },
+    "1: Image classification": {
+      "Type of radiological image in pre-auth/ pre-procedure stage  (mention absent if no image)": "IVP",
+      "Type of radiological image in cclaim submission/ post-procedure stage  (mention absent if no image)": "X ray KUB"
+    },
+    "2a: Pre- Procedure Image description": {
+      "Pelvicalyceal system": "Dilated with maintained cupping of calyces",
+      "Ureter": "Right upper ureter is mildly dilated. And delayed excretion on the left ureter.",
+      "Urinary bladder": "Distended and normally opacified by contrast. No obvious irregularity of wall / filling defect seen.",
+      "Stone visualisation": "Visualised on both sides"
+    },
+    "2b: Post Procedure Image description": {
+      "Any radio opaque shadow or calcification in abdomen region": "Yes",
+      "DJ stent/ PCN tube visualised": "DJ stent visualised on right side"
+    },
+    "3a: Pre-procedure validity of reports": {
+      "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n (Consistent/Partially supported/Unsupported)": "Partially supported",
+      "Reasoning (2)": "Pre-procedure anatomical staging is inconsistently assessed/visible across IVP reports; stones and calyceal changes are documented but are not entirely mirrored in all comparative image pages."
+    },
+    "3b: Post-procedure validity of reports": {
+      "Intra: Within report consistency check\n (Consistent/Partially supported/Unsupported)_Post": "Not assessed / Not seen",
+      "Reasoning": "Not assessed / Not seen",
+      "Inter: Image vs Written Report Correlation \n(Consistent/Partially supported/Unsupported)_Post": "Consistent",
+      "Reasoning (2)": "Post-procedure KUB X-ray and report confirm the presence and placement of a DJ stent on the right side, without abnormal radio-opaque shadows in urinary structures."
+    },
+    "3: Procedure code and STG alignment": {
+      "Claim and Package Alignment \n(Both pre procedure and post procedure investigations align/ Only pre-procedure investigation aligns/ Only post-procedure investigtaion aligns/ None of the investigations align)": "Only post-procedure investigation aligns",
+      "Reasoning": "No valid pre-procedure IVP (staging aside,  unconfirmed renditometry) reported for alignment; valid POST X-ray KUB aligns with package.",
+      "Investigation and STG Alignment \n(Consistent/Partially supported/Unsupported)": "Partially supported",
+      "Reason for deviation from STG (to be mapped to PPD and CPD section)": "Correct post-op X-ray (KUB) with DJ stent visualisation documented, but pre-procedure IVP screening missing despite expectations."
+    },
+    "4: Stage awareness": {
+      "Admission Date (DD/MM/YYYY)": "",
+      "Pre-procedure investigation date (DD/MM/YYYY)": "04/03/2026",
+      "Post Procedure Investigation Date (DD/MM/YYYY)": "04/06/2026",
+      "Discharge Date (DD/MM/YYYY)": "",
+      "Flag for one month older documents for pre-procedure investigations ": "No",
+      "Flag before admssion date or after discharge date documents for post-procedure investigations  (Yes - outside the window/ No - within the window)": "No"
+    },
+    "5. Quality": {
+      "Comment on image quality/ usability": "Fair - minor blur"
+    },
+    "Summary PDF": "Pre image: IVP. Post image: X ray KUB. Stone visualisation: Visualised on both sides. Post device evidence: DJ stent visualised on right side. Package alignment: Only post-procedure investigation aligns. STG alignment: Partially supported.",
+    "Remarks": ""
+  }
+]
