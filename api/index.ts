@@ -4,7 +4,7 @@ import { join } from "path";
 import { existsSync, mkdirSync, rmSync } from "fs";
 import multer from "multer";
 import { v4 as uuidv4 } from "uuid";
-import { processClaim } from "./generic-processor";
+import { processClaim } from "./generic-processor.js";
 
 const app = express();
 app.use(cors());
